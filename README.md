@@ -23,7 +23,7 @@ and non-uniform sampling of content to obtain balanced annotations.
 We hope DWIE will help in promoting research in multi-task information extraction. 
 We will be happy to discuss our work, and are open for collaboration in the future.
 
-### Paper
+<!--### Paper
 For more details on DWIE, please refer to [our paper's preprint](TODO), currently under review for Information Processing and Management.
 If you use the dataset or our implementations, please cite our paper as 
 ```
@@ -34,7 +34,7 @@ If you use the dataset or our implementations, please cite our paper as
   year={todo},
   url={todo arxiv url}
 }
-```
+``` -->
 
 ### Dataset Download and Preprocessing
 Publicly available DWIE annotations are located in the `data/annos` directory. 
