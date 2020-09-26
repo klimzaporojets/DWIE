@@ -1,0 +1,4037 @@
+{
+    "id": "DW_40663341",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 3,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 15,
+            "end": 27,
+            "text": "Donald Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 63,
+            "text": "Baltimore Ravens",
+            "concept": 1,
+            "candidates": [
+                "Baltimore_Ravens",
+                "2012_Baltimore_Ravens_season",
+                "2017_Baltimore_Ravens_season",
+                "2016_Baltimore_Ravens_season",
+                "2014_Baltimore_Ravens_season",
+                "2015_Baltimore_Ravens_season",
+                "2011_Baltimore_Ravens_season",
+                "2013_Baltimore_Ravens_season",
+                "2010_Baltimore_Ravens_season",
+                "2018_Baltimore_Ravens_season",
+                "2000_Baltimore_Ravens_season",
+                "2009_Baltimore_Ravens_season",
+                "2007_Baltimore_Ravens_season",
+                "2008_Baltimore_Ravens_season",
+                "2006_Baltimore_Ravens_season",
+                "2005_Baltimore_Ravens_season"
+            ],
+            "scores": [
+                0.7310966449674512,
+                0.023368385912201636,
+                0.022033049574361543,
+                0.02086463027875146,
+                0.019362376898681356,
+                0.017192455349691202,
+                0.014354865631781006,
+                0.01385411450509097,
+                0.012351861125020864,
+                0.012184944082790854,
+                0.012018027040560842,
+                0.011350358871640794,
+                0.010181939576030712,
+                0.00984810549157069,
+                0.007678183942580538,
+                0.007344349858120514
+            ]
+        },
+        {
+            "begin": 68,
+            "end": 89,
+            "text": "Jacksonsville Jaguars",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 145,
+            "end": 150,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 279,
+            "end": 303,
+            "text": "National Football League",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "National_Football_League_(India)",
+                "2007_NFL_season",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "National_Football_League_(Fiji)",
+                "2008_NFL_season",
+                "Russian_Football_National_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(1902)",
+                "NFL_on_NBC",
+                "2011_NFL_season",
+                "Fox_NFL",
+                "NFL_on_CBS",
+                "2010_NFL_season"
+            ],
+            "scores": [
+                0.954130270033106,
+                0.029436400622232857,
+                0.005584141039447967,
+                0.0018746759203861034,
+                0.0016353555901240477,
+                0.0011168282078895936,
+                0.0008376211559171952,
+                0.0005983008256551394,
+                0.0003988672171034263,
+                0.00035898049539308366,
+                0.00035898049539308366,
+                0.00031909377368274103,
+                0.0002792070519723984,
+                0.0002792070519723984,
+                0.00023932033026205577,
+                0.00019943360855171314
+            ]
+        },
+        {
+            "begin": 305,
+            "end": 308,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 326,
+            "end": 335,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 336,
+            "end": 348,
+            "text": "Donald Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 416,
+            "end": 418,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 458,
+            "end": 464,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 484,
+            "end": 500,
+            "text": "Baltimore Ravens",
+            "concept": 1,
+            "candidates": [
+                "Baltimore_Ravens",
+                "2012_Baltimore_Ravens_season",
+                "2017_Baltimore_Ravens_season",
+                "2016_Baltimore_Ravens_season",
+                "2014_Baltimore_Ravens_season",
+                "2015_Baltimore_Ravens_season",
+                "2011_Baltimore_Ravens_season",
+                "2013_Baltimore_Ravens_season",
+                "2010_Baltimore_Ravens_season",
+                "2018_Baltimore_Ravens_season",
+                "2000_Baltimore_Ravens_season",
+                "2009_Baltimore_Ravens_season",
+                "2007_Baltimore_Ravens_season",
+                "2008_Baltimore_Ravens_season",
+                "2006_Baltimore_Ravens_season",
+                "2005_Baltimore_Ravens_season"
+            ],
+            "scores": [
+                0.7310966449674512,
+                0.023368385912201636,
+                0.022033049574361543,
+                0.02086463027875146,
+                0.019362376898681356,
+                0.017192455349691202,
+                0.014354865631781006,
+                0.01385411450509097,
+                0.012351861125020864,
+                0.012184944082790854,
+                0.012018027040560842,
+                0.011350358871640794,
+                0.010181939576030712,
+                0.00984810549157069,
+                0.007678183942580538,
+                0.007344349858120514
+            ]
+        },
+        {
+            "begin": 505,
+            "end": 526,
+            "text": "Jacksonsville Jaguars",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 601,
+            "end": 616,
+            "text": "Wembley Stadium",
+            "concept": 10,
+            "candidates": [
+                "Wembley_Stadium_(1923)",
+                "Wembley_Stadium",
+                "Wembley_Stadium_railway_station",
+                "Wembley_Greyhounds",
+                "Stadium",
+                "Wembley_Exhibition_railway_station",
+                "HAARP_(album)"
+            ],
+            "scores": [
+                0.5297735532569192,
+                0.46757058987978756,
+                0.0016773832820799553,
+                0.0004193458205199888,
+                0.0002795638803466592,
+                0.0001397819401733296,
+                0.0001397819401733296
+            ]
+        },
+        {
+            "begin": 620,
+            "end": 626,
+            "text": "London",
+            "concept": 11,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 628,
+            "end": 648,
+            "text": "Jacksonville Jaguars",
+            "concept": 2,
+            "candidates": [
+                "Jacksonville_Jaguars",
+                "2017_Jacksonville_Jaguars_season",
+                "2016_Jacksonville_Jaguars_season",
+                "2015_Jacksonville_Jaguars_season",
+                "2014_Jacksonville_Jaguars_season",
+                "2013_Jacksonville_Jaguars_season",
+                "2018_Jacksonville_Jaguars_season",
+                "2007_Jacksonville_Jaguars_season",
+                "2012_Jacksonville_Jaguars_season",
+                "2011_Jacksonville_Jaguars_season",
+                "1999_Jacksonville_Jaguars_season",
+                "1995_Jacksonville_Jaguars_season",
+                "2009_Jacksonville_Jaguars_season",
+                "2010_Jacksonville_Jaguars_season",
+                "1996_Jacksonville_Jaguars_season",
+                "2005_Jacksonville_Jaguars_season"
+            ],
+            "scores": [
+                0.7393209200438116,
+                0.029207740051113547,
+                0.022635998539612998,
+                0.018072289156626505,
+                0.016976998904709748,
+                0.014421321650237313,
+                0.013143483023001095,
+                0.012960934647681636,
+                0.012778386272362175,
+                0.009309967141292442,
+                0.009309967141292442,
+                0.009309967141292442,
+                0.008397225264695144,
+                0.008214676889375685,
+                0.008032128514056224,
+                0.007484483388097846
+            ]
+        },
+        {
+            "begin": 650,
+            "end": 655,
+            "text": "owner",
+            "concept": 12
+        },
+        {
+            "begin": 656,
+            "end": 667,
+            "text": "Shahid Khan",
+            "concept": 13,
+            "candidates": [
+                "Shahid_Khan",
+                "Naughty_Boy",
+                "Shahid_Khan_(actor)"
+            ],
+            "scores": [
+                0.4861878453038674,
+                0.3701657458563536,
+                0.143646408839779
+            ]
+        },
+        {
+            "begin": 691,
+            "end": 710,
+            "text": "one million dollars",
+            "concept": 14
+        },
+        {
+            "begin": 712,
+            "end": 725,
+            "text": "840,000 euros",
+            "concept": 15
+        },
+        {
+            "begin": 734,
+            "end": 739,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 837,
+            "end": 839,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 881,
+            "end": 887,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 936,
+            "end": 941,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 992,
+            "end": 998,
+            "text": "singer",
+            "concept": 16
+        },
+        {
+            "begin": 999,
+            "end": 1011,
+            "text": "Rico LaVelle",
+            "concept": 17,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1067,
+            "end": 1087,
+            "text": "Star Spangled Banner",
+            "concept": 18,
+            "candidates": [
+                "The_Star-Spangled_Banner",
+                "Star-Spangled_Banner_(flag)",
+                "Performances_and_adaptations_of_The_Star-Spangled_Banner"
+            ],
+            "scores": [
+                0.9288702928870293,
+                0.06694560669456066,
+                0.0041841004184100415
+            ]
+        },
+        {
+            "begin": 1118,
+            "end": 1131,
+            "text": "Detriot Lions",
+            "concept": 19,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1136,
+            "end": 1151,
+            "text": "Atlanta Falcons",
+            "concept": 20,
+            "candidates": [
+                "Atlanta_Falcons",
+                "2016_Atlanta_Falcons_season",
+                "2017_Atlanta_Falcons_season",
+                "2014_Atlanta_Falcons_season",
+                "2015_Atlanta_Falcons_season",
+                "2012_Atlanta_Falcons_season",
+                "2010_Atlanta_Falcons_season",
+                "2018_Atlanta_Falcons_season",
+                "2008_Atlanta_Falcons_season",
+                "2011_Atlanta_Falcons_season",
+                "2007_Atlanta_Falcons_season",
+                "1998_Atlanta_Falcons_season",
+                "2013_Atlanta_Falcons_season",
+                "2009_Atlanta_Falcons_season",
+                "2004_Atlanta_Falcons_season",
+                "1999_Atlanta_Falcons_season"
+            ],
+            "scores": [
+                0.7170433720219914,
+                0.02981062919975565,
+                0.0177153329260843,
+                0.013439218081857055,
+                0.01270616982284667,
+                0.01001832620647526,
+                0.008918753817959682,
+                0.008430054978619426,
+                0.008185705558949298,
+                0.007819181429444105,
+                0.007452657299938913,
+                0.006719609040928528,
+                0.006353084911423335,
+                0.005864386072083079,
+                0.004886988393402566,
+                0.004886988393402566
+            ]
+        },
+        {
+            "begin": 1203,
+            "end": 1217,
+            "text": "Sunday morning",
+            "concept": 21
+        },
+        {
+            "begin": 1241,
+            "end": 1244,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 1383,
+            "end": 1388,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1401,
+            "end": 1404,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 1469,
+            "end": 1485,
+            "text": "Flag and Country",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1543,
+            "end": 1546,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 1671,
+            "end": 1673,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1869,
+            "end": 1886,
+            "text": "African Americans",
+            "concept": 23,
+            "candidates": [
+                "African_Americans",
+                "Race_and_ethnicity_in_the_United_States_Census",
+                "African_Americans_in_Omaha,_Nebraska",
+                "Great_Migration_(African_American)",
+                "Black_people",
+                "African_Americans_in_Maryland",
+                "Military_history_of_African_Americans_in_the_American_Civil_War",
+                "Military_history_of_African_Americans",
+                "Free_Negro",
+                "African-American_culture",
+                "African_Americans_in_the_Revolutionary_War",
+                "Civil_rights_movement_(1896\u20131954)",
+                "Civil_rights_movement_(1865\u20131896)",
+                "African-American_history",
+                "1st_Kansas_Colored_Volunteer_Infantry_Regiment",
+                "Black_Mormons"
+            ],
+            "scores": [
+                0.9819931698230363,
+                0.006519714374417882,
+                0.002173238124805961,
+                0.0009313877677739833,
+                0.0009313877677739833,
+                0.0009313877677739833,
+                0.0006209251785159888,
+                0.0006209251785159888,
+                0.0006209251785159888,
+                0.0006209251785159888,
+                0.0006209251785159888,
+                0.0003104625892579944,
+                0.0003104625892579944,
+                0.0003104625892579944,
+                0.0003104625892579944,
+                0.0003104625892579944
+            ]
+        },
+        {
+            "begin": 1888,
+            "end": 1893,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1983,
+            "end": 1988,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 2001,
+            "end": 2003,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2035,
+            "end": 2045,
+            "text": "Republican",
+            "concept": 24,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Republican_Party_of_Wisconsin",
+                "Republican_Party_of_Minnesota",
+                "Ohio_Republican_Party",
+                "Republicanism",
+                "Irish_republicanism",
+                "California_Republican_Party",
+                "North_Dakota_Republican_Party",
+                "Maine_Republican_Party",
+                "Republican_Party_of_Iowa",
+                "Second_Spanish_Republic",
+                "Republic",
+                "Democratic-Republican_Party",
+                "Oregon_Republican_Party",
+                "Vermont_Republican_Party",
+                "Oklahoma_Republican_Party"
+            ],
+            "scores": [
+                0.8884245987399382,
+                0.010770451711125147,
+                0.010414136015418752,
+                0.009895858639845812,
+                0.007676983625674165,
+                0.006219328506875273,
+                0.006105955330968693,
+                0.006008778323048767,
+                0.004696888716129764,
+                0.0037737071408904654,
+                0.003725118636930502,
+                0.0034011952771974153,
+                0.003223037429344217,
+                0.0031420565894109452,
+                0.002186482678198338,
+                0.0018301669824919424
+            ]
+        },
+        {
+            "begin": 2055,
+            "end": 2062,
+            "text": "Alabama",
+            "concept": 25,
+            "candidates": [
+                "Alabama",
+                "Alabama_Crimson_Tide_football",
+                "Alabama_(American_band)",
+                "University_of_Alabama",
+                "Alabama_Crimson_Tide_men's_basketball",
+                "List_of_United_States_Senators_from_Alabama",
+                "Alabama_Crimson_Tide",
+                "Miss_Alabama",
+                "List_of_United_States_Representatives_from_Alabama",
+                "Alabama_Crimson_Tide_baseball",
+                "2009_Alabama_Crimson_Tide_football_team",
+                "2015_Alabama_Crimson_Tide_football_team",
+                "Miss_Alabama_USA",
+                "2016_Alabama_Crimson_Tide_football_team",
+                "2012_Alabama_Crimson_Tide_football_team",
+                "2014_Alabama_Crimson_Tide_football_team"
+            ],
+            "scores": [
+                0.63636798088411,
+                0.07904420549581839,
+                0.03655913978494624,
+                0.02666666666666667,
+                0.02117084826762246,
+                0.012855436081242533,
+                0.008984468339307048,
+                0.007598566308243728,
+                0.007359617682198327,
+                0.006690561529271207,
+                0.0052568697729988055,
+                0.005161290322580645,
+                0.005065710872162485,
+                0.004348864994026284,
+                0.0042532855436081245,
+                0.003966547192353644
+            ]
+        },
+        {
+            "begin": 2066,
+            "end": 2072,
+            "text": "Friday",
+            "concept": 26
+        },
+        {
+            "begin": 2111,
+            "end": 2114,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 2251,
+            "end": 2254,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 2374,
+            "end": 2379,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 2443,
+            "end": 2456,
+            "text": "Stephen Curry",
+            "concept": 27,
+            "candidates": [
+                "Stephen_Curry",
+                "Stephen_Curry_(comedian)",
+                "Steve_Curry"
+            ],
+            "scores": [
+                0.9208480565371024,
+                0.0784452296819788,
+                0.0007067137809187279
+            ]
+        },
+        {
+            "begin": 2477,
+            "end": 2487,
+            "text": "California",
+            "concept": 28,
+            "candidates": [
+                "California",
+                "California_Golden_Bears_football",
+                "California_Golden_Bears",
+                "California_Golden_Bears_men's_basketball",
+                "University_of_California,_Berkeley",
+                "List_of_United_States_Senators_from_California",
+                "California_wine",
+                "List_of_United_States_Representatives_from_California",
+                "Miss_California",
+                "Miss_California_USA",
+                "University_of_California",
+                "California_(Blink-182_album)",
+                "California_Trail",
+                "California_Golden_Bears_men's_water_polo",
+                "Miss_California_Teen_USA",
+                "California_Golden_Bears_men's_soccer"
+            ],
+            "scores": [
+                0.9232689026408943,
+                0.009078870298214786,
+                0.004966001986400795,
+                0.004927801971120789,
+                0.0032088012835205133,
+                0.002737667761733771,
+                0.0025976010390404156,
+                0.002533934346907072,
+                0.0021264675172536734,
+                0.001846334071866962,
+                0.0011842004736801895,
+                0.001031400412560165,
+                0.0010059337357068276,
+                0.000904067028293478,
+                0.0008531336745868031,
+                0.0007767336440267909
+            ]
+        },
+        {
+            "begin": 2490,
+            "end": 2511,
+            "text": "Golden State Warriors",
+            "concept": 29,
+            "candidates": [
+                "Golden_State_Warriors",
+                "2015\u201316_Golden_State_Warriors_season",
+                "2017\u201318_Golden_State_Warriors_season",
+                "2014\u201315_Golden_State_Warriors_season",
+                "2016\u201317_Golden_State_Warriors_season",
+                "1993\u201394_Golden_State_Warriors_season",
+                "2009\u201310_Golden_State_Warriors_season",
+                "1996\u201397_Golden_State_Warriors_season",
+                "2006\u201307_Golden_State_Warriors_season",
+                "1974\u201375_Golden_State_Warriors_season",
+                "1990\u201391_Golden_State_Warriors_season",
+                "1997\u201398_Golden_State_Warriors_season",
+                "2008\u201309_Golden_State_Warriors_season",
+                "1999\u20132000_Golden_State_Warriors_season",
+                "2000\u201301_Golden_State_Warriors_season",
+                "2012\u201313_Golden_State_Warriors_season"
+            ],
+            "scores": [
+                0.8003802281368821,
+                0.012167300380228136,
+                0.009695817490494297,
+                0.009505703422053232,
+                0.009315589353612166,
+                0.00532319391634981,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.00494296577946768,
+                0.00494296577946768,
+                0.00494296577946768,
+                0.004752851711026616,
+                0.004752851711026616,
+                0.004752851711026616
+            ]
+        },
+        {
+            "begin": 2568,
+            "end": 2579,
+            "text": "White House",
+            "concept": 30,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 2603,
+            "end": 2634,
+            "text": "National Basketball Association",
+            "concept": 31,
+            "candidates": [
+                "National_Basketball_Association",
+                "2007\u201308_NBA_season",
+                "NBA_on_NBC",
+                "2006\u201307_NBA_season",
+                "NBA_on_CBS",
+                "NBA_Rookie_of_the_Year_Award",
+                "List_of_National_Basketball_Association_single-game_assists_leaders",
+                "NBA_on_ABC",
+                "NBA_draft",
+                "NBA_playoffs"
+            ],
+            "scores": [
+                0.9959538438483441,
+                0.0011988610819721264,
+                0.0008991458114790948,
+                0.0007492881762325791,
+                0.0002997152704930316,
+                0.0002997152704930316,
+                0.0001498576352465158,
+                0.0001498576352465158,
+                0.0001498576352465158,
+                0.0001498576352465158
+            ]
+        },
+        {
+            "begin": 2689,
+            "end": 2708,
+            "text": "San Francisco 49ers",
+            "concept": 32,
+            "candidates": [
+                "San_Francisco_49ers",
+                "2017_San_Francisco_49ers_season",
+                "2012_San_Francisco_49ers_season",
+                "2013_San_Francisco_49ers_season",
+                "2015_San_Francisco_49ers_season",
+                "2011_San_Francisco_49ers_season",
+                "2014_San_Francisco_49ers_season",
+                "2016_San_Francisco_49ers_season",
+                "2018_San_Francisco_49ers_season",
+                "2007_San_Francisco_49ers_season",
+                "2010_San_Francisco_49ers_season",
+                "2009_San_Francisco_49ers_season",
+                "1989_San_Francisco_49ers_season",
+                "2005_San_Francisco_49ers_season",
+                "1994_San_Francisco_49ers_season",
+                "2006_San_Francisco_49ers_season"
+            ],
+            "scores": [
+                0.7490949596212754,
+                0.011695906432748537,
+                0.01113895850737956,
+                0.010303536619326092,
+                0.009839413348185277,
+                0.009839413348185277,
+                0.009375290077044462,
+                0.00900399146013181,
+                0.006404901141743247,
+                0.005476654599461617,
+                0.005198180636777128,
+                0.005198180636777128,
+                0.004826882019864476,
+                0.004455583402951824,
+                0.004455583402951824,
+                0.004177109440267335
+            ]
+        },
+        {
+            "begin": 2709,
+            "end": 2720,
+            "text": "quarterback",
+            "concept": 33
+        },
+        {
+            "begin": 2721,
+            "end": 2737,
+            "text": "Colin Kaepernick",
+            "concept": 4,
+            "candidates": [
+                "Colin_Kaepernick"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2782,
+            "end": 2786,
+            "text": "2016",
+            "concept": 34
+        },
+        {
+            "begin": 2788,
+            "end": 2798,
+            "text": "Kaepernick",
+            "concept": 4,
+            "candidates": [
+                "Colin_Kaepernick"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2941,
+            "end": 2943,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2954,
+            "end": 2964,
+            "text": "Kaepernick",
+            "concept": 4,
+            "candidates": [
+                "Colin_Kaepernick"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3049,
+            "end": 3052,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 3061,
+            "end": 3064,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 3082,
+            "end": 3087,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 3096,
+            "end": 3101,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 3130,
+            "end": 3133,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 3176,
+            "end": 3181,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 3192,
+            "end": 3198,
+            "text": "Ravens",
+            "concept": 1,
+            "candidates": [
+                "Raven",
+                "Baltimore_Ravens",
+                "Common_raven",
+                "Ravens_(film)",
+                "Carleton_Ravens",
+                "2012_Baltimore_Ravens_season",
+                "2014_Baltimore_Ravens_season",
+                "St._George_Ravens",
+                "2013_Baltimore_Ravens_season",
+                "Franklin_Pierce_Ravens",
+                "2016_Baltimore_Ravens_season",
+                "2017_Baltimore_Ravens_season",
+                "2000_Baltimore_Ravens_season",
+                "2015_Baltimore_Ravens_season",
+                "2008_Baltimore_Ravens_season",
+                "Raven_(wrestler)"
+            ],
+            "scores": [
+                0.5697969543147208,
+                0.14213197969543148,
+                0.05583756345177665,
+                0.02284263959390863,
+                0.021573604060913704,
+                0.01903553299492386,
+                0.017766497461928935,
+                0.013959390862944163,
+                0.011421319796954314,
+                0.01015228426395939,
+                0.008883248730964468,
+                0.007614213197969543,
+                0.007614213197969543,
+                0.007614213197969543,
+                0.006345177664974619,
+                0.006345177664974619
+            ]
+        },
+        {
+            "begin": 3199,
+            "end": 3204,
+            "text": "owner",
+            "concept": 12
+        },
+        {
+            "begin": 3205,
+            "end": 3220,
+            "text": "Steve Bisciotti",
+            "concept": 35,
+            "candidates": [
+                "Steve_Bisciotti"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3304,
+            "end": 3316,
+            "text": "Robert Kraft",
+            "concept": 5,
+            "candidates": [
+                "Robert_Kraft",
+                "Robert_Kraft_(composer)",
+                "Robert_Kraft_(astronomer)"
+            ],
+            "scores": [
+                0.8375,
+                0.11666666666666667,
+                0.04583333333333333
+            ]
+        },
+        {
+            "begin": 3335,
+            "end": 3345,
+            "text": "Super Bowl",
+            "concept": 36,
+            "candidates": [
+                "Super_Bowl",
+                "List_of_Super_Bowl_champions",
+                "Super_Bowl_XLIV",
+                "Super_Bowl_XLI",
+                "Super_Bowl_LI",
+                "Super_Bowl_XLVIII",
+                "Super_Bowl_XLV",
+                "Super_Bowl_I",
+                "Super_Bowl_XLIII",
+                "Super_Bowl_XLIX",
+                "Super_Bowl_XLVII",
+                "Super_Bowl_XXXVII",
+                "Super_Bowl_XXXV",
+                "Super_Bowl_XIV",
+                "Super_Bowl_50",
+                "Super_Bowl_XL"
+            ],
+            "scores": [
+                0.8776689274051745,
+                0.006279829188646069,
+                0.006028636021100226,
+                0.005777442853554383,
+                0.0047726701833710125,
+                0.0047726701833710125,
+                0.00452147701582517,
+                0.004270283848279327,
+                0.004019090680733484,
+                0.0037678975131876413,
+                0.0037678975131876413,
+                0.0037678975131876413,
+                0.0037678975131876413,
+                0.003265511178095956,
+                0.003014318010550113,
+                0.003014318010550113
+            ]
+        },
+        {
+            "begin": 3346,
+            "end": 3354,
+            "text": "champion",
+            "concept": 37
+        },
+        {
+            "begin": 3355,
+            "end": 3375,
+            "text": "New England Patriots",
+            "concept": 38,
+            "candidates": [
+                "New_England_Patriots",
+                "2016_New_England_Patriots_season",
+                "2017_New_England_Patriots_season",
+                "2014_New_England_Patriots_season",
+                "2015_New_England_Patriots_season",
+                "2011_New_England_Patriots_season",
+                "2007_New_England_Patriots_season",
+                "2012_New_England_Patriots_season",
+                "2013_New_England_Patriots_season",
+                "2010_New_England_Patriots_season",
+                "2018_New_England_Patriots_season",
+                "2009_New_England_Patriots_season",
+                "2008_New_England_Patriots_season",
+                "2003_New_England_Patriots_season",
+                "1996_New_England_Patriots_season",
+                "2004_New_England_Patriots_season"
+            ],
+            "scores": [
+                0.7345783252210192,
+                0.024138273567100427,
+                0.019270885070030795,
+                0.015893513459819212,
+                0.0155955100824476,
+                0.011820800635740538,
+                0.011324128340121187,
+                0.010529452667130228,
+                0.010032780371510877,
+                0.007748087811661865,
+                0.007450084434290256,
+                0.006655408761299295,
+                0.0060594020065560745,
+                0.005960067547432204,
+                0.005960067547432204,
+                0.005662064170060594
+            ]
+        },
+        {
+            "begin": 3407,
+            "end": 3412,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 3437,
+            "end": 3443,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 3507,
+            "end": 3514,
+            "text": "Alabama",
+            "concept": 25,
+            "candidates": [
+                "Alabama",
+                "Alabama_Crimson_Tide_football",
+                "Alabama_(American_band)",
+                "University_of_Alabama",
+                "Alabama_Crimson_Tide_men's_basketball",
+                "List_of_United_States_Senators_from_Alabama",
+                "Alabama_Crimson_Tide",
+                "Miss_Alabama",
+                "List_of_United_States_Representatives_from_Alabama",
+                "Alabama_Crimson_Tide_baseball",
+                "2009_Alabama_Crimson_Tide_football_team",
+                "2015_Alabama_Crimson_Tide_football_team",
+                "Miss_Alabama_USA",
+                "2016_Alabama_Crimson_Tide_football_team",
+                "2012_Alabama_Crimson_Tide_football_team",
+                "2014_Alabama_Crimson_Tide_football_team"
+            ],
+            "scores": [
+                0.63636798088411,
+                0.07904420549581839,
+                0.03655913978494624,
+                0.02666666666666667,
+                0.02117084826762246,
+                0.012855436081242533,
+                0.008984468339307048,
+                0.007598566308243728,
+                0.007359617682198327,
+                0.006690561529271207,
+                0.0052568697729988055,
+                0.005161290322580645,
+                0.005065710872162485,
+                0.004348864994026284,
+                0.0042532855436081245,
+                0.003966547192353644
+            ]
+        },
+        {
+            "begin": 3516,
+            "end": 3521,
+            "text": "Kraft",
+            "concept": 5,
+            "candidates": [
+                "Kraft_Foods",
+                "Kraft_process",
+                "N\u00e4rpes_Kraft_Fotbollsf\u00f6rening",
+                "Kraft_(Lindberg)",
+                "Kraft_Foods_Inc.",
+                "William_Kraft",
+                "Kraft_(album)",
+                "Kraft_paper",
+                "Robert_Kraft",
+                "Mondelez_International",
+                "Kelly_Kraft",
+                "Kraft,_Prince_of_Hohenlohe-Langenburg",
+                "Herbert_C._Kraft",
+                "Kraft_of_Meissen",
+                "List_of_Catch-22_characters",
+                "Christopher_C._Kraft_Jr."
+            ],
+            "scores": [
+                0.7107438016528925,
+                0.07024793388429752,
+                0.045454545454545456,
+                0.028925619834710745,
+                0.028925619834710745,
+                0.028925619834710745,
+                0.02066115702479339,
+                0.02066115702479339,
+                0.008264462809917356,
+                0.008264462809917356,
+                0.004132231404958678,
+                0.004132231404958678,
+                0.004132231404958678,
+                0.004132231404958678,
+                0.004132231404958678,
+                0.004132231404958678
+            ]
+        },
+        {
+            "begin": 3700,
+            "end": 3702,
+            "text": "US",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3827,
+            "end": 3830,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 3831,
+            "end": 3843,
+            "text": "Commissioner",
+            "concept": 39
+        },
+        {
+            "begin": 3844,
+            "end": 3857,
+            "text": "Roger Goodell",
+            "concept": 6,
+            "candidates": [
+                "Roger_Goodell"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3894,
+            "end": 3904,
+            "text": "Kaepernick",
+            "concept": 4,
+            "candidates": [
+                "Colin_Kaepernick"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3961,
+            "end": 3966,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 3990,
+            "end": 3993,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 4072,
+            "end": 4075,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 4178,
+            "end": 4185,
+            "text": "Goodell",
+            "concept": 6,
+            "candidates": [
+                "Goodell,_Iowa",
+                "Brian_Goodell",
+                "Roger_Goodell",
+                "Goodell's_sign"
+            ],
+            "scores": [
+                0.5454545454545454,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 4358,
+            "end": 4363,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 4375,
+            "end": 4382,
+            "text": "Goodell",
+            "concept": 6,
+            "candidates": [
+                "Goodell,_Iowa",
+                "Brian_Goodell",
+                "Roger_Goodell",
+                "Goodell's_sign"
+            ],
+            "scores": [
+                0.5454545454545454,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 4470,
+            "end": 4473,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 4631,
+            "end": 4636,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 4655,
+            "end": 4661,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 4837,
+            "end": 4840,
+            "text": "NFL",
+            "concept": 3,
+            "candidates": [
+                "National_Football_League",
+                "National_Football_League_(Ireland)",
+                "2009_NFL_season",
+                "NFL_on_CBS",
+                "2010_NFL_season",
+                "Fox_NFL",
+                "NFL_on_NBC",
+                "National_Football_League_(South_Africa)",
+                "Singapore_National_Football_League",
+                "Australian_National_Football_Council",
+                "National_Football_League_(India)",
+                "List_of_National_Football_League_records_(team)",
+                "2012_NFL_season",
+                "2011_NFL_season",
+                "Northern_Football_League_(Australia)",
+                "National_Speech_and_Debate_Association"
+            ],
+            "scores": [
+                0.9534047314578005,
+                0.005195012787723785,
+                0.00399616368286445,
+                0.003916240409207161,
+                0.003756393861892583,
+                0.001838235294117647,
+                0.001438618925831202,
+                0.001358695652173913,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.001198849104859335,
+                0.000719309462915601,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121,
+                0.0006393861892583121
+            ]
+        },
+        {
+            "begin": 4870,
+            "end": 4880,
+            "text": "$1 million",
+            "concept": 40
+        },
+        {
+            "begin": 4889,
+            "end": 4894,
+            "text": "Trump",
+            "concept": 0,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 4961,
+            "end": 4974,
+            "text": "New York Jets",
+            "concept": 41,
+            "candidates": [
+                "New_York_Jets",
+                "2017_New_York_Jets_season",
+                "2016_New_York_Jets_season",
+                "2015_New_York_Jets_season",
+                "2014_New_York_Jets_season",
+                "2009_New_York_Jets_season",
+                "2010_New_York_Jets_season",
+                "2012_New_York_Jets_season",
+                "2013_New_York_Jets_season",
+                "2018_New_York_Jets_season",
+                "2011_New_York_Jets_season",
+                "1968_New_York_Jets_season",
+                "2008_New_York_Jets_season",
+                "2007_New_York_Jets_season",
+                "History_of_the_New_York_Jets",
+                "2000_New_York_Jets_season"
+            ],
+            "scores": [
+                0.7513068624179735,
+                0.013013013013013013,
+                0.013013013013013013,
+                0.011233455677900123,
+                0.01001001001001001,
+                0.009009009009009009,
+                0.008675342008675343,
+                0.008341675008341674,
+                0.00823045267489712,
+                0.008008008008008008,
+                0.0075631186742297855,
+                0.0065621176732287845,
+                0.006117228339450562,
+                0.005449894338783227,
+                0.005116227338449561,
+                0.004671338004671338
+            ]
+        },
+        {
+            "begin": 4976,
+            "end": 4996,
+            "text": "New England Patriots",
+            "concept": 38,
+            "candidates": [
+                "New_England_Patriots",
+                "2016_New_England_Patriots_season",
+                "2017_New_England_Patriots_season",
+                "2014_New_England_Patriots_season",
+                "2015_New_England_Patriots_season",
+                "2011_New_England_Patriots_season",
+                "2007_New_England_Patriots_season",
+                "2012_New_England_Patriots_season",
+                "2013_New_England_Patriots_season",
+                "2010_New_England_Patriots_season",
+                "2018_New_England_Patriots_season",
+                "2009_New_England_Patriots_season",
+                "2008_New_England_Patriots_season",
+                "2003_New_England_Patriots_season",
+                "1996_New_England_Patriots_season",
+                "2004_New_England_Patriots_season"
+            ],
+            "scores": [
+                0.7345783252210192,
+                0.024138273567100427,
+                0.019270885070030795,
+                0.015893513459819212,
+                0.0155955100824476,
+                0.011820800635740538,
+                0.011324128340121187,
+                0.010529452667130228,
+                0.010032780371510877,
+                0.007748087811661865,
+                0.007450084434290256,
+                0.006655408761299295,
+                0.0060594020065560745,
+                0.005960067547432204,
+                0.005960067547432204,
+                0.005662064170060594
+            ]
+        },
+        {
+            "begin": 4998,
+            "end": 5012,
+            "text": "Dallas Cowboys",
+            "concept": 42,
+            "candidates": [
+                "Dallas_Cowboys",
+                "2016_Dallas_Cowboys_season",
+                "2014_Dallas_Cowboys_season",
+                "2017_Dallas_Cowboys_season",
+                "2015_Dallas_Cowboys_season",
+                "2018_Dallas_Cowboys_season",
+                "2013_Dallas_Cowboys_season",
+                "2012_Dallas_Cowboys_season",
+                "2010_Dallas_Cowboys_season",
+                "2007_Dallas_Cowboys_season",
+                "2009_Dallas_Cowboys_season",
+                "1993_Dallas_Cowboys_season",
+                "2011_Dallas_Cowboys_season",
+                "1992_Dallas_Cowboys_season",
+                "1966_Dallas_Cowboys_season",
+                "1977_Dallas_Cowboys_season"
+            ],
+            "scores": [
+                0.7639762253424067,
+                0.011628908605392368,
+                0.011025928159186838,
+                0.010767507967955897,
+                0.008614006374364717,
+                0.006632784908260832,
+                0.006546644844517185,
+                0.006288224653286243,
+                0.00577138427082436,
+                0.00577138427082436,
+                0.005426824015849771,
+                0.0049961236971315355,
+                0.004909983633387889,
+                0.004823843569644242,
+                0.004479283314669653,
+                0.004479283314669653
+            ]
+        },
+        {
+            "begin": 5014,
+            "end": 5033,
+            "text": "Washington Redskins",
+            "concept": 43,
+            "candidates": [
+                "Washington_Redskins",
+                "2017_Washington_Redskins_season",
+                "2016_Washington_Redskins_season",
+                "2015_Washington_Redskins_season",
+                "2014_Washington_Redskins_season",
+                "2012_Washington_Redskins_season",
+                "2013_Washington_Redskins_season",
+                "2018_Washington_Redskins_season",
+                "2011_Washington_Redskins_season",
+                "2009_Washington_Redskins_season",
+                "2007_Washington_Redskins_season",
+                "1982_Washington_Redskins_season",
+                "2008_Washington_Redskins_season",
+                "2010_Washington_Redskins_season",
+                "1972_Washington_Redskins_season",
+                "1983_Washington_Redskins_season"
+            ],
+            "scores": [
+                0.77552400270453,
+                0.010141987829614604,
+                0.009043272481406356,
+                0.008705206220419202,
+                0.008620689655172414,
+                0.007183908045977011,
+                0.0058316430020283975,
+                0.005747126436781609,
+                0.005070993914807302,
+                0.004732927653820149,
+                0.004563894523326572,
+                0.004479377958079784,
+                0.004479377958079784,
+                0.00414131169709263,
+                0.0037187288708586883,
+                0.0037187288708586883
+            ]
+        },
+        {
+            "begin": 5035,
+            "end": 5055,
+            "text": "Jacksonville Jaguars",
+            "concept": 2,
+            "candidates": [
+                "Jacksonville_Jaguars",
+                "2017_Jacksonville_Jaguars_season",
+                "2016_Jacksonville_Jaguars_season",
+                "2015_Jacksonville_Jaguars_season",
+                "2014_Jacksonville_Jaguars_season",
+                "2013_Jacksonville_Jaguars_season",
+                "2018_Jacksonville_Jaguars_season",
+                "2007_Jacksonville_Jaguars_season",
+                "2012_Jacksonville_Jaguars_season",
+                "2011_Jacksonville_Jaguars_season",
+                "1999_Jacksonville_Jaguars_season",
+                "1995_Jacksonville_Jaguars_season",
+                "2009_Jacksonville_Jaguars_season",
+                "2010_Jacksonville_Jaguars_season",
+                "1996_Jacksonville_Jaguars_season",
+                "2005_Jacksonville_Jaguars_season"
+            ],
+            "scores": [
+                0.7393209200438116,
+                0.029207740051113547,
+                0.022635998539612998,
+                0.018072289156626505,
+                0.016976998904709748,
+                0.014421321650237313,
+                0.013143483023001095,
+                0.012960934647681636,
+                0.012778386272362175,
+                0.009309967141292442,
+                0.009309967141292442,
+                0.009309967141292442,
+                0.008397225264695144,
+                0.008214676889375685,
+                0.008032128514056224,
+                0.007484483388097846
+            ]
+        },
+        {
+            "begin": 5057,
+            "end": 5071,
+            "text": "Houston Texans",
+            "concept": 44,
+            "candidates": [
+                "Houston_Texans",
+                "2016_Houston_Texans_season",
+                "2017_Houston_Texans_season",
+                "2015_Houston_Texans_season",
+                "2012_Houston_Texans_season",
+                "2014_Houston_Texans_season",
+                "2013_Houston_Texans_season",
+                "2011_Houston_Texans_season",
+                "2018_Houston_Texans_season",
+                "2010_Houston_Texans_season",
+                "2009_Houston_Texans_season",
+                "2007_Houston_Texans_season",
+                "2002_Houston_Texans_season",
+                "2006_Houston_Texans_season",
+                "2005_Houston_Texans_season",
+                "Shreveport_Steamer"
+            ],
+            "scores": [
+                0.711792252022137,
+                0.03469561515538527,
+                0.029161345253299276,
+                0.023839931885908897,
+                0.02234993614303959,
+                0.020859940400170286,
+                0.018944231587909748,
+                0.016389953171562367,
+                0.01489995742869306,
+                0.012984248616432525,
+                0.012984248616432525,
+                0.012132822477650063,
+                0.010429970200085143,
+                0.008727117922520221,
+                0.008514261387824606,
+                0.008514261387824606
+            ]
+        },
+        {
+            "begin": 5073,
+            "end": 5089,
+            "text": "Los Angeles Rams",
+            "concept": 45,
+            "candidates": [
+                "Los_Angeles_Rams",
+                "History_of_the_Los_Angeles_Rams",
+                "2017_Los_Angeles_Rams_season",
+                "2016_Los_Angeles_Rams_season",
+                "History_of_the_St._Louis_Rams",
+                "2018_Los_Angeles_Rams_season",
+                "1989_Los_Angeles_Rams_season",
+                "1950_Los_Angeles_Rams_season",
+                "1979_Los_Angeles_Rams_season",
+                "1967_Los_Angeles_Rams_season",
+                "1994_Los_Angeles_Rams_season",
+                "1952_Los_Angeles_Rams_season",
+                "1983_Los_Angeles_Rams_season",
+                "1988_Los_Angeles_Rams_season",
+                "1985_Los_Angeles_Rams_season",
+                "1973_Los_Angeles_Rams_season"
+            ],
+            "scores": [
+                0.648245196125139,
+                0.0773384151183103,
+                0.02540892488486581,
+                0.015562966491980308,
+                0.013657297125615373,
+                0.013498491345084962,
+                0.008257900587581388,
+                0.006987454343338097,
+                0.006828648562807686,
+                0.0060346196601556296,
+                0.005558202318564396,
+                0.005558202318564396,
+                0.005558202318564396,
+                0.0053993965380339844,
+                0.0053993965380339844,
+                0.0053993965380339844
+            ]
+        },
+        {
+            "begin": 5094,
+            "end": 5114,
+            "text": "Tampa Bay Buccaneers",
+            "concept": 46,
+            "candidates": [
+                "Tampa_Bay_Buccaneers",
+                "2017_Tampa_Bay_Buccaneers_season",
+                "2015_Tampa_Bay_Buccaneers_season",
+                "2014_Tampa_Bay_Buccaneers_season",
+                "2016_Tampa_Bay_Buccaneers_season",
+                "2013_Tampa_Bay_Buccaneers_season",
+                "2018_Tampa_Bay_Buccaneers_season",
+                "2007_Tampa_Bay_Buccaneers_season",
+                "2002_Tampa_Bay_Buccaneers_season",
+                "2011_Tampa_Bay_Buccaneers_season",
+                "2012_Tampa_Bay_Buccaneers_season",
+                "2010_Tampa_Bay_Buccaneers_season",
+                "2009_Tampa_Bay_Buccaneers_season",
+                "2005_Tampa_Bay_Buccaneers_season",
+                "1997_Tampa_Bay_Buccaneers_season",
+                "1999_Tampa_Bay_Buccaneers_season"
+            ],
+            "scores": [
+                0.7483591677140065,
+                0.014243820695433599,
+                0.013545594190755482,
+                0.01312665828794861,
+                0.012428431783270494,
+                0.010194106968300518,
+                0.00907694456081553,
+                0.008797653958944282,
+                0.008378718056137411,
+                0.008099427454266164,
+                0.008099427454266164,
+                0.007261555648652423,
+                0.007121910347716799,
+                0.006982265046781176,
+                0.006004747940231811,
+                0.005865102639296188
+            ]
+        },
+        {
+            "begin": 5116,
+            "end": 5141,
+            "text": "dm,mm,es/kl (AP, Reuters)",
+            "concept": 47
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Donald Trump",
+            "keyword": true,
+            "count": 17,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Baltimore Ravens",
+            "keyword": true,
+            "count": 3,
+            "link": "Baltimore_Ravens",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Jacksonsville Jaguars",
+            "keyword": true,
+            "count": 4,
+            "link": "Jacksonville_Jaguars",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "National Football League",
+            "keyword": true,
+            "count": 16,
+            "link": "National_Football_League",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Colin Kaepernick",
+            "keyword": false,
+            "count": 4,
+            "link": "Colin_Kaepernick",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Robert Kraft",
+            "keyword": false,
+            "count": 2,
+            "link": "Robert_Kraft",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Roger Goodell",
+            "keyword": false,
+            "count": 3,
+            "link": "Roger_Goodell",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "US",
+            "keyword": false,
+            "count": 6,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Wembley Stadium",
+            "keyword": false,
+            "count": 1,
+            "link": "Wembley_Stadium",
+            "tags": [
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::sport_facility"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "owner",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Shahid Khan",
+            "keyword": false,
+            "count": 1,
+            "link": "Shahid_Khan",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "one million dollars",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "840,000 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "singer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Rico LaVelle",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000018",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::musician",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Star Spangled Banner",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Star-Spangled_Banner",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000018",
+                "topic::culture",
+                "type::entity",
+                "type::misc",
+                "type::music_title",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Detriot Lions",
+            "keyword": false,
+            "count": 1,
+            "link": "Detroit_Lions",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Atlanta Falcons",
+            "keyword": false,
+            "count": 1,
+            "link": "Atlanta_Falcons",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Sunday morning",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Flag and Country",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "African Americans",
+            "keyword": false,
+            "count": 1,
+            "link": "African_Americans",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Republican",
+            "keyword": false,
+            "count": 1,
+            "link": "Republican_Party_(United_States)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Alabama",
+            "keyword": false,
+            "count": 2,
+            "link": "Alabama",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Stephen Curry",
+            "keyword": false,
+            "count": 1,
+            "link": "Stephen_Curry",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "California",
+            "keyword": false,
+            "count": 1,
+            "link": "California",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Golden State Warriors",
+            "keyword": false,
+            "count": 1,
+            "link": "Golden_State_Warriors",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "White House",
+            "keyword": false,
+            "count": 1,
+            "link": "White_House",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "National Basketball Association",
+            "keyword": false,
+            "count": 1,
+            "link": "National_Basketball_Association",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "San Francisco 49ers",
+            "keyword": false,
+            "count": 1,
+            "link": "San_Francisco_49ers",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "quarterback",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "2016",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Steve Bisciotti",
+            "keyword": false,
+            "count": 1,
+            "link": "Steve_Bisciotti",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Super Bowl",
+            "keyword": false,
+            "count": 1,
+            "link": "Super_Bowl",
+            "tags": [
+                "iptc::15000000",
+                "meta::redo",
+                "sport::20000823",
+                "sport_event::20001117",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "champion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "New England Patriots",
+            "keyword": false,
+            "count": 2,
+            "link": "New_England_Patriots",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Commissioner",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "$1 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "New York Jets",
+            "keyword": false,
+            "count": 1,
+            "link": "New_York_Jets",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Dallas Cowboys",
+            "keyword": false,
+            "count": 1,
+            "link": "Dallas_Cowboys",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "Washington Redskins",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington_Redskins",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 44,
+            "text": "Houston Texans",
+            "keyword": false,
+            "count": 1,
+            "link": "Houston_Texans",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 45,
+            "text": "Los Angeles Rams",
+            "keyword": false,
+            "count": 1,
+            "link": "Los_Angeles_Rams",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 46,
+            "text": "Tampa Bay Buccaneers",
+            "keyword": false,
+            "count": 1,
+            "link": "Tampa_Bay_Buccaneers",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000823",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 47,
+            "text": "dm,mm,es/kl (AP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 48,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 24
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "vs",
+            "o": 2
+        },
+        {
+            "s": 2,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "vs",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 32
+        },
+        {
+            "s": 4,
+            "p": "player_of",
+            "o": 32
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 38
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 38
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 38
+        },
+        {
+            "s": 6,
+            "p": "head_of",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 48
+        },
+        {
+            "s": 10,
+            "p": "in2",
+            "o": 11
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 48
+        },
+        {
+            "s": 13,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 19,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 19,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 19,
+            "p": "vs",
+            "o": 20
+        },
+        {
+            "s": 20,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 20,
+            "p": "vs",
+            "o": 19
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 27,
+            "p": "member_of",
+            "o": 29
+        },
+        {
+            "s": 27,
+            "p": "player_of",
+            "o": 29
+        },
+        {
+            "s": 28,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 29,
+            "p": "appears_in",
+            "o": 31
+        },
+        {
+            "s": 29,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 29,
+            "p": "based_in1",
+            "o": 28
+        },
+        {
+            "s": 30,
+            "p": "agency_of",
+            "o": 8
+        },
+        {
+            "s": 30,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 30,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 32,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 35,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 35,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 36,
+            "p": "event_in0",
+            "o": 8
+        },
+        {
+            "s": 38,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 41,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 41,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 42,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 42,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 43,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 43,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 44,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 44,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 45,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 45,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 46,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 46,
+            "p": "based_in0",
+            "o": 8
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-game",
+            "slots": [
+                {
+                    "name": "time",
+                    "value": 9
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20000823"
+    ]
+}

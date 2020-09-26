@@ -1,0 +1,2122 @@
+{
+    "id": "DW_5594975",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 77,
+            "end": 87,
+            "text": "Chancellor",
+            "concept": 7
+        },
+        {
+            "begin": 88,
+            "end": 101,
+            "text": "Angela Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 118,
+            "end": 135,
+            "text": "148 billion euros",
+            "concept": 8
+        },
+        {
+            "begin": 201,
+            "end": 207,
+            "text": "Friday",
+            "concept": 9
+        },
+        {
+            "begin": 302,
+            "end": 309,
+            "text": "Germany",
+            "concept": 10,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 325,
+            "end": 341,
+            "text": "750 billion euro",
+            "concept": 11
+        },
+        {
+            "begin": 343,
+            "end": 355,
+            "text": "$920 billion",
+            "concept": 12
+        },
+        {
+            "begin": 381,
+            "end": 395,
+            "text": "European Union",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 400,
+            "end": 427,
+            "text": "International Monetary Fund",
+            "concept": 13,
+            "candidates": [
+                "International_Monetary_Fund"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 493,
+            "end": 502,
+            "text": "Bundestag",
+            "concept": 2,
+            "candidates": [
+                "Bundestag",
+                "Federal_Convention_(German_Confederation)",
+                "Bundestag_(Berlin_U-Bahn)",
+                "DFB-Bundestag",
+                "Parliament",
+                "First_German_Bundestag",
+                "Politics_of_Germany",
+                "West_German_federal_election,_1953"
+            ],
+            "scores": [
+                0.9901808785529715,
+                0.00516795865633075,
+                0.0015503875968992248,
+                0.0010335917312661498,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749
+            ]
+        },
+        {
+            "begin": 672,
+            "end": 678,
+            "text": "Greens",
+            "concept": 14,
+            "candidates": [
+                "Australian_Greens",
+                "Alliance_90/The_Greens",
+                "Greens_New_South_Wales",
+                "Australian_Greens_Victoria",
+                "Tasmanian_Greens",
+                "Greens_Western_Australia",
+                "Green_Party_of_Aotearoa_New_Zealand",
+                "Green_Party_of_England_and_Wales",
+                "Leaf_vegetable",
+                "Green_politics",
+                "Federation_of_the_Greens",
+                "ACT_Greens",
+                "The_Greens_\u2013_The_Green_Alternative",
+                "Queensland_Greens",
+                "Greens_South_Australia",
+                "Green_League"
+            ],
+            "scores": [
+                0.2859270290394639,
+                0.09903201787043932,
+                0.06626954579300075,
+                0.06031273268801191,
+                0.043559195830230824,
+                0.04244229337304542,
+                0.041325390915860016,
+                0.03723008190618019,
+                0.03276247207743857,
+                0.021965748324646314,
+                0.021593447505584513,
+                0.020476545048399106,
+                0.020476545048399106,
+                0.020104244229337303,
+                0.020104244229337303,
+                0.014147431124348473
+            ]
+        },
+        {
+            "begin": 683,
+            "end": 699,
+            "text": "Social Democrats",
+            "concept": 3,
+            "candidates": [
+                "Swedish_Social_Democratic_Party",
+                "Social_Democrats_(Denmark)",
+                "Social_Democratic_Party_of_Germany",
+                "Social_democracy",
+                "Social_Democrats_(Slovenia)",
+                "Czech_Social_Democratic_Party",
+                "Social_Democrats_(Ireland)",
+                "Social_Democratic_Party_of_Finland",
+                "Social_Democrats",
+                "Social_Democratic_Party_of_Austria",
+                "Social_Democrats_of_Montenegro",
+                "Social_Democratic_Party_of_Switzerland",
+                "Social_Democratic_Party_(Romania)",
+                "Social_Democratic_Party_of_Lithuania",
+                "Romanian_Social_Democratic_Party_(1927\u201348)",
+                "Social_Democratic_Party_(UK)"
+            ],
+            "scores": [
+                0.33380430943129635,
+                0.227834687389615,
+                0.09431296361709643,
+                0.0886612504415401,
+                0.04450724125750618,
+                0.031084422465559872,
+                0.027905333804309432,
+                0.025785941363475805,
+                0.020840692334864006,
+                0.01942776404097492,
+                0.014482515012363122,
+                0.01130342635111268,
+                0.005298481102084069,
+                0.004945249028611798,
+                0.004945249028611798,
+                0.004945249028611798
+            ]
+        },
+        {
+            "begin": 701,
+            "end": 704,
+            "text": "SPD",
+            "concept": 3,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 722,
+            "end": 725,
+            "text": "SPD",
+            "concept": 3,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 772,
+            "end": 782,
+            "text": "Chancellor",
+            "concept": 7
+        },
+        {
+            "begin": 783,
+            "end": 796,
+            "text": "Angela Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 880,
+            "end": 886,
+            "text": "Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1056,
+            "end": 1062,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1104,
+            "end": 1118,
+            "text": "Sigmar Gabriel",
+            "concept": 6,
+            "candidates": [
+                "Sigmar_Gabriel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1140,
+            "end": 1143,
+            "text": "SPD",
+            "concept": 3,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 1164,
+            "end": 1170,
+            "text": "Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1237,
+            "end": 1244,
+            "text": "Germany",
+            "concept": 10,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1248,
+            "end": 1254,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1332,
+            "end": 1348,
+            "text": "Social Democrats",
+            "concept": 3,
+            "candidates": [
+                "Swedish_Social_Democratic_Party",
+                "Social_Democrats_(Denmark)",
+                "Social_Democratic_Party_of_Germany",
+                "Social_democracy",
+                "Social_Democrats_(Slovenia)",
+                "Czech_Social_Democratic_Party",
+                "Social_Democrats_(Ireland)",
+                "Social_Democratic_Party_of_Finland",
+                "Social_Democrats",
+                "Social_Democratic_Party_of_Austria",
+                "Social_Democrats_of_Montenegro",
+                "Social_Democratic_Party_of_Switzerland",
+                "Social_Democratic_Party_(Romania)",
+                "Social_Democratic_Party_of_Lithuania",
+                "Romanian_Social_Democratic_Party_(1927\u201348)",
+                "Social_Democratic_Party_(UK)"
+            ],
+            "scores": [
+                0.33380430943129635,
+                0.227834687389615,
+                0.09431296361709643,
+                0.0886612504415401,
+                0.04450724125750618,
+                0.031084422465559872,
+                0.027905333804309432,
+                0.025785941363475805,
+                0.020840692334864006,
+                0.01942776404097492,
+                0.014482515012363122,
+                0.01130342635111268,
+                0.005298481102084069,
+                0.004945249028611798,
+                0.004945249028611798,
+                0.004945249028611798
+            ]
+        },
+        {
+            "begin": 1371,
+            "end": 1377,
+            "text": "Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1441,
+            "end": 1444,
+            "text": "SPD",
+            "concept": 3,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 1449,
+            "end": 1455,
+            "text": "Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1471,
+            "end": 1490,
+            "text": "Christian Democrats",
+            "concept": 4,
+            "candidates": [
+                "Christian_Democrats_(Sweden)",
+                "Christian_Democrats_(Finland)",
+                "Christian_Democracy_(Italy)",
+                "Christian_democracy",
+                "Christian_Democratic_Party_(Norway)",
+                "Christian_Democrats_(Denmark)",
+                "Christian_Democratic_Party_(Australia)",
+                "List_of_Christian_democratic_parties",
+                "Christian_Democratic_Union_of_Germany",
+                "Christian_Democratic_People's_Party_of_Switzerland",
+                "Christian_Democratic_Party_(Chile)",
+                "Christian_Democrat_Party_(New_Zealand)",
+                "Christian_and_Democratic_Union_\u2013_Czechoslovak_People's_Party",
+                "Lithuanian_Christian_Democratic_Party",
+                "Christen-Democratisch_en_Vlaams",
+                "Rebirth_of_Christian_Democracy"
+            ],
+            "scores": [
+                0.334503950834065,
+                0.17471466198419666,
+                0.08604038630377524,
+                0.07550482879719052,
+                0.07374890254609306,
+                0.048287971905179985,
+                0.04302019315188762,
+                0.0324846356453029,
+                0.028094820017559263,
+                0.025460930640913083,
+                0.014047410008779631,
+                0.012291483757682178,
+                0.01141352063213345,
+                0.007901668129938543,
+                0.003511852502194908,
+                0.0026338893766461808
+            ]
+        },
+        {
+            "begin": 1492,
+            "end": 1495,
+            "text": "CDU",
+            "concept": 4,
+            "candidates": [
+                "Christian_Democratic_Union_of_Germany",
+                "Unitary_Democratic_Coalition",
+                "Christian_Democratic_Union_(East_Germany)",
+                "United_Christian_Democrats",
+                "C.D._Universidade_Agostinho_Neto_(basketball)",
+                "CDU/CSU",
+                "Christian_Democratic_Union_(Netherlands)",
+                "List_of_Christian_democratic_parties",
+                "CDU_Baden-W\u00fcrttemberg",
+                "Christian_Democracy_(Italy)",
+                "Charles_Darwin_University",
+                "Christian_democracy"
+            ],
+            "scores": [
+                0.9030612244897959,
+                0.04124149659863945,
+                0.02806122448979592,
+                0.010629251700680272,
+                0.008078231292517007,
+                0.002976190476190476,
+                0.002551020408163265,
+                0.0012755102040816326,
+                0.0008503401360544217,
+                0.00042517006802721087,
+                0.00042517006802721087,
+                0.00042517006802721087
+            ]
+        },
+        {
+            "begin": 1498,
+            "end": 1514,
+            "text": "Foreign Minister",
+            "concept": 15
+        },
+        {
+            "begin": 1515,
+            "end": 1532,
+            "text": "Guido Westerwelle",
+            "concept": 16,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1546,
+            "end": 1553,
+            "text": "Gabriel",
+            "concept": 6,
+            "candidates": [
+                "Gabriel",
+                "Gabriel_Barbosa",
+                "Gabriel_(footballer,_born_1992)",
+                "Gabriel_(2007_film)",
+                "Gabriel_(given_name)",
+                "Gabriel_(missile)",
+                "Gabriel_Rodrigues_dos_Santos",
+                "Gabriel_Paulista",
+                "Gabriel_Santana_Pinto",
+                "Gabriel_Girotto_Franco",
+                "Gabriel_(Joe_Goddard_song)",
+                "Gabriel_Stokes_(The_Walking_Dead)",
+                "Gabriel_(New-Gen)",
+                "Gabriel_(album)",
+                "Jo\u00e3o_Gabriel_da_Silva",
+                "Gabriel_of_Kakheti"
+            ],
+            "scores": [
+                0.5748239436619719,
+                0.0880281690140845,
+                0.027288732394366196,
+                0.023767605633802816,
+                0.022007042253521125,
+                0.017605633802816902,
+                0.016725352112676055,
+                0.01584507042253521,
+                0.014084507042253521,
+                0.013204225352112676,
+                0.007922535211267605,
+                0.007042253521126761,
+                0.007042253521126761,
+                0.007042253521126761,
+                0.006161971830985915,
+                0.006161971830985915
+            ]
+        },
+        {
+            "begin": 1624,
+            "end": 1630,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1802,
+            "end": 1818,
+            "text": "Finance Minister",
+            "concept": 17
+        },
+        {
+            "begin": 1819,
+            "end": 1837,
+            "text": "Wolfgang Schaeuble",
+            "concept": 18,
+            "candidates": [
+                "Wolfgang_Sch\u00e4uble"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2030,
+            "end": 2037,
+            "text": "Germany",
+            "concept": 10,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2046,
+            "end": 2052,
+            "text": "Cyprus",
+            "concept": 19,
+            "candidates": [
+                "Cyprus",
+                "Cyprus_national_football_team",
+                "Recognition_of_same-sex_unions_in_Cyprus",
+                "Cyprus_Football_Association",
+                "Kingdom_of_Cyprus",
+                "Cyprus_in_the_Eurovision_Song_Contest",
+                "British_Cyprus",
+                "Cyprus_national_under-21_football_team",
+                "Football_in_Cyprus",
+                "Cyprus_Davis_Cup_team",
+                "Ottoman_Cyprus",
+                "Roman_Cyprus",
+                "Ancient_history_of_Cyprus",
+                "Church_of_Cyprus",
+                "Cyprus_national_basketball_team",
+                "Cyprus_Basketball_Division_A"
+            ],
+            "scores": [
+                0.8681687440076702,
+                0.04410354745925216,
+                0.008708852668584212,
+                0.006391818472355385,
+                0.006072227548737616,
+                0.0037551933525087886,
+                0.0034356024288910193,
+                0.002476829658037712,
+                0.0021572387344199425,
+                0.0018376478108021732,
+                0.0016778523489932886,
+                0.0015979546180888463,
+                0.001518056887184404,
+                0.0013582614253755192,
+                0.001278363694471077,
+                0.001278363694471077
+            ]
+        },
+        {
+            "begin": 2056,
+            "end": 2061,
+            "text": "Malta",
+            "concept": 20,
+            "candidates": [
+                "Malta",
+                "Malta_national_football_team",
+                "Same-sex_marriage_in_Malta",
+                "Malta_Football_Association",
+                "Crown_Colony_of_Malta",
+                "Malta,_New_York",
+                "Malta_(island)",
+                "Malta_national_under-21_football_team",
+                "Malta,_Montana",
+                "Malta_national_rugby_league_team",
+                "Malta_in_the_Eurovision_Song_Contest",
+                "Malta_women's_national_football_team",
+                "Siege_of_Malta_(World_War_II)",
+                "History_of_Malta_under_the_Order_of_Saint_John",
+                "Football_in_Malta",
+                "State_of_Malta"
+            ],
+            "scores": [
+                0.8314206225004347,
+                0.04894800904190576,
+                0.010867675186924013,
+                0.007911667536080682,
+                0.007390019127108329,
+                0.005738132498695879,
+                0.004694835680751174,
+                0.0038254216657972527,
+                0.003477656059815684,
+                0.003390714658320292,
+                0.003390714658320292,
+                0.003216831855329508,
+                0.002434359241870979,
+                0.002434359241870979,
+                0.0020865936358894104,
+                0.0020865936358894104
+            ]
+        },
+        {
+            "begin": 2177,
+            "end": 2184,
+            "text": "Germany",
+            "concept": 10,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2199,
+            "end": 2216,
+            "text": "148 billion euros",
+            "concept": 8
+        },
+        {
+            "begin": 2218,
+            "end": 2230,
+            "text": "$186 million",
+            "concept": 21
+        },
+        {
+            "begin": 2270,
+            "end": 2273,
+            "text": "SPD",
+            "concept": 3,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 2458,
+            "end": 2464,
+            "text": "Merkel",
+            "concept": 5,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 2604,
+            "end": 2611,
+            "text": "Germans",
+            "concept": 22
+        },
+        {
+            "begin": 2705,
+            "end": 2711,
+            "text": "Greens",
+            "concept": 14,
+            "candidates": [
+                "Australian_Greens",
+                "Alliance_90/The_Greens",
+                "Greens_New_South_Wales",
+                "Australian_Greens_Victoria",
+                "Tasmanian_Greens",
+                "Greens_Western_Australia",
+                "Green_Party_of_Aotearoa_New_Zealand",
+                "Green_Party_of_England_and_Wales",
+                "Leaf_vegetable",
+                "Green_politics",
+                "Federation_of_the_Greens",
+                "ACT_Greens",
+                "The_Greens_\u2013_The_Green_Alternative",
+                "Queensland_Greens",
+                "Greens_South_Australia",
+                "Green_League"
+            ],
+            "scores": [
+                0.2859270290394639,
+                0.09903201787043932,
+                0.06626954579300075,
+                0.06031273268801191,
+                0.043559195830230824,
+                0.04244229337304542,
+                0.041325390915860016,
+                0.03723008190618019,
+                0.03276247207743857,
+                0.021965748324646314,
+                0.021593447505584513,
+                0.020476545048399106,
+                0.020476545048399106,
+                0.020104244229337303,
+                0.020104244229337303,
+                0.014147431124348473
+            ]
+        },
+        {
+            "begin": 2752,
+            "end": 2762,
+            "text": "Left Party",
+            "concept": 23,
+            "candidates": [
+                "Left_Party_(Sweden)",
+                "The_Left_(Germany)",
+                "Left_Party_(France)",
+                "Left_Party_\u2013_Zona_Franca",
+                "Left_Party_(Hungary)",
+                "Left_Party",
+                "Socialist_Left_Party_(Norway)"
+            ],
+            "scores": [
+                0.7027027027027027,
+                0.16066066066066065,
+                0.12162162162162163,
+                0.0075075075075075074,
+                0.0045045045045045045,
+                0.0015015015015015015,
+                0.0015015015015015015
+            ]
+        },
+        {
+            "begin": 2785,
+            "end": 2788,
+            "text": "CDU",
+            "concept": 4,
+            "candidates": [
+                "Christian_Democratic_Union_of_Germany",
+                "Unitary_Democratic_Coalition",
+                "Christian_Democratic_Union_(East_Germany)",
+                "United_Christian_Democrats",
+                "C.D._Universidade_Agostinho_Neto_(basketball)",
+                "CDU/CSU",
+                "Christian_Democratic_Union_(Netherlands)",
+                "List_of_Christian_democratic_parties",
+                "CDU_Baden-W\u00fcrttemberg",
+                "Christian_Democracy_(Italy)",
+                "Charles_Darwin_University",
+                "Christian_democracy"
+            ],
+            "scores": [
+                0.9030612244897959,
+                0.04124149659863945,
+                0.02806122448979592,
+                0.010629251700680272,
+                0.008078231292517007,
+                0.002976190476190476,
+                0.002551020408163265,
+                0.0012755102040816326,
+                0.0008503401360544217,
+                0.00042517006802721087,
+                0.00042517006802721087,
+                0.00042517006802721087
+            ]
+        },
+        {
+            "begin": 2803,
+            "end": 2817,
+            "text": "Free Democrats",
+            "concept": 24,
+            "candidates": [
+                "Free_Democratic_Party_(Germany)",
+                "Free_Democratic_Party_of_Switzerland",
+                "Free_Democrats_(Norway)",
+                "Free_Democrats_(Georgia)",
+                "Free_Democrats_(Armenia)",
+                "Free_Democrats_(Italy)",
+                "Party_for_the_Open_Society",
+                "Alliance_of_Free_Democrats"
+            ],
+            "scores": [
+                0.3953488372093023,
+                0.2558139534883721,
+                0.09302325581395349,
+                0.08139534883720931,
+                0.06976744186046512,
+                0.05813953488372093,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 2858,
+            "end": 2867,
+            "text": "Bundestag",
+            "concept": 2,
+            "candidates": [
+                "Bundestag",
+                "Federal_Convention_(German_Confederation)",
+                "Bundestag_(Berlin_U-Bahn)",
+                "DFB-Bundestag",
+                "Parliament",
+                "First_German_Bundestag",
+                "Politics_of_Germany",
+                "West_German_federal_election,_1953"
+            ],
+            "scores": [
+                0.9901808785529715,
+                0.00516795865633075,
+                0.0015503875968992248,
+                0.0010335917312661498,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749
+            ]
+        },
+        {
+            "begin": 2912,
+            "end": 2921,
+            "text": "Bundesrat",
+            "concept": 25,
+            "candidates": [
+                "Bundesrat_of_Germany",
+                "Federal_Council_(Austria)",
+                "Bundesrat_(German_Empire)",
+                "Federal_Council_(Switzerland)",
+                "Bundesrat"
+            ],
+            "scores": [
+                0.9107142857142857,
+                0.044642857142857144,
+                0.02976190476190476,
+                0.011904761904761904,
+                0.002976190476190476
+            ]
+        },
+        {
+            "begin": 2980,
+            "end": 3002,
+            "text": "North Rhine-Westphalia",
+            "concept": 26,
+            "candidates": [
+                "North_Rhine-Westphalia",
+                "Landtag_of_North_Rhine-Westphalia",
+                "History_of_North_Rhine-Westphalia",
+                "List_of_regional_railway_lines_in_North_Rhine-Westphalia",
+                "List_of_Ministers-President_of_North_Rhine-Westphalia",
+                "List_of_mountains_and_hills_of_North_Rhine-Westphalia",
+                "North_Rhine-Westphalian_Academy_of_Sciences,_Humanities_and_the_Arts",
+                "North_Rhine-Westphalia_state_election,_2005",
+                "States_of_Germany",
+                "North_Rhine-Westphalia_state_election,_2012",
+                "North_Rhine-Westphalia_state_election,_2010"
+            ],
+            "scores": [
+                0.996605054696341,
+                0.0016974726518294984,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998,
+                0.0001886080724254998
+            ]
+        },
+        {
+            "begin": 3004,
+            "end": 3038,
+            "text": "acb/dpa/apn Editor: Martin Kuebler",
+            "concept": 27
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Union",
+            "keyword": false,
+            "count": 4,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "German",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Bundestag",
+            "keyword": true,
+            "count": 2,
+            "link": "Bundestag",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Social Democrats",
+            "keyword": true,
+            "count": 7,
+            "link": "Social_Democratic_Party_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Christian Democrats",
+            "keyword": true,
+            "count": 3,
+            "link": "Christian_Democratic_Union_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Angela Merkel",
+            "keyword": true,
+            "count": 7,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Sigmar Gabriel",
+            "keyword": false,
+            "count": 3,
+            "link": "Sigmar_Gabriel",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "148 billion euros",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Germany",
+            "keyword": false,
+            "count": 4,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "750 billion euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "$920 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "International Monetary Fund",
+            "keyword": false,
+            "count": 1,
+            "link": "International_Monetary_Fund",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Greens",
+            "keyword": false,
+            "count": 2,
+            "link": "Alliance_90/The_Greens",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Guido Westerwelle",
+            "keyword": false,
+            "count": 1,
+            "link": "Guido_Westerwelle",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Finance Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Wolfgang Schaeuble",
+            "keyword": false,
+            "count": 1,
+            "link": "Wolfgang_Sch\u00e4uble",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::finance",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Cyprus",
+            "keyword": false,
+            "count": 1,
+            "link": "Cyprus",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Malta",
+            "keyword": false,
+            "count": 1,
+            "link": "Malta",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "$186 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Left Party",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Left_(Germany)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Free Democrats",
+            "keyword": false,
+            "count": 1,
+            "link": "Free_Democratic_Party_(Germany)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Bundesrat",
+            "keyword": false,
+            "count": 1,
+            "link": "Bundesrat_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "North Rhine-Westphalia",
+            "keyword": false,
+            "count": 1,
+            "link": "North_Rhine-Westphalia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "acb/dpa/apn Editor: Martin Kuebler",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "gpe0",
+            "o": 10
+        },
+        {
+            "s": 2,
+            "p": "agency_of",
+            "o": 10
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 22
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 22
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov-x",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov-x",
+            "o": 22
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 22
+        },
+        {
+            "s": 6,
+            "p": "head_of",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 16,
+            "p": "agent_of",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 22
+        },
+        {
+            "s": 16,
+            "p": "minister_of",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "minister_of-x",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "minister_of-x",
+            "o": 22
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 10
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 22
+        },
+        {
+            "s": 18,
+            "p": "minister_of",
+            "o": 10
+        },
+        {
+            "s": 18,
+            "p": "minister_of-x",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "minister_of-x",
+            "o": 22
+        },
+        {
+            "s": 22,
+            "p": "gpe0",
+            "o": 10
+        },
+        {
+            "s": 23,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 23,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 23,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 25,
+            "p": "agency_of",
+            "o": 10
+        },
+        {
+            "s": 25,
+            "p": "agency_of-x",
+            "o": 1
+        },
+        {
+            "s": 25,
+            "p": "agency_of-x",
+            "o": 22
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 25,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 25,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 10
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 1
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 22
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000367"
+    ]
+}

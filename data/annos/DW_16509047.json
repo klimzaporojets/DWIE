@@ -1,0 +1,821 @@
+{
+    "id": "DW_16509047",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 18,
+            "end": 31,
+            "text": "New York City",
+            "concept": 0,
+            "candidates": [
+                "New_York_City",
+                "Fort_Washington_Avenue_Armory",
+                "New_York_metropolitan_area",
+                "New_York_City_FC",
+                "USTA_Billie_Jean_King_National_Tennis_Center",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York",
+                "Madison_Square_Garden",
+                "New_York_City_English",
+                "Manhattan",
+                "New_York_and_New_Jersey_campaign",
+                "History_of_New_York_City",
+                "New_York_City_Marathon",
+                "The_Real_Housewives_of_New_York_City",
+                "Chinese_in_New_York_City",
+                "New_York_City_(band)"
+            ],
+            "scores": [
+                0.9891864931977843,
+                0.0017509603752361143,
+                0.0012628138463824097,
+                0.0011566950357620393,
+                0.00042447524248148227,
+                0.00042447524248148227,
+                0.00030774455079907463,
+                0.00028652078867500054,
+                0.00022284950230277818,
+                0.00021223762124074114,
+                0.0002016257401787041,
+                0.0002016257401787041,
+                0.0001697900969925929,
+                0.00015917821593055585,
+                0.00015917821593055585,
+                0.0001485663348685188
+            ]
+        },
+        {
+            "begin": 87,
+            "end": 100,
+            "text": "New York City",
+            "concept": 0,
+            "candidates": [
+                "New_York_City",
+                "Fort_Washington_Avenue_Armory",
+                "New_York_metropolitan_area",
+                "New_York_City_FC",
+                "USTA_Billie_Jean_King_National_Tennis_Center",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York",
+                "Madison_Square_Garden",
+                "New_York_City_English",
+                "Manhattan",
+                "New_York_and_New_Jersey_campaign",
+                "History_of_New_York_City",
+                "New_York_City_Marathon",
+                "The_Real_Housewives_of_New_York_City",
+                "Chinese_in_New_York_City",
+                "New_York_City_(band)"
+            ],
+            "scores": [
+                0.9891864931977843,
+                0.0017509603752361143,
+                0.0012628138463824097,
+                0.0011566950357620393,
+                0.00042447524248148227,
+                0.00042447524248148227,
+                0.00030774455079907463,
+                0.00028652078867500054,
+                0.00022284950230277818,
+                0.00021223762124074114,
+                0.0002016257401787041,
+                0.0002016257401787041,
+                0.0001697900969925929,
+                0.00015917821593055585,
+                0.00015917821593055585,
+                0.0001485663348685188
+            ]
+        },
+        {
+            "begin": 219,
+            "end": 228,
+            "text": "Seastreak",
+            "concept": 1,
+            "candidates": [
+                "SeaStreak"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 260,
+            "end": 270,
+            "text": "New Jersey",
+            "concept": 3,
+            "candidates": [
+                "New_Jersey",
+                "Brooklyn_Nets",
+                "New_Jersey_Devils",
+                "List_of_United_States_Senators_from_New_Jersey",
+                "List_of_United_States_Representatives_from_New_Jersey",
+                "New_Jersey_(album)",
+                "Miss_New_Jersey_USA",
+                "Miss_New_Jersey",
+                "Province_of_New_Jersey",
+                "2006\u201307_New_Jersey_Nets_season",
+                "2017\u201318_New_Jersey_Devils_season",
+                "2007\u201308_New_Jersey_Nets_season",
+                "2016\u201317_New_Jersey_Devils_season",
+                "2005\u201306_New_Jersey_Nets_season",
+                "2001\u201302_New_Jersey_Nets_season",
+                "2009\u201310_New_Jersey_Nets_season"
+            ],
+            "scores": [
+                0.8568636192174479,
+                0.020198209937930797,
+                0.009670450258907445,
+                0.009601865505298172,
+                0.005726826926374267,
+                0.003017729158807997,
+                0.002914852028394088,
+                0.002640513013956997,
+                0.002606220637152361,
+                0.0023661739995199066,
+                0.002194712115496725,
+                0.0020232502314735433,
+                0.001886080724254998,
+                0.001886080724254998,
+                0.001886080724254998,
+                0.001886080724254998
+            ]
+        },
+        {
+            "begin": 278,
+            "end": 288,
+            "text": "East River",
+            "concept": 4,
+            "candidates": [
+                "East_River",
+                "East_River_(South_Dakota)",
+                "East_River,_Nova_Scotia",
+                "East_River_(New_River_tributary)",
+                "East_River_(Wisconsin)",
+                "East_River_(Colorado)",
+                "East_River_(Virginia)",
+                "East_River_(Florida)",
+                "Dong_River_(China)",
+                "East_River_(film)",
+                "East_River_(Minnesota)",
+                "East_River_High_School",
+                "List_of_ferries_across_the_East_River",
+                "East_River_Tunnels",
+                "East_River_Township,_Page_County,_Iowa",
+                "Brooklyn_Bridge"
+            ],
+            "scores": [
+                0.9253075571177505,
+                0.014059753954305799,
+                0.01054481546572935,
+                0.009666080843585237,
+                0.007029876977152899,
+                0.006151142355008787,
+                0.005272407732864675,
+                0.004393673110720563,
+                0.004393673110720563,
+                0.0026362038664323375,
+                0.0026362038664323375,
+                0.0017574692442882249,
+                0.0017574692442882249,
+                0.0017574692442882249,
+                0.0017574692442882249,
+                0.0008787346221441124
+            ]
+        },
+        {
+            "begin": 294,
+            "end": 301,
+            "text": "Pier 11",
+            "concept": 5,
+            "candidates": [
+                "Pier_11/Wall_Street"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 311,
+            "end": 320,
+            "text": "Manhattan",
+            "concept": 6,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 321,
+            "end": 330,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 428,
+            "end": 449,
+            "text": "coast guard spokesman",
+            "concept": 8
+        },
+        {
+            "begin": 450,
+            "end": 462,
+            "text": "Charles Rowe",
+            "concept": 2,
+            "candidates": [
+                "Charles_Rowe_(cricketer)",
+                "Charles_Rowe_(footballer)"
+            ],
+            "scores": [
+                0.8,
+                0.2
+            ]
+        },
+        {
+            "begin": 683,
+            "end": 687,
+            "text": "Rowe",
+            "concept": 2,
+            "candidates": [
+                "Rowe,_Massachusetts",
+                "Malcolm_Rowe",
+                "Rodney_Rowe",
+                "Raymond_Rowe",
+                "Nicholas_Rowe_(writer)",
+                "Zeke_Rowe",
+                "Kelyn_Rowe",
+                "Rowe,_New_Mexico",
+                "Alan_Rowe_(archaeologist)",
+                "Ken_Rowe_(baseball)",
+                "Ashlee_Rowe",
+                "Luke_Rowe",
+                "John_Rowe_(Aetna)",
+                "USS_Rowe_(DD-564)",
+                "ROWE",
+                "Yankee_Rowe_Nuclear_Power_Station"
+            ],
+            "scores": [
+                0.20155038759689922,
+                0.12403100775193798,
+                0.11627906976744186,
+                0.07751937984496124,
+                0.06976744186046512,
+                0.06201550387596899,
+                0.046511627906976744,
+                0.046511627906976744,
+                0.03875968992248062,
+                0.023255813953488372,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.007751937984496124
+            ]
+        },
+        {
+            "begin": 870,
+            "end": 901,
+            "text": "city transportation comissioner",
+            "concept": 9
+        },
+        {
+            "begin": 902,
+            "end": 920,
+            "text": "Janette Sadik-Khan",
+            "concept": 10,
+            "candidates": [
+                "Janette_Sadik-Khan"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1298,
+            "end": 1302,
+            "text": "Rowe",
+            "concept": 2,
+            "candidates": [
+                "Rowe,_Massachusetts",
+                "Malcolm_Rowe",
+                "Rodney_Rowe",
+                "Raymond_Rowe",
+                "Nicholas_Rowe_(writer)",
+                "Zeke_Rowe",
+                "Kelyn_Rowe",
+                "Rowe,_New_Mexico",
+                "Alan_Rowe_(archaeologist)",
+                "Ken_Rowe_(baseball)",
+                "Ashlee_Rowe",
+                "Luke_Rowe",
+                "John_Rowe_(Aetna)",
+                "USS_Rowe_(DD-564)",
+                "ROWE",
+                "Yankee_Rowe_Nuclear_Power_Station"
+            ],
+            "scores": [
+                0.20155038759689922,
+                0.12403100775193798,
+                0.11627906976744186,
+                0.07751937984496124,
+                0.06976744186046512,
+                0.06201550387596899,
+                0.046511627906976744,
+                0.046511627906976744,
+                0.03875968992248062,
+                0.023255813953488372,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.007751937984496124
+            ]
+        },
+        {
+            "begin": 1495,
+            "end": 1503,
+            "text": "Brooklyn",
+            "concept": 11,
+            "candidates": [
+                "Brooklyn",
+                "Brooklyn_Nets",
+                "Brooklyn_(film)",
+                "Brooklyn,_Michigan",
+                "Brooklyn_(cycling_team)",
+                "Goethe_Link_Observatory",
+                "2016\u201317_Brooklyn_Nets_season",
+                "2015\u201316_Brooklyn_Nets_season",
+                "2017\u201318_Brooklyn_Nets_season",
+                "History_of_the_Brooklyn_Dodgers",
+                "2014\u201315_Brooklyn_Nets_season",
+                "Brooklyn,_Connecticut",
+                "2013\u201314_Brooklyn_Nets_season",
+                "Roman_Catholic_Diocese_of_Brooklyn",
+                "Brooklyn,_Baltimore",
+                "Brooklyn,_New_South_Wales"
+            ],
+            "scores": [
+                0.8233223703190814,
+                0.01881022445329179,
+                0.017598522878079743,
+                0.01229011597715077,
+                0.005885407651029947,
+                0.005654607350989556,
+                0.005308406900928971,
+                0.005019906525878483,
+                0.0047891062258380935,
+                0.004442905775777509,
+                0.004212105475737119,
+                0.003173504125555363,
+                0.0027696036004846805,
+                0.0026542034504644855,
+                0.0026542034504644855,
+                0.0023080030004039003
+            ]
+        },
+        {
+            "begin": 1508,
+            "end": 1518,
+            "text": "New Jersey",
+            "concept": 3,
+            "candidates": [
+                "New_Jersey",
+                "Brooklyn_Nets",
+                "New_Jersey_Devils",
+                "List_of_United_States_Senators_from_New_Jersey",
+                "List_of_United_States_Representatives_from_New_Jersey",
+                "New_Jersey_(album)",
+                "Miss_New_Jersey_USA",
+                "Miss_New_Jersey",
+                "Province_of_New_Jersey",
+                "2006\u201307_New_Jersey_Nets_season",
+                "2017\u201318_New_Jersey_Devils_season",
+                "2007\u201308_New_Jersey_Nets_season",
+                "2016\u201317_New_Jersey_Devils_season",
+                "2005\u201306_New_Jersey_Nets_season",
+                "2001\u201302_New_Jersey_Nets_season",
+                "2009\u201310_New_Jersey_Nets_season"
+            ],
+            "scores": [
+                0.8568636192174479,
+                0.020198209937930797,
+                0.009670450258907445,
+                0.009601865505298172,
+                0.005726826926374267,
+                0.003017729158807997,
+                0.002914852028394088,
+                0.002640513013956997,
+                0.002606220637152361,
+                0.0023661739995199066,
+                0.002194712115496725,
+                0.0020232502314735433,
+                0.001886080724254998,
+                0.001886080724254998,
+                0.001886080724254998,
+                0.001886080724254998
+            ]
+        },
+        {
+            "begin": 1524,
+            "end": 1533,
+            "text": "Manhattan",
+            "concept": 6,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 1572,
+            "end": 1584,
+            "text": "October 2003",
+            "concept": 12
+        },
+        {
+            "begin": 1637,
+            "end": 1650,
+            "text": "Staten Island",
+            "concept": 13,
+            "candidates": [
+                "Staten_Island",
+                "Staten_Island_(film)",
+                "Isla_de_los_Estados",
+                "Staten_Island_Yankees",
+                "College_of_Staten_Island",
+                "National_Register_of_Historic_Places_listings_in_Staten_Island",
+                "Battle_of_Staten_Island",
+                "Staten_Island_(California)",
+                "Staten_Island_Dolphins",
+                "Flags_of_New_York_City",
+                "List_of_bus_routes_in_Staten_Island",
+                "List_of_Staten_Island_neighborhoods",
+                "Fort_Tompkins_(Staten_Island)"
+            ],
+            "scores": [
+                0.9776219104876419,
+                0.006012024048096192,
+                0.0056780227120908485,
+                0.0033400133600534404,
+                0.0026720106880427524,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405
+            ]
+        },
+        {
+            "begin": 1683,
+            "end": 1704,
+            "text": "dr/ipj (AFP, dpa, AP)",
+            "concept": 14
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "New York City",
+            "keyword": true,
+            "count": 2,
+            "link": "New_York_City",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Seastreak",
+            "keyword": true,
+            "count": 1,
+            "link": "SeaStreak",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Charles Rowe",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "New Jersey",
+            "keyword": false,
+            "count": 2,
+            "link": "New_Jersey",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "East River",
+            "keyword": false,
+            "count": 1,
+            "link": "East_River",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Pier 11",
+            "keyword": false,
+            "count": 1,
+            "link": "Pier_11/Wall_Street",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Manhattan",
+            "keyword": false,
+            "count": 2,
+            "link": "Manhattan",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "coast guard spokesman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "city transportation comissioner",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Janette Sadik-Khan",
+            "keyword": false,
+            "count": 1,
+            "link": "Janette_Sadik-Khan",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_local"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Brooklyn",
+            "keyword": false,
+            "count": 1,
+            "link": "Brooklyn",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "October 2003",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Staten Island",
+            "keyword": false,
+            "count": 1,
+            "link": "Staten_Island",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "dr/ipj (AFP, dpa, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 15
+        },
+        {
+            "s": 1,
+            "p": "based_in2",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 15
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "citizen_of",
+            "o": 15
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 11,
+            "p": "in2",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-accident",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "20000139",
+        "20000143",
+        "20000145"
+    ]
+}

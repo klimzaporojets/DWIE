@@ -1,0 +1,1238 @@
+{
+    "id": "DW_36364923",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Vatican",
+            "concept": 7,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 15,
+            "end": 24,
+            "text": "Venezuela",
+            "concept": 0,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 48,
+            "end": 54,
+            "text": "Friday",
+            "concept": 8
+        },
+        {
+            "begin": 55,
+            "end": 65,
+            "text": "Venezuelan",
+            "concept": 9
+        },
+        {
+            "begin": 149,
+            "end": 155,
+            "text": "Friday",
+            "concept": 8
+        },
+        {
+            "begin": 203,
+            "end": 213,
+            "text": "Venezuelan",
+            "concept": 9
+        },
+        {
+            "begin": 214,
+            "end": 223,
+            "text": "President",
+            "concept": 10
+        },
+        {
+            "begin": 224,
+            "end": 238,
+            "text": "Nicolas Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 272,
+            "end": 278,
+            "text": "Friday",
+            "concept": 8
+        },
+        {
+            "begin": 343,
+            "end": 357,
+            "text": "South American",
+            "concept": 11
+        },
+        {
+            "begin": 374,
+            "end": 380,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 385,
+            "end": 400,
+            "text": "Jesus Torrealba",
+            "concept": 4,
+            "candidates": [
+                "Jes\u00fas_Torrealba"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 402,
+            "end": 421,
+            "text": "Executive Secretary",
+            "concept": 12
+        },
+        {
+            "begin": 425,
+            "end": 434,
+            "text": "Venezuela",
+            "concept": 0,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 470,
+            "end": 473,
+            "text": "MUD",
+            "concept": 2,
+            "candidates": [
+                "Mud",
+                "Mud_(band)",
+                "MUD",
+                "Mud_(2012_film)",
+                "Adobe",
+                "Democratic_Unity_Roundtable",
+                "Mud_(TV_series)",
+                "Drilling_fluid",
+                "Mud,_Iran",
+                "Mud_(river)",
+                "MUD1",
+                "Mud_(1997_film)",
+                "Mud_River_(West_Virginia)",
+                "Mud_snake",
+                "Mudflat",
+                "Mud_Fire"
+            ],
+            "scores": [
+                0.33405405405405403,
+                0.22378378378378377,
+                0.20540540540540542,
+                0.10594594594594595,
+                0.03891891891891892,
+                0.018378378378378378,
+                0.015135135135135135,
+                0.015135135135135135,
+                0.005405405405405406,
+                0.005405405405405406,
+                0.005405405405405406,
+                0.003243243243243243,
+                0.003243243243243243,
+                0.002162162162162162,
+                0.002162162162162162,
+                0.001081081081081081
+            ]
+        },
+        {
+            "begin": 510,
+            "end": 517,
+            "text": "Vatican",
+            "concept": 7,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 596,
+            "end": 606,
+            "text": "October 30",
+            "concept": 13
+        },
+        {
+            "begin": 706,
+            "end": 712,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 992,
+            "end": 998,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 1008,
+            "end": 1016,
+            "text": "Congress",
+            "concept": 3,
+            "candidates": [
+                "United_States_Congress",
+                "Indian_National_Congress",
+                "Congress_of_the_Philippines",
+                "Congress",
+                "United_States_House_of_Representatives",
+                "Congress_of_the_Union",
+                "Congress_of_the_Republic_of_Peru",
+                "Congress_of_Colombia",
+                "Congress_of_Guatemala",
+                "National_Congress_of_Argentina",
+                "Congress_of_Deputies",
+                "National_Congress_of_Chile",
+                "Congress_of_Paraguay",
+                "Congress_of_the_Federated_States_of_Micronesia",
+                "Congress_of_the_Confederation",
+                "National_Congress_of_Brazil"
+            ],
+            "scores": [
+                0.5593434343434344,
+                0.21616161616161617,
+                0.029924242424242423,
+                0.027525252525252526,
+                0.019823232323232323,
+                0.01755050505050505,
+                0.010101010101010102,
+                0.010101010101010102,
+                0.008333333333333333,
+                0.008207070707070708,
+                0.0073232323232323236,
+                0.0046717171717171714,
+                0.004545454545454545,
+                0.004166666666666667,
+                0.003914141414141414,
+                0.003787878787878788
+            ]
+        },
+        {
+            "begin": 1260,
+            "end": 1266,
+            "text": "Friday",
+            "concept": 8
+        },
+        {
+            "begin": 1502,
+            "end": 1511,
+            "text": "Torrealba",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1514,
+            "end": 1523,
+            "text": "Venezuela",
+            "concept": 0,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 1617,
+            "end": 1626,
+            "text": "Torrealba",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1655,
+            "end": 1662,
+            "text": "Analyst",
+            "concept": 14
+        },
+        {
+            "begin": 1663,
+            "end": 1680,
+            "text": "Luis Vicente Leon",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1705,
+            "end": 1711,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 1882,
+            "end": 1888,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 1913,
+            "end": 1917,
+            "text": "Leon",
+            "concept": 5,
+            "candidates": [
+                "Le\u00f3n,_Spain",
+                "Club_Le\u00f3n",
+                "Le\u00f3n,_Guanajuato",
+                "Province_of_Le\u00f3n",
+                "Kingdom_of_Le\u00f3n",
+                "Le\u00f3n,_Nicaragua",
+                "Leon_County,_Florida",
+                "Leon_County,_Texas",
+                "L\u00e9on:_The_Professional",
+                "Leon_(Japanese_wrestler)",
+                "National_Register_of_Historic_Places_listings_in_Leon_County,_Florida",
+                "Le\u00f3n_Department",
+                "Le\u00f3n_(historical_region)",
+                "Leon_Robinson",
+                "SEAT_Le\u00f3n",
+                "List_of_Leonese_monarchs"
+            ],
+            "scores": [
+                0.19803370786516855,
+                0.1622191011235955,
+                0.12148876404494383,
+                0.09995318352059925,
+                0.0976123595505618,
+                0.04985955056179775,
+                0.03206928838951311,
+                0.023642322097378276,
+                0.01849250936329588,
+                0.01708801498127341,
+                0.016151685393258428,
+                0.011704119850187267,
+                0.01100187265917603,
+                0.008661048689138577,
+                0.007256554307116105,
+                0.006788389513108614
+            ]
+        },
+        {
+            "begin": 2002,
+            "end": 2012,
+            "text": "Venezuelan",
+            "concept": 9
+        },
+        {
+            "begin": 2089,
+            "end": 2099,
+            "text": "January 10",
+            "concept": 15
+        },
+        {
+            "begin": 2119,
+            "end": 2125,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 2166,
+            "end": 2172,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 2216,
+            "end": 2220,
+            "text": "2019",
+            "concept": 16
+        },
+        {
+            "begin": 2253,
+            "end": 2260,
+            "text": "Vatican",
+            "concept": 7,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 2261,
+            "end": 2266,
+            "text": "envoy",
+            "concept": 17
+        },
+        {
+            "begin": 2267,
+            "end": 2286,
+            "text": "Claudio Maria Celli",
+            "concept": 18,
+            "candidates": [
+                "Claudio_Maria_Celli"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2298,
+            "end": 2305,
+            "text": "Spanish",
+            "concept": 19
+        },
+        {
+            "begin": 2306,
+            "end": 2320,
+            "text": "prime minister",
+            "concept": 20
+        },
+        {
+            "begin": 2321,
+            "end": 2349,
+            "text": "Jose Luis Rodriguez Zapatero",
+            "concept": 6,
+            "candidates": [
+                "Jos\u00e9_Luis_Rodr\u00edguez_Zapatero"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2481,
+            "end": 2489,
+            "text": "Zapatero",
+            "concept": 6,
+            "candidates": [
+                "Jos\u00e9_Luis_Rodr\u00edguez_Zapatero",
+                "Zapatero_District",
+                "Zapatero_(surname)"
+            ],
+            "scores": [
+                0.92,
+                0.04,
+                0.04
+            ]
+        },
+        {
+            "begin": 2567,
+            "end": 2571,
+            "text": "2014",
+            "concept": 21
+        },
+        {
+            "begin": 2637,
+            "end": 2643,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 2661,
+            "end": 2667,
+            "text": "Maduro",
+            "concept": 1,
+            "candidates": [
+                "Nicol\u00e1s_Maduro",
+                "Hedwiges_Maduro",
+                "Calvin_Maduro",
+                "Maduro",
+                "Cigar",
+                "Ricardo_Maduro",
+                "Cooking_banana"
+            ],
+            "scores": [
+                0.5,
+                0.2,
+                0.1,
+                0.05,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 2720,
+            "end": 2741,
+            "text": "kbd/rc (AFP, Reuters)",
+            "concept": 22
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Venezuela",
+            "keyword": true,
+            "count": 3,
+            "link": "Venezuela",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Nicolas Maduro",
+            "keyword": true,
+            "count": 10,
+            "link": "Nicol\u00e1s_Maduro",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "MUD",
+            "keyword": true,
+            "count": 1,
+            "link": "Democratic_Unity_Roundtable",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Congress",
+            "keyword": true,
+            "count": 1,
+            "link": "National_Assembly_(Venezuela)",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Jesus Torrealba",
+            "keyword": true,
+            "count": 3,
+            "link": "Jes\u00fas_Torrealba",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Luis Vicente Leon",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Jose Luis Rodriguez Zapatero",
+            "keyword": false,
+            "count": 2,
+            "link": "Jos\u00e9_Luis_Rodr\u00edguez_Zapatero",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Vatican",
+            "keyword": false,
+            "count": 3,
+            "link": "Holy_See",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Friday",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Venezuelan",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "South American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Executive Secretary",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "October 30",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Analyst",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "January 10",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "2019",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "envoy",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Claudio Maria Celli",
+            "keyword": false,
+            "count": 1,
+            "link": "Claudio_Maria_Celli",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Spanish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "prime minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "kbd/rc (AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "keyword": false,
+            "count": 0,
+            "link": "Spain",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "agency_of-x",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 23
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "head_of_gov",
+            "o": 23
+        },
+        {
+            "s": 6,
+            "p": "head_of_gov-x",
+            "o": 19
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 19,
+            "p": "gpe0",
+            "o": 23
+        }
+    ],
+    "frames": [
+        {
+            "type": "meet",
+            "slots": [
+                {
+                    "name": "time",
+                    "value": 8
+                },
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000647"
+    ]
+}

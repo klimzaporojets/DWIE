@@ -1,0 +1,1929 @@
+{
+    "id": "DW_5279276",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 4,
+            "text": "Indo",
+            "concept": 4
+        },
+        {
+            "begin": 5,
+            "end": 14,
+            "text": "Pakistani",
+            "concept": 5
+        },
+        {
+            "begin": 15,
+            "end": 21,
+            "text": "author",
+            "concept": 6
+        },
+        {
+            "begin": 22,
+            "end": 35,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 53,
+            "end": 60,
+            "text": "Islamic",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islamic_architecture",
+                "Islamism",
+                "Islamic_calendar",
+                "Islamic_art",
+                "Sharia",
+                "Islamic_state",
+                "Islamic_culture",
+                "Islamic_studies",
+                "Islamic_mythology",
+                "Islamic_banking_and_finance",
+                "Caliphate",
+                "Islamic_music",
+                "Islamic_philosophy",
+                "History_of_Islam",
+                "Islamic_Golden_Age"
+            ],
+            "scores": [
+                0.9162918052024251,
+                0.024447486798357128,
+                0.005085077254058283,
+                0.0041071777821239976,
+                0.0035204380989634267,
+                0.0033248582045765696,
+                0.0029336984158028555,
+                0.0029336984158028555,
+                0.0025425386270291413,
+                0.0025425386270291413,
+                0.0021513788382554275,
+                0.0019557989438685705,
+                0.0017602190494817134,
+                0.0015646391550948563,
+                0.001173479366321142,
+                0.001173479366321142
+            ]
+        },
+        {
+            "begin": 93,
+            "end": 99,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 123,
+            "end": 130,
+            "text": "British",
+            "concept": 8
+        },
+        {
+            "begin": 131,
+            "end": 141,
+            "text": "journalist",
+            "concept": 9
+        },
+        {
+            "begin": 142,
+            "end": 155,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 210,
+            "end": 214,
+            "text": "book",
+            "concept": 10
+        },
+        {
+            "begin": 216,
+            "end": 236,
+            "text": "Strangers to History",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 239,
+            "end": 252,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 335,
+            "end": 339,
+            "text": "Indo",
+            "concept": 4
+        },
+        {
+            "begin": 340,
+            "end": 349,
+            "text": "Pakistani",
+            "concept": 5
+        },
+        {
+            "begin": 653,
+            "end": 657,
+            "text": "Gods",
+            "concept": 11,
+            "candidates": [
+                "Deity",
+                "God",
+                "\u00c6sir",
+                "Gods_(video_game)",
+                "Ancient_Egyptian_deities",
+                "Greek_gods",
+                "Kami",
+                "God_in_Islam",
+                "God_in_Judaism",
+                "List_of_Roman_deities",
+                "List_of_Germanic_deities",
+                "Deva_(Hinduism)",
+                "Twelve_Olympians",
+                "List_of_Maya_gods_and_supernatural_beings",
+                "God_(male_deity)",
+                "List_of_deities_in_Marvel_Comics"
+            ],
+            "scores": [
+                0.3756983240223464,
+                0.164804469273743,
+                0.06005586592178771,
+                0.027932960893854747,
+                0.025139664804469275,
+                0.023743016759776536,
+                0.023743016759776536,
+                0.019553072625698324,
+                0.018156424581005588,
+                0.013966480446927373,
+                0.013966480446927373,
+                0.012569832402234637,
+                0.012569832402234637,
+                0.0111731843575419,
+                0.0111731843575419,
+                0.0111731843575419
+            ]
+        },
+        {
+            "begin": 801,
+            "end": 815,
+            "text": "Benazir Bhutto",
+            "concept": 12,
+            "candidates": [
+                "Benazir_Bhutto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 841,
+            "end": 854,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 917,
+            "end": 921,
+            "text": "book",
+            "concept": 10
+        },
+        {
+            "begin": 923,
+            "end": 943,
+            "text": "Strangers to History",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 972,
+            "end": 978,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 999,
+            "end": 1004,
+            "text": "Delhi",
+            "concept": 13,
+            "candidates": [
+                "Delhi",
+                "Delhi_cricket_team",
+                "Delhi_Junction_railway_station",
+                "Feroz_Shah_Kotla",
+                "Delhi,_Louisiana",
+                "Delhi_(village),_New_York",
+                "Indira_Gandhi_International_Airport",
+                "Delhi,_New_York",
+                "Delhi,_Ontario",
+                "New_Delhi",
+                "Delhi_women's_cricket_team",
+                "Delhi_&_District_Cricket_Association",
+                "Major_Dhyan_Chand_National_Stadium",
+                "Feroz_Shah_Kotla_Ground",
+                "Delhi_Sultanate",
+                "Delhi,_California"
+            ],
+            "scores": [
+                0.8715796541883498,
+                0.04599630686587208,
+                0.007722007722007722,
+                0.006630854456941414,
+                0.006211180124223602,
+                0.005959375524592916,
+                0.0055397011918751045,
+                0.004448547926808796,
+                0.004280678193721672,
+                0.0032734597951989256,
+                0.0031895249286553636,
+                0.003105590062111801,
+                0.0027698505959375523,
+                0.0027698505959375523,
+                0.0023501762632197414,
+                0.0017626321974148062
+            ]
+        },
+        {
+            "begin": 1030,
+            "end": 1043,
+            "text": "Salman Taseer",
+            "concept": 3,
+            "candidates": [
+                "Salmaan_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1069,
+            "end": 1077,
+            "text": "Pakistan",
+            "concept": 14,
+            "candidates": [
+                "Pakistan",
+                "Pakistan_national_cricket_team",
+                "Pakistan_women's_national_cricket_team",
+                "Pakistan_national_football_team",
+                "A1_Team_Pakistan",
+                "Dominion_of_Pakistan",
+                "Pakistan_men's_national_squash_team",
+                "Pakistan_men's_national_field_hockey_team",
+                "Pakistan_national_under-19_cricket_team",
+                "Pakistan_Football_Federation",
+                "Pakistan_Navy",
+                "Pakistan_Army",
+                "Pakistani_cuisine",
+                "Government_of_Pakistan",
+                "Pakistan_and_weapons_of_mass_destruction",
+                "Pakistan_Fed_Cup_team"
+            ],
+            "scores": [
+                0.895000850195545,
+                0.06073230176273876,
+                0.005101173269852066,
+                0.004421016833871791,
+                0.0035708212888964463,
+                0.0030607039619112396,
+                0.0018704301989457576,
+                0.0018704301989457576,
+                0.0010202346539704133,
+                0.0007651759904778099,
+                0.0006518165844810974,
+                0.0006234767329819192,
+                0.000595136881482741,
+                0.0005384571784843847,
+                0.0005384571784843847,
+                0.0005101173269852066
+            ]
+        },
+        {
+            "begin": 1080,
+            "end": 1086,
+            "text": "Punjab",
+            "concept": 15,
+            "candidates": [
+                "Punjab,_India",
+                "Punjab,_Pakistan",
+                "Punjab",
+                "Punjab_Province_(British_India)",
+                "Punjab_cricket_team_(India)",
+                "Punjab_cricket_team_(Pakistan)",
+                "Sikh_Empire",
+                "Punjab_football_team",
+                "Punjab_Cricket_Association",
+                "Punjab_women's_cricket_team_(India)",
+                "East_Punjab",
+                "Provincial_Assembly_of_the_Punjab",
+                "Punjab_Legislative_Assembly",
+                "Punjab_Regiment_(Pakistan)",
+                "Punjab_provincial_election,_2013",
+                "Punjabis"
+            ],
+            "scores": [
+                0.40154274694664666,
+                0.32604813941861294,
+                0.17848725091064924,
+                0.044139704306835226,
+                0.023712591957717306,
+                0.005856724519677166,
+                0.004428255124633955,
+                0.0034997500178558676,
+                0.0024998214413256194,
+                0.0014998928647953717,
+                0.0010713520462824085,
+                0.0007142346975216056,
+                0.0004999642882651239,
+                0.00042854081851296334,
+                0.0003571173487608028,
+                0.0003571173487608028
+            ]
+        },
+        {
+            "begin": 1101,
+            "end": 1106,
+            "text": "India",
+            "concept": 16,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1118,
+            "end": 1128,
+            "text": "journalist",
+            "concept": 9
+        },
+        {
+            "begin": 1129,
+            "end": 1142,
+            "text": "Tavleen Singh",
+            "concept": 17,
+            "candidates": [
+                "Tavleen_Singh"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1150,
+            "end": 1156,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 1165,
+            "end": 1171,
+            "text": "Salman",
+            "concept": 3,
+            "candidates": [
+                "Salman_of_Saudi_Arabia",
+                "Danis_Salman",
+                "Salman_Khan",
+                "Salman_the_Persian",
+                "Salman_(name)",
+                "Salman_Yusuff_Khan",
+                "Salman,_Crown_Prince_of_Bahrain",
+                "Salman,_Semnan",
+                "Salman,_Razavi_Khorasan",
+                "Salman,_Tehran",
+                "Salman_(myth)",
+                "Salman_Schocken",
+                "Salman_Ahmad",
+                "Salman_ibn_Rabiah",
+                "Salman_Akhtar"
+            ],
+            "scores": [
+                0.6388888888888888,
+                0.08333333333333333,
+                0.05555555555555555,
+                0.05555555555555555,
+                0.046296296296296294,
+                0.037037037037037035,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.009259259259259259
+            ]
+        },
+        {
+            "begin": 1189,
+            "end": 1197,
+            "text": "Pakistan",
+            "concept": 14,
+            "candidates": [
+                "Pakistan",
+                "Pakistan_national_cricket_team",
+                "Pakistan_women's_national_cricket_team",
+                "Pakistan_national_football_team",
+                "A1_Team_Pakistan",
+                "Dominion_of_Pakistan",
+                "Pakistan_men's_national_squash_team",
+                "Pakistan_men's_national_field_hockey_team",
+                "Pakistan_national_under-19_cricket_team",
+                "Pakistan_Football_Federation",
+                "Pakistan_Navy",
+                "Pakistan_Army",
+                "Pakistani_cuisine",
+                "Government_of_Pakistan",
+                "Pakistan_and_weapons_of_mass_destruction",
+                "Pakistan_Fed_Cup_team"
+            ],
+            "scores": [
+                0.895000850195545,
+                0.06073230176273876,
+                0.005101173269852066,
+                0.004421016833871791,
+                0.0035708212888964463,
+                0.0030607039619112396,
+                0.0018704301989457576,
+                0.0018704301989457576,
+                0.0010202346539704133,
+                0.0007651759904778099,
+                0.0006518165844810974,
+                0.0006234767329819192,
+                0.000595136881482741,
+                0.0005384571784843847,
+                0.0005384571784843847,
+                0.0005101173269852066
+            ]
+        },
+        {
+            "begin": 1230,
+            "end": 1236,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 1259,
+            "end": 1263,
+            "text": "Sikh",
+            "concept": 18
+        },
+        {
+            "begin": 1294,
+            "end": 1300,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 1328,
+            "end": 1334,
+            "text": "London",
+            "concept": 19,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 1486,
+            "end": 1492,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 1549,
+            "end": 1558,
+            "text": "Pakistani",
+            "concept": 5
+        },
+        {
+            "begin": 1614,
+            "end": 1620,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 1639,
+            "end": 1645,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 1738,
+            "end": 1744,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 1960,
+            "end": 1966,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 2117,
+            "end": 2122,
+            "text": "Islam",
+            "concept": 20
+        },
+        {
+            "begin": 2145,
+            "end": 2149,
+            "text": "Iran",
+            "concept": 21,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 2151,
+            "end": 2157,
+            "text": "Turkey",
+            "concept": 22,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 2159,
+            "end": 2164,
+            "text": "Syria",
+            "concept": 23,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2166,
+            "end": 2178,
+            "text": "Saudi Arabia",
+            "concept": 24,
+            "candidates": [
+                "Saudi_Arabia",
+                "Saudi_Arabia_national_football_team",
+                "Saudi_Arabian_Football_Federation",
+                "Saudi_Arabia_national_cricket_team",
+                "Football_in_Saudi_Arabia",
+                "Armed_forces_of_Saudi_Arabia",
+                "Saudi_Arabia_national_under-23_football_team",
+                "Saudi_Arabia_national_under-17_football_team",
+                "Saudi_Aramco_Residential_Camp_in_Dhahran",
+                "Energy_in_Saudi_Arabia",
+                "Saudi_Professional_League",
+                "Saudi_Arabia_national_under-20_football_team",
+                "Saudi_Arabia_national_handball_team",
+                "LGBT_rights_in_Saudi_Arabia",
+                "Flag_of_Saudi_Arabia",
+                "Saudi_Arabia_at_the_Olympics"
+            ],
+            "scores": [
+                0.8983499848622465,
+                0.06441114138661823,
+                0.0065849227974568575,
+                0.002497729336966394,
+                0.00174084165909779,
+                0.0016651528913109294,
+                0.001589464123524069,
+                0.001589464123524069,
+                0.0014380865879503482,
+                0.0009839539812291857,
+                0.0009839539812291857,
+                0.0009082652134423251,
+                0.0009082652134423251,
+                0.0007568876778686043,
+                0.0006811989100817438,
+                0.0006055101422948834
+            ]
+        },
+        {
+            "begin": 2194,
+            "end": 2202,
+            "text": "Pakistan",
+            "concept": 14,
+            "candidates": [
+                "Pakistan",
+                "Pakistan_national_cricket_team",
+                "Pakistan_women's_national_cricket_team",
+                "Pakistan_national_football_team",
+                "A1_Team_Pakistan",
+                "Dominion_of_Pakistan",
+                "Pakistan_men's_national_squash_team",
+                "Pakistan_men's_national_field_hockey_team",
+                "Pakistan_national_under-19_cricket_team",
+                "Pakistan_Football_Federation",
+                "Pakistan_Navy",
+                "Pakistan_Army",
+                "Pakistani_cuisine",
+                "Government_of_Pakistan",
+                "Pakistan_and_weapons_of_mass_destruction",
+                "Pakistan_Fed_Cup_team"
+            ],
+            "scores": [
+                0.895000850195545,
+                0.06073230176273876,
+                0.005101173269852066,
+                0.004421016833871791,
+                0.0035708212888964463,
+                0.0030607039619112396,
+                0.0018704301989457576,
+                0.0018704301989457576,
+                0.0010202346539704133,
+                0.0007651759904778099,
+                0.0006518165844810974,
+                0.0006234767329819192,
+                0.000595136881482741,
+                0.0005384571784843847,
+                0.0005384571784843847,
+                0.0005101173269852066
+            ]
+        },
+        {
+            "begin": 2233,
+            "end": 2239,
+            "text": "Aatish",
+            "concept": 1,
+            "candidates": [
+                "Aatish:_Feel_the_Fire",
+                "Aatish_(film)",
+                "Aatish_(series)",
+                "Khwaja_Haidar_Ali_Aatish",
+                "Faakhir_Mehmood",
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.10714285714285714,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 2282,
+            "end": 2287,
+            "text": "Islam",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 2401,
+            "end": 2414,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2441,
+            "end": 2446,
+            "text": "Mecca",
+            "concept": 25,
+            "candidates": [
+                "Mecca",
+                "Mecca,_California",
+                "Mecca,_Indiana",
+                "Mecca_Leisure_Group",
+                "Muhammad_in_Mecca",
+                "Mecca_(song)",
+                "Timeline_of_Mecca",
+                "Mecca_Township,_Trumbull_County,_Ohio",
+                "UW\u2013Milwaukee_Panther_Arena",
+                "Great_Mosque_of_Mecca",
+                "Battle_of_Mecca_(1916)",
+                "Mecca_(musician)",
+                "Jeddah",
+                "Makkah_Region",
+                "Mecca,_Ohio",
+                "Riverton_Parke_Junior-Senior_High_School"
+            ],
+            "scores": [
+                0.9733036707452726,
+                0.012235817575083427,
+                0.0030589543937708566,
+                0.002224694104560623,
+                0.0011123470522803114,
+                0.0011123470522803114,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0005561735261401557,
+                0.0005561735261401557,
+                0.00027808676307007786,
+                0.00027808676307007786,
+                0.00027808676307007786,
+                0.00027808676307007786
+            ]
+        },
+        {
+            "begin": 2451,
+            "end": 2459,
+            "text": "Istanbul",
+            "concept": 26,
+            "candidates": [
+                "Istanbul",
+                "Istanbul_Province",
+                "Atak\u00f6y_Athletics_Arena",
+                "\u0130stanbul_(electoral_districts)",
+                "Istanbul_(film)",
+                "Intercity_Istanbul_Park",
+                "WTA_Finals",
+                "Istanbul_Atat\u00fcrk_Airport",
+                "Amex-Istanbul_Challenger",
+                "Sinan_Erdem_Dome",
+                "Istanbul_(Not_Constantinople)",
+                "Istanbul_Football_League",
+                "\u0130stanbul_Cup",
+                "Istanbul_Region_(statistical)",
+                "Abdi_\u0130pek\u00e7i_Arena",
+                "Ecumenical_Patriarchate_of_Constantinople"
+            ],
+            "scores": [
+                0.9579898157129001,
+                0.00745635305528613,
+                0.006243937924345296,
+                0.00284917555771096,
+                0.00212172647914646,
+                0.0016973811833171678,
+                0.0013942774005819593,
+                0.0013942774005819593,
+                0.0010911736178467507,
+                0.001030552861299709,
+                0.0008486905916585839,
+                0.0007274490785645005,
+                0.0006668283220174588,
+                0.0006668283220174588,
+                0.0005455868089233754,
+                0.00048496605237633366
+            ]
+        },
+        {
+            "begin": 2510,
+            "end": 2516,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 2554,
+            "end": 2559,
+            "text": "Syria",
+            "concept": 23,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2601,
+            "end": 2607,
+            "text": "Danish",
+            "concept": 27
+        },
+        {
+            "begin": 2624,
+            "end": 2631,
+            "text": "prophet",
+            "concept": 28
+        },
+        {
+            "begin": 2632,
+            "end": 2640,
+            "text": "Mohammad",
+            "concept": 29,
+            "candidates": [
+                "Muhammad",
+                "Muhammad_(name)",
+                "Muhammad_of_Ghazni",
+                "Mohammad_bin_Salman",
+                "Mohammad_Ali_Jauhar",
+                "Mohammad_Khorrami_(wrestler)",
+                "Mohammad,_Iran",
+                "Mohamed_Faysel",
+                "Mohammad_Reza_Pahlavi",
+                "Muhammad_II_of_Khwarezm",
+                "Muhammad_ibn_Ali_ibn_al-Layth",
+                "Muhammad_ibn_Tahir",
+                "Muhammad:_The_Messenger_of_God_(film)",
+                "Mohammad_Samimi",
+                "Ismaeel_Mohammad",
+                "Mohammad_Shah_Qajar"
+            ],
+            "scores": [
+                0.7793103448275862,
+                0.07586206896551724,
+                0.027586206896551724,
+                0.020689655172413793,
+                0.013793103448275862,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 2705,
+            "end": 2711,
+            "text": "Muslim",
+            "concept": 7
+        },
+        {
+            "begin": 2864,
+            "end": 2868,
+            "text": "Urdu",
+            "concept": 30,
+            "candidates": [
+                "Urdu",
+                "Urdu_poetry",
+                "Urdu_alphabet",
+                "Urdu_literature",
+                "Cinema_of_Pakistan",
+                "Urdu_(band)",
+                "Urdu_Wikipedia",
+                "Hindustani_language",
+                "List_of_Sahitya_Akademi_Award_winners_for_Urdu",
+                "Urdu_Braille",
+                "Urdu_(album)",
+                "List_of_Urdu-language_television_channels",
+                "Hyderabadi_Urdu",
+                "Tirukkural_translations_into_Urdu",
+                "BBC_Urdu",
+                "Balti_language"
+            ],
+            "scores": [
+                0.9704922313617966,
+                0.01357879618749184,
+                0.004700352526439483,
+                0.0035252643948296123,
+                0.003003003003003003,
+                0.0006528267397832616,
+                0.0005222613918266092,
+                0.0003916960438699569,
+                0.0003916960438699569,
+                0.0002611306959133046,
+                0.0002611306959133046,
+                0.0002611306959133046,
+                0.0002611306959133046,
+                0.0001305653479566523,
+                0.0001305653479566523,
+                0.0001305653479566523
+            ]
+        },
+        {
+            "begin": 3045,
+            "end": 3050,
+            "text": "Islam",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 3102,
+            "end": 3115,
+            "text": "Aatish Taseer",
+            "concept": 1,
+            "candidates": [
+                "Aatish_Taseer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3193,
+            "end": 3199,
+            "text": "German",
+            "concept": 31,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 3213,
+            "end": 3258,
+            "text": "Author: Isha Bhatia Editor: Thomas Baerthlein",
+            "concept": 32
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 3,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::other",
+                "type::religion",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Aatish Taseer",
+            "keyword": true,
+            "count": 12,
+            "link": "Aatish_Taseer",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "meta::todo",
+                "slot::keyword",
+                "topic::culture",
+                "topic::none",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Strangers to History",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000013",
+                "slot::keyword",
+                "topic::culture",
+                "type::book_title",
+                "type::entity",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Salman Taseer",
+            "keyword": false,
+            "count": 2,
+            "link": "Salmaan_Taseer",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_regional"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Indo",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Pakistani",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "author",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 7,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "journalist",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "book",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Gods",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::deity",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Benazir Bhutto",
+            "keyword": false,
+            "count": 1,
+            "link": "Benazir_Bhutto",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Delhi",
+            "keyword": false,
+            "count": 1,
+            "link": "Delhi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Pakistan",
+            "keyword": false,
+            "count": 3,
+            "link": "Pakistan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Punjab",
+            "keyword": false,
+            "count": 1,
+            "link": "Punjab,_Pakistan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "India",
+            "keyword": false,
+            "count": 1,
+            "link": "India",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Tavleen Singh",
+            "keyword": false,
+            "count": 1,
+            "link": "Tavleen_Singh",
+            "tags": [
+                "gender::female",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Sikh",
+            "keyword": false,
+            "count": 1,
+            "link": "Sikhism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Islam",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Iran",
+            "keyword": false,
+            "count": 1,
+            "link": "Iran",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Turkey",
+            "keyword": false,
+            "count": 1,
+            "link": "Turkey",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Syria",
+            "keyword": false,
+            "count": 2,
+            "link": "Syria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Saudi Arabia",
+            "keyword": false,
+            "count": 1,
+            "link": "Saudi_Arabia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Mecca",
+            "keyword": false,
+            "count": 1,
+            "link": "Mecca",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Istanbul",
+            "keyword": false,
+            "count": 1,
+            "link": "Istanbul",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Danish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "prophet",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Mohammad",
+            "keyword": false,
+            "count": 1,
+            "link": "Muhammad",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::deity",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Urdu",
+            "keyword": false,
+            "count": 1,
+            "link": "Urdu",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "link": "German_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Author: Isha Bhatia Editor: Thomas Baerthlein",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "Denmark",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "child_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "child_of",
+            "o": 17
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 33
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "created_by",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 15
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 14
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 15
+        },
+        {
+            "s": 3,
+            "p": "parent_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 33
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 14
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 16
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 14
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 17,
+            "p": "citizen_of",
+            "o": 16
+        },
+        {
+            "s": 17,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 17,
+            "p": "parent_of",
+            "o": 1
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 33
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 27,
+            "p": "gpe0",
+            "o": 34
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "01000000",
+        "12000000",
+        "20000002",
+        "20000013"
+    ]
+}

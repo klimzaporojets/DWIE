@@ -1,0 +1,428 @@
+{
+    "id": "DW_14843921",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 72,
+            "end": 78,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 278,
+            "end": 284,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 298,
+            "end": 305,
+            "text": "Tuesday",
+            "concept": 5
+        },
+        {
+            "begin": 459,
+            "end": 468,
+            "text": "Detlef S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 894,
+            "end": 911,
+            "text": "Public prosecutor",
+            "concept": 6
+        },
+        {
+            "begin": 912,
+            "end": 925,
+            "text": "Thorsten Kahl",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 931,
+            "end": 940,
+            "text": "Detlef S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1198,
+            "end": 1204,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 1205,
+            "end": 1211,
+            "text": "Fritzl",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1281,
+            "end": 1288,
+            "text": "Koblenz",
+            "concept": 7,
+            "candidates": [
+                "Koblenz",
+                "Koblenz_Hauptbahnhof",
+                "Koblenz,_Switzerland",
+                "Koblenz_(region)",
+                "TuS_Koblenz",
+                "Koblenz_Fortress",
+                "Koblenz_Open",
+                "Koblenz_railway_station_(Switzerland)",
+                "2017_Koblenz_Open",
+                "2018_Koblenz_Open",
+                "2017_Koblenz_Open_\u2013_Singles",
+                "2017_Koblenz_Open_\u2013_Doubles",
+                "Federal_Horticultural_Show_2011",
+                "Basilica_of_St._Castor",
+                "Deutsches_Eck",
+                "Koblenz_radio_transmitter"
+            ],
+            "scores": [
+                0.8312570781426953,
+                0.11834654586636467,
+                0.022650056625141562,
+                0.010758776896942242,
+                0.00622876557191393,
+                0.0022650056625141564,
+                0.0016987542468856172,
+                0.0016987542468856172,
+                0.0011325028312570782,
+                0.0005662514156285391,
+                0.0005662514156285391,
+                0.0005662514156285391,
+                0.0005662514156285391,
+                0.0005662514156285391,
+                0.0005662514156285391,
+                0.0005662514156285391
+            ]
+        },
+        {
+            "begin": 1290,
+            "end": 1299,
+            "text": "Detlef S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1404,
+            "end": 1413,
+            "text": "Detlef S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1483,
+            "end": 1494,
+            "text": "February 25",
+            "concept": 8
+        },
+        {
+            "begin": 1500,
+            "end": 1506,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 1546,
+            "end": 1554,
+            "text": "Austrian",
+            "concept": 9
+        },
+        {
+            "begin": 1555,
+            "end": 1567,
+            "text": "Josef Fritzl",
+            "concept": 3,
+            "candidates": [
+                "Josef_Fritzl",
+                "Fritzl_case"
+            ],
+            "scores": [
+                0.6875,
+                0.3125
+            ]
+        },
+        {
+            "begin": 1608,
+            "end": 1612,
+            "text": "2009",
+            "concept": 10
+        },
+        {
+            "begin": 1726,
+            "end": 1783,
+            "text": "Author: Darren Mara (AFP, Reuters) Editor: Martin Kuebler",
+            "concept": 11
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Detlef S.",
+            "keyword": true,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Thorsten Kahl",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "text": "Josef Fritzl",
+            "keyword": false,
+            "count": 2,
+            "link": "Josef_Fritzl",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Public prosecutor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Koblenz",
+            "keyword": false,
+            "count": 1,
+            "link": "Koblenz",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "February 25",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Austrian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "2009",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Author: Darren Mara (AFP, Reuters) Editor: Martin Kuebler",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        },
+        {
+            "concept": 13,
+            "keyword": false,
+            "count": 0,
+            "link": "Austria",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 1,
+            "p": "agent_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 13
+        }
+    ],
+    "frames": [
+        {
+            "type": "trial-hearing",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 5
+                },
+                {
+                    "name": "place",
+                    "value": 7
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000084",
+        "20000085"
+    ]
+}

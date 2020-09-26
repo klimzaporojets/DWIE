@@ -1,0 +1,940 @@
+{
+    "id": "DW_5311411",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 38,
+            "end": 44,
+            "text": "Google",
+            "concept": 2,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 159,
+            "end": 164,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 165,
+            "end": 169,
+            "text": "2010",
+            "concept": 3
+        },
+        {
+            "begin": 201,
+            "end": 215,
+            "text": "Deutsche Welle",
+            "concept": 4,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 283,
+            "end": 293,
+            "text": "trade fair",
+            "concept": 5
+        },
+        {
+            "begin": 295,
+            "end": 300,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 329,
+            "end": 335,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 344,
+            "end": 351,
+            "text": "Hanover",
+            "concept": 1,
+            "candidates": [
+                "Hanover",
+                "Hanover,_New_Hampshire",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Kingdom_of_Hanover",
+                "Hanover,_Pennsylvania",
+                "Hanover_County,_Virginia",
+                "Hannover_Hauptbahnhof",
+                "House_of_Hanover",
+                "Hanover,_Ontario",
+                "Hanover_(horse)",
+                "Hanover,_Massachusetts",
+                "Hanover_Parish",
+                "Hanover,_Maryland",
+                "Hanover,_Indiana",
+                "Hanover,_Brighton",
+                "Province_of_Hanover"
+            ],
+            "scores": [
+                0.6533849129593811,
+                0.04390715667311412,
+                0.03636363636363636,
+                0.03500967117988395,
+                0.019342359767891684,
+                0.016634429400386848,
+                0.015087040618955513,
+                0.014893617021276596,
+                0.013926499032882012,
+                0.013152804642166345,
+                0.011992263056092843,
+                0.00909090909090909,
+                0.007736943907156673,
+                0.007350096711798839,
+                0.006963249516441006,
+                0.006189555125725338
+            ]
+        },
+        {
+            "begin": 478,
+            "end": 486,
+            "text": "American",
+            "concept": 7
+        },
+        {
+            "begin": 487,
+            "end": 501,
+            "text": "internet giant",
+            "concept": 8
+        },
+        {
+            "begin": 502,
+            "end": 508,
+            "text": "Google",
+            "concept": 2,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 553,
+            "end": 560,
+            "text": "Germany",
+            "concept": 9,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 586,
+            "end": 597,
+            "text": "Street View",
+            "concept": 10,
+            "candidates": [
+                "Google_Street_View",
+                "List_of_street_view_services"
+            ],
+            "scores": [
+                0.8571428571428571,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 599,
+            "end": 610,
+            "text": "Sam Edmonds",
+            "concept": 11,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 612,
+            "end": 626,
+            "text": "Deutsche Welle",
+            "concept": 4,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 657,
+            "end": 679,
+            "text": "European Business Week",
+            "concept": 12
+        },
+        {
+            "begin": 687,
+            "end": 694,
+            "text": "Hanover",
+            "concept": 1,
+            "candidates": [
+                "Hanover",
+                "Hanover,_New_Hampshire",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Kingdom_of_Hanover",
+                "Hanover,_Pennsylvania",
+                "Hanover_County,_Virginia",
+                "Hannover_Hauptbahnhof",
+                "House_of_Hanover",
+                "Hanover,_Ontario",
+                "Hanover_(horse)",
+                "Hanover,_Massachusetts",
+                "Hanover_Parish",
+                "Hanover,_Maryland",
+                "Hanover,_Indiana",
+                "Hanover,_Brighton",
+                "Province_of_Hanover"
+            ],
+            "scores": [
+                0.6533849129593811,
+                0.04390715667311412,
+                0.03636363636363636,
+                0.03500967117988395,
+                0.019342359767891684,
+                0.016634429400386848,
+                0.015087040618955513,
+                0.014893617021276596,
+                0.013926499032882012,
+                0.013152804642166345,
+                0.011992263056092843,
+                0.00909090909090909,
+                0.007736943907156673,
+                0.007350096711798839,
+                0.006963249516441006,
+                0.006189555125725338
+            ]
+        },
+        {
+            "begin": 719,
+            "end": 725,
+            "text": "Google",
+            "concept": 2,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 734,
+            "end": 740,
+            "text": "Google",
+            "concept": 2,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 762,
+            "end": 767,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 838,
+            "end": 844,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 865,
+            "end": 871,
+            "text": "French",
+            "concept": 13
+        },
+        {
+            "begin": 917,
+            "end": 923,
+            "text": "Google",
+            "concept": 2,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 1023,
+            "end": 1028,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1120,
+            "end": 1131,
+            "text": "Street View",
+            "concept": 10,
+            "candidates": [
+                "Google_Street_View",
+                "List_of_street_view_services"
+            ],
+            "scores": [
+                0.8571428571428571,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 1162,
+            "end": 1167,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1230,
+            "end": 1235,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1358,
+            "end": 1363,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1549,
+            "end": 1554,
+            "text": "CeBIT",
+            "concept": 0,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2166,
+            "end": 2172,
+            "text": "Hall 9",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3203,
+            "end": 3209,
+            "text": "Avatar",
+            "concept": 15,
+            "candidates": [
+                "Avatar_(2009_film)",
+                "Avatar",
+                "Avatar_(computing)",
+                "Avatar_(band)",
+                "Incarnation",
+                "Avatar_(Ultima)",
+                "Avatar_Press",
+                "Avatar_(horse)",
+                "Avatar_(2004_film)",
+                "Avatar_(The_X-Files)",
+                "Avatar:_Music_from_the_Motion_Picture",
+                "Avatar_(Xbox)",
+                "Avatar:_The_Last_Airbender",
+                "Avatar_(1979_video_game)",
+                "Avatar_(newspaper)",
+                "Avatar_(spacecraft)"
+            ],
+            "scores": [
+                0.5150462962962963,
+                0.2681327160493827,
+                0.10378086419753087,
+                0.02816358024691358,
+                0.008873456790123456,
+                0.008487654320987654,
+                0.008101851851851851,
+                0.008101851851851851,
+                0.005401234567901234,
+                0.004629629629629629,
+                0.004629629629629629,
+                0.004243827160493827,
+                0.0038580246913580245,
+                0.0038580246913580245,
+                0.002700617283950617,
+                0.002700617283950617
+            ]
+        },
+        {
+            "begin": 3627,
+            "end": 3670,
+            "text": "Author: Sam Edmonds (mrm) Editor: John Blau",
+            "concept": 16
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "CeBIT",
+            "keyword": true,
+            "count": 9,
+            "link": "CEBIT",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::organization",
+                "type::trade_fair"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Hanover",
+            "keyword": true,
+            "count": 2,
+            "link": "Hanover",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Google",
+            "keyword": true,
+            "count": 5,
+            "link": "Google",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000225",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "2010",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Deutsche Welle",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "trade fair",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "internet giant",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Street View",
+            "keyword": false,
+            "count": 2,
+            "link": "Google_Street_View",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Sam Edmonds",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "European Business Week",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Hall 9",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Avatar",
+            "keyword": false,
+            "count": 1,
+            "link": "Avatar_(2009_film)",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000005",
+                "topic::culture",
+                "type::entity",
+                "type::film_title",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Author: Sam Edmonds (mrm) Editor: John Blau",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "event_in0",
+            "o": 9
+        },
+        {
+            "s": 0,
+            "p": "event_in2",
+            "o": 1
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 17
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 17
+        },
+        {
+            "s": 10,
+            "p": "product_of",
+            "o": 2
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 18
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "13000000",
+        "20000170",
+        "20000735",
+        "20000736"
+    ]
+}

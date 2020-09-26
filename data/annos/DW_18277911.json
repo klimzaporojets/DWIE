@@ -1,0 +1,618 @@
+{
+    "id": "DW_18277911",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 34,
+            "end": 46,
+            "text": "South Korean",
+            "concept": 3
+        },
+        {
+            "begin": 63,
+            "end": 74,
+            "text": "South Korea",
+            "concept": 0,
+            "candidates": [
+                "South_Korea",
+                "South_Korea_national_football_team",
+                "South_Korea_national_baseball_team",
+                "South_Korea_women's_national_football_team",
+                "Korea_Football_Association",
+                "Cinema_of_South_Korea",
+                "South_Korea_national_under-23_football_team",
+                "South_Korea_national_under-20_football_team",
+                "List_of_years_in_South_Korea",
+                "South_Korea_national_basketball_team",
+                "South_Korea_Fed_Cup_team",
+                "South_Korea_national_rugby_union_team",
+                "South_Korea_men's_national_under-18_ice_hockey_team",
+                "South_Korea_Davis_Cup_team",
+                "South_Korea_men's_national_volleyball_team",
+                "South_Korea_at_the_2012_Summer_Olympics"
+            ],
+            "scores": [
+                0.9008147483256231,
+                0.038286266657460474,
+                0.004488020437754609,
+                0.0031070910722916525,
+                0.0028999516674722086,
+                0.0025547193261064695,
+                0.0018297314092384175,
+                0.0017952081751018436,
+                0.0015880687702824001,
+                0.0014154525995995304,
+                0.0013464061313263826,
+                0.0013118828971898087,
+                0.0011392667265069391,
+                0.0011392667265069391,
+                0.0010702202582337913,
+                0.0009666505558240696
+            ]
+        },
+        {
+            "begin": 418,
+            "end": 427,
+            "text": "Wednesday",
+            "concept": 4
+        },
+        {
+            "begin": 452,
+            "end": 463,
+            "text": "Sejong City",
+            "concept": 1,
+            "candidates": [
+                "Sejong_City"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 507,
+            "end": 519,
+            "text": "South Korean",
+            "concept": 3
+        },
+        {
+            "begin": 520,
+            "end": 527,
+            "text": "capital",
+            "concept": 5
+        },
+        {
+            "begin": 528,
+            "end": 533,
+            "text": "Seoul",
+            "concept": 6,
+            "candidates": [
+                "Seoul",
+                "Seoul_Capital_Area",
+                "FC_Seoul",
+                "1988_Summer_Olympics",
+                "Seoul_Open",
+                "Seoul_WFC",
+                "Seoul_station",
+                "Korea_Open_(tennis)",
+                "Incheon_International_Airport",
+                "Samsung_Securities_Cup",
+                "Seoul_World_Cup_Stadium",
+                "GS_Caltex_Seoul_KIXX",
+                "List_of_districts_of_Seoul",
+                "2013_Korea_Open",
+                "Seoul_Metropolitan_Subway",
+                "Seoul_Olympic_Stadium"
+            ],
+            "scores": [
+                0.9620897774424746,
+                0.008173016471771658,
+                0.004652332453162328,
+                0.00295485980133283,
+                0.002829121086382497,
+                0.002389035584056331,
+                0.002263296869105998,
+                0.0016346032943543318,
+                0.0013202565069784986,
+                0.001131648434552999,
+                0.0010687790770778324,
+                0.000628693574751666,
+                0.000628693574751666,
+                0.0005029548598013328,
+                0.00044008550232616623,
+                0.00044008550232616623
+            ]
+        },
+        {
+            "begin": 639,
+            "end": 659,
+            "text": "Sejong Police Agency",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 661,
+            "end": 670,
+            "text": "Lee Ja-ha",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 834,
+            "end": 837,
+            "text": "Lee",
+            "concept": 2,
+            "candidates": [
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Georgia",
+                "Lee_County,_Florida",
+                "Cliff_Lee",
+                "Lee_County,_Alabama",
+                "Leeds_United_F.C.",
+                "Lee,_London",
+                "Lee_County,_Mississippi",
+                "Lee_County,_Texas",
+                "Lee,_Massachusetts",
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Arkansas",
+                "Lee_County,_Illinois",
+                "Lee_County,_Georgia",
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Florida",
+                "Robert_E._Lee",
+                "Lee_County,_Arkansas",
+                "Lee_County,_North_Carolina"
+            ],
+            "scores": [
+                0.05375626043405676,
+                0.05275459098497496,
+                0.04106844741235392,
+                0.03973288814691152,
+                0.03706176961602671,
+                0.028714524207011687,
+                0.027045075125208682,
+                0.027045075125208682,
+                0.027045075125208682,
+                0.02604340567612688,
+                0.024373956594323874,
+                0.02370617696160267,
+                0.02303839732888147,
+                0.02303839732888147,
+                0.022370617696160267,
+                0.021035058430717863
+            ]
+        },
+        {
+            "begin": 1385,
+            "end": 1391,
+            "text": "Gongju",
+            "concept": 8,
+            "candidates": [
+                "Gongju"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1403,
+            "end": 1414,
+            "text": "South Korea",
+            "concept": 0,
+            "candidates": [
+                "South_Korea",
+                "South_Korea_national_football_team",
+                "South_Korea_national_baseball_team",
+                "South_Korea_women's_national_football_team",
+                "Korea_Football_Association",
+                "Cinema_of_South_Korea",
+                "South_Korea_national_under-23_football_team",
+                "South_Korea_national_under-20_football_team",
+                "List_of_years_in_South_Korea",
+                "South_Korea_national_basketball_team",
+                "South_Korea_Fed_Cup_team",
+                "South_Korea_national_rugby_union_team",
+                "South_Korea_men's_national_under-18_ice_hockey_team",
+                "South_Korea_Davis_Cup_team",
+                "South_Korea_men's_national_volleyball_team",
+                "South_Korea_at_the_2012_Summer_Olympics"
+            ],
+            "scores": [
+                0.9008147483256231,
+                0.038286266657460474,
+                0.004488020437754609,
+                0.0031070910722916525,
+                0.0028999516674722086,
+                0.0025547193261064695,
+                0.0018297314092384175,
+                0.0017952081751018436,
+                0.0015880687702824001,
+                0.0014154525995995304,
+                0.0013464061313263826,
+                0.0013118828971898087,
+                0.0011392667265069391,
+                0.0011392667265069391,
+                0.0010702202582337913,
+                0.0009666505558240696
+            ]
+        },
+        {
+            "begin": 1464,
+            "end": 1476,
+            "text": "South Korean",
+            "concept": 3
+        },
+        {
+            "begin": 1608,
+            "end": 1611,
+            "text": "Lee",
+            "concept": 2,
+            "candidates": [
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Georgia",
+                "Lee_County,_Florida",
+                "Cliff_Lee",
+                "Lee_County,_Alabama",
+                "Leeds_United_F.C.",
+                "Lee,_London",
+                "Lee_County,_Mississippi",
+                "Lee_County,_Texas",
+                "Lee,_Massachusetts",
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Arkansas",
+                "Lee_County,_Illinois",
+                "Lee_County,_Georgia",
+                "National_Register_of_Historic_Places_listings_in_Lee_County,_Florida",
+                "Robert_E._Lee",
+                "Lee_County,_Arkansas",
+                "Lee_County,_North_Carolina"
+            ],
+            "scores": [
+                0.05375626043405676,
+                0.05275459098497496,
+                0.04106844741235392,
+                0.03973288814691152,
+                0.03706176961602671,
+                0.028714524207011687,
+                0.027045075125208682,
+                0.027045075125208682,
+                0.027045075125208682,
+                0.02604340567612688,
+                0.024373956594323874,
+                0.02370617696160267,
+                0.02303839732888147,
+                0.02303839732888147,
+                0.022370617696160267,
+                0.021035058430717863
+            ]
+        },
+        {
+            "begin": 1741,
+            "end": 1747,
+            "text": "Sejong",
+            "concept": 9
+        },
+        {
+            "begin": 2008,
+            "end": 2013,
+            "text": "Asian",
+            "concept": 10
+        },
+        {
+            "begin": 2100,
+            "end": 2109,
+            "text": "Wednesday",
+            "concept": 4
+        },
+        {
+            "begin": 2275,
+            "end": 2279,
+            "text": "June",
+            "concept": 11
+        },
+        {
+            "begin": 2386,
+            "end": 2397,
+            "text": "North Korea",
+            "concept": 12,
+            "candidates": [
+                "North_Korea",
+                "North_Korea_national_football_team",
+                "North_Korea_women's_national_football_team",
+                "North_Korea_and_weapons_of_mass_destruction",
+                "North_Korea_women's_national_under-20_football_team",
+                "North_Korea_women's_national_under-17_football_team",
+                "North_Korea_national_under-20_football_team",
+                "North_Korea_national_under-23_football_team",
+                "North_Korea_men's_national_ice_hockey_team",
+                "DPR_Korea_Football_Association",
+                "Korean_People's_Navy",
+                "Korean_People's_Army",
+                "List_of_years_in_North_Korea",
+                "Football_in_North_Korea",
+                "North_Korea_men's_national_under-18_ice_hockey_team",
+                "North_Korea_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8957006369426752,
+                0.04378980891719745,
+                0.013136942675159236,
+                0.0030520169851380044,
+                0.002786624203821656,
+                0.0023885350318471337,
+                0.0021231422505307855,
+                0.0015923566878980893,
+                0.001326963906581741,
+                0.001326963906581741,
+                0.001326963906581741,
+                0.0011942675159235668,
+                0.0010615711252653928,
+                0.0010615711252653928,
+                0.0009288747346072187,
+                0.0009288747346072187
+            ]
+        },
+        {
+            "begin": 2405,
+            "end": 2417,
+            "text": "South Korean",
+            "concept": 3
+        },
+        {
+            "begin": 2471,
+            "end": 2492,
+            "text": "an/sms (AP, AFP, DPA)",
+            "concept": 13
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "South Korea",
+            "keyword": true,
+            "count": 2,
+            "link": "South_Korea",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Sejong City",
+            "keyword": true,
+            "count": 2,
+            "link": "Sejong_City",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Lee Ja-ha",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::police"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "South Korean",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "capital",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Seoul",
+            "keyword": false,
+            "count": 1,
+            "link": "Seoul",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Sejong Police Agency",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::police"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Gongju",
+            "keyword": false,
+            "count": 1,
+            "link": "Gongju",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sejong",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe2-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Asian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "June",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "North Korea",
+            "keyword": false,
+            "count": 1,
+            "link": "North_Korea",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "an/sms (AP, AFP, DPA)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "head_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "gpe2",
+            "o": 1
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "die",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000099"
+    ]
+}

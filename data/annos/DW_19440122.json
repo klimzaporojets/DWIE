@@ -1,0 +1,1792 @@
+{
+    "id": "DW_19440122",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Muslims",
+            "concept": 1
+        },
+        {
+            "begin": 11,
+            "end": 17,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 19,
+            "end": 24,
+            "text": "Italy",
+            "concept": 7,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 30,
+            "end": 38,
+            "text": "Catholic",
+            "concept": 2
+        },
+        {
+            "begin": 53,
+            "end": 59,
+            "text": "French",
+            "concept": 8
+        },
+        {
+            "begin": 67,
+            "end": 74,
+            "text": "Muslims",
+            "concept": 1
+        },
+        {
+            "begin": 78,
+            "end": 84,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 99,
+            "end": 107,
+            "text": "Catholic",
+            "concept": 2
+        },
+        {
+            "begin": 218,
+            "end": 224,
+            "text": "French",
+            "concept": 8
+        },
+        {
+            "begin": 271,
+            "end": 276,
+            "text": "Italy",
+            "concept": 7,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 288,
+            "end": 295,
+            "text": "Muslims",
+            "concept": 1
+        },
+        {
+            "begin": 340,
+            "end": 346,
+            "text": "Gothic",
+            "concept": 9
+        },
+        {
+            "begin": 372,
+            "end": 377,
+            "text": "Rouen",
+            "concept": 10,
+            "candidates": [
+                "Rouen",
+                "FC_Rouen",
+                "Gare_de_Rouen-Rive-Droite",
+                "Roman_Catholic_Archdiocese_of_Rouen",
+                "Rouen-Les-Essarts",
+                "Dragons_de_Rouen",
+                "Rouen_M\u00e9tropole_Basket",
+                "Rouen_Cathedral",
+                "FC_Rouen_(women)",
+                "Rouen_duck",
+                "Gare_de_Rouen_Orl\u00e9ans",
+                "Siege_of_Rouen",
+                "Institut_national_des_sciences_appliqu\u00e9es_de_Rouen",
+                "Acad\u00e9mie_des_sciences,_belles-lettres_et_arts_de_Rouen",
+                "Rouen_Castle",
+                "Mus\u00e9e_des_Beaux-Arts_de_Rouen"
+            ],
+            "scores": [
+                0.8937106918238994,
+                0.052830188679245285,
+                0.010691823899371069,
+                0.009119496855345912,
+                0.008490566037735849,
+                0.007232704402515723,
+                0.0047169811320754715,
+                0.00220125786163522,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0006289308176100629,
+                0.0006289308176100629,
+                0.0006289308176100629
+            ]
+        },
+        {
+            "begin": 388,
+            "end": 394,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 399,
+            "end": 405,
+            "text": "Sunday",
+            "concept": 11
+        },
+        {
+            "begin": 603,
+            "end": 627,
+            "text": "Saint-Etienne-du-Rouvray",
+            "concept": 3,
+            "candidates": [
+                "Saint-\u00c9tienne-du-Rouvray",
+                "Canton_of_Saint-\u00c9tienne-du-Rouvray"
+            ],
+            "scores": [
+                0.9622641509433962,
+                0.03773584905660377
+            ]
+        },
+        {
+            "begin": 678,
+            "end": 684,
+            "text": "Muslim",
+            "concept": 12
+        },
+        {
+            "begin": 695,
+            "end": 700,
+            "text": "Rouen",
+            "concept": 10,
+            "candidates": [
+                "Rouen",
+                "FC_Rouen",
+                "Gare_de_Rouen-Rive-Droite",
+                "Roman_Catholic_Archdiocese_of_Rouen",
+                "Rouen-Les-Essarts",
+                "Dragons_de_Rouen",
+                "Rouen_M\u00e9tropole_Basket",
+                "Rouen_Cathedral",
+                "FC_Rouen_(women)",
+                "Rouen_duck",
+                "Gare_de_Rouen_Orl\u00e9ans",
+                "Siege_of_Rouen",
+                "Institut_national_des_sciences_appliqu\u00e9es_de_Rouen",
+                "Acad\u00e9mie_des_sciences,_belles-lettres_et_arts_de_Rouen",
+                "Rouen_Castle",
+                "Mus\u00e9e_des_Beaux-Arts_de_Rouen"
+            ],
+            "scores": [
+                0.8937106918238994,
+                0.052830188679245285,
+                0.010691823899371069,
+                0.009119496855345912,
+                0.008490566037735849,
+                0.007232704402515723,
+                0.0047169811320754715,
+                0.00220125786163522,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0009433962264150943,
+                0.0006289308176100629,
+                0.0006289308176100629,
+                0.0006289308176100629
+            ]
+        },
+        {
+            "begin": 701,
+            "end": 711,
+            "text": "Archbishop",
+            "concept": 13
+        },
+        {
+            "begin": 712,
+            "end": 728,
+            "text": "Dominique Lebrun",
+            "concept": 14,
+            "candidates": [
+                "Dominique_Lebrun"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 781,
+            "end": 791,
+            "text": "Christians",
+            "concept": 15
+        },
+        {
+            "begin": 873,
+            "end": 876,
+            "text": "God",
+            "concept": 5,
+            "candidates": [
+                "God",
+                "G.o.d",
+                "God_in_Christianity",
+                "God_in_Islam",
+                "God_in_Judaism",
+                "Deity",
+                "Names_of_God_in_Judaism",
+                "Allah",
+                "God_(male_deity)",
+                "Yahweh",
+                "God_(John_Lennon_song)",
+                "God_in_Abrahamic_religions",
+                "God_(British_band)",
+                "God_the_Father",
+                "\u00c6sir",
+                "Trinity"
+            ],
+            "scores": [
+                0.6864714086471408,
+                0.05843793584379359,
+                0.05801952580195258,
+                0.04546722454672245,
+                0.018549511854951184,
+                0.015341701534170154,
+                0.010599721059972107,
+                0.0099023709902371,
+                0.006276150627615063,
+                0.005578800557880056,
+                0.005439330543933054,
+                0.005160390516039052,
+                0.0048814504881450485,
+                0.004741980474198048,
+                0.0030683403068340305,
+                0.0029288702928870294
+            ]
+        },
+        {
+            "begin": 891,
+            "end": 897,
+            "text": "Muslim",
+            "concept": 12
+        },
+        {
+            "begin": 976,
+            "end": 1000,
+            "text": "Saint-Etienne-du-Rouvray",
+            "concept": 3,
+            "candidates": [
+                "Saint-\u00c9tienne-du-Rouvray",
+                "Canton_of_Saint-\u00c9tienne-du-Rouvray"
+            ],
+            "scores": [
+                0.9622641509433962,
+                0.03773584905660377
+            ]
+        },
+        {
+            "begin": 1006,
+            "end": 1012,
+            "text": "Father",
+            "concept": 16
+        },
+        {
+            "begin": 1013,
+            "end": 1026,
+            "text": "Jacques Hamel",
+            "concept": 17,
+            "candidates": [
+                "Jacques_Hamel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1230,
+            "end": 1235,
+            "text": "Syria",
+            "concept": 18,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1347,
+            "end": 1353,
+            "text": "French",
+            "concept": 8
+        },
+        {
+            "begin": 1363,
+            "end": 1369,
+            "text": "French",
+            "concept": 8
+        },
+        {
+            "begin": 1370,
+            "end": 1384,
+            "text": "Prime Minister",
+            "concept": 19
+        },
+        {
+            "begin": 1385,
+            "end": 1397,
+            "text": "Manuel Valls",
+            "concept": 20,
+            "candidates": [
+                "Manuel_Valls",
+                "Manuel_Valls_(composer)"
+            ],
+            "scores": [
+                0.97165991902834,
+                0.02834008097165992
+            ]
+        },
+        {
+            "begin": 1401,
+            "end": 1407,
+            "text": "Sunday",
+            "concept": 11
+        },
+        {
+            "begin": 1461,
+            "end": 1468,
+            "text": "Muslims",
+            "concept": 1
+        },
+        {
+            "begin": 1496,
+            "end": 1502,
+            "text": "Muslim",
+            "concept": 12
+        },
+        {
+            "begin": 1517,
+            "end": 1523,
+            "text": "Europe",
+            "concept": 21,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1526,
+            "end": 1531,
+            "text": "Islam",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 1555,
+            "end": 1561,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1678,
+            "end": 1683,
+            "text": "Islam",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 1748,
+            "end": 1754,
+            "text": "French",
+            "concept": 8
+        },
+        {
+            "begin": 1789,
+            "end": 1796,
+            "text": "Muslims",
+            "concept": 1
+        },
+        {
+            "begin": 1800,
+            "end": 1806,
+            "text": "Sunday",
+            "concept": 11
+        },
+        {
+            "begin": 1808,
+            "end": 1823,
+            "text": "Dalil Boubakeur",
+            "concept": 22,
+            "candidates": [
+                "Dalil_Boubakeur"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1843,
+            "end": 1858,
+            "text": "Mosque of Paris",
+            "concept": 23,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1923,
+            "end": 1933,
+            "text": "Notre Dame",
+            "concept": 24,
+            "candidates": [
+                "Notre_Dame_Fighting_Irish_football",
+                "University_of_Notre_Dame",
+                "Notre_Dame_Fighting_Irish_men's_basketball",
+                "Notre_Dame_Fighting_Irish_men's_ice_hockey",
+                "Notre_Dame_Fighting_Irish",
+                "Notre-Dame_de_Paris",
+                "Notre_Dame_Fighting_Irish_women's_basketball",
+                "Notre_Dame,_Indiana",
+                "Notre_Dame_Fighting_Irish_women's_soccer",
+                "Notre_Dame_Fighting_Irish_men's_soccer",
+                "2012_Notre_Dame_Fighting_Irish_football_team",
+                "Notre_Dame_Fighting_Irish_baseball",
+                "Notre_Dame_Fighting_Irish_men's_lacrosse",
+                "2017_Notre_Dame_Fighting_Irish_football_team",
+                "2010_Notre_Dame_Fighting_Irish_football_team",
+                "2017_Notre_Dame_Fighting_Irish_men's_soccer_team"
+            ],
+            "scores": [
+                0.240350179068842,
+                0.1696511473670248,
+                0.0856877569969492,
+                0.07308661626210372,
+                0.05013927576601671,
+                0.029977450590263962,
+                0.02042711234911792,
+                0.015254012468497148,
+                0.013529645841623557,
+                0.012203209974797718,
+                0.011009417694654463,
+                0.007958615200955034,
+                0.00716275368085953,
+                0.006632179334129195,
+                0.0064995357474466105,
+                0.006366892160764027
+            ]
+        },
+        {
+            "begin": 1981,
+            "end": 1992,
+            "text": "broadcaster",
+            "concept": 25
+        },
+        {
+            "begin": 1993,
+            "end": 1998,
+            "text": "BFMTV",
+            "concept": 26,
+            "candidates": [
+                "BFM_TV",
+                "Telecommunications_in_Burkina_Faso"
+            ],
+            "scores": [
+                0.8,
+                0.2
+            ]
+        },
+        {
+            "begin": 2095,
+            "end": 2100,
+            "text": "Italy",
+            "concept": 7,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 2117,
+            "end": 2121,
+            "text": "Rome",
+            "concept": 27,
+            "candidates": [
+                "Rome",
+                "Ancient_Rome",
+                "Italian_Open_(tennis)",
+                "Rome_(TV_series)",
+                "Rome,_Georgia",
+                "Rome,_New_York",
+                "Roman_Empire",
+                "Roman_Republic",
+                "Holy_See",
+                "Diocese_of_Rome",
+                "Catholic_Church",
+                "Golden_Gala",
+                "Province_of_Rome",
+                "Pope",
+                "Metropolitan_City_of_Rome_Capital",
+                "Stadio_Olimpico"
+            ],
+            "scores": [
+                0.8708913873796331,
+                0.028565280542256172,
+                0.02369680994136317,
+                0.012265318198934854,
+                0.007881004895368228,
+                0.006697509279681532,
+                0.005594706546882565,
+                0.004303620420678896,
+                0.0033084081983969014,
+                0.0016945505406423154,
+                0.0014524718919791274,
+                0.001371779009091398,
+                0.001371779009091398,
+                0.0012641884985744257,
+                0.0011565979880574534,
+                0.0010221098499112377
+            ]
+        },
+        {
+            "begin": 2124,
+            "end": 2149,
+            "text": "Santa Maria di Trastevere",
+            "concept": 28,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2161,
+            "end": 2167,
+            "text": "Naples",
+            "concept": 29,
+            "candidates": [
+                "Naples",
+                "Naples,_Florida",
+                "Kingdom_of_Naples",
+                "Naples,_Maine",
+                "Province_of_Naples",
+                "Metropolitan_City_of_Naples",
+                "Duchy_of_Naples",
+                "Naples,_New_York",
+                "Naples_(village),_New_York",
+                "University_of_Naples_Federico_II",
+                "S.S.C._Napoli",
+                "Naples,_Texas",
+                "Naples_International_Airport",
+                "Napoli_Centrale_railway_station",
+                "Napoleonic_Kingdom_of_Naples",
+                "Kingdom_of_the_Two_Sicilies"
+            ],
+            "scores": [
+                0.8928946447322366,
+                0.04243962198109905,
+                0.027126356317815892,
+                0.004200210010500525,
+                0.00280014000700035,
+                0.002625131256562828,
+                0.0022751137556877845,
+                0.0019250962548127406,
+                0.0018375918795939796,
+                0.001487574378718936,
+                0.001312565628281414,
+                0.001312565628281414,
+                0.001225061253062653,
+                0.001225061253062653,
+                0.0009625481274063703,
+                0.0008750437521876093
+            ]
+        },
+        {
+            "begin": 2169,
+            "end": 2187,
+            "text": "Abdullah Cozzolino",
+            "concept": 30,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2193,
+            "end": 2198,
+            "text": "Italy",
+            "concept": 7,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 2201,
+            "end": 2222,
+            "text": "Islamic Confederation",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2236,
+            "end": 2259,
+            "text": "Treasure of St. Gennaro",
+            "concept": 32,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2279,
+            "end": 2284,
+            "text": "Duomo",
+            "concept": 33,
+            "candidates": [
+                "Duomo",
+                "Florence_Cathedral",
+                "Milan_Cathedral",
+                "Siena_Cathedral",
+                "Pisa_Cathedral",
+                "Orvieto_Cathedral",
+                "Naples_Cathedral",
+                "Duomo_(Naples_Metro)",
+                "Piazza_dei_Miracoli",
+                "Duomo_(Milan_Metro)",
+                "Salerno_Cathedral",
+                "Vicenza_Cathedral",
+                "Messina_Cathedral",
+                "Spoleto_Cathedral",
+                "Monreale_Cathedral",
+                "Cefal\u00f9_Cathedral"
+            ],
+            "scores": [
+                0.37628865979381443,
+                0.17010309278350516,
+                0.15463917525773196,
+                0.05154639175257732,
+                0.030927835051546393,
+                0.015463917525773196,
+                0.015463917525773196,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.005154639175257732,
+                0.005154639175257732,
+                0.005154639175257732,
+                0.005154639175257732,
+                0.005154639175257732
+            ]
+        },
+        {
+            "begin": 2424,
+            "end": 2427,
+            "text": "God",
+            "concept": 5,
+            "candidates": [
+                "God",
+                "G.o.d",
+                "God_in_Christianity",
+                "God_in_Islam",
+                "God_in_Judaism",
+                "Deity",
+                "Names_of_God_in_Judaism",
+                "Allah",
+                "God_(male_deity)",
+                "Yahweh",
+                "God_(John_Lennon_song)",
+                "God_in_Abrahamic_religions",
+                "God_(British_band)",
+                "God_the_Father",
+                "\u00c6sir",
+                "Trinity"
+            ],
+            "scores": [
+                0.6864714086471408,
+                0.05843793584379359,
+                0.05801952580195258,
+                0.04546722454672245,
+                0.018549511854951184,
+                0.015341701534170154,
+                0.010599721059972107,
+                0.0099023709902371,
+                0.006276150627615063,
+                0.005578800557880056,
+                0.005439330543933054,
+                0.005160390516039052,
+                0.0048814504881450485,
+                0.004741980474198048,
+                0.0030683403068340305,
+                0.0029288702928870294
+            ]
+        },
+        {
+            "begin": 2458,
+            "end": 2473,
+            "text": "nm/ rc(AP, AFP)",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Islam",
+            "keyword": false,
+            "count": 2,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Muslims",
+            "keyword": true,
+            "count": 5,
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Catholic",
+            "keyword": true,
+            "count": 2,
+            "link": "Catholic_Church",
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Saint-Etienne-du-Rouvray",
+            "keyword": true,
+            "count": 2,
+            "link": "Saint-\u00c9tienne-du-Rouvray",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 5,
+            "text": "God",
+            "keyword": true,
+            "count": 2,
+            "link": "God",
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::religion",
+                "type::deity",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "France",
+            "keyword": false,
+            "count": 4,
+            "link": "France",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Italy",
+            "keyword": false,
+            "count": 4,
+            "link": "Italy",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "French",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Gothic",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Rouen",
+            "keyword": false,
+            "count": 2,
+            "link": "Rouen",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Archbishop",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Dominique Lebrun",
+            "keyword": false,
+            "count": 1,
+            "link": "Dominique_Lebrun",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Christians",
+            "keyword": false,
+            "count": 1,
+            "link": "Christianity",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Father",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Jacques Hamel",
+            "keyword": false,
+            "count": 1,
+            "link": "Jacques_Hamel",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Syria",
+            "keyword": false,
+            "count": 1,
+            "link": "Syria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Manuel Valls",
+            "keyword": false,
+            "count": 1,
+            "link": "Manuel_Valls",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Dalil Boubakeur",
+            "keyword": false,
+            "count": 1,
+            "link": "Dalil_Boubakeur",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Mosque of Paris",
+            "keyword": false,
+            "count": 1,
+            "link": "Grand_Mosque_of_Paris",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Notre Dame",
+            "keyword": false,
+            "count": 1,
+            "link": "Notre-Dame_de_Paris",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "BFMTV",
+            "keyword": false,
+            "count": 1,
+            "link": "BFM_TV",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Rome",
+            "keyword": false,
+            "count": 1,
+            "link": "Rome",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Santa Maria di Trastevere",
+            "keyword": false,
+            "count": 1,
+            "link": "Santa_Maria_in_Trastevere",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Naples",
+            "keyword": false,
+            "count": 1,
+            "link": "Naples",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Abdullah Cozzolino",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Islamic Confederation",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::organization",
+                "type::religion_org"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Treasure of St. Gennaro",
+            "keyword": false,
+            "count": 1,
+            "link": "Royal_Chapel_of_the_Treasure_of_St._Januarius",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Duomo",
+            "keyword": false,
+            "count": 1,
+            "link": "Naples_Cathedral",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "nm/ rc(AP, AFP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 20,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 20,
+            "p": "head_of_gov",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "head_of_gov-x",
+            "o": 8
+        },
+        {
+            "s": 22,
+            "p": "head_of",
+            "o": 23
+        },
+        {
+            "s": 22,
+            "p": "member_of",
+            "o": 23
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 26,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 27,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 28,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 28,
+            "p": "in2",
+            "o": 27
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 30,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 30,
+            "p": "member_of",
+            "o": 31
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 32,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 32,
+            "p": "in2",
+            "o": 29
+        },
+        {
+            "s": 33,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 33,
+            "p": "in2",
+            "o": 29
+        }
+    ],
+    "frames": [
+        {
+            "type": "die",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "12000000",
+        "20000082",
+        "20000103",
+        "20000657",
+        "20000659",
+        "20000677"
+    ]
+}

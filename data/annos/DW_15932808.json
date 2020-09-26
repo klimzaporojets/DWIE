@@ -1,0 +1,2429 @@
+{
+    "id": "DW_15932808",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 8,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 13,
+            "end": 19,
+            "text": "Dallas",
+            "concept": 0,
+            "candidates": [
+                "Dallas",
+                "Dallas_(1978_TV_series)",
+                "Dallas_Mavericks",
+                "Dallas_County,_Texas",
+                "Dallas_Stars",
+                "Dallas_Cowboys",
+                "Dallas_(2012_TV_series)",
+                "FC_Dallas",
+                "2015\u201316_Dallas_Mavericks_season",
+                "2016\u201317_Dallas_Mavericks_season",
+                "Dallas_County,_Alabama",
+                "Dallas,_Georgia",
+                "2017\u201318_Dallas_Mavericks_season",
+                "Dallas_County,_Iowa",
+                "National_Register_of_Historic_Places_listings_in_Dallas_County,_Arkansas",
+                "2009\u201310_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.5831755929183833,
+                0.0810043425008351,
+                0.052444048546932416,
+                0.019207215232156776,
+                0.01542144527335486,
+                0.012248079278476784,
+                0.011190290613517426,
+                0.009464424897004787,
+                0.005901347288720633,
+                0.005233270237167353,
+                0.005010577886649594,
+                0.004954904799020153,
+                0.004899231711390714,
+                0.004732212448502394,
+                0.004342500835096314,
+                0.0041754815722079945
+            ]
+        },
+        {
+            "begin": 35,
+            "end": 47,
+            "text": "NBA playoffs",
+            "concept": 7,
+            "candidates": [
+                "NBA_playoffs",
+                "2011_NBA_Playoffs",
+                "2010_NBA_Playoffs",
+                "2009_NBA_Playoffs",
+                "2013_NBA_Playoffs",
+                "2007_NBA_Playoffs",
+                "NBA_Live_(video_game_series)",
+                "2012_NBA_Playoffs",
+                "1981_NBA_Playoffs",
+                "2017_NBA_Playoffs",
+                "2000_NBA_Playoffs",
+                "1969_NBA_Playoffs",
+                "1990_NBA_Playoffs",
+                "1999_NBA_Playoffs",
+                "1998_NBA_Playoffs",
+                "1997_NBA_Playoffs"
+            ],
+            "scores": [
+                0.5656108597285068,
+                0.09276018099547512,
+                0.08823529411764706,
+                0.06108597285067873,
+                0.05656108597285068,
+                0.03619909502262444,
+                0.00904977375565611,
+                0.00904977375565611,
+                0.006787330316742082,
+                0.006787330316742082,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055
+            ]
+        },
+        {
+            "begin": 48,
+            "end": 54,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 55,
+            "end": 72,
+            "text": "basketball legend",
+            "concept": 9
+        },
+        {
+            "begin": 73,
+            "end": 86,
+            "text": "Dirk Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 110,
+            "end": 126,
+            "text": "Dallas Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "2010\u201311_Dallas_Mavericks_season",
+                "2009\u201310_Dallas_Mavericks_season",
+                "2002\u201303_Dallas_Mavericks_season",
+                "2008\u201309_Dallas_Mavericks_season",
+                "1996\u201397_Dallas_Mavericks_season",
+                "1987\u201388_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2001\u201302_Dallas_Mavericks_season",
+                "2005\u201306_Dallas_Mavericks_season",
+                "2000\u201301_Dallas_Mavericks_season",
+                "1983\u201384_Dallas_Mavericks_season",
+                "1999\u20132000_Dallas_Mavericks_season",
+                "2006\u201307_Dallas_Mavericks_season",
+                "1989\u201390_Dallas_Mavericks_season",
+                "1990\u201391_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.8149955634427685,
+                0.016415261756876662,
+                0.008429458740017746,
+                0.007985803016858917,
+                0.007763975155279503,
+                0.006876663708961846,
+                0.006654835847382431,
+                0.006433007985803017,
+                0.006211180124223602,
+                0.006211180124223602,
+                0.005545696539485359,
+                0.005323868677905945,
+                0.005323868677905945,
+                0.005323868677905945,
+                0.00510204081632653,
+                0.0048802129547471165
+            ]
+        },
+        {
+            "begin": 143,
+            "end": 146,
+            "text": "NBA",
+            "concept": 2,
+            "candidates": [
+                "National_Basketball_Association",
+                "2008\u201309_NBA_season",
+                "World_Boxing_Association",
+                "National_Board_of_Accreditation",
+                "NBA_on_CBS",
+                "NBA_on_ESPN",
+                "2009\u201310_NBA_season",
+                "2010\u201311_NBA_season",
+                "NBA_on_NBC",
+                "NBA_Radio_Network",
+                "NBA_Most_Valuable_Player_Award",
+                "List_of_NBA_champions",
+                "NBA_All-Star_Game",
+                "NBA_on_ESPN_Radio",
+                "New_Bach_Edition",
+                "NBA_on_ABC"
+            ],
+            "scores": [
+                0.9720784821043553,
+                0.0029107373868046574,
+                0.0026951272100043124,
+                0.0021561017680034496,
+                0.0018326865028029324,
+                0.0016170763260025874,
+                0.0014014661492022424,
+                0.00129366106080207,
+                0.0011858559724018973,
+                0.0010780508840017248,
+                0.0009702457956015524,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.000646830530401035,
+                0.000646830530401035
+            ]
+        },
+        {
+            "begin": 161,
+            "end": 163,
+            "text": "US",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 239,
+            "end": 260,
+            "text": "Oklahoma City Thunder",
+            "concept": 6,
+            "candidates": [
+                "Oklahoma_City_Thunder",
+                "2010\u201311_Oklahoma_City_Thunder_season",
+                "2009\u201310_Oklahoma_City_Thunder_season",
+                "2012\u201313_Oklahoma_City_Thunder_season",
+                "2013\u201314_Oklahoma_City_Thunder_season",
+                "2008\u201309_Oklahoma_City_Thunder_season",
+                "2015\u201316_Oklahoma_City_Thunder_season",
+                "2011\u201312_Oklahoma_City_Thunder_season",
+                "2017\u201318_Oklahoma_City_Thunder_season",
+                "2014\u201315_Oklahoma_City_Thunder_season",
+                "2016\u201317_Oklahoma_City_Thunder_season",
+                "2018\u201319_Oklahoma_City_Thunder_season",
+                "List_of_Oklahoma_City_Thunder_seasons",
+                "Oklahoma_City_Thunder_draft_history",
+                "List_of_Oklahoma_City_Thunder_head_coaches"
+            ],
+            "scores": [
+                0.8735332464146024,
+                0.024337244676227728,
+                0.016079965232507605,
+                0.012603215993046502,
+                0.011734028683181226,
+                0.009995654063450673,
+                0.009995654063450673,
+                0.009995654063450673,
+                0.009126466753585397,
+                0.007822685788787484,
+                0.006953498478922208,
+                0.003476749239461104,
+                0.003476749239461104,
+                0.000434593654932638,
+                0.000434593654932638
+            ]
+        },
+        {
+            "begin": 266,
+            "end": 269,
+            "text": "NBA",
+            "concept": 2,
+            "candidates": [
+                "National_Basketball_Association",
+                "2008\u201309_NBA_season",
+                "World_Boxing_Association",
+                "National_Board_of_Accreditation",
+                "NBA_on_CBS",
+                "NBA_on_ESPN",
+                "2009\u201310_NBA_season",
+                "2010\u201311_NBA_season",
+                "NBA_on_NBC",
+                "NBA_Radio_Network",
+                "NBA_Most_Valuable_Player_Award",
+                "List_of_NBA_champions",
+                "NBA_All-Star_Game",
+                "NBA_on_ESPN_Radio",
+                "New_Bach_Edition",
+                "NBA_on_ABC"
+            ],
+            "scores": [
+                0.9720784821043553,
+                0.0029107373868046574,
+                0.0026951272100043124,
+                0.0021561017680034496,
+                0.0018326865028029324,
+                0.0016170763260025874,
+                0.0014014661492022424,
+                0.00129366106080207,
+                0.0011858559724018973,
+                0.0010780508840017248,
+                0.0009702457956015524,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.000646830530401035,
+                0.000646830530401035
+            ]
+        },
+        {
+            "begin": 270,
+            "end": 278,
+            "text": "champion",
+            "concept": 11
+        },
+        {
+            "begin": 279,
+            "end": 295,
+            "text": "Dallas Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "2010\u201311_Dallas_Mavericks_season",
+                "2009\u201310_Dallas_Mavericks_season",
+                "2002\u201303_Dallas_Mavericks_season",
+                "2008\u201309_Dallas_Mavericks_season",
+                "1996\u201397_Dallas_Mavericks_season",
+                "1987\u201388_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2001\u201302_Dallas_Mavericks_season",
+                "2005\u201306_Dallas_Mavericks_season",
+                "2000\u201301_Dallas_Mavericks_season",
+                "1983\u201384_Dallas_Mavericks_season",
+                "1999\u20132000_Dallas_Mavericks_season",
+                "2006\u201307_Dallas_Mavericks_season",
+                "1989\u201390_Dallas_Mavericks_season",
+                "1990\u201391_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.8149955634427685,
+                0.016415261756876662,
+                0.008429458740017746,
+                0.007985803016858917,
+                0.007763975155279503,
+                0.006876663708961846,
+                0.006654835847382431,
+                0.006433007985803017,
+                0.006211180124223602,
+                0.006211180124223602,
+                0.005545696539485359,
+                0.005323868677905945,
+                0.005323868677905945,
+                0.005323868677905945,
+                0.00510204081632653,
+                0.0048802129547471165
+            ]
+        },
+        {
+            "begin": 318,
+            "end": 330,
+            "text": "NBA playoffs",
+            "concept": 7,
+            "candidates": [
+                "NBA_playoffs",
+                "2011_NBA_Playoffs",
+                "2010_NBA_Playoffs",
+                "2009_NBA_Playoffs",
+                "2013_NBA_Playoffs",
+                "2007_NBA_Playoffs",
+                "NBA_Live_(video_game_series)",
+                "2012_NBA_Playoffs",
+                "1981_NBA_Playoffs",
+                "2017_NBA_Playoffs",
+                "2000_NBA_Playoffs",
+                "1969_NBA_Playoffs",
+                "1990_NBA_Playoffs",
+                "1999_NBA_Playoffs",
+                "1998_NBA_Playoffs",
+                "1997_NBA_Playoffs"
+            ],
+            "scores": [
+                0.5656108597285068,
+                0.09276018099547512,
+                0.08823529411764706,
+                0.06108597285067873,
+                0.05656108597285068,
+                0.03619909502262444,
+                0.00904977375565611,
+                0.00904977375565611,
+                0.006787330316742082,
+                0.006787330316742082,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055,
+                0.004524886877828055
+            ]
+        },
+        {
+            "begin": 411,
+            "end": 432,
+            "text": "Oklahoma City Thunder",
+            "concept": 6,
+            "candidates": [
+                "Oklahoma_City_Thunder",
+                "2010\u201311_Oklahoma_City_Thunder_season",
+                "2009\u201310_Oklahoma_City_Thunder_season",
+                "2012\u201313_Oklahoma_City_Thunder_season",
+                "2013\u201314_Oklahoma_City_Thunder_season",
+                "2008\u201309_Oklahoma_City_Thunder_season",
+                "2015\u201316_Oklahoma_City_Thunder_season",
+                "2011\u201312_Oklahoma_City_Thunder_season",
+                "2017\u201318_Oklahoma_City_Thunder_season",
+                "2014\u201315_Oklahoma_City_Thunder_season",
+                "2016\u201317_Oklahoma_City_Thunder_season",
+                "2018\u201319_Oklahoma_City_Thunder_season",
+                "List_of_Oklahoma_City_Thunder_seasons",
+                "Oklahoma_City_Thunder_draft_history",
+                "List_of_Oklahoma_City_Thunder_head_coaches"
+            ],
+            "scores": [
+                0.8735332464146024,
+                0.024337244676227728,
+                0.016079965232507605,
+                0.012603215993046502,
+                0.011734028683181226,
+                0.009995654063450673,
+                0.009995654063450673,
+                0.009995654063450673,
+                0.009126466753585397,
+                0.007822685788787484,
+                0.006953498478922208,
+                0.003476749239461104,
+                0.003476749239461104,
+                0.000434593654932638,
+                0.000434593654932638
+            ]
+        },
+        {
+            "begin": 520,
+            "end": 528,
+            "text": "Saturday",
+            "concept": 12
+        },
+        {
+            "begin": 534,
+            "end": 543,
+            "text": "Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mavericks,_California",
+                "UT_Arlington_Mavericks",
+                "Omaha_Mavericks",
+                "OS_X_Mavericks",
+                "Minnesota_State_Mavericks",
+                "Colorado_Mesa_Mavericks",
+                "Hertfordshire_Mavericks",
+                "Omaha_Mavericks_men's_ice_hockey",
+                "2002\u201303_Dallas_Mavericks_season",
+                "Maverick_(animal)",
+                "2004\u201305_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2010\u201311_Dallas_Mavericks_season",
+                "Minnesota_State_Mavericks_men's_ice_hockey",
+                "2005\u201306_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.20249221183800623,
+                0.14330218068535824,
+                0.07476635514018691,
+                0.056074766355140186,
+                0.03426791277258567,
+                0.03426791277258567,
+                0.03115264797507788,
+                0.028037383177570093,
+                0.028037383177570093,
+                0.021806853582554516,
+                0.021806853582554516,
+                0.018691588785046728,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.012461059190031152
+            ]
+        },
+        {
+            "begin": 651,
+            "end": 659,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 661,
+            "end": 667,
+            "text": "Dallas",
+            "concept": 0,
+            "candidates": [
+                "Dallas",
+                "Dallas_(1978_TV_series)",
+                "Dallas_Mavericks",
+                "Dallas_County,_Texas",
+                "Dallas_Stars",
+                "Dallas_Cowboys",
+                "Dallas_(2012_TV_series)",
+                "FC_Dallas",
+                "2015\u201316_Dallas_Mavericks_season",
+                "2016\u201317_Dallas_Mavericks_season",
+                "Dallas_County,_Alabama",
+                "Dallas,_Georgia",
+                "2017\u201318_Dallas_Mavericks_season",
+                "Dallas_County,_Iowa",
+                "National_Register_of_Historic_Places_listings_in_Dallas_County,_Arkansas",
+                "2009\u201310_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.5831755929183833,
+                0.0810043425008351,
+                0.052444048546932416,
+                0.019207215232156776,
+                0.01542144527335486,
+                0.012248079278476784,
+                0.011190290613517426,
+                0.009464424897004787,
+                0.005901347288720633,
+                0.005233270237167353,
+                0.005010577886649594,
+                0.004954904799020153,
+                0.004899231711390714,
+                0.004732212448502394,
+                0.004342500835096314,
+                0.0041754815722079945
+            ]
+        },
+        {
+            "begin": 711,
+            "end": 731,
+            "text": "Most Valuable Player",
+            "concept": 3,
+            "candidates": [
+                "Most_valuable_player",
+                "Major_League_Baseball_Most_Valuable_Player_Award",
+                "NBA_Most_Valuable_Player_Award",
+                "National_Football_League_Most_Valuable_Player_Award",
+                "Philippine_Basketball_Association_Most_Valuable_Player_award",
+                "Super_Bowl_Most_Valuable_Player_Award",
+                "Nippon_Professional_Baseball_Most_Valuable_Player_Award",
+                "Grey_Cup_Most_Valuable_Player",
+                "National_Lacrosse_League_MVP_Award",
+                "WNBL_Most_Valuable_Player_Award",
+                "Landon_Donovan_MVP_Award",
+                "World_Series_Most_Valuable_Player_Award",
+                "Four_Broncos_Memorial_Trophy",
+                "Japan_Series_Most_Valuable_Player_Award",
+                "League_Championship_Series_Most_Valuable_Player_Award",
+                "WCHA_Player_of_the_Year"
+            ],
+            "scores": [
+                0.619348054679285,
+                0.12898703119523308,
+                0.033298282509638975,
+                0.025937609533824044,
+                0.01717490361023484,
+                0.013669821240799159,
+                0.010865755345250614,
+                0.010515247108307046,
+                0.008061689449702068,
+                0.0070101647388713636,
+                0.0070101647388713636,
+                0.006659656501927795,
+                0.005257623554153523,
+                0.004556607080266386,
+                0.004556607080266386,
+                0.004206098843322818
+            ]
+        },
+        {
+            "begin": 733,
+            "end": 736,
+            "text": "MVP",
+            "concept": 3,
+            "candidates": [
+                "Most_valuable_player",
+                "Major_League_Baseball_Most_Valuable_Player_Award",
+                "NBA_Most_Valuable_Player_Award",
+                "Montel_Vontavious_Porter",
+                "National_Football_League_Most_Valuable_Player_Award",
+                "Super_Bowl_Most_Valuable_Player_Award",
+                "FIBA_EuroBasket_MVP",
+                "MVP_(TV_series)",
+                "WNBA_Most_Valuable_Player_Award",
+                "EuroLeague_Final_Four_MVP",
+                "World_Series_Most_Valuable_Player_Award",
+                "ACB_Most_Valuable_Player_Award",
+                "NBA_All-Star_Game_Most_Valuable_Player_Award",
+                "Major_League_Baseball_All-Star_Game_Most_Valuable_Player_Award",
+                "Michael_Van_Patrick",
+                "National_Lacrosse_League_MVP_Award"
+            ],
+            "scores": [
+                0.528343949044586,
+                0.12006369426751592,
+                0.05063694267515924,
+                0.03821656050955414,
+                0.03821656050955414,
+                0.027388535031847135,
+                0.018152866242038216,
+                0.01464968152866242,
+                0.010828025477707006,
+                0.01019108280254777,
+                0.009554140127388535,
+                0.009235668789808917,
+                0.007961783439490446,
+                0.006687898089171975,
+                0.005095541401273885,
+                0.005095541401273885
+            ]
+        },
+        {
+            "begin": 787,
+            "end": 797,
+            "text": "Miami Heat",
+            "concept": 13,
+            "candidates": [
+                "Miami_Heat",
+                "2010\u201311_Miami_Heat_season",
+                "2011\u201312_Miami_Heat_season",
+                "2012\u201313_Miami_Heat_season",
+                "2013\u201314_Miami_Heat_season",
+                "2009\u201310_Miami_Heat_season",
+                "1996\u201397_Miami_Heat_season",
+                "2000\u201301_Miami_Heat_season",
+                "1999\u20132000_Miami_Heat_season",
+                "2003\u201304_Miami_Heat_season",
+                "2008\u201309_Miami_Heat_season",
+                "2005\u201306_Miami_Heat_season",
+                "2004\u201305_Miami_Heat_season",
+                "1998\u201399_Miami_Heat_season",
+                "1997\u201398_Miami_Heat_season",
+                "1991\u201392_Miami_Heat_season"
+            ],
+            "scores": [
+                0.8202144649783254,
+                0.02007757243896874,
+                0.01597079625827059,
+                0.01574264202600958,
+                0.009126169290440338,
+                0.007529089664613279,
+                0.00730093543235227,
+                0.0070727812000912615,
+                0.006844626967830253,
+                0.006616472735569244,
+                0.006160164271047228,
+                0.006160164271047228,
+                0.006160164271047228,
+                0.00593201003878622,
+                0.0054757015742642025,
+                0.0054757015742642025
+            ]
+        },
+        {
+            "begin": 884,
+            "end": 890,
+            "text": "Dallas",
+            "concept": 0,
+            "candidates": [
+                "Dallas",
+                "Dallas_(1978_TV_series)",
+                "Dallas_Mavericks",
+                "Dallas_County,_Texas",
+                "Dallas_Stars",
+                "Dallas_Cowboys",
+                "Dallas_(2012_TV_series)",
+                "FC_Dallas",
+                "2015\u201316_Dallas_Mavericks_season",
+                "2016\u201317_Dallas_Mavericks_season",
+                "Dallas_County,_Alabama",
+                "Dallas,_Georgia",
+                "2017\u201318_Dallas_Mavericks_season",
+                "Dallas_County,_Iowa",
+                "National_Register_of_Historic_Places_listings_in_Dallas_County,_Arkansas",
+                "2009\u201310_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.5831755929183833,
+                0.0810043425008351,
+                0.052444048546932416,
+                0.019207215232156776,
+                0.01542144527335486,
+                0.012248079278476784,
+                0.011190290613517426,
+                0.009464424897004787,
+                0.005901347288720633,
+                0.005233270237167353,
+                0.005010577886649594,
+                0.004954904799020153,
+                0.004899231711390714,
+                0.004732212448502394,
+                0.004342500835096314,
+                0.0041754815722079945
+            ]
+        },
+        {
+            "begin": 899,
+            "end": 910,
+            "text": "point guard",
+            "concept": 14
+        },
+        {
+            "begin": 911,
+            "end": 921,
+            "text": "Jason Kidd",
+            "concept": 4,
+            "candidates": [
+                "Jason_Kidd"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1030,
+            "end": 1036,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 1125,
+            "end": 1133,
+            "text": "Oklahoma",
+            "concept": 6,
+            "candidates": [
+                "Oklahoma",
+                "Oklahoma_Sooners_football",
+                "Oklahoma!",
+                "University_of_Oklahoma",
+                "Oklahoma_Sooners_men's_basketball",
+                "Oklahoma_Sooners",
+                "Oklahoma_County,_Oklahoma",
+                "Oklahoma!_(1955_film)",
+                "List_of_United_States_Senators_from_Oklahoma",
+                "Oklahoma_Sooners_baseball",
+                "Miss_Oklahoma",
+                "Miss_Oklahoma_USA",
+                "List_of_United_States_Representatives_from_Oklahoma",
+                "Oklahoma_Sooners_wrestling",
+                "National_Register_of_Historic_Places_listings_in_Oklahoma_County,_Oklahoma",
+                "Oklahoma_Sooners_women's_basketball"
+            ],
+            "scores": [
+                0.6313142239048134,
+                0.06122228231476474,
+                0.04667387777176853,
+                0.029042725797728503,
+                0.02585181179015684,
+                0.015251487290427258,
+                0.008328826392644673,
+                0.008274743104380746,
+                0.006760411032990805,
+                0.00670632774472688,
+                0.006652244456462953,
+                0.005516495402920498,
+                0.005462412114656571,
+                0.0048674959437533805,
+                0.004218496484586263,
+                0.004056246619794483
+            ]
+        },
+        {
+            "begin": 1147,
+            "end": 1154,
+            "text": "Thunder",
+            "concept": 6,
+            "candidates": [
+                "Thunder",
+                "Thunder_(band)",
+                "WCW_Thunder",
+                "Thunder_(Imagine_Dragons_song)",
+                "Oklahoma_City_Thunder",
+                "Thunder_(singer)",
+                "Thunder_(luchador)",
+                "Thunder_(comics)",
+                "Thunder_(film)",
+                "Airdrie_Thunder",
+                "Thunder_(G.I._Joe)",
+                "Thunder_(East_17_song)",
+                "Thunder_(Boys_Like_Girls_song)",
+                "Thunder_(Jessie_J_song)",
+                "Thunder_(Leona_Lewis_song)",
+                "Thunder_(Prince_song)"
+            ],
+            "scores": [
+                0.24808743169398906,
+                0.1737704918032787,
+                0.11584699453551912,
+                0.073224043715847,
+                0.040437158469945354,
+                0.03934426229508197,
+                0.03825136612021858,
+                0.02185792349726776,
+                0.018579234972677595,
+                0.015300546448087432,
+                0.015300546448087432,
+                0.014207650273224045,
+                0.012021857923497269,
+                0.01092896174863388,
+                0.009836065573770493,
+                0.008743169398907104
+            ]
+        },
+        {
+            "begin": 1194,
+            "end": 1200,
+            "text": "Dallas",
+            "concept": 0,
+            "candidates": [
+                "Dallas",
+                "Dallas_(1978_TV_series)",
+                "Dallas_Mavericks",
+                "Dallas_County,_Texas",
+                "Dallas_Stars",
+                "Dallas_Cowboys",
+                "Dallas_(2012_TV_series)",
+                "FC_Dallas",
+                "2015\u201316_Dallas_Mavericks_season",
+                "2016\u201317_Dallas_Mavericks_season",
+                "Dallas_County,_Alabama",
+                "Dallas,_Georgia",
+                "2017\u201318_Dallas_Mavericks_season",
+                "Dallas_County,_Iowa",
+                "National_Register_of_Historic_Places_listings_in_Dallas_County,_Arkansas",
+                "2009\u201310_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.5831755929183833,
+                0.0810043425008351,
+                0.052444048546932416,
+                0.019207215232156776,
+                0.01542144527335486,
+                0.012248079278476784,
+                0.011190290613517426,
+                0.009464424897004787,
+                0.005901347288720633,
+                0.005233270237167353,
+                0.005010577886649594,
+                0.004954904799020153,
+                0.004899231711390714,
+                0.004732212448502394,
+                0.004342500835096314,
+                0.0041754815722079945
+            ]
+        },
+        {
+            "begin": 1263,
+            "end": 1265,
+            "text": "US",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1383,
+            "end": 1391,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 1417,
+            "end": 1426,
+            "text": "Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mavericks,_California",
+                "UT_Arlington_Mavericks",
+                "Omaha_Mavericks",
+                "OS_X_Mavericks",
+                "Minnesota_State_Mavericks",
+                "Colorado_Mesa_Mavericks",
+                "Hertfordshire_Mavericks",
+                "Omaha_Mavericks_men's_ice_hockey",
+                "2002\u201303_Dallas_Mavericks_season",
+                "Maverick_(animal)",
+                "2004\u201305_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2010\u201311_Dallas_Mavericks_season",
+                "Minnesota_State_Mavericks_men's_ice_hockey",
+                "2005\u201306_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.20249221183800623,
+                0.14330218068535824,
+                0.07476635514018691,
+                0.056074766355140186,
+                0.03426791277258567,
+                0.03426791277258567,
+                0.03115264797507788,
+                0.028037383177570093,
+                0.028037383177570093,
+                0.021806853582554516,
+                0.021806853582554516,
+                0.018691588785046728,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.012461059190031152
+            ]
+        },
+        {
+            "begin": 1436,
+            "end": 1444,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 1454,
+            "end": 1461,
+            "text": "veteran",
+            "concept": 15
+        },
+        {
+            "begin": 1462,
+            "end": 1466,
+            "text": "Kidd",
+            "concept": 4,
+            "candidates": [
+                "Brian_Kidd",
+                "Jason_Kidd",
+                "KIDD",
+                "Kidd_(Danish_rapper)",
+                "Jimmy_Kidd",
+                "Asaiah_Ziv",
+                "Jack_Kidd_(Scottish_footballer)",
+                "Ian_Kidd",
+                "Trevor_Kidd",
+                "Kidd_antigen_system",
+                "James_Kidd_(politician)",
+                "Johnny_Kidd_(singer)",
+                "USS_Kidd_(DD-661)",
+                "Nicholas_Kidd",
+                "Albert_Kidd",
+                "William_Kidd"
+            ],
+            "scores": [
+                0.5263157894736842,
+                0.1118421052631579,
+                0.07236842105263158,
+                0.05263157894736842,
+                0.046052631578947366,
+                0.03289473684210526,
+                0.013157894736842105,
+                0.013157894736842105,
+                0.013157894736842105,
+                0.013157894736842105,
+                0.013157894736842105,
+                0.013157894736842105,
+                0.006578947368421052,
+                0.006578947368421052,
+                0.006578947368421052,
+                0.006578947368421052
+            ]
+        },
+        {
+            "begin": 1484,
+            "end": 1492,
+            "text": "livewire",
+            "concept": 16
+        },
+        {
+            "begin": 1493,
+            "end": 1504,
+            "text": "Jason Terry",
+            "concept": 17,
+            "candidates": [
+                "Jason_Terry"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1538,
+            "end": 1541,
+            "text": "NBA",
+            "concept": 2,
+            "candidates": [
+                "National_Basketball_Association",
+                "2008\u201309_NBA_season",
+                "World_Boxing_Association",
+                "National_Board_of_Accreditation",
+                "NBA_on_CBS",
+                "NBA_on_ESPN",
+                "2009\u201310_NBA_season",
+                "2010\u201311_NBA_season",
+                "NBA_on_NBC",
+                "NBA_Radio_Network",
+                "NBA_Most_Valuable_Player_Award",
+                "List_of_NBA_champions",
+                "NBA_All-Star_Game",
+                "NBA_on_ESPN_Radio",
+                "New_Bach_Edition",
+                "NBA_on_ABC"
+            ],
+            "scores": [
+                0.9720784821043553,
+                0.0029107373868046574,
+                0.0026951272100043124,
+                0.0021561017680034496,
+                0.0018326865028029324,
+                0.0016170763260025874,
+                0.0014014661492022424,
+                0.00129366106080207,
+                0.0011858559724018973,
+                0.0010780508840017248,
+                0.0009702457956015524,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.000646830530401035,
+                0.000646830530401035
+            ]
+        },
+        {
+            "begin": 1570,
+            "end": 1574,
+            "text": "star",
+            "concept": 18
+        },
+        {
+            "begin": 1575,
+            "end": 1587,
+            "text": "Kevin Durant",
+            "concept": 19,
+            "candidates": [
+                "Kevin_Durant"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1596,
+            "end": 1603,
+            "text": "Thunder",
+            "concept": 6,
+            "candidates": [
+                "Thunder",
+                "Thunder_(band)",
+                "WCW_Thunder",
+                "Thunder_(Imagine_Dragons_song)",
+                "Oklahoma_City_Thunder",
+                "Thunder_(singer)",
+                "Thunder_(luchador)",
+                "Thunder_(comics)",
+                "Thunder_(film)",
+                "Airdrie_Thunder",
+                "Thunder_(G.I._Joe)",
+                "Thunder_(East_17_song)",
+                "Thunder_(Boys_Like_Girls_song)",
+                "Thunder_(Jessie_J_song)",
+                "Thunder_(Leona_Lewis_song)",
+                "Thunder_(Prince_song)"
+            ],
+            "scores": [
+                0.24808743169398906,
+                0.1737704918032787,
+                0.11584699453551912,
+                0.073224043715847,
+                0.040437158469945354,
+                0.03934426229508197,
+                0.03825136612021858,
+                0.02185792349726776,
+                0.018579234972677595,
+                0.015300546448087432,
+                0.015300546448087432,
+                0.014207650273224045,
+                0.012021857923497269,
+                0.01092896174863388,
+                0.009836065573770493,
+                0.008743169398907104
+            ]
+        },
+        {
+            "begin": 1679,
+            "end": 1687,
+            "text": "Saturday",
+            "concept": 12
+        },
+        {
+            "begin": 1726,
+            "end": 1734,
+            "text": "Oklahoma",
+            "concept": 6,
+            "candidates": [
+                "Oklahoma",
+                "Oklahoma_Sooners_football",
+                "Oklahoma!",
+                "University_of_Oklahoma",
+                "Oklahoma_Sooners_men's_basketball",
+                "Oklahoma_Sooners",
+                "Oklahoma_County,_Oklahoma",
+                "Oklahoma!_(1955_film)",
+                "List_of_United_States_Senators_from_Oklahoma",
+                "Oklahoma_Sooners_baseball",
+                "Miss_Oklahoma",
+                "Miss_Oklahoma_USA",
+                "List_of_United_States_Representatives_from_Oklahoma",
+                "Oklahoma_Sooners_wrestling",
+                "National_Register_of_Historic_Places_listings_in_Oklahoma_County,_Oklahoma",
+                "Oklahoma_Sooners_women's_basketball"
+            ],
+            "scores": [
+                0.6313142239048134,
+                0.06122228231476474,
+                0.04667387777176853,
+                0.029042725797728503,
+                0.02585181179015684,
+                0.015251487290427258,
+                0.008328826392644673,
+                0.008274743104380746,
+                0.006760411032990805,
+                0.00670632774472688,
+                0.006652244456462953,
+                0.005516495402920498,
+                0.005462412114656571,
+                0.0048674959437533805,
+                0.004218496484586263,
+                0.004056246619794483
+            ]
+        },
+        {
+            "begin": 1742,
+            "end": 1754,
+            "text": "James Harden",
+            "concept": 20,
+            "candidates": [
+                "James_Harden",
+                "Richard_Harden_(politician)"
+            ],
+            "scores": [
+                0.9930286599535244,
+                0.006971340046475601
+            ]
+        },
+        {
+            "begin": 1826,
+            "end": 1832,
+            "text": "Dallas",
+            "concept": 0,
+            "candidates": [
+                "Dallas",
+                "Dallas_(1978_TV_series)",
+                "Dallas_Mavericks",
+                "Dallas_County,_Texas",
+                "Dallas_Stars",
+                "Dallas_Cowboys",
+                "Dallas_(2012_TV_series)",
+                "FC_Dallas",
+                "2015\u201316_Dallas_Mavericks_season",
+                "2016\u201317_Dallas_Mavericks_season",
+                "Dallas_County,_Alabama",
+                "Dallas,_Georgia",
+                "2017\u201318_Dallas_Mavericks_season",
+                "Dallas_County,_Iowa",
+                "National_Register_of_Historic_Places_listings_in_Dallas_County,_Arkansas",
+                "2009\u201310_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.5831755929183833,
+                0.0810043425008351,
+                0.052444048546932416,
+                0.019207215232156776,
+                0.01542144527335486,
+                0.012248079278476784,
+                0.011190290613517426,
+                0.009464424897004787,
+                0.005901347288720633,
+                0.005233270237167353,
+                0.005010577886649594,
+                0.004954904799020153,
+                0.004899231711390714,
+                0.004732212448502394,
+                0.004342500835096314,
+                0.0041754815722079945
+            ]
+        },
+        {
+            "begin": 1845,
+            "end": 1854,
+            "text": "Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mavericks,_California",
+                "UT_Arlington_Mavericks",
+                "Omaha_Mavericks",
+                "OS_X_Mavericks",
+                "Minnesota_State_Mavericks",
+                "Colorado_Mesa_Mavericks",
+                "Hertfordshire_Mavericks",
+                "Omaha_Mavericks_men's_ice_hockey",
+                "2002\u201303_Dallas_Mavericks_season",
+                "Maverick_(animal)",
+                "2004\u201305_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2010\u201311_Dallas_Mavericks_season",
+                "Minnesota_State_Mavericks_men's_ice_hockey",
+                "2005\u201306_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.20249221183800623,
+                0.14330218068535824,
+                0.07476635514018691,
+                0.056074766355140186,
+                0.03426791277258567,
+                0.03426791277258567,
+                0.03115264797507788,
+                0.028037383177570093,
+                0.028037383177570093,
+                0.021806853582554516,
+                0.021806853582554516,
+                0.018691588785046728,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.012461059190031152
+            ]
+        },
+        {
+            "begin": 1855,
+            "end": 1860,
+            "text": "coach",
+            "concept": 21
+        },
+        {
+            "begin": 1861,
+            "end": 1874,
+            "text": "Rick Carlisle",
+            "concept": 5,
+            "candidates": [
+                "Rick_Carlisle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1935,
+            "end": 1942,
+            "text": "Thunder",
+            "concept": 6,
+            "candidates": [
+                "Thunder",
+                "Thunder_(band)",
+                "WCW_Thunder",
+                "Thunder_(Imagine_Dragons_song)",
+                "Oklahoma_City_Thunder",
+                "Thunder_(singer)",
+                "Thunder_(luchador)",
+                "Thunder_(comics)",
+                "Thunder_(film)",
+                "Airdrie_Thunder",
+                "Thunder_(G.I._Joe)",
+                "Thunder_(East_17_song)",
+                "Thunder_(Boys_Like_Girls_song)",
+                "Thunder_(Jessie_J_song)",
+                "Thunder_(Leona_Lewis_song)",
+                "Thunder_(Prince_song)"
+            ],
+            "scores": [
+                0.24808743169398906,
+                0.1737704918032787,
+                0.11584699453551912,
+                0.073224043715847,
+                0.040437158469945354,
+                0.03934426229508197,
+                0.03825136612021858,
+                0.02185792349726776,
+                0.018579234972677595,
+                0.015300546448087432,
+                0.015300546448087432,
+                0.014207650273224045,
+                0.012021857923497269,
+                0.01092896174863388,
+                0.009836065573770493,
+                0.008743169398907104
+            ]
+        },
+        {
+            "begin": 2065,
+            "end": 2073,
+            "text": "Carlisle",
+            "concept": 5,
+            "candidates": [
+                "Carlisle",
+                "Carlisle,_Pennsylvania",
+                "Carlisle_(UK_Parliament_constituency)",
+                "Carlisle_railway_station",
+                "City_of_Carlisle",
+                "Carlisle_RLFC",
+                "Carlisle_United_F.C.",
+                "Carlisle_Indian_Industrial_School",
+                "Bishop_of_Carlisle",
+                "Carlisle,_Massachusetts",
+                "Carlisle_Indians_football",
+                "Carlisle_County,_Kentucky",
+                "Carlisle,_Kentucky",
+                "Carlisle,_Iowa",
+                "Carlisle,_Arkansas",
+                "Carlisle,_New_York"
+            ],
+            "scores": [
+                0.48284054910242874,
+                0.08949313621964097,
+                0.08051742344244985,
+                0.05966209081309398,
+                0.05675818373812038,
+                0.03748680042238648,
+                0.022175290390707498,
+                0.016631467793030624,
+                0.011351636747624076,
+                0.01082365364308342,
+                0.009503695881731784,
+                0.00791974656810982,
+                0.006863780359028511,
+                0.006599788806758183,
+                0.006071805702217529,
+                0.005807814149947202
+            ]
+        },
+        {
+            "begin": 2286,
+            "end": 2294,
+            "text": "Oklahoma",
+            "concept": 6,
+            "candidates": [
+                "Oklahoma",
+                "Oklahoma_Sooners_football",
+                "Oklahoma!",
+                "University_of_Oklahoma",
+                "Oklahoma_Sooners_men's_basketball",
+                "Oklahoma_Sooners",
+                "Oklahoma_County,_Oklahoma",
+                "Oklahoma!_(1955_film)",
+                "List_of_United_States_Senators_from_Oklahoma",
+                "Oklahoma_Sooners_baseball",
+                "Miss_Oklahoma",
+                "Miss_Oklahoma_USA",
+                "List_of_United_States_Representatives_from_Oklahoma",
+                "Oklahoma_Sooners_wrestling",
+                "National_Register_of_Historic_Places_listings_in_Oklahoma_County,_Oklahoma",
+                "Oklahoma_Sooners_women's_basketball"
+            ],
+            "scores": [
+                0.6313142239048134,
+                0.06122228231476474,
+                0.04667387777176853,
+                0.029042725797728503,
+                0.02585181179015684,
+                0.015251487290427258,
+                0.008328826392644673,
+                0.008274743104380746,
+                0.006760411032990805,
+                0.00670632774472688,
+                0.006652244456462953,
+                0.005516495402920498,
+                0.005462412114656571,
+                0.0048674959437533805,
+                0.004218496484586263,
+                0.004056246619794483
+            ]
+        },
+        {
+            "begin": 2323,
+            "end": 2332,
+            "text": "Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mavericks,_California",
+                "UT_Arlington_Mavericks",
+                "Omaha_Mavericks",
+                "OS_X_Mavericks",
+                "Minnesota_State_Mavericks",
+                "Colorado_Mesa_Mavericks",
+                "Hertfordshire_Mavericks",
+                "Omaha_Mavericks_men's_ice_hockey",
+                "2002\u201303_Dallas_Mavericks_season",
+                "Maverick_(animal)",
+                "2004\u201305_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2010\u201311_Dallas_Mavericks_season",
+                "Minnesota_State_Mavericks_men's_ice_hockey",
+                "2005\u201306_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.20249221183800623,
+                0.14330218068535824,
+                0.07476635514018691,
+                0.056074766355140186,
+                0.03426791277258567,
+                0.03426791277258567,
+                0.03115264797507788,
+                0.028037383177570093,
+                0.028037383177570093,
+                0.021806853582554516,
+                0.021806853582554516,
+                0.018691588785046728,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.012461059190031152
+            ]
+        },
+        {
+            "begin": 2346,
+            "end": 2354,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 2408,
+            "end": 2416,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 2440,
+            "end": 2446,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 2498,
+            "end": 2502,
+            "text": "2006",
+            "concept": 22
+        },
+        {
+            "begin": 2529,
+            "end": 2537,
+            "text": "European",
+            "concept": 23
+        },
+        {
+            "begin": 2557,
+            "end": 2577,
+            "text": "Most Valuable Player",
+            "concept": 3,
+            "candidates": [
+                "Most_valuable_player",
+                "Major_League_Baseball_Most_Valuable_Player_Award",
+                "NBA_Most_Valuable_Player_Award",
+                "National_Football_League_Most_Valuable_Player_Award",
+                "Philippine_Basketball_Association_Most_Valuable_Player_award",
+                "Super_Bowl_Most_Valuable_Player_Award",
+                "Nippon_Professional_Baseball_Most_Valuable_Player_Award",
+                "Grey_Cup_Most_Valuable_Player",
+                "National_Lacrosse_League_MVP_Award",
+                "WNBL_Most_Valuable_Player_Award",
+                "Landon_Donovan_MVP_Award",
+                "World_Series_Most_Valuable_Player_Award",
+                "Four_Broncos_Memorial_Trophy",
+                "Japan_Series_Most_Valuable_Player_Award",
+                "League_Championship_Series_Most_Valuable_Player_Award",
+                "WCHA_Player_of_the_Year"
+            ],
+            "scores": [
+                0.619348054679285,
+                0.12898703119523308,
+                0.033298282509638975,
+                0.025937609533824044,
+                0.01717490361023484,
+                0.013669821240799159,
+                0.010865755345250614,
+                0.010515247108307046,
+                0.008061689449702068,
+                0.0070101647388713636,
+                0.0070101647388713636,
+                0.006659656501927795,
+                0.005257623554153523,
+                0.004556607080266386,
+                0.004556607080266386,
+                0.004206098843322818
+            ]
+        },
+        {
+            "begin": 2648,
+            "end": 2651,
+            "text": "NBA",
+            "concept": 2,
+            "candidates": [
+                "National_Basketball_Association",
+                "2008\u201309_NBA_season",
+                "World_Boxing_Association",
+                "National_Board_of_Accreditation",
+                "NBA_on_CBS",
+                "NBA_on_ESPN",
+                "2009\u201310_NBA_season",
+                "2010\u201311_NBA_season",
+                "NBA_on_NBC",
+                "NBA_Radio_Network",
+                "NBA_Most_Valuable_Player_Award",
+                "List_of_NBA_champions",
+                "NBA_All-Star_Game",
+                "NBA_on_ESPN_Radio",
+                "New_Bach_Edition",
+                "NBA_on_ABC"
+            ],
+            "scores": [
+                0.9720784821043553,
+                0.0029107373868046574,
+                0.0026951272100043124,
+                0.0021561017680034496,
+                0.0018326865028029324,
+                0.0016170763260025874,
+                0.0014014661492022424,
+                0.00129366106080207,
+                0.0011858559724018973,
+                0.0010780508840017248,
+                0.0009702457956015524,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.000646830530401035,
+                0.000646830530401035
+            ]
+        },
+        {
+            "begin": 2652,
+            "end": 2655,
+            "text": "MVP",
+            "concept": 3,
+            "candidates": [
+                "Most_valuable_player",
+                "Major_League_Baseball_Most_Valuable_Player_Award",
+                "NBA_Most_Valuable_Player_Award",
+                "Montel_Vontavious_Porter",
+                "National_Football_League_Most_Valuable_Player_Award",
+                "Super_Bowl_Most_Valuable_Player_Award",
+                "FIBA_EuroBasket_MVP",
+                "MVP_(TV_series)",
+                "WNBA_Most_Valuable_Player_Award",
+                "EuroLeague_Final_Four_MVP",
+                "World_Series_Most_Valuable_Player_Award",
+                "ACB_Most_Valuable_Player_Award",
+                "NBA_All-Star_Game_Most_Valuable_Player_Award",
+                "Major_League_Baseball_All-Star_Game_Most_Valuable_Player_Award",
+                "Michael_Van_Patrick",
+                "National_Lacrosse_League_MVP_Award"
+            ],
+            "scores": [
+                0.528343949044586,
+                0.12006369426751592,
+                0.05063694267515924,
+                0.03821656050955414,
+                0.03821656050955414,
+                0.027388535031847135,
+                0.018152866242038216,
+                0.01464968152866242,
+                0.010828025477707006,
+                0.01019108280254777,
+                0.009554140127388535,
+                0.009235668789808917,
+                0.007961783439490446,
+                0.006687898089171975,
+                0.005095541401273885,
+                0.005095541401273885
+            ]
+        },
+        {
+            "begin": 2698,
+            "end": 2707,
+            "text": "Mavericks",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mavericks,_California",
+                "UT_Arlington_Mavericks",
+                "Omaha_Mavericks",
+                "OS_X_Mavericks",
+                "Minnesota_State_Mavericks",
+                "Colorado_Mesa_Mavericks",
+                "Hertfordshire_Mavericks",
+                "Omaha_Mavericks_men's_ice_hockey",
+                "2002\u201303_Dallas_Mavericks_season",
+                "Maverick_(animal)",
+                "2004\u201305_Dallas_Mavericks_season",
+                "2007\u201308_Dallas_Mavericks_season",
+                "2010\u201311_Dallas_Mavericks_season",
+                "Minnesota_State_Mavericks_men's_ice_hockey",
+                "2005\u201306_Dallas_Mavericks_season"
+            ],
+            "scores": [
+                0.20249221183800623,
+                0.14330218068535824,
+                0.07476635514018691,
+                0.056074766355140186,
+                0.03426791277258567,
+                0.03426791277258567,
+                0.03115264797507788,
+                0.028037383177570093,
+                0.028037383177570093,
+                0.021806853582554516,
+                0.021806853582554516,
+                0.018691588785046728,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.01557632398753894,
+                0.012461059190031152
+            ]
+        },
+        {
+            "begin": 2804,
+            "end": 2807,
+            "text": "NBA",
+            "concept": 2,
+            "candidates": [
+                "National_Basketball_Association",
+                "2008\u201309_NBA_season",
+                "World_Boxing_Association",
+                "National_Board_of_Accreditation",
+                "NBA_on_CBS",
+                "NBA_on_ESPN",
+                "2009\u201310_NBA_season",
+                "2010\u201311_NBA_season",
+                "NBA_on_NBC",
+                "NBA_Radio_Network",
+                "NBA_Most_Valuable_Player_Award",
+                "List_of_NBA_champions",
+                "NBA_All-Star_Game",
+                "NBA_on_ESPN_Radio",
+                "New_Bach_Edition",
+                "NBA_on_ABC"
+            ],
+            "scores": [
+                0.9720784821043553,
+                0.0029107373868046574,
+                0.0026951272100043124,
+                0.0021561017680034496,
+                0.0018326865028029324,
+                0.0016170763260025874,
+                0.0014014661492022424,
+                0.00129366106080207,
+                0.0011858559724018973,
+                0.0010780508840017248,
+                0.0009702457956015524,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.0007546356188012075,
+                0.000646830530401035,
+                0.000646830530401035
+            ]
+        },
+        {
+            "begin": 2913,
+            "end": 2917,
+            "text": "2006",
+            "concept": 22
+        },
+        {
+            "begin": 2918,
+            "end": 2921,
+            "text": "MVP",
+            "concept": 3,
+            "candidates": [
+                "Most_valuable_player",
+                "Major_League_Baseball_Most_Valuable_Player_Award",
+                "NBA_Most_Valuable_Player_Award",
+                "Montel_Vontavious_Porter",
+                "National_Football_League_Most_Valuable_Player_Award",
+                "Super_Bowl_Most_Valuable_Player_Award",
+                "FIBA_EuroBasket_MVP",
+                "MVP_(TV_series)",
+                "WNBA_Most_Valuable_Player_Award",
+                "EuroLeague_Final_Four_MVP",
+                "World_Series_Most_Valuable_Player_Award",
+                "ACB_Most_Valuable_Player_Award",
+                "NBA_All-Star_Game_Most_Valuable_Player_Award",
+                "Major_League_Baseball_All-Star_Game_Most_Valuable_Player_Award",
+                "Michael_Van_Patrick",
+                "National_Lacrosse_League_MVP_Award"
+            ],
+            "scores": [
+                0.528343949044586,
+                0.12006369426751592,
+                0.05063694267515924,
+                0.03821656050955414,
+                0.03821656050955414,
+                0.027388535031847135,
+                0.018152866242038216,
+                0.01464968152866242,
+                0.010828025477707006,
+                0.01019108280254777,
+                0.009554140127388535,
+                0.009235668789808917,
+                0.007961783439490446,
+                0.006687898089171975,
+                0.005095541401273885,
+                0.005095541401273885
+            ]
+        },
+        {
+            "begin": 2935,
+            "end": 2939,
+            "text": "Mavs",
+            "concept": 0,
+            "candidates": [
+                "Dallas_Mavericks",
+                "Mitochondrial_antiviral-signaling_protein",
+                "Micro_air_vehicle"
+            ],
+            "scores": [
+                0.4444444444444444,
+                0.4444444444444444,
+                0.1111111111111111
+            ]
+        },
+        {
+            "begin": 3053,
+            "end": 3074,
+            "text": "Golden State Warriors",
+            "concept": 24,
+            "candidates": [
+                "Golden_State_Warriors",
+                "2015\u201316_Golden_State_Warriors_season",
+                "2017\u201318_Golden_State_Warriors_season",
+                "2014\u201315_Golden_State_Warriors_season",
+                "2016\u201317_Golden_State_Warriors_season",
+                "1993\u201394_Golden_State_Warriors_season",
+                "2009\u201310_Golden_State_Warriors_season",
+                "1996\u201397_Golden_State_Warriors_season",
+                "2006\u201307_Golden_State_Warriors_season",
+                "1974\u201375_Golden_State_Warriors_season",
+                "1990\u201391_Golden_State_Warriors_season",
+                "1997\u201398_Golden_State_Warriors_season",
+                "2008\u201309_Golden_State_Warriors_season",
+                "1999\u20132000_Golden_State_Warriors_season",
+                "2000\u201301_Golden_State_Warriors_season",
+                "2012\u201313_Golden_State_Warriors_season"
+            ],
+            "scores": [
+                0.8003802281368821,
+                0.012167300380228136,
+                0.009695817490494297,
+                0.009505703422053232,
+                0.009315589353612166,
+                0.00532319391634981,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.005133079847908745,
+                0.00494296577946768,
+                0.00494296577946768,
+                0.00494296577946768,
+                0.004752851711026616,
+                0.004752851711026616,
+                0.004752851711026616
+            ]
+        },
+        {
+            "begin": 3105,
+            "end": 3113,
+            "text": "Nowitzki",
+            "concept": 1,
+            "candidates": [
+                "Dirk_Nowitzki",
+                "Nowitzki_(surname)"
+            ],
+            "scores": [
+                0.96875,
+                0.03125
+            ]
+        },
+        {
+            "begin": 3163,
+            "end": 3185,
+            "text": "msh/sej (AFP, AP, dpa)",
+            "concept": 25
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Dallas Mavericks",
+            "keyword": true,
+            "count": 13,
+            "link": "Dallas_Mavericks",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Dirk Nowitzki",
+            "keyword": true,
+            "count": 8,
+            "link": "Dirk_Nowitzki",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "NBA",
+            "keyword": true,
+            "count": 5,
+            "link": "National_Basketball_Association",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000851",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Most Valuable Player",
+            "keyword": true,
+            "count": 5,
+            "link": "Most_valuable_player",
+            "tags": [
+                "iptc::08000000",
+                "iptc::15000000",
+                "iptc::20000498",
+                "slot::keyword",
+                "topic::human_interest",
+                "topic::sport",
+                "type::award",
+                "type::entity",
+                "type::misc",
+                "type::sport_award"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Jason Kidd",
+            "keyword": false,
+            "count": 2,
+            "link": "Jason_Kidd",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Rick Carlisle",
+            "keyword": false,
+            "count": 2,
+            "link": "Rick_Carlisle",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Oklahoma City Thunder",
+            "keyword": false,
+            "count": 8,
+            "link": "Oklahoma_City_Thunder",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "NBA playoffs",
+            "keyword": false,
+            "count": 2,
+            "link": "NBA_playoffs",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "basketball legend",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "champion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Miami Heat",
+            "keyword": false,
+            "count": 1,
+            "link": "Miami_Heat",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "point guard",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "veteran",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "livewire",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Jason Terry",
+            "keyword": false,
+            "count": 1,
+            "link": "Jason_Terry",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "star",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Kevin Durant",
+            "keyword": false,
+            "count": 1,
+            "link": "Kevin_Durant",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "James Harden",
+            "keyword": false,
+            "count": 1,
+            "link": "James_Harden",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "coach",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "2006",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Golden State Warriors",
+            "keyword": false,
+            "count": 1,
+            "link": "Golden_State_Warriors",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000851",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "msh/sej \u00a0 (AFP, AP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 26,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "appears_in",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 0,
+            "p": "vs",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "vs",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "vs",
+            "o": 24
+        },
+        {
+            "s": 1,
+            "p": "award_received",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 26
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "coach_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 6,
+            "p": "vs",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "won_vs",
+            "o": 0
+        },
+        {
+            "s": 7,
+            "p": "event_in0",
+            "o": 10
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 13,
+            "p": "vs",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 19,
+            "p": "member_of",
+            "o": 6
+        },
+        {
+            "s": 19,
+            "p": "player_of",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "member_of",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "player_of",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 24,
+            "p": "vs",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-game",
+            "slots": [
+                {
+                    "name": "winner",
+                    "value": 6
+                },
+                {
+                    "name": "loser",
+                    "value": 0
+                },
+                {
+                    "name": "competition",
+                    "value": 7
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20000851"
+    ]
+}

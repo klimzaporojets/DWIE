@@ -1,0 +1,331 @@
+{
+    "id": "DW_19119015",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 9,
+            "end": 19,
+            "text": "03/16/2016",
+            "concept": 1
+        },
+        {
+            "begin": 20,
+            "end": 24,
+            "text": "E.ON",
+            "concept": 2,
+            "candidates": [
+                "E.ON",
+                "Eon_(geology)",
+                "Eon_(comics)",
+                "Eon_(novel)",
+                "E.ON_UK",
+                "Eon_Productions",
+                "Eon_(musician)",
+                "Hyundai_Eon",
+                "Geologic_time_scale",
+                "Geologic_eon",
+                "Aeon",
+                "Eon_(album)",
+                "EOn",
+                "Eon_of_Axum",
+                "Eon_Digital_Entertainment",
+                "Eon_(role-playing_game)"
+            ],
+            "scores": [
+                0.6198704103671706,
+                0.0734341252699784,
+                0.05183585313174946,
+                0.04319654427645788,
+                0.038876889848812095,
+                0.038876889848812095,
+                0.02159827213822894,
+                0.019438444924406047,
+                0.017278617710583154,
+                0.01511879049676026,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 26,
+            "end": 29,
+            "text": "RWE",
+            "concept": 3,
+            "candidates": [
+                "RWE",
+                "Innogy",
+                "Rot-Weiss_Essen",
+                "Npower_(United_Kingdom)",
+                "FC_Rot-Wei\u00df_Erfurt"
+            ],
+            "scores": [
+                0.981042654028436,
+                0.004739336492890996,
+                0.004739336492890996,
+                0.004739336492890996,
+                0.004739336492890996
+            ]
+        },
+        {
+            "begin": 34,
+            "end": 44,
+            "text": "Vattenfall",
+            "concept": 4,
+            "candidates": [
+                "Vattenfall"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 49,
+            "end": 55,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 76,
+            "end": 81,
+            "text": "CeBIT",
+            "concept": 6,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 138,
+            "end": 142,
+            "text": "Uber",
+            "concept": 7,
+            "candidates": [
+                "Uber",
+                "\u00dcber",
+                "Uber_Cup",
+                "\u00dcber_(album)",
+                "\u00dcber_(comics)",
+                "Uberfic"
+            ],
+            "scores": [
+                0.9563164108618654,
+                0.021251475796930343,
+                0.010625737898465172,
+                0.0070838252656434475,
+                0.0035419126328217238,
+                0.0011806375442739079
+            ]
+        },
+        {
+            "begin": 171,
+            "end": 177,
+            "text": "Bogota",
+            "concept": 8,
+            "candidates": [
+                "Bogot\u00e1",
+                "Bogota,_New_Jersey",
+                "Copa_Colsanitas",
+                "El_Dorado_International_Airport",
+                "Bogot\u00e1_F.C.",
+                "Bancolombia_Open",
+                "Open_Bogot\u00e1",
+                "International_Tennis_Championships_of_Colombia",
+                "Roman_Catholic_Archdiocese_of_Bogot\u00e1",
+                "Bogot\u00e1_Formation",
+                "Copa_Petrobras_Bogot\u00e1",
+                "Estadio_El_Camp\u00edn",
+                "2015_Copa_Colsanitas",
+                "2014_Copa_Colsanitas",
+                "2013_Copa_Colsanitas",
+                "2012_Copa_Sony_Ericsson_Colsanitas"
+            ],
+            "scores": [
+                0.9332995609591355,
+                0.010807159743329957,
+                0.007261060452549814,
+                0.0070921985815602835,
+                0.006585612968591692,
+                0.004728132387706856,
+                0.003883823032759203,
+                0.0035460992907801418,
+                0.0028706518068220195,
+                0.0025329280648429585,
+                0.002195204322863897,
+                0.0010131712259371835,
+                0.0008443093549476528,
+                0.0006754474839581223,
+                0.0005065856129685917,
+                0.0005065856129685917
+            ]
+        },
+        {
+            "begin": 187,
+            "end": 197,
+            "text": "03/16/2016",
+            "concept": 1
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "03/16/2016",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "E.ON",
+            "keyword": false,
+            "count": 1,
+            "link": "E.ON",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "RWE",
+            "keyword": false,
+            "count": 1,
+            "link": "RWE",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Vattenfall",
+            "keyword": false,
+            "count": 1,
+            "link": "Vattenfall",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "CeBIT",
+            "keyword": false,
+            "count": 1,
+            "link": "CEBIT",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::organization",
+                "type::trade_fair"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Uber",
+            "keyword": false,
+            "count": 1,
+            "link": "Uber",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Bogota",
+            "keyword": false,
+            "count": 1,
+            "link": "Bogot\u00e1",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 10,
+            "keyword": false,
+            "count": 0,
+            "link": "Colombia",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 10
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "01000000",
+        "20000045",
+        "20000047"
+    ]
+}

@@ -1,0 +1,1563 @@
+{
+    "id": "DW_19133985",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 24,
+            "end": 33,
+            "text": "Ukrainian",
+            "concept": 6
+        },
+        {
+            "begin": 34,
+            "end": 39,
+            "text": "pilot",
+            "concept": 7
+        },
+        {
+            "begin": 40,
+            "end": 58,
+            "text": "Nadezhda Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Nadiya_Savchenko"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 86,
+            "end": 95,
+            "text": "Ukrainian",
+            "concept": 6
+        },
+        {
+            "begin": 160,
+            "end": 167,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 211,
+            "end": 220,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 268,
+            "end": 272,
+            "text": "Kyiv",
+            "concept": 8,
+            "candidates": [
+                "Kiev",
+                "BC_Kyiv",
+                "Kiev-Pasazhyrskyi_railway_station",
+                "Kiev_Oblast",
+                "Taras_Shevchenko_National_University_of_Kyiv",
+                "FC_Dynamo_Kyiv",
+                "Kiev_Governorate",
+                "Principality_of_Kiev",
+                "Olimpiyskiy_National_Sports_Complex",
+                "Football_Federation_of_Kyiv",
+                "Trams_in_Kiev",
+                "Kiev_Metro",
+                "Kyiv_International_Film_Festival_\"Molodist\"",
+                "Kiev_local_election,_2014",
+                "Boryspil_International_Airport"
+            ],
+            "scores": [
+                0.9139784946236559,
+                0.06362007168458782,
+                0.007168458781362007,
+                0.002688172043010753,
+                0.0017921146953405018,
+                0.0017921146953405018,
+                0.0017921146953405018,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509
+            ]
+        },
+        {
+            "begin": 281,
+            "end": 287,
+            "text": "Moscow",
+            "concept": 9,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 317,
+            "end": 326,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 485,
+            "end": 492,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 493,
+            "end": 513,
+            "text": "state TV broadcaster",
+            "concept": 10
+        },
+        {
+            "begin": 514,
+            "end": 519,
+            "text": "VGTRK",
+            "concept": 1,
+            "candidates": [
+                "All-Russia_State_Television_and_Radio_Broadcasting_Company",
+                "Russia-2"
+            ],
+            "scores": [
+                0.9894736842105263,
+                0.010526315789473684
+            ]
+        },
+        {
+            "begin": 521,
+            "end": 530,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 598,
+            "end": 605,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 646,
+            "end": 652,
+            "text": "Moscow",
+            "concept": 9,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 663,
+            "end": 672,
+            "text": "June 2014",
+            "concept": 11
+        },
+        {
+            "begin": 696,
+            "end": 700,
+            "text": "Kyiv",
+            "concept": 8,
+            "candidates": [
+                "Kiev",
+                "BC_Kyiv",
+                "Kiev-Pasazhyrskyi_railway_station",
+                "Kiev_Oblast",
+                "Taras_Shevchenko_National_University_of_Kyiv",
+                "FC_Dynamo_Kyiv",
+                "Kiev_Governorate",
+                "Principality_of_Kiev",
+                "Olimpiyskiy_National_Sports_Complex",
+                "Football_Federation_of_Kyiv",
+                "Trams_in_Kiev",
+                "Kiev_Metro",
+                "Kyiv_International_Film_Festival_\"Molodist\"",
+                "Kiev_local_election,_2014",
+                "Boryspil_International_Airport"
+            ],
+            "scores": [
+                0.9139784946236559,
+                0.06362007168458782,
+                0.007168458781362007,
+                0.002688172043010753,
+                0.0017921146953405018,
+                0.0017921146953405018,
+                0.0017921146953405018,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509,
+                0.0008960573476702509
+            ]
+        },
+        {
+            "begin": 778,
+            "end": 795,
+            "text": "Council of Europe",
+            "concept": 12,
+            "candidates": [
+                "Council_of_Europe",
+                "Parliamentary_Assembly_of_the_Council_of_Europe",
+                "List_of_Presidents_of_the_Parliamentary_Assembly_of_the_Council_of_Europe",
+                "Congress_of_the_Council_of_Europe",
+                "Flag_of_Europe"
+            ],
+            "scores": [
+                0.9981543004798819,
+                0.0007382798080472499,
+                0.00036913990402362494,
+                0.00036913990402362494,
+                0.00036913990402362494
+            ]
+        },
+        {
+            "begin": 806,
+            "end": 812,
+            "text": "Moscow",
+            "concept": 9,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 947,
+            "end": 956,
+            "text": "Ukrainian",
+            "concept": 6
+        },
+        {
+            "begin": 957,
+            "end": 966,
+            "text": "President",
+            "concept": 13
+        },
+        {
+            "begin": 967,
+            "end": 983,
+            "text": "Petro Poroshenko",
+            "concept": 2,
+            "candidates": [
+                "Petro_Poroshenko"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 998,
+            "end": 1004,
+            "text": "Moscow",
+            "concept": 9,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 1035,
+            "end": 1042,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 1093,
+            "end": 1102,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 1204,
+            "end": 1213,
+            "text": "Ukrainian",
+            "concept": 6
+        },
+        {
+            "begin": 1251,
+            "end": 1260,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 1309,
+            "end": 1316,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 1328,
+            "end": 1334,
+            "text": "Monday",
+            "concept": 14
+        },
+        {
+            "begin": 1340,
+            "end": 1347,
+            "text": "Russian",
+            "concept": 5
+        },
+        {
+            "begin": 1368,
+            "end": 1377,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 1454,
+            "end": 1458,
+            "text": "Iraq",
+            "concept": 15,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 1547,
+            "end": 1554,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 1580,
+            "end": 1585,
+            "text": "Aidar",
+            "concept": 16,
+            "candidates": [
+                "Aidar_Battalion",
+                "Aidar_River"
+            ],
+            "scores": [
+                0.6470588235294118,
+                0.35294117647058826
+            ]
+        },
+        {
+            "begin": 1602,
+            "end": 1611,
+            "text": "commander",
+            "concept": 17
+        },
+        {
+            "begin": 1612,
+            "end": 1628,
+            "text": "Sergey Melnichuk",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1663,
+            "end": 1671,
+            "text": "Schastye",
+            "concept": 18,
+            "candidates": [
+                "Happiness_(1935_film)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1679,
+            "end": 1686,
+            "text": "Luhansk",
+            "concept": 19,
+            "candidates": [
+                "Luhansk",
+                "Luhansk_Oblast",
+                "Luhansk_People's_Republic",
+                "Lokomotivfabrik_Luhansk",
+                "Luhanskteplovoz",
+                "Luhansk_railway_station"
+            ],
+            "scores": [
+                0.7471451876019576,
+                0.2137030995106036,
+                0.021207177814029365,
+                0.011419249592169658,
+                0.004893964110929853,
+                0.0016313213703099511
+            ]
+        },
+        {
+            "begin": 1711,
+            "end": 1720,
+            "text": "Melnichuk",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1827,
+            "end": 1836,
+            "text": "Savchenko",
+            "concept": 0,
+            "candidates": [
+                "Aleksei_Savchenko",
+                "Aljona_Savchenko",
+                "Nadiya_Savchenko",
+                "Larisa_Neiland",
+                "Stanislav_Savchenko",
+                "Savchenko"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.2222222222222222,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.1111111111111111,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 1903,
+            "end": 1911,
+            "text": "Brussels",
+            "concept": 20,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 1916,
+            "end": 1926,
+            "text": "Washington",
+            "concept": 21,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1970,
+            "end": 1976,
+            "text": "Moscow",
+            "concept": 9,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 2005,
+            "end": 2011,
+            "text": "Russia",
+            "concept": 22,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 2131,
+            "end": 2140,
+            "text": "President",
+            "concept": 13
+        },
+        {
+            "begin": 2141,
+            "end": 2158,
+            "text": "Viktor Yanukovich",
+            "concept": 23,
+            "candidates": [
+                "Viktor_Yanukovych"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2176,
+            "end": 2189,
+            "text": "February 2014",
+            "concept": 24
+        },
+        {
+            "begin": 2278,
+            "end": 2280,
+            "text": "UN",
+            "concept": 25,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 2282,
+            "end": 2313,
+            "text": "blc/msh (AP, AFP, Reuters, dpa)",
+            "concept": 26
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Nadezhda Savchenko",
+            "keyword": true,
+            "count": 8,
+            "link": "Nadiya_Savchenko",
+            "tags": [
+                "gender::female",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "VGTRK",
+            "keyword": true,
+            "count": 1,
+            "link": "All-Russia_State_Television_and_Radio_Broadcasting_Company",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Petro Poroshenko",
+            "keyword": true,
+            "count": 1,
+            "link": "Petro_Poroshenko",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Sergey Melnichuk",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::military_personnel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Ukraine",
+            "keyword": true,
+            "count": 2,
+            "link": "Ukraine",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Russian",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Ukrainian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "pilot",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Kyiv",
+            "keyword": false,
+            "count": 2,
+            "link": "Kiev",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Moscow",
+            "keyword": false,
+            "count": 5,
+            "link": "Moscow",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "state TV broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "June 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Council of Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Council_of_Europe",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Aidar",
+            "keyword": false,
+            "count": 1,
+            "link": "Aidar_Battalion",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "commander",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Schastye",
+            "keyword": false,
+            "count": 1,
+            "link": "Shchastya",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Luhansk",
+            "keyword": false,
+            "count": 1,
+            "link": "Luhansk_Oblast",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 1,
+            "link": "Brussels",
+            "tags": [
+                "meta::redo",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Russia",
+            "keyword": false,
+            "count": 1,
+            "link": "Russia",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Viktor Yanukovich",
+            "keyword": false,
+            "count": 1,
+            "link": "Viktor_Yanukovych",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "February 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "UN",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Nations",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "blc/msh (AP, AFP, Reuters, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 27,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        },
+        {
+            "concept": 28,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        },
+        {
+            "concept": 29,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Union",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 22
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 9,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 12,
+            "p": "institution_of",
+            "o": 29
+        },
+        {
+            "s": 12,
+            "p": "part_of",
+            "o": 29
+        },
+        {
+            "s": 16,
+            "p": "agency_of",
+            "o": 4
+        },
+        {
+            "s": 16,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 18,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 18,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 28
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 23,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 23,
+            "p": "head_of_state",
+            "o": 4
+        },
+        {
+            "s": 23,
+            "p": "head_of_state-x",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "sentence",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000106",
+        "20000107"
+    ]
+}

@@ -1,0 +1,4330 @@
+{
+    "id": "DW_37999849",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 21,
+            "end": 23,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 36,
+            "end": 38,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 132,
+            "end": 134,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 136,
+            "end": 138,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 143,
+            "end": 148,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 189,
+            "end": 191,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 210,
+            "end": 217,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 277,
+            "end": 280,
+            "text": "G20",
+            "concept": 3,
+            "candidates": [
+                "G20",
+                "BMW_3_Series_(G20)",
+                "G20_developing_nations",
+                "G20_Qingdao\u2013Yinchuan_Expressway",
+                "Infiniti_G-series_(Q40/Q60)",
+                "2017_G20_Hamburg_summit",
+                "List_of_G20_summits",
+                "2014_G20_Brisbane_summit",
+                "2011_G20_Cannes_summit",
+                "2019_G20_Osaka_summit",
+                "2018_G20_Buenos_Aires_summit",
+                "2015_G20_Antalya_summit",
+                "2012_G20_Los_Cabos_summit",
+                "2010_G20_Seoul_summit",
+                "2010_G20_Toronto_summit",
+                "G20_Schools"
+            ],
+            "scores": [
+                0.9197247706422018,
+                0.013761467889908258,
+                0.013761467889908258,
+                0.006880733944954129,
+                0.006880733944954129,
+                0.006880733944954129,
+                0.0045871559633027525,
+                0.0045871559633027525,
+                0.0045871559633027525,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763
+            ]
+        },
+        {
+            "begin": 310,
+            "end": 317,
+            "text": "Germany",
+            "concept": 12,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 321,
+            "end": 327,
+            "text": "Friday",
+            "concept": 13
+        },
+        {
+            "begin": 329,
+            "end": 337,
+            "text": "March 17",
+            "concept": 14
+        },
+        {
+            "begin": 504,
+            "end": 512,
+            "text": "Saturday",
+            "concept": 15
+        },
+        {
+            "begin": 514,
+            "end": 520,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 521,
+            "end": 537,
+            "text": "Finance Minister",
+            "concept": 17
+        },
+        {
+            "begin": 538,
+            "end": 555,
+            "text": "Wolfgang Sch\u00e4uble",
+            "concept": 18,
+            "candidates": [
+                "Wolfgang_Sch\u00e4uble"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 640,
+            "end": 651,
+            "text": "Baden-Baden",
+            "concept": 19,
+            "candidates": [
+                "Baden-Baden",
+                "Baden-Baden_station",
+                "Baden_Baden_(film)",
+                "Baden-Baden_(horse)",
+                "Margraviate_of_Baden",
+                "List_of_rulers_of_Baden",
+                "Baden",
+                "Southwest_German_Radio_Symphony_Orchestra",
+                "Baden_bei_Wien",
+                "Donaueschingen_Festival",
+                "Grenke_Chess_Classic",
+                "Rotor_ship",
+                "History_of_Baden",
+                "Kurhaus_of_Baden-Baden",
+                "Baden_Baden_(brewery)"
+            ],
+            "scores": [
+                0.9302752293577982,
+                0.024770642201834864,
+                0.01834862385321101,
+                0.012844036697247707,
+                0.0027522935779816515,
+                0.001834862385321101,
+                0.001834862385321101,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505,
+                0.0009174311926605505
+            ]
+        },
+        {
+            "begin": 769,
+            "end": 777,
+            "text": "Thursday",
+            "concept": 20
+        },
+        {
+            "begin": 779,
+            "end": 785,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 786,
+            "end": 796,
+            "text": "Chancellor",
+            "concept": 21
+        },
+        {
+            "begin": 797,
+            "end": 810,
+            "text": "Angela Markel",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 815,
+            "end": 822,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 823,
+            "end": 832,
+            "text": "President",
+            "concept": 23
+        },
+        {
+            "begin": 833,
+            "end": 843,
+            "text": "Xi Jinping",
+            "concept": 24,
+            "candidates": [
+                "Xi_Jinping"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 891,
+            "end": 893,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 919,
+            "end": 924,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 939,
+            "end": 941,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 945,
+            "end": 952,
+            "text": "Germany",
+            "concept": 12,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1003,
+            "end": 1006,
+            "text": "G20",
+            "concept": 3,
+            "candidates": [
+                "G20",
+                "BMW_3_Series_(G20)",
+                "G20_developing_nations",
+                "G20_Qingdao\u2013Yinchuan_Expressway",
+                "Infiniti_G-series_(Q40/Q60)",
+                "2017_G20_Hamburg_summit",
+                "List_of_G20_summits",
+                "2014_G20_Brisbane_summit",
+                "2011_G20_Cannes_summit",
+                "2019_G20_Osaka_summit",
+                "2018_G20_Buenos_Aires_summit",
+                "2015_G20_Antalya_summit",
+                "2012_G20_Los_Cabos_summit",
+                "2010_G20_Seoul_summit",
+                "2010_G20_Toronto_summit",
+                "G20_Schools"
+            ],
+            "scores": [
+                0.9197247706422018,
+                0.013761467889908258,
+                0.013761467889908258,
+                0.006880733944954129,
+                0.006880733944954129,
+                0.006880733944954129,
+                0.0045871559633027525,
+                0.0045871559633027525,
+                0.0045871559633027525,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763,
+                0.0022935779816513763
+            ]
+        },
+        {
+            "begin": 1035,
+            "end": 1041,
+            "text": "Berlin",
+            "concept": 25,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1046,
+            "end": 1053,
+            "text": "Beijing",
+            "concept": 26,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 1088,
+            "end": 1090,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1119,
+            "end": 1128,
+            "text": "President",
+            "concept": 23
+        },
+        {
+            "begin": 1129,
+            "end": 1141,
+            "text": "Donald Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 1145,
+            "end": 1158,
+            "text": "America First",
+            "concept": 27
+        },
+        {
+            "begin": 1198,
+            "end": 1203,
+            "text": "Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1233,
+            "end": 1240,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 1245,
+            "end": 1251,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 1262,
+            "end": 1270,
+            "text": "February",
+            "concept": 28
+        },
+        {
+            "begin": 1272,
+            "end": 1279,
+            "text": "Reuters",
+            "concept": 29,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1298,
+            "end": 1300,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1336,
+            "end": 1341,
+            "text": "April",
+            "concept": 30
+        },
+        {
+            "begin": 1345,
+            "end": 1348,
+            "text": "May",
+            "concept": 31
+        },
+        {
+            "begin": 1354,
+            "end": 1359,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1448,
+            "end": 1458,
+            "text": "Washington",
+            "concept": 32,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1485,
+            "end": 1490,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1512,
+            "end": 1521,
+            "text": "President",
+            "concept": 23
+        },
+        {
+            "begin": 1522,
+            "end": 1532,
+            "text": "Xi Jinping",
+            "concept": 24,
+            "candidates": [
+                "Xi_Jinping"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1554,
+            "end": 1574,
+            "text": "World Economic Forum",
+            "concept": 33,
+            "candidates": [
+                "World_Economic_Forum"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1578,
+            "end": 1583,
+            "text": "Davos",
+            "concept": 34,
+            "candidates": [
+                "Davos",
+                "Vaillant_Arena",
+                "Steel_Serpent",
+                "HC_Davos",
+                "World_Economic_Forum",
+                "Davos_Platz_(Rhaetian_Railway_station)",
+                "Davos_Seaworth",
+                "List_of_Landammann_of_Davos"
+            ],
+            "scores": [
+                0.8370558375634518,
+                0.13705583756345177,
+                0.009644670050761422,
+                0.007614213197969543,
+                0.005583756345177665,
+                0.0015228426395939086,
+                0.0010152284263959391,
+                0.0005076142131979696
+            ]
+        },
+        {
+            "begin": 1604,
+            "end": 1609,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1714,
+            "end": 1719,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1728,
+            "end": 1730,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1755,
+            "end": 1765,
+            "text": "Washington",
+            "concept": 32,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1771,
+            "end": 1773,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1782,
+            "end": 1784,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1808,
+            "end": 1813,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2010,
+            "end": 2041,
+            "text": "EU Chamber of Commerce in China",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2081,
+            "end": 2088,
+            "text": "Beijing",
+            "concept": 26,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 2097,
+            "end": 2115,
+            "text": "Made in China 2025",
+            "concept": 35,
+            "candidates": [
+                "Made_in_China_2025"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2105,
+            "end": 2110,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2111,
+            "end": 2115,
+            "text": "2025",
+            "concept": 36
+        },
+        {
+            "begin": 2154,
+            "end": 2161,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 2279,
+            "end": 2284,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2447,
+            "end": 2449,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 2454,
+            "end": 2456,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2458,
+            "end": 2463,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2639,
+            "end": 2647,
+            "text": "European",
+            "concept": 37
+        },
+        {
+            "begin": 2652,
+            "end": 2660,
+            "text": "American",
+            "concept": 38
+        },
+        {
+            "begin": 2727,
+            "end": 2734,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 2828,
+            "end": 2833,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2938,
+            "end": 2944,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2957,
+            "end": 2968,
+            "text": "Lance Noble",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3011,
+            "end": 3054,
+            "text": "European Union Chamber of Commerce in China",
+            "concept": 10,
+            "candidates": [
+                "European_Union_Chamber_of_Commerce_in_China"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3061,
+            "end": 3063,
+            "text": "DW",
+            "concept": 39,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 3123,
+            "end": 3131,
+            "text": "European",
+            "concept": 37
+        },
+        {
+            "begin": 3232,
+            "end": 3237,
+            "text": "Noble",
+            "concept": 9,
+            "candidates": [
+                "Nobility",
+                "Szlachta",
+                "National_Register_of_Historic_Places_listings_in_Noble_County,_Oklahoma",
+                "Noble_County,_Oklahoma",
+                "Noble_County,_Ohio",
+                "French_nobility",
+                "Noble_County,_Indiana",
+                "Peter_Noble",
+                "Noble,_Oklahoma",
+                "Noble_(film)",
+                "Nobility_of_Italy",
+                "Noble_House",
+                "North_of_Boston_Library_Exchange",
+                "Noble_(English_coin)",
+                "Noble_Automotive",
+                "Russian_nobility"
+            ],
+            "scores": [
+                0.42164883574575207,
+                0.08181246066708622,
+                0.04908747640025173,
+                0.0446821900566394,
+                0.0434235368156073,
+                0.03335431088735054,
+                0.03335431088735054,
+                0.027061044682190057,
+                0.015733165512901194,
+                0.013845185651353053,
+                0.012586532410320957,
+                0.012586532410320957,
+                0.010698552548772814,
+                0.010698552548772814,
+                0.00881057268722467,
+                0.007551919446192574
+            ]
+        },
+        {
+            "begin": 3239,
+            "end": 3254,
+            "text": "Mirjam Meissner",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3306,
+            "end": 3312,
+            "text": "Berlin",
+            "concept": 25,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 3319,
+            "end": 3354,
+            "text": "Mercator Institute of China Studies",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3356,
+            "end": 3362,
+            "text": "MERICS",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3369,
+            "end": 3371,
+            "text": "DW",
+            "concept": 39,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 3390,
+            "end": 3395,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 3413,
+            "end": 3419,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 3561,
+            "end": 3568,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 3628,
+            "end": 3635,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 3737,
+            "end": 3745,
+            "text": "European",
+            "concept": 37
+        },
+        {
+            "begin": 3782,
+            "end": 3790,
+            "text": "Meissner",
+            "concept": 8,
+            "candidates": [
+                "Mei\u00dfner,_Hesse",
+                "Hoher_Mei\u00dfner",
+                "Meissner",
+                "Thomas_Mei\u00dfner",
+                "Carl_Meissner",
+                "Silvio_Mei\u00dfner",
+                "Otto_Meissner",
+                "Walther_Meissner"
+            ],
+            "scores": [
+                0.36363636363636365,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 3807,
+            "end": 3812,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 4144,
+            "end": 4149,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 4154,
+            "end": 4160,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 4189,
+            "end": 4193,
+            "text": "2025",
+            "concept": 36
+        },
+        {
+            "begin": 4212,
+            "end": 4217,
+            "text": "Noble",
+            "concept": 9,
+            "candidates": [
+                "Nobility",
+                "Szlachta",
+                "National_Register_of_Historic_Places_listings_in_Noble_County,_Oklahoma",
+                "Noble_County,_Oklahoma",
+                "Noble_County,_Ohio",
+                "French_nobility",
+                "Noble_County,_Indiana",
+                "Peter_Noble",
+                "Noble,_Oklahoma",
+                "Noble_(film)",
+                "Nobility_of_Italy",
+                "Noble_House",
+                "North_of_Boston_Library_Exchange",
+                "Noble_(English_coin)",
+                "Noble_Automotive",
+                "Russian_nobility"
+            ],
+            "scores": [
+                0.42164883574575207,
+                0.08181246066708622,
+                0.04908747640025173,
+                0.0446821900566394,
+                0.0434235368156073,
+                0.03335431088735054,
+                0.03335431088735054,
+                0.027061044682190057,
+                0.015733165512901194,
+                0.013845185651353053,
+                0.012586532410320957,
+                0.012586532410320957,
+                0.010698552548772814,
+                0.010698552548772814,
+                0.00881057268722467,
+                0.007551919446192574
+            ]
+        },
+        {
+            "begin": 4384,
+            "end": 4389,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 4775,
+            "end": 4783,
+            "text": "Meissner",
+            "concept": 8,
+            "candidates": [
+                "Mei\u00dfner,_Hesse",
+                "Hoher_Mei\u00dfner",
+                "Meissner",
+                "Thomas_Mei\u00dfner",
+                "Carl_Meissner",
+                "Silvio_Mei\u00dfner",
+                "Otto_Meissner",
+                "Walther_Meissner"
+            ],
+            "scores": [
+                0.36363636363636365,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 4971,
+            "end": 4973,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 5009,
+            "end": 5019,
+            "text": "Washington",
+            "concept": 32,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 5026,
+            "end": 5062,
+            "text": "technology and innovation think tank",
+            "concept": 40
+        },
+        {
+            "begin": 5068,
+            "end": 5116,
+            "text": "Information Technology and Innovation Foundation",
+            "concept": 5,
+            "candidates": [
+                "Information_Technology_and_Innovation_Foundation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 5118,
+            "end": 5122,
+            "text": "ITIF",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5163,
+            "end": 5170,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 5198,
+            "end": 5216,
+            "text": "Made in China 2025",
+            "concept": 35,
+            "candidates": [
+                "Made_in_China_2025"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 5206,
+            "end": 5211,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 5212,
+            "end": 5216,
+            "text": "2025",
+            "concept": 36
+        },
+        {
+            "begin": 5226,
+            "end": 5228,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 5268,
+            "end": 5275,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 5318,
+            "end": 5320,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 5360,
+            "end": 5375,
+            "text": "Robert Atkinson",
+            "concept": 7,
+            "candidates": [
+                "Robert_Atkinson_(architect)",
+                "Robert_Atkinson_(philologist)",
+                "Robert_Atkinson_(businessman)",
+                "Robert_d'Escourt_Atkinson",
+                "Bob_Atkinson_(police_officer)",
+                "Robert_D._Atkinson",
+                "Rob_Atkinson"
+            ],
+            "scores": [
+                0.6938775510204082,
+                0.08163265306122448,
+                0.061224489795918366,
+                0.061224489795918366,
+                0.04081632653061224,
+                0.04081632653061224,
+                0.02040816326530612
+            ]
+        },
+        {
+            "begin": 5408,
+            "end": 5412,
+            "text": "ITIF",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5419,
+            "end": 5421,
+            "text": "DW",
+            "concept": 39,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 5431,
+            "end": 5433,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 5472,
+            "end": 5474,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 5513,
+            "end": 5520,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 5553,
+            "end": 5566,
+            "text": "United States",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 5604,
+            "end": 5612,
+            "text": "European",
+            "concept": 37
+        },
+        {
+            "begin": 5710,
+            "end": 5712,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 5793,
+            "end": 5798,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 5806,
+            "end": 5814,
+            "text": "Atkinson",
+            "concept": 7,
+            "candidates": [
+                "National_Register_of_Historic_Places_listings_in_Atkinson_County,_Georgia",
+                "Atkinson_County,_Georgia",
+                "Harry_Atkinson",
+                "Dalian_Atkinson",
+                "Atkinson,_New_Hampshire",
+                "Atkinson,_Nebraska",
+                "Atkinson,_Illinois",
+                "Rob_Atkinson",
+                "Will_Atkinson",
+                "Atkinson,_North_Carolina",
+                "Seddon_Atkinson",
+                "Brian_Atkinson",
+                "William_Stephen_Atkinson",
+                "Atkinson_(surname)",
+                "Atkinson,_Maine",
+                "John_Atkinson_(rugby_league)"
+            ],
+            "scores": [
+                0.34549356223175964,
+                0.10515021459227468,
+                0.0815450643776824,
+                0.07725321888412018,
+                0.07510729613733906,
+                0.032188841201716736,
+                0.027896995708154508,
+                0.02145922746781116,
+                0.019313304721030045,
+                0.017167381974248927,
+                0.015021459227467811,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.01072961373390558
+            ]
+        },
+        {
+            "begin": 5817,
+            "end": 5824,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 5970,
+            "end": 5978,
+            "text": "Atkinson",
+            "concept": 7,
+            "candidates": [
+                "National_Register_of_Historic_Places_listings_in_Atkinson_County,_Georgia",
+                "Atkinson_County,_Georgia",
+                "Harry_Atkinson",
+                "Dalian_Atkinson",
+                "Atkinson,_New_Hampshire",
+                "Atkinson,_Nebraska",
+                "Atkinson,_Illinois",
+                "Rob_Atkinson",
+                "Will_Atkinson",
+                "Atkinson,_North_Carolina",
+                "Seddon_Atkinson",
+                "Brian_Atkinson",
+                "William_Stephen_Atkinson",
+                "Atkinson_(surname)",
+                "Atkinson,_Maine",
+                "John_Atkinson_(rugby_league)"
+            ],
+            "scores": [
+                0.34549356223175964,
+                0.10515021459227468,
+                0.0815450643776824,
+                0.07725321888412018,
+                0.07510729613733906,
+                0.032188841201716736,
+                0.027896995708154508,
+                0.02145922746781116,
+                0.019313304721030045,
+                0.017167381974248927,
+                0.015021459227467811,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.01072961373390558
+            ]
+        },
+        {
+            "begin": 6079,
+            "end": 6084,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 6265,
+            "end": 6272,
+            "text": "Chinese",
+            "concept": 11
+        },
+        {
+            "begin": 6492,
+            "end": 6500,
+            "text": "Atkinson",
+            "concept": 7,
+            "candidates": [
+                "National_Register_of_Historic_Places_listings_in_Atkinson_County,_Georgia",
+                "Atkinson_County,_Georgia",
+                "Harry_Atkinson",
+                "Dalian_Atkinson",
+                "Atkinson,_New_Hampshire",
+                "Atkinson,_Nebraska",
+                "Atkinson,_Illinois",
+                "Rob_Atkinson",
+                "Will_Atkinson",
+                "Atkinson,_North_Carolina",
+                "Seddon_Atkinson",
+                "Brian_Atkinson",
+                "William_Stephen_Atkinson",
+                "Atkinson_(surname)",
+                "Atkinson,_Maine",
+                "John_Atkinson_(rugby_league)"
+            ],
+            "scores": [
+                0.34549356223175964,
+                0.10515021459227468,
+                0.0815450643776824,
+                0.07725321888412018,
+                0.07510729613733906,
+                0.032188841201716736,
+                0.027896995708154508,
+                0.02145922746781116,
+                0.019313304721030045,
+                0.017167381974248927,
+                0.015021459227467811,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.012875536480686695,
+                0.01072961373390558
+            ]
+        },
+        {
+            "begin": 6713,
+            "end": 6715,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 6723,
+            "end": 6725,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 6756,
+            "end": 6761,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 6956,
+            "end": 6961,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 7094,
+            "end": 7100,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 7108,
+            "end": 7116,
+            "text": "Meissner",
+            "concept": 8,
+            "candidates": [
+                "Mei\u00dfner,_Hesse",
+                "Hoher_Mei\u00dfner",
+                "Meissner",
+                "Thomas_Mei\u00dfner",
+                "Carl_Meissner",
+                "Silvio_Mei\u00dfner",
+                "Otto_Meissner",
+                "Walther_Meissner"
+            ],
+            "scores": [
+                0.36363636363636365,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 7120,
+            "end": 7126,
+            "text": "MERICS",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 7150,
+            "end": 7155,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 7267,
+            "end": 7272,
+            "text": "China",
+            "concept": 2,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Europe",
+            "keyword": true,
+            "count": 13,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Donald Trump",
+            "keyword": false,
+            "count": 2,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "China",
+            "keyword": true,
+            "count": 23,
+            "link": "China",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "G20",
+            "keyword": true,
+            "count": 2,
+            "link": "G20",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "United States",
+            "keyword": true,
+            "count": 14,
+            "link": "United_States",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Information Technology and Innovation Foundation",
+            "keyword": false,
+            "count": 3,
+            "link": "Information_Technology_and_Innovation_Foundation",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Mercator Institute of China Studies",
+            "keyword": false,
+            "count": 3,
+            "link": "Mercator_Institute_for_China_Studies",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Robert Atkinson",
+            "keyword": false,
+            "count": 5,
+            "link": "Robert_D._Atkinson",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Mirjam Meissner",
+            "keyword": false,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Lance Noble",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "European Union Chamber of Commerce in China",
+            "keyword": false,
+            "count": 2,
+            "link": "European_Union_Chamber_of_Commerce_in_China",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Chinese",
+            "keyword": false,
+            "count": 12,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "March 17",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Finance Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Wolfgang Sch\u00e4uble",
+            "keyword": false,
+            "count": 1,
+            "link": "Wolfgang_Sch\u00e4uble",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::finance",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Baden-Baden",
+            "keyword": false,
+            "count": 1,
+            "link": "Baden-Baden",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Angela Markel",
+            "keyword": false,
+            "count": 1,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "President",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Xi Jinping",
+            "keyword": false,
+            "count": 2,
+            "link": "Xi_Jinping",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 2,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Beijing",
+            "keyword": false,
+            "count": 2,
+            "link": "Beijing",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "America First",
+            "keyword": false,
+            "count": 1,
+            "link": "America_First_(policy)",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "February",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "April",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "May",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Washington",
+            "keyword": false,
+            "count": 3,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "World Economic Forum",
+            "keyword": false,
+            "count": 1,
+            "link": "World_Economic_Forum",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Davos",
+            "keyword": false,
+            "count": 1,
+            "link": "Davos",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Made in China 2025",
+            "keyword": false,
+            "count": 2,
+            "link": "Made_in_China_2025",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::project"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "2025",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "European",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "DW",
+            "keyword": false,
+            "count": 3,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "technology and innovation think tank",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 41,
+            "keyword": false,
+            "count": 0,
+            "link": "Switzerland",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 38
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 38
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 38
+        },
+        {
+            "s": 5,
+            "p": "based_in2",
+            "o": 32
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 6,
+            "p": "based_in2",
+            "o": 25
+        },
+        {
+            "s": 7,
+            "p": "head_of",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 5
+        },
+        {
+            "s": 8,
+            "p": "head_of",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "member_of",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "head_of",
+            "o": 10
+        },
+        {
+            "s": 9,
+            "p": "member_of",
+            "o": 10
+        },
+        {
+            "s": 10,
+            "p": "institution_of",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "part_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 18,
+            "p": "minister_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "minister_of-x",
+            "o": 16
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 22,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 22,
+            "p": "head_of_gov",
+            "o": 12
+        },
+        {
+            "s": 22,
+            "p": "head_of_gov-x",
+            "o": 16
+        },
+        {
+            "s": 24,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 24,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "head_of_state-x",
+            "o": 11
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 25,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 11
+        },
+        {
+            "s": 32,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 32,
+            "p": "in0-x",
+            "o": 38
+        },
+        {
+            "s": 33,
+            "p": "event_in0",
+            "o": 41
+        },
+        {
+            "s": 33,
+            "p": "event_in2",
+            "o": 34
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 41
+        },
+        {
+            "s": 38,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 39,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 39,
+            "p": "based_in0-x",
+            "o": 16
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000373",
+        "20000377"
+    ]
+}

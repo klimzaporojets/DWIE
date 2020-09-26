@@ -1,0 +1,463 @@
+{
+    "id": "DW_6498064",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 9,
+            "text": "My Berlin",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3,
+            "end": 9,
+            "text": "Berlin",
+            "concept": 0,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 44,
+            "end": 50,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 51,
+            "end": 65,
+            "text": "Sergei Sorokin",
+            "concept": 1,
+            "candidates": [
+                "Sergei_Sorokin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 71,
+            "end": 77,
+            "text": "Moscow",
+            "concept": 8,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 93,
+            "end": 99,
+            "text": "Berlin",
+            "concept": 0,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 178,
+            "end": 194,
+            "text": "Brandenburg Gate",
+            "concept": 2,
+            "candidates": [
+                "Brandenburg_Gate",
+                "Brandenburg_Gate_(Kaliningrad)",
+                "Brandenburg_Gate_(Potsdam)",
+                "Pariser_Platz"
+            ],
+            "scores": [
+                0.9709762532981531,
+                0.0158311345646438,
+                0.010554089709762533,
+                0.002638522427440633
+            ]
+        },
+        {
+            "begin": 200,
+            "end": 217,
+            "text": "German parliament",
+            "concept": 3,
+            "candidates": [
+                "Bundestag",
+                "Reichstag_(German_Empire)",
+                "Reichstag_(Weimar_Republic)",
+                "Imperial_Diet_(Holy_Roman_Empire)",
+                "Politics_of_Germany",
+                "Bundeshaus_(Bonn)",
+                "Frankfurt_Parliament"
+            ],
+            "scores": [
+                0.8541666666666666,
+                0.0625,
+                0.05555555555555555,
+                0.006944444444444444,
+                0.006944444444444444,
+                0.006944444444444444,
+                0.006944444444444444
+            ]
+        },
+        {
+            "begin": 223,
+            "end": 243,
+            "text": "Berlin Wall Memorial",
+            "concept": 4,
+            "candidates": [
+                "Gedenkst\u00e4tte_Berliner_Mauer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 248,
+            "end": 263,
+            "text": "Potsdamer Platz",
+            "concept": 5,
+            "candidates": [
+                "Potsdamer_Platz",
+                "Berlin_Potsdamer_Platz_station"
+            ],
+            "scores": [
+                0.8582677165354331,
+                0.14173228346456693
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Berlin",
+            "keyword": true,
+            "count": 2,
+            "link": "Berlin",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Sergei Sorokin",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Brandenburg Gate",
+            "keyword": true,
+            "count": 1,
+            "link": "Brandenburg_Gate",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German parliament",
+            "keyword": true,
+            "count": 1,
+            "link": "Bundestag",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Berlin Wall Memorial",
+            "keyword": true,
+            "count": 1,
+            "link": "Gedenkst\u00e4tte_Berliner_Mauer",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Potsdamer Platz",
+            "keyword": true,
+            "count": 1,
+            "link": "Potsdamer_Platz",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::street"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "My Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Russia",
+            "keyword": false,
+            "count": 1,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Moscow",
+            "keyword": false,
+            "count": 1,
+            "link": "Moscow",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 5,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 7
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "20000563",
+        "20000564"
+    ]
+}

@@ -1,0 +1,2527 @@
+{
+    "id": "DW_35913316",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 15,
+            "end": 22,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 38,
+            "end": 42,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 97,
+            "end": 101,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 156,
+            "end": 159,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 235,
+            "end": 242,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 255,
+            "end": 261,
+            "text": "flight",
+            "concept": 8
+        },
+        {
+            "begin": 262,
+            "end": 266,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 286,
+            "end": 289,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 329,
+            "end": 335,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 356,
+            "end": 365,
+            "text": "Wednesday",
+            "concept": 9
+        },
+        {
+            "begin": 567,
+            "end": 572,
+            "text": "Dutch",
+            "concept": 10
+        },
+        {
+            "begin": 618,
+            "end": 627,
+            "text": "Australia",
+            "concept": 11,
+            "candidates": [
+                "Australia",
+                "Australia_national_cricket_team",
+                "Australia_national_rugby_union_team",
+                "Australia_national_rugby_league_team",
+                "Australia_national_soccer_team",
+                "Rugby_Australia",
+                "Australia_women's_national_cricket_team",
+                "Australia_women's_national_soccer_team",
+                "Australia_(2008_film)",
+                "ARIA_Charts",
+                "Australia_international_rules_football_team",
+                "Football_Federation_Australia",
+                "A1_Team_Australia",
+                "Australia_Davis_Cup_team",
+                "Australian_Recording_Industry_Association",
+                "Kent_Music_Report"
+            ],
+            "scores": [
+                0.8091146964416243,
+                0.036229964935326334,
+                0.025827091962668306,
+                0.024312213311863725,
+                0.01744758837674926,
+                0.0034958738095490324,
+                0.0033475640115681643,
+                0.0031462864285941292,
+                0.0025636407936692903,
+                0.0025106730086761233,
+                0.0023199889827007214,
+                0.0022988018687034547,
+                0.0019280273737512844,
+                0.0016314077777895483,
+                0.0013983495238196128,
+                0.0013877559668209795
+            ]
+        },
+        {
+            "begin": 629,
+            "end": 636,
+            "text": "Belgium",
+            "concept": 12,
+            "candidates": [
+                "Belgium",
+                "Belgium_national_football_team",
+                "Royal_Belgian_Football_Association",
+                "Same-sex_marriage_in_Belgium",
+                "Belgium_women's_national_football_team",
+                "Ultratop",
+                "Battle_of_Belgium",
+                "Belgium_national_under-21_football_team",
+                "Royal_Belgian_Cycling_League",
+                "Belgium_Davis_Cup_team",
+                "Belgium_national_rugby_union_team",
+                "Belgium_Fed_Cup_team",
+                "Belgium_national_basketball_team",
+                "Football_in_Belgium",
+                "Belgium_in_the_Eurovision_Song_Contest",
+                "Belgium_men's_national_field_hockey_team"
+            ],
+            "scores": [
+                0.868776160429812,
+                0.0462610108077716,
+                0.006809520834634848,
+                0.004216905104016993,
+                0.003404760417317424,
+                0.0029049790716561504,
+                0.0026550883988255137,
+                0.0025926157306178548,
+                0.002498906728306366,
+                0.0019991253826450927,
+                0.001905416380333604,
+                0.0018741800462297744,
+                0.0014993440369838195,
+                0.0013743987005685012,
+                0.0013119260323608422,
+                0.0011869806959455239
+            ]
+        },
+        {
+            "begin": 638,
+            "end": 646,
+            "text": "Malaysia",
+            "concept": 13,
+            "candidates": [
+                "Malaysia",
+                "Malaysia_national_football_team",
+                "Malaysia_national_cricket_team",
+                "A1_Team_Malaysia",
+                "Football_Association_of_Malaysia",
+                "Malaysia_women's_national_squash_team",
+                "Malaysia_national_badminton_team",
+                "Parliament_of_Malaysia",
+                "Malaysia_men's_national_squash_team",
+                "Malaysia_men's_national_field_hockey_team",
+                "Elections_in_Malaysia",
+                "Malaysia_at_the_2005_Southeast_Asian_Games",
+                "Malaysia_national_under-23_football_team",
+                "Malaysian_cuisine",
+                "Malaysia_Fed_Cup_team",
+                "Miss_Malaysia"
+            ],
+            "scores": [
+                0.916327716443928,
+                0.015791092729944972,
+                0.006630891752401135,
+                0.006220733499675292,
+                0.0041699422360460744,
+                0.0022216905355983184,
+                0.0019140718460539357,
+                0.001811532282872475,
+                0.0017431725740848344,
+                0.0011962949037837099,
+                0.0011621150493898896,
+                0.0009570359230269679,
+                0.0009228560686331477,
+                0.0009228560686331477,
+                0.0008886762142393274,
+                0.0008544963598455071
+            ]
+        },
+        {
+            "begin": 651,
+            "end": 658,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 730,
+            "end": 740,
+            "text": "Nieuwegein",
+            "concept": 14,
+            "candidates": [
+                "Nieuwegein"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 746,
+            "end": 757,
+            "text": "Netherlands",
+            "concept": 15,
+            "candidates": [
+                "Netherlands",
+                "Netherlands_national_football_team",
+                "Netherlands_national_cricket_team",
+                "Royal_Dutch_Football_Association",
+                "Netherlands_women's_national_football_team",
+                "A1_Team_Netherlands",
+                "Netherlands_women's_national_cricket_team",
+                "Same-sex_marriage_in_the_Netherlands",
+                "Netherlands_national_under-21_football_team",
+                "Kingdom_of_the_Netherlands",
+                "Netherlands_national_baseball_team",
+                "List_of_non-marine_molluscs_of_the_Netherlands",
+                "Dutch_Top_40",
+                "Netherlands_national_cerebral_palsy_football_team",
+                "ISU_Junior_Grand_Prix_in_the_Netherlands",
+                "Dutch_Republic"
+            ],
+            "scores": [
+                0.8586002372479241,
+                0.04102232287285668,
+                0.011280060390380675,
+                0.006276285991588483,
+                0.004184190661058989,
+                0.003235198964736331,
+                0.0030410870268521516,
+                0.002997951040655667,
+                0.0027175671303785185,
+                0.002674431144182034,
+                0.002350911247708401,
+                0.0019411193788417987,
+                0.0019411193788417987,
+                0.0018979833926453143,
+                0.0017470074409576188,
+                0.0017470074409576188
+            ]
+        },
+        {
+            "begin": 761,
+            "end": 770,
+            "text": "Wednesday",
+            "concept": 9
+        },
+        {
+            "begin": 772,
+            "end": 778,
+            "text": "Moscow",
+            "concept": 16,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 823,
+            "end": 829,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 853,
+            "end": 860,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 882,
+            "end": 888,
+            "text": "Monday",
+            "concept": 17
+        },
+        {
+            "begin": 894,
+            "end": 901,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 985,
+            "end": 995,
+            "text": "Boeing 777",
+            "concept": 18,
+            "candidates": [
+                "Boeing_777",
+                "Boeing_Business_Jet"
+            ],
+            "scores": [
+                0.9976019184652278,
+                0.002398081534772182
+            ]
+        },
+        {
+            "begin": 1268,
+            "end": 1275,
+            "text": "Kremlin",
+            "concept": 19,
+            "candidates": [
+                "Moscow_Kremlin",
+                "Nizhny_Novgorod_Kremlin",
+                "Kremlin_(fortification)",
+                "Government_of_Russia",
+                "Kremlin,_Oklahoma",
+                "Kremlin,_Montana",
+                "Kazan_Kremlin",
+                "Suzdal_Kremlin",
+                "Novgorod_Kremlin",
+                "Government_of_the_Soviet_Union",
+                "Kremlin_(board_game)",
+                "Kremlin,_Wisconsin",
+                "Politics_of_Russia",
+                "List_of_Moscow_Kremlin_towers",
+                "Penis",
+                "Kremlin_Wall_Necropolis"
+            ],
+            "scores": [
+                0.8954635108481263,
+                0.026627218934911243,
+                0.021696252465483234,
+                0.01775147928994083,
+                0.007889546351084813,
+                0.004930966469428008,
+                0.0039447731755424065,
+                0.0029585798816568047,
+                0.0029585798816568047,
+                0.0029585798816568047,
+                0.0019723865877712033,
+                0.0019723865877712033,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016
+            ]
+        },
+        {
+            "begin": 1276,
+            "end": 1285,
+            "text": "spokesman",
+            "concept": 20
+        },
+        {
+            "begin": 1286,
+            "end": 1299,
+            "text": "Dmitry Peskov",
+            "concept": 21,
+            "candidates": [
+                "Dmitry_Peskov"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1436,
+            "end": 1443,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 1533,
+            "end": 1539,
+            "text": "Moscow",
+            "concept": 16,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 1722,
+            "end": 1729,
+            "text": "October",
+            "concept": 22
+        },
+        {
+            "begin": 1737,
+            "end": 1755,
+            "text": "Dutch Safety Board",
+            "concept": 2,
+            "candidates": [
+                "Dutch_Safety_Board"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1838,
+            "end": 1841,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 1922,
+            "end": 1928,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1967,
+            "end": 1995,
+            "text": "the Joint Investigation Team",
+            "concept": 23,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2133,
+            "end": 2151,
+            "text": "Dutch Safety Board",
+            "concept": 2,
+            "candidates": [
+                "Dutch_Safety_Board"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2153,
+            "end": 2156,
+            "text": "OVV",
+            "concept": 2,
+            "candidates": [
+                "OVV_quasar",
+                "Order_of_the_Immaculate_Conception_of_Vila_Vi\u00e7osa",
+                "OVV"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 2190,
+            "end": 2193,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 2274,
+            "end": 2278,
+            "text": "2014",
+            "concept": 24
+        },
+        {
+            "begin": 2297,
+            "end": 2300,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 2334,
+            "end": 2340,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 2416,
+            "end": 2419,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 2478,
+            "end": 2484,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 2514,
+            "end": 2523,
+            "text": "Ukrainian",
+            "concept": 25
+        },
+        {
+            "begin": 2813,
+            "end": 2831,
+            "text": "Evert van Zijtveld",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2886,
+            "end": 2890,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2900,
+            "end": 2908,
+            "text": "Zijtveld",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3100,
+            "end": 3107,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 3118,
+            "end": 3132,
+            "text": "Donetsk Oblast",
+            "concept": 26,
+            "candidates": [
+                "Donetsk_Oblast",
+                "Football_Federation_of_Donetsk_Oblast"
+            ],
+            "scores": [
+                0.998587570621469,
+                0.0014124293785310734
+            ]
+        },
+        {
+            "begin": 3161,
+            "end": 3174,
+            "text": "July 17, 2014",
+            "concept": 27
+        },
+        {
+            "begin": 3255,
+            "end": 3262,
+            "text": "Kremlin",
+            "concept": 19,
+            "candidates": [
+                "Moscow_Kremlin",
+                "Nizhny_Novgorod_Kremlin",
+                "Kremlin_(fortification)",
+                "Government_of_Russia",
+                "Kremlin,_Oklahoma",
+                "Kremlin,_Montana",
+                "Kazan_Kremlin",
+                "Suzdal_Kremlin",
+                "Novgorod_Kremlin",
+                "Government_of_the_Soviet_Union",
+                "Kremlin_(board_game)",
+                "Kremlin,_Wisconsin",
+                "Politics_of_Russia",
+                "List_of_Moscow_Kremlin_towers",
+                "Penis",
+                "Kremlin_Wall_Necropolis"
+            ],
+            "scores": [
+                0.8954635108481263,
+                0.026627218934911243,
+                0.021696252465483234,
+                0.01775147928994083,
+                0.007889546351084813,
+                0.004930966469428008,
+                0.0039447731755424065,
+                0.0029585798816568047,
+                0.0029585798816568047,
+                0.0029585798816568047,
+                0.0019723865877712033,
+                0.0019723865877712033,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016
+            ]
+        },
+        {
+            "begin": 3395,
+            "end": 3406,
+            "text": "Netherlands",
+            "concept": 15,
+            "candidates": [
+                "Netherlands",
+                "Netherlands_national_football_team",
+                "Netherlands_national_cricket_team",
+                "Royal_Dutch_Football_Association",
+                "Netherlands_women's_national_football_team",
+                "A1_Team_Netherlands",
+                "Netherlands_women's_national_cricket_team",
+                "Same-sex_marriage_in_the_Netherlands",
+                "Netherlands_national_under-21_football_team",
+                "Kingdom_of_the_Netherlands",
+                "Netherlands_national_baseball_team",
+                "List_of_non-marine_molluscs_of_the_Netherlands",
+                "Dutch_Top_40",
+                "Netherlands_national_cerebral_palsy_football_team",
+                "ISU_Junior_Grand_Prix_in_the_Netherlands",
+                "Dutch_Republic"
+            ],
+            "scores": [
+                0.8586002372479241,
+                0.04102232287285668,
+                0.011280060390380675,
+                0.006276285991588483,
+                0.004184190661058989,
+                0.003235198964736331,
+                0.0030410870268521516,
+                0.002997951040655667,
+                0.0027175671303785185,
+                0.002674431144182034,
+                0.002350911247708401,
+                0.0019411193788417987,
+                0.0019411193788417987,
+                0.0018979833926453143,
+                0.0017470074409576188,
+                0.0017470074409576188
+            ]
+        },
+        {
+            "begin": 3453,
+            "end": 3460,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 3841,
+            "end": 3845,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3851,
+            "end": 3856,
+            "text": "Dutch",
+            "concept": 10
+        },
+        {
+            "begin": 3882,
+            "end": 3891,
+            "text": "Malaysian",
+            "concept": 28
+        },
+        {
+            "begin": 3903,
+            "end": 3911,
+            "text": "Malaysia",
+            "concept": 13,
+            "candidates": [
+                "Malaysia",
+                "Malaysia_national_football_team",
+                "Malaysia_national_cricket_team",
+                "A1_Team_Malaysia",
+                "Football_Association_of_Malaysia",
+                "Malaysia_women's_national_squash_team",
+                "Malaysia_national_badminton_team",
+                "Parliament_of_Malaysia",
+                "Malaysia_men's_national_squash_team",
+                "Malaysia_men's_national_field_hockey_team",
+                "Elections_in_Malaysia",
+                "Malaysia_at_the_2005_Southeast_Asian_Games",
+                "Malaysia_national_under-23_football_team",
+                "Malaysian_cuisine",
+                "Malaysia_Fed_Cup_team",
+                "Miss_Malaysia"
+            ],
+            "scores": [
+                0.916327716443928,
+                0.015791092729944972,
+                0.006630891752401135,
+                0.006220733499675292,
+                0.0041699422360460744,
+                0.0022216905355983184,
+                0.0019140718460539357,
+                0.001811532282872475,
+                0.0017431725740848344,
+                0.0011962949037837099,
+                0.0011621150493898896,
+                0.0009570359230269679,
+                0.0009228560686331477,
+                0.0009228560686331477,
+                0.0008886762142393274,
+                0.0008544963598455071
+            ]
+        },
+        {
+            "begin": 4020,
+            "end": 4026,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 4036,
+            "end": 4055,
+            "text": "UN Security Council",
+            "concept": 29,
+            "candidates": [
+                "United_Nations_Security_Council",
+                "List_of_members_of_the_United_Nations_Security_Council",
+                "United_Nations_Security_Council_and_the_Iraq_War"
+            ],
+            "scores": [
+                0.9982363315696648,
+                0.0008818342151675485,
+                0.0008818342151675485
+            ]
+        },
+        {
+            "begin": 4099,
+            "end": 4112,
+            "text": "United States",
+            "concept": 30,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 4197,
+            "end": 4199,
+            "text": "US",
+            "concept": 31,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 4200,
+            "end": 4216,
+            "text": "State Department",
+            "concept": 32,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4217,
+            "end": 4226,
+            "text": "spokesman",
+            "concept": 20
+        },
+        {
+            "begin": 4227,
+            "end": 4237,
+            "text": "John Kirby",
+            "concept": 5,
+            "candidates": [
+                "John_Kirby_(musician)",
+                "John_Kirby_(admiral)",
+                "John_Kirby_(baseball)",
+                "John_Kirby_(bishop)",
+                "John_Kirby_(American_football)",
+                "John_Kirby_(topographer)",
+                "John_Kirby_(attorney)",
+                "John_Kirby_(Canadian_politician)",
+                "John_Kirby_Allen",
+                "John_Kirby_(surgeon)",
+                "John_Kirby_(artist)",
+                "John_Henry_Kirby"
+            ],
+            "scores": [
+                0.4050632911392405,
+                0.24050632911392406,
+                0.0949367088607595,
+                0.06329113924050633,
+                0.06329113924050633,
+                0.0379746835443038,
+                0.03164556962025317,
+                0.0189873417721519,
+                0.0189873417721519,
+                0.012658227848101266,
+                0.006329113924050633,
+                0.006329113924050633
+            ]
+        },
+        {
+            "begin": 4275,
+            "end": 4279,
+            "text": "MH17",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_17"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4299,
+            "end": 4302,
+            "text": "BUK",
+            "concept": 1,
+            "candidates": [
+                "Buk",
+                "Buk_District,_Gwangju",
+                "Buk_District,_Daegu",
+                "B\u00fck",
+                "Buk_missile_system",
+                "Buk_District,_Busan",
+                "Buk_(drum)",
+                "Buk-gu,_Pohang",
+                "Buk_District,_Ulsan",
+                "Gmina_Buk",
+                "FSC_Bukovyna_Chernivtsi",
+                "Buk,_Bulgaria",
+                "Buk,_Croatia",
+                "Buk_(P\u0159erov_District)",
+                "Buk_(Prachatice_District)",
+                "Bak_(instrument)"
+            ],
+            "scores": [
+                0.15,
+                0.12916666666666668,
+                0.12083333333333333,
+                0.11666666666666667,
+                0.10833333333333334,
+                0.07916666666666666,
+                0.075,
+                0.058333333333333334,
+                0.05,
+                0.025,
+                0.020833333333333332,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.008333333333333333,
+                0.004166666666666667
+            ]
+        },
+        {
+            "begin": 4358,
+            "end": 4365,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 4380,
+            "end": 4387,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 4409,
+            "end": 4414,
+            "text": "Kirby",
+            "concept": 5,
+            "candidates": [
+                "Kirby_(character)",
+                "Kirby_(series)",
+                "Kirby,_Texas",
+                "Kirby,_Arkansas",
+                "Jack_Kirby",
+                "William_Kirby_(entomologist)",
+                "Kirby_Anders",
+                "Kirby,_Vermont",
+                "Kirby,_West_Virginia",
+                "Michael_Kirby_(judge)",
+                "Kirby_Company",
+                "Kirby,_Ohio",
+                "Kirby,_Wyoming",
+                "Vernon_Kirby",
+                "Fran_Kirby",
+                "Kirby,_Ontario"
+            ],
+            "scores": [
+                0.27055702917771884,
+                0.2440318302387268,
+                0.04774535809018567,
+                0.04509283819628647,
+                0.042440318302387266,
+                0.03183023872679045,
+                0.029177718832891247,
+                0.029177718832891247,
+                0.023872679045092837,
+                0.021220159151193633,
+                0.021220159151193633,
+                0.01856763925729443,
+                0.015915119363395226,
+                0.013262599469496022,
+                0.010610079575596816,
+                0.010610079575596816
+            ]
+        },
+        {
+            "begin": 4523,
+            "end": 4530,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 4536,
+            "end": 4542,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 4565,
+            "end": 4572,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 4585,
+            "end": 4591,
+            "text": "Russia",
+            "concept": 3,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 4615,
+            "end": 4647,
+            "text": "ls,jar/kl/jbh,kms (AP, AFP, dpa)",
+            "concept": 33
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "MH17",
+            "keyword": true,
+            "count": 6,
+            "link": "Malaysia_Airlines_Flight_17",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::misc",
+                "type::object"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "BUK",
+            "keyword": false,
+            "count": 7,
+            "link": "Buk_missile_system",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_equipment",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Dutch Safety Board",
+            "keyword": false,
+            "count": 3,
+            "link": "Dutch_Safety_Board",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Russia",
+            "keyword": false,
+            "count": 8,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Ukraine",
+            "keyword": false,
+            "count": 9,
+            "link": "Ukraine",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "John Kirby",
+            "keyword": false,
+            "count": 2,
+            "link": "John_Kirby_(admiral)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Evert van Zijtveld",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Russian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "flight",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Australia",
+            "keyword": false,
+            "count": 1,
+            "link": "Australia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Belgium",
+            "keyword": false,
+            "count": 1,
+            "link": "Belgium",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Malaysia",
+            "keyword": false,
+            "count": 2,
+            "link": "Malaysia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Nieuwegein",
+            "keyword": false,
+            "count": 1,
+            "link": "Nieuwegein",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Netherlands",
+            "keyword": false,
+            "count": 2,
+            "link": "Netherlands",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Moscow",
+            "keyword": false,
+            "count": 2,
+            "link": "Moscow",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Boeing 777",
+            "keyword": false,
+            "count": 1,
+            "link": "Boeing_777",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Kremlin",
+            "keyword": false,
+            "count": 2,
+            "link": "Moscow_Kremlin",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Dmitry Peskov",
+            "keyword": false,
+            "count": 1,
+            "link": "Dmitry_Peskov",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "October",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "the Joint Investigation Team",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Ukrainian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Donetsk Oblast",
+            "keyword": false,
+            "count": 1,
+            "link": "Donetsk_Oblast",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::loc",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "July 17, 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Malaysian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "UN Security Council",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Nations_Security_Council",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "United States",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "State Department",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States_Department_of_State",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "ls,jar/kl/jbh,kms (AP, AFP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 15
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 30
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 32
+        },
+        {
+            "s": 5,
+            "p": "spokesperson_of",
+            "o": 32
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 15
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 19,
+            "p": "agency_of",
+            "o": 3
+        },
+        {
+            "s": 19,
+            "p": "agency_of-x",
+            "o": 7
+        },
+        {
+            "s": 19,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 19,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 21,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 21,
+            "p": "spokesperson_of",
+            "o": 19
+        },
+        {
+            "s": 25,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "gpe0",
+            "o": 13
+        },
+        {
+            "s": 32,
+            "p": "agency_of",
+            "o": 31
+        },
+        {
+            "s": 32,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 32,
+            "p": "ministry_of",
+            "o": 31
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        },
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "target",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "20000139",
+        "20000143",
+        "20000144"
+    ]
+}

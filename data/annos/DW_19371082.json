@@ -1,0 +1,1684 @@
+{
+    "id": "DW_19371082",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Alpine",
+            "concept": 5
+        },
+        {
+            "begin": 8,
+            "end": 21,
+            "text": "Crypto Valley",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 33,
+            "end": 41,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 54,
+            "end": 57,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 61,
+            "end": 72,
+            "text": "Switzerland",
+            "concept": 2,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 110,
+            "text": "Swiss",
+            "concept": 7
+        },
+        {
+            "begin": 112,
+            "end": 125,
+            "text": "Crypto Valley",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 164,
+            "end": 171,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 177,
+            "end": 184,
+            "text": "Fintech",
+            "concept": 8
+        },
+        {
+            "begin": 247,
+            "end": 250,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 253,
+            "end": 258,
+            "text": "mayor",
+            "concept": 9
+        },
+        {
+            "begin": 260,
+            "end": 272,
+            "text": "Dolfi M\u00fcller",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 389,
+            "end": 392,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 410,
+            "end": 417,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 450,
+            "end": 453,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 512,
+            "end": 514,
+            "text": "DW",
+            "concept": 10,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 595,
+            "end": 598,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 729,
+            "end": 745,
+            "text": "200 Swiss francs",
+            "concept": 11
+        },
+        {
+            "begin": 747,
+            "end": 753,
+            "text": "M\u00fcller",
+            "concept": 3,
+            "candidates": [
+                "M\u00fcller_(footballer)",
+                "Thomas_M\u00fcller",
+                "M\u00fcller_(company)",
+                "Philipp_Ludwig_Statius_M\u00fcller",
+                "Otto_Friedrich_M\u00fcller",
+                "Johannes_Peter_M\u00fcller",
+                "M\u00fcller_(surname)",
+                "Martina_M\u00fcller_(footballer)",
+                "M\u00fcller_(German_trade_company)",
+                "Salomon_M\u00fcller",
+                "Muller",
+                "Nicolai_M\u00fcller",
+                "Gilles_M\u00fcller",
+                "Gerd_M\u00fcller",
+                "Herbert_M\u00fcller_(field_hockey)",
+                "Hermann_M\u00fcller_(politician)"
+            ],
+            "scores": [
+                0.2052313883299799,
+                0.12474849094567404,
+                0.05835010060362173,
+                0.052313883299798795,
+                0.0482897384305835,
+                0.0482897384305835,
+                0.03420523138832998,
+                0.028169014084507043,
+                0.02012072434607646,
+                0.018108651911468814,
+                0.014084507042253521,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875
+            ]
+        },
+        {
+            "begin": 784,
+            "end": 787,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 848,
+            "end": 855,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 927,
+            "end": 934,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1034,
+            "end": 1041,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1054,
+            "end": 1057,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 1093,
+            "end": 1098,
+            "text": "Swiss",
+            "concept": 7
+        },
+        {
+            "begin": 1155,
+            "end": 1161,
+            "text": "M\u00fcller",
+            "concept": 3,
+            "candidates": [
+                "M\u00fcller_(footballer)",
+                "Thomas_M\u00fcller",
+                "M\u00fcller_(company)",
+                "Philipp_Ludwig_Statius_M\u00fcller",
+                "Otto_Friedrich_M\u00fcller",
+                "Johannes_Peter_M\u00fcller",
+                "M\u00fcller_(surname)",
+                "Martina_M\u00fcller_(footballer)",
+                "M\u00fcller_(German_trade_company)",
+                "Salomon_M\u00fcller",
+                "Muller",
+                "Nicolai_M\u00fcller",
+                "Gilles_M\u00fcller",
+                "Gerd_M\u00fcller",
+                "Herbert_M\u00fcller_(field_hockey)",
+                "Hermann_M\u00fcller_(politician)"
+            ],
+            "scores": [
+                0.2052313883299799,
+                0.12474849094567404,
+                0.05835010060362173,
+                0.052313883299798795,
+                0.0482897384305835,
+                0.0482897384305835,
+                0.03420523138832998,
+                0.028169014084507043,
+                0.02012072434607646,
+                0.018108651911468814,
+                0.014084507042253521,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875,
+                0.012072434607645875
+            ]
+        },
+        {
+            "begin": 1244,
+            "end": 1251,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1252,
+            "end": 1255,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 1273,
+            "end": 1278,
+            "text": "Swiss",
+            "concept": 7
+        },
+        {
+            "begin": 1332,
+            "end": 1336,
+            "text": "Alps",
+            "concept": 12,
+            "candidates": [
+                "Alps",
+                "Swiss_Alps",
+                "Alps_(film)",
+                "Alps_Electric",
+                "Geology_of_the_Alps",
+                "Australian_Alps",
+                "Australian_Labor_Party",
+                "Alps,_Georgia",
+                "French_Alps",
+                "Slavic_settlement_of_the_Eastern_Alps",
+                "2015_Formula_Renault_2.0_Alps_Series",
+                "Amphipathic_lipid_packing_sensor_motifs",
+                "Autoimmune_lymphoproliferative_syndrome",
+                "Eastern_Alps",
+                "Bavarian_Alps",
+                "Central_Eastern_Alps"
+            ],
+            "scores": [
+                0.9597523219814241,
+                0.020344980097302078,
+                0.005970809376382132,
+                0.0019902697921273774,
+                0.0015479876160990713,
+                0.0011057054400707652,
+                0.0008845643520566122,
+                0.0006634232640424591,
+                0.0006634232640424591,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061
+            ]
+        },
+        {
+            "begin": 1437,
+            "end": 1444,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1482,
+            "end": 1485,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 1561,
+            "end": 1569,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1605,
+            "end": 1612,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1757,
+            "end": 1766,
+            "text": "Santorini",
+            "concept": 13,
+            "candidates": [
+                "Santorini",
+                "Santorini_(Thira)_International_Airport",
+                "Roman_Catholic_Diocese_of_Santorini",
+                "Santorini_(wine)",
+                "Santorini_affair",
+                "Santorini_(game)",
+                "Thira_(regional_unit)",
+                "Santorini_tomato",
+                "Santorini_caldera",
+                "Santorini_(novel)"
+            ],
+            "scores": [
+                0.9247524752475248,
+                0.01782178217821782,
+                0.015841584158415842,
+                0.015841584158415842,
+                0.013861386138613862,
+                0.0039603960396039604,
+                0.0019801980198019802,
+                0.0019801980198019802,
+                0.0019801980198019802,
+                0.0019801980198019802
+            ]
+        },
+        {
+            "begin": 1889,
+            "end": 1896,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 1942,
+            "end": 1950,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1975,
+            "end": 1982,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 2098,
+            "end": 2118,
+            "text": "Abbas Hussain-Probst",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2221,
+            "end": 2229,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2295,
+            "end": 2302,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 2363,
+            "end": 2370,
+            "text": "Bitcoin",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin",
+                "Legality_of_bitcoin_by_country_or_territory",
+                "Bitcoin_network",
+                "BitPay"
+            ],
+            "scores": [
+                0.9963054187192119,
+                0.0012315270935960591,
+                0.0012315270935960591,
+                0.0012315270935960591
+            ]
+        },
+        {
+            "begin": 2449,
+            "end": 2452,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 2545,
+            "end": 2558,
+            "text": "Crypto Valley",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2612,
+            "end": 2615,
+            "text": "Zug",
+            "concept": 1,
+            "candidates": [
+                "Zug",
+                "Canton_of_Zug",
+                "Zug_railway_station",
+                "EV_Zug",
+                "Zug,_Western_Sahara",
+                "LK_Zug",
+                "Zug_94",
+                "FC_Zugdidi",
+                "Zug_(disambiguation)",
+                "Coat_of_arms_of_Zug",
+                "Lake_Zug",
+                "Zug_Island",
+                "List_of_mayors_of_Zug"
+            ],
+            "scores": [
+                0.6553846153846153,
+                0.2676923076923077,
+                0.027692307692307693,
+                0.010769230769230769,
+                0.010769230769230769,
+                0.009230769230769232,
+                0.006153846153846154,
+                0.003076923076923077,
+                0.003076923076923077,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385,
+                0.0015384615384615385
+            ]
+        },
+        {
+            "begin": 2632,
+            "end": 2636,
+            "text": "Baar",
+            "concept": 15,
+            "candidates": [
+                "Baar,_Switzerland",
+                "Baar_(region)",
+                "Baar_(TV_series)",
+                "Baar,_Rhineland-Palatinate",
+                "Baar,_Bavaria",
+                "Duchy_of_Bar",
+                "Baar_railway_station",
+                "Baar",
+                "Canton_of_Zug"
+            ],
+            "scores": [
+                0.5634920634920635,
+                0.2857142857142857,
+                0.03968253968253968,
+                0.03968253968253968,
+                0.031746031746031744,
+                0.015873015873015872,
+                0.007936507936507936,
+                0.007936507936507936,
+                0.007936507936507936
+            ]
+        },
+        {
+            "begin": 2648,
+            "end": 2662,
+            "text": "Bitcoin Suisse",
+            "concept": 16,
+            "candidates": [
+                "Bitcoin_Suisse"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2698,
+            "end": 2702,
+            "text": "Alps",
+            "concept": 12,
+            "candidates": [
+                "Alps",
+                "Swiss_Alps",
+                "Alps_(film)",
+                "Alps_Electric",
+                "Geology_of_the_Alps",
+                "Australian_Alps",
+                "Australian_Labor_Party",
+                "Alps,_Georgia",
+                "French_Alps",
+                "Slavic_settlement_of_the_Eastern_Alps",
+                "2015_Formula_Renault_2.0_Alps_Series",
+                "Amphipathic_lipid_packing_sensor_motifs",
+                "Autoimmune_lymphoproliferative_syndrome",
+                "Eastern_Alps",
+                "Bavarian_Alps",
+                "Central_Eastern_Alps"
+            ],
+            "scores": [
+                0.9597523219814241,
+                0.020344980097302078,
+                0.005970809376382132,
+                0.0019902697921273774,
+                0.0015479876160990713,
+                0.0011057054400707652,
+                0.0008845643520566122,
+                0.0006634232640424591,
+                0.0006634232640424591,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061
+            ]
+        },
+        {
+            "begin": 2762,
+            "end": 2770,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2791,
+            "end": 2799,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2835,
+            "end": 2847,
+            "text": "Bitcoin-ATMs",
+            "concept": 17,
+            "candidates": [
+                "Bitcoin_ATM"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2863,
+            "end": 2876,
+            "text": "Kafi Schoffel",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2894,
+            "end": 2900,
+            "text": "Z\u00fcrich",
+            "concept": 19,
+            "candidates": [
+                "Z\u00fcrich",
+                "Canton_of_Z\u00fcrich",
+                "FC_Z\u00fcrich",
+                "Zurich_Open",
+                "University_of_Zurich",
+                "Z\u00fcrich_Hauptbahnhof",
+                "FC_Z\u00fcrich_Frauen",
+                "Weltklasse_Z\u00fcrich",
+                "Zurich_Airport",
+                "Letzigrund",
+                "Zurich_Insurance_Group",
+                "History_of_Z\u00fcrich",
+                "Zurich,_Ontario",
+                "First_Battle_of_Zurich",
+                "ETH_Zurich",
+                "Zurich,_Kansas"
+            ],
+            "scores": [
+                0.8156161806208843,
+                0.060206961429915336,
+                0.05242452749508253,
+                0.017873941674506115,
+                0.00992046523561105,
+                0.009065252715299753,
+                0.005900966390147952,
+                0.004618147609681006,
+                0.004190541349525357,
+                0.0036774138373385787,
+                0.0029932438210895406,
+                0.001624903788591465,
+                0.0013683400324980759,
+                0.0007696912682801676,
+                0.0006841700162490379,
+                0.0005986487642179082
+            ]
+        },
+        {
+            "begin": 3073,
+            "end": 3086,
+            "text": "Kafi Schoffel",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3126,
+            "end": 3143,
+            "text": "Niklas Nikolajsen",
+            "concept": 4,
+            "candidates": [
+                "Niklas_Nikolajsen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3152,
+            "end": 3166,
+            "text": "Bitcoin Suisse",
+            "concept": 16,
+            "candidates": [
+                "Bitcoin_Suisse"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3336,
+            "end": 3344,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3346,
+            "end": 3356,
+            "text": "Nikolajsen",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3437,
+            "end": 3444,
+            "text": "Nairobi",
+            "concept": 20,
+            "candidates": [
+                "Nairobi",
+                "Gymkhana_Club_Ground",
+                "Nairobi_County",
+                "Roman_Catholic_Archdiocese_of_Nairobi",
+                "Nyayo_National_Stadium",
+                "United_Nations_Office_at_Nairobi",
+                "Jomo_Kenyatta_International_Airport",
+                "University_of_Nairobi",
+                "Nairobi_railway_station",
+                "Moi_International_Sports_Centre",
+                "Nairobi_National_Park",
+                "Timeline_of_Nairobi",
+                "1987_All-Africa_Games",
+                "Nairobi_local_elections,_2013",
+                "Nairobi_Securities_Exchange",
+                "Moi_Air_Base"
+            ],
+            "scores": [
+                0.9733166189111748,
+                0.008775071633237822,
+                0.0053724928366762174,
+                0.002507163323782235,
+                0.002148997134670487,
+                0.0016117478510028654,
+                0.0016117478510028654,
+                0.0008954154727793697,
+                0.0007163323782234957,
+                0.0005372492836676218,
+                0.0005372492836676218,
+                0.00035816618911174784,
+                0.00017908309455587392,
+                0.00017908309455587392,
+                0.00017908309455587392,
+                0.00017908309455587392
+            ]
+        },
+        {
+            "begin": 3569,
+            "end": 3577,
+            "text": "Bitcoins",
+            "concept": 0,
+            "candidates": [
+                "Bitcoin"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Bitcoins",
+            "keyword": true,
+            "count": 20,
+            "link": "Bitcoin",
+            "tags": [
+                "iptc::13000000",
+                "slot::keyword",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Zug",
+            "keyword": true,
+            "count": 11,
+            "link": "Zug",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Switzerland",
+            "keyword": true,
+            "count": 1,
+            "link": "Switzerland",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Dolfi M\u00fcller",
+            "keyword": false,
+            "count": 4,
+            "link": "wikidata:Q1235484",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_local"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Niklas Nikolajsen",
+            "keyword": false,
+            "count": 2,
+            "link": "Niklas_Nikolajsen",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Alpine",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Crypto Valley",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Swiss",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Fintech",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "mayor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "200 Swiss francs",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Alps",
+            "keyword": false,
+            "count": 2,
+            "link": "Alps",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Santorini",
+            "keyword": false,
+            "count": 1,
+            "link": "Santorini",
+            "tags": [
+                "type::entity",
+                "type::island",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Abbas Hussain-Probst",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Baar",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Bitcoin Suisse",
+            "keyword": false,
+            "count": 2,
+            "link": "Bitcoin_Suisse",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000274",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Bitcoin-ATMs",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Kafi Schoffel",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Z\u00fcrich",
+            "keyword": false,
+            "count": 1,
+            "link": "Z\u00fcrich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Nairobi",
+            "keyword": false,
+            "count": 1,
+            "link": "Nairobi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "Kenya",
+            "tags": []
+        },
+        {
+            "concept": 22,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "mayor_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 16
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 16
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 18,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 18,
+            "p": "in2",
+            "o": 19
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 21
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000355"
+    ]
+}

@@ -1,0 +1,737 @@
+{
+    "id": "DW_42248169",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 24,
+            "end": 30,
+            "text": "Alpine",
+            "concept": 3
+        },
+        {
+            "begin": 40,
+            "end": 51,
+            "text": "Switzerland",
+            "concept": 4,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 56,
+            "end": 63,
+            "text": "Austria",
+            "concept": 5,
+            "candidates": [
+                "Austria",
+                "Austria_national_football_team",
+                "Austrian_Empire",
+                "ISU_Junior_Grand_Prix_in_Austria",
+                "Habsburg_Monarchy",
+                "Same-sex_marriage_in_Austria",
+                "Archduchy_of_Austria",
+                "Austrian_Football_Association",
+                "First_Austrian_Republic",
+                "\u00d63_Austria_Top_40",
+                "Austria-Hungary",
+                "Austria_women's_national_football_team",
+                "Austria_national_under-21_football_team",
+                "Duchy_of_Austria",
+                "List_of_non-marine_molluscs_of_Austria",
+                "Federal_State_of_Austria"
+            ],
+            "scores": [
+                0.8352887119007505,
+                0.03819880533006586,
+                0.014734262521059886,
+                0.008975340787256854,
+                0.0076581406034614795,
+                0.006800428855873794,
+                0.005758921733803032,
+                0.004594884362076888,
+                0.00367590748966151,
+                0.003400214427936897,
+                0.0028181957420738246,
+                0.0024812375555215193,
+                0.0024812375555215193,
+                0.0024199724306938277,
+                0.0023280747434522896,
+                0.0020523816817276763
+            ]
+        },
+        {
+            "begin": 80,
+            "end": 85,
+            "text": "Swiss",
+            "concept": 6
+        },
+        {
+            "begin": 101,
+            "end": 108,
+            "text": "Zermatt",
+            "concept": 0,
+            "candidates": [
+                "Zermatt",
+                "Zermatt_railway_station",
+                "Mattertal"
+            ],
+            "scores": [
+                0.9435897435897436,
+                0.046153846153846156,
+                0.010256410256410256
+            ]
+        },
+        {
+            "begin": 119,
+            "end": 129,
+            "text": "Matterhorn",
+            "concept": 2,
+            "candidates": [
+                "Matterhorn",
+                "Matterhorn_(ride)",
+                "Matterhorn_Bobsleds",
+                "Matterhorn:_A_Novel_of_the_Vietnam_War",
+                "Matterhorn_(Antarctica)",
+                "Matterhorn_(film)",
+                "Matterhorn_(Nevada)",
+                "Music_Express",
+                "First_ascent_of_the_Matterhorn",
+                "List_of_references_to_the_Matterhorn",
+                "Princeton_Plasma_Physics_Laboratory",
+                "Operation_Matterhorn",
+                "Matterhorn_(disambiguation)"
+            ],
+            "scores": [
+                0.9042357274401474,
+                0.02394106813996317,
+                0.020257826887661142,
+                0.01289134438305709,
+                0.011049723756906077,
+                0.007366482504604052,
+                0.007366482504604052,
+                0.003683241252302026,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013
+            ]
+        },
+        {
+            "begin": 269,
+            "end": 275,
+            "text": "Monday",
+            "concept": 7
+        },
+        {
+            "begin": 291,
+            "end": 295,
+            "text": "Alps",
+            "concept": 8,
+            "candidates": [
+                "Alps",
+                "Swiss_Alps",
+                "Alps_(film)",
+                "Alps_Electric",
+                "Geology_of_the_Alps",
+                "Australian_Alps",
+                "Australian_Labor_Party",
+                "Alps,_Georgia",
+                "French_Alps",
+                "Slavic_settlement_of_the_Eastern_Alps",
+                "2015_Formula_Renault_2.0_Alps_Series",
+                "Amphipathic_lipid_packing_sensor_motifs",
+                "Autoimmune_lymphoproliferative_syndrome",
+                "Eastern_Alps",
+                "Bavarian_Alps",
+                "Central_Eastern_Alps"
+            ],
+            "scores": [
+                0.9597523219814241,
+                0.020344980097302078,
+                0.005970809376382132,
+                0.0019902697921273774,
+                0.0015479876160990713,
+                0.0011057054400707652,
+                0.0008845643520566122,
+                0.0006634232640424591,
+                0.0006634232640424591,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061,
+                0.0004422821760283061
+            ]
+        },
+        {
+            "begin": 363,
+            "end": 370,
+            "text": "Zermatt",
+            "concept": 0,
+            "candidates": [
+                "Zermatt",
+                "Zermatt_railway_station",
+                "Mattertal"
+            ],
+            "scores": [
+                0.9435897435897436,
+                0.046153846153846156,
+                0.010256410256410256
+            ]
+        },
+        {
+            "begin": 374,
+            "end": 385,
+            "text": "Switzerland",
+            "concept": 4,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 390,
+            "end": 399,
+            "text": "St. Anton",
+            "concept": 1,
+            "candidates": [
+                "St_Anton_am_Arlberg",
+                "St._Anton_Pass",
+                "Saint_Anthony",
+                "St._Anton_am_Arlberg_railway_station"
+            ],
+            "scores": [
+                0.96875,
+                0.015625,
+                0.0078125,
+                0.0078125
+            ]
+        },
+        {
+            "begin": 403,
+            "end": 410,
+            "text": "Austria",
+            "concept": 5,
+            "candidates": [
+                "Austria",
+                "Austria_national_football_team",
+                "Austrian_Empire",
+                "ISU_Junior_Grand_Prix_in_Austria",
+                "Habsburg_Monarchy",
+                "Same-sex_marriage_in_Austria",
+                "Archduchy_of_Austria",
+                "Austrian_Football_Association",
+                "First_Austrian_Republic",
+                "\u00d63_Austria_Top_40",
+                "Austria-Hungary",
+                "Austria_women's_national_football_team",
+                "Austria_national_under-21_football_team",
+                "Duchy_of_Austria",
+                "List_of_non-marine_molluscs_of_Austria",
+                "Federal_State_of_Austria"
+            ],
+            "scores": [
+                0.8352887119007505,
+                0.03819880533006586,
+                0.014734262521059886,
+                0.008975340787256854,
+                0.0076581406034614795,
+                0.006800428855873794,
+                0.005758921733803032,
+                0.004594884362076888,
+                0.00367590748966151,
+                0.003400214427936897,
+                0.0028181957420738246,
+                0.0024812375555215193,
+                0.0024812375555215193,
+                0.0024199724306938277,
+                0.0023280747434522896,
+                0.0020523816817276763
+            ]
+        },
+        {
+            "begin": 445,
+            "end": 451,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 503,
+            "end": 510,
+            "text": "Zermatt",
+            "concept": 0,
+            "candidates": [
+                "Zermatt",
+                "Zermatt_railway_station",
+                "Mattertal"
+            ],
+            "scores": [
+                0.9435897435897436,
+                0.046153846153846156,
+                0.010256410256410256
+            ]
+        },
+        {
+            "begin": 628,
+            "end": 639,
+            "text": "Air Zermatt",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 802,
+            "end": 808,
+            "text": "Alpine",
+            "concept": 3
+        },
+        {
+            "begin": 855,
+            "end": 866,
+            "text": "Switzerland",
+            "concept": 4,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 907,
+            "end": 916,
+            "text": "St. Anton",
+            "concept": 1,
+            "candidates": [
+                "St_Anton_am_Arlberg",
+                "St._Anton_Pass",
+                "Saint_Anthony",
+                "St._Anton_am_Arlberg_railway_station"
+            ],
+            "scores": [
+                0.96875,
+                0.015625,
+                0.0078125,
+                0.0078125
+            ]
+        },
+        {
+            "begin": 1116,
+            "end": 1123,
+            "text": "Zermatt",
+            "concept": 0,
+            "candidates": [
+                "Zermatt",
+                "Zermatt_railway_station",
+                "Mattertal"
+            ],
+            "scores": [
+                0.9435897435897436,
+                0.046153846153846156,
+                0.010256410256410256
+            ]
+        },
+        {
+            "begin": 1129,
+            "end": 1135,
+            "text": "Monday",
+            "concept": 7
+        },
+        {
+            "begin": 1274,
+            "end": 1280,
+            "text": "Monday",
+            "concept": 7
+        },
+        {
+            "begin": 1373,
+            "end": 1383,
+            "text": "Matterhorn",
+            "concept": 2,
+            "candidates": [
+                "Matterhorn",
+                "Matterhorn_(ride)",
+                "Matterhorn_Bobsleds",
+                "Matterhorn:_A_Novel_of_the_Vietnam_War",
+                "Matterhorn_(Antarctica)",
+                "Matterhorn_(film)",
+                "Matterhorn_(Nevada)",
+                "Music_Express",
+                "First_ascent_of_the_Matterhorn",
+                "List_of_references_to_the_Matterhorn",
+                "Princeton_Plasma_Physics_Laboratory",
+                "Operation_Matterhorn",
+                "Matterhorn_(disambiguation)"
+            ],
+            "scores": [
+                0.9042357274401474,
+                0.02394106813996317,
+                0.020257826887661142,
+                0.01289134438305709,
+                0.011049723756906077,
+                0.007366482504604052,
+                0.007366482504604052,
+                0.003683241252302026,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013,
+                0.001841620626151013
+            ]
+        },
+        {
+            "begin": 1414,
+            "end": 1421,
+            "text": "January",
+            "concept": 11
+        },
+        {
+            "begin": 1635,
+            "end": 1640,
+            "text": "Swiss",
+            "concept": 6
+        },
+        {
+            "begin": 1652,
+            "end": 1668,
+            "text": "amp/jm (dpa, AP)",
+            "concept": 12
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Zermatt",
+            "keyword": true,
+            "count": 4,
+            "link": "Zermatt",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "St. Anton",
+            "keyword": true,
+            "count": 2,
+            "link": "St_Anton_am_Arlberg",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Matterhorn",
+            "keyword": true,
+            "count": 2,
+            "link": "Matterhorn",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::location",
+                "type::mountain"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Alpine",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Switzerland",
+            "keyword": false,
+            "count": 3,
+            "link": "Switzerland",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Austria",
+            "keyword": false,
+            "count": 2,
+            "link": "Austria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Swiss",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Monday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Alps",
+            "keyword": false,
+            "count": 1,
+            "link": "Alps",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Air Zermatt",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q385885",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "January",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "amp/jm (dpa, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "based_in2",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "17000000",
+        "20001129"
+    ]
+}

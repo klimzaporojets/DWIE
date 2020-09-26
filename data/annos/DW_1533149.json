@@ -1,0 +1,2104 @@
+{
+    "id": "DW_1533149",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Germans",
+            "concept": 6
+        },
+        {
+            "begin": 66,
+            "end": 73,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 123,
+            "end": 129,
+            "text": "Easter",
+            "concept": 7,
+            "candidates": [
+                "Easter",
+                "Easter_(Patti_Smith_Group_album)",
+                "Easter_(play)",
+                "Easter_Island",
+                "Easter_(film)",
+                "\u0112ostre",
+                "Easter_(These_Arms_Are_Snakes_album)",
+                "Easter_(Marillion_song)",
+                "Easter_term",
+                "Eastertide",
+                "Jermaine_Easter",
+                "Orthodox_Easter",
+                "Easter_hotspot",
+                "Oster",
+                "Easter_traditions",
+                "Eastern_Orthodox_Church"
+            ],
+            "scores": [
+                0.9624753127057275,
+                0.009545753785385122,
+                0.005595786701777485,
+                0.0026333113890717576,
+                0.002304147465437788,
+                0.0019749835418038184,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0009874917709019092,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 228,
+            "end": 230,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 249,
+            "end": 251,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 263,
+            "end": 267,
+            "text": "Iraq",
+            "concept": 8,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 307,
+            "end": 314,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 317,
+            "end": 323,
+            "text": "Easter",
+            "concept": 7,
+            "candidates": [
+                "Easter",
+                "Easter_(Patti_Smith_Group_album)",
+                "Easter_(play)",
+                "Easter_Island",
+                "Easter_(film)",
+                "\u0112ostre",
+                "Easter_(These_Arms_Are_Snakes_album)",
+                "Easter_(Marillion_song)",
+                "Easter_term",
+                "Eastertide",
+                "Jermaine_Easter",
+                "Orthodox_Easter",
+                "Easter_hotspot",
+                "Oster",
+                "Easter_traditions",
+                "Eastern_Orthodox_Church"
+            ],
+            "scores": [
+                0.9624753127057275,
+                0.009545753785385122,
+                0.005595786701777485,
+                0.0026333113890717576,
+                0.002304147465437788,
+                0.0019749835418038184,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0009874917709019092,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 439,
+            "end": 447,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 488,
+            "end": 494,
+            "text": "German",
+            "concept": 10
+        },
+        {
+            "begin": 508,
+            "end": 514,
+            "text": "May 12",
+            "concept": 11
+        },
+        {
+            "begin": 615,
+            "end": 621,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 629,
+            "end": 644,
+            "text": "Willi van Ooyen",
+            "concept": 5,
+            "candidates": [
+                "Willi_van_Ooyen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 676,
+            "end": 706,
+            "text": "Informationsstelle Ostermarsch",
+            "concept": 3
+        },
+        {
+            "begin": 709,
+            "end": 718,
+            "text": "Van Ooyen",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 952,
+            "end": 958,
+            "text": "Berlin",
+            "concept": 12,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 960,
+            "end": 967,
+            "text": "Hamburg",
+            "concept": 13,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 972,
+            "end": 981,
+            "text": "Frankfurt",
+            "concept": 14,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "1._FFC_Frankfurt",
+                "Frankfurt_Airport",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_(Oder)",
+                "Goethe_University_Frankfurt",
+                "Frankfurt_Cup",
+                "Eintracht_Frankfurt",
+                "Grand_Duchy_of_Frankfurt",
+                "Opern-_und_Schauspielhaus_Frankfurt",
+                "Frankfurt_Grand_Prix_(tennis)",
+                "Frankfurt_Stock_Exchange",
+                "International_Motor_Show_Germany",
+                "Frankfurt_Marathon",
+                "Frankfurt_Galaxy"
+            ],
+            "scores": [
+                0.89258114374034,
+                0.025281519099138883,
+                0.022742327224552883,
+                0.016559947008169575,
+                0.009825568558180614,
+                0.006403179509825568,
+                0.005188783395893133,
+                0.0017663943475380878,
+                0.0014351954073746965,
+                0.0014351954073746965,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0012143961139324355,
+                0.0007727975270479134,
+                0.0007727975270479134
+            ]
+        },
+        {
+            "begin": 1019,
+            "end": 1055,
+            "text": "Network of the German Peace Movement",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1131,
+            "end": 1138,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1144,
+            "end": 1150,
+            "text": "Hitler",
+            "concept": 16,
+            "candidates": [
+                "Adolf_Hitler",
+                "Hitler_(1996_film)",
+                "Hitler_(1997_film)",
+                "Hitler_(1962_film)",
+                "Hitler_(1998_film)",
+                "Hitler_Cabinet",
+                "Hitler_(name)",
+                "Godwin's_law",
+                "Nazi_Germany",
+                "Hitler_Line",
+                "Death_of_Adolf_Hitler"
+            ],
+            "scores": [
+                0.954018691588785,
+                0.015327102803738318,
+                0.012336448598130842,
+                0.010841121495327103,
+                0.00485981308411215,
+                0.0007476635514018691,
+                0.00037383177570093456,
+                0.00037383177570093456,
+                0.00037383177570093456,
+                0.00037383177570093456,
+                0.00037383177570093456
+            ]
+        },
+        {
+            "begin": 1180,
+            "end": 1196,
+            "text": "Second World War",
+            "concept": 17,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "Netherlands_in_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Pacific_War",
+                "German_occupation_of_Norway",
+                "World_War_II_in_Yugoslavia",
+                "World_War_I",
+                "Military_history_of_the_United_Kingdom_during_World_War_II",
+                "Second_Sino-Japanese_War",
+                "Second_World_War_at_Sea_series",
+                "Belgium_in_World_War_II",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Denmark_in_World_War_II",
+                "History_of_Poland_(1939\u20131945)"
+            ],
+            "scores": [
+                0.9937571592210768,
+                0.0016323024054982818,
+                0.0004009163802978236,
+                0.0003436426116838488,
+                0.0003150057273768614,
+                0.0002577319587628866,
+                0.0002290950744558992,
+                0.0002290950744558992,
+                0.0002004581901489118,
+                0.0001718213058419244,
+                0.0001718213058419244,
+                0.000143184421534937,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                8.59106529209622e-05
+            ]
+        },
+        {
+            "begin": 1311,
+            "end": 1318,
+            "text": "Network",
+            "concept": 18,
+            "candidates": [
+                "Computer_network",
+                "Television_network",
+                "Network_(1976_film)",
+                "Telecommunications_network",
+                "Social_network",
+                "Radio_network",
+                "Network_Distributing",
+                "Transport_network",
+                "Business_networking",
+                "Network_(play)",
+                "Slovak_Conservative_Party",
+                "State_network",
+                "Network_layer",
+                "Flow_network",
+                "Local_area_network",
+                "Graph_(discrete_mathematics)"
+            ],
+            "scores": [
+                0.27132936507936506,
+                0.18501984126984128,
+                0.1626984126984127,
+                0.06398809523809523,
+                0.03571428571428571,
+                0.027281746031746032,
+                0.027281746031746032,
+                0.02132936507936508,
+                0.011408730158730158,
+                0.010416666666666666,
+                0.008432539682539682,
+                0.007936507936507936,
+                0.00744047619047619,
+                0.006944444444444444,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1321,
+            "end": 1329,
+            "text": "director",
+            "concept": 19
+        },
+        {
+            "begin": 1330,
+            "end": 1345,
+            "text": "Manfred Stenner",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1430,
+            "end": 1437,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1570,
+            "end": 1578,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 1647,
+            "end": 1653,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1655,
+            "end": 1662,
+            "text": "Stenner",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1722,
+            "end": 1728,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1864,
+            "end": 1868,
+            "text": "Ruhr",
+            "concept": 20,
+            "candidates": [
+                "Ruhr",
+                "Ruhr_(river)",
+                "Rhine-Ruhr",
+                "Christopher_R\u00fchr",
+                "Occupation_of_the_Ruhr",
+                "Ruhr_(department)",
+                "Battle_of_the_Ruhr"
+            ],
+            "scores": [
+                0.7747077577045696,
+                0.21679064824654623,
+                0.003188097768331562,
+                0.0021253985122210413,
+                0.0010626992561105207,
+                0.0010626992561105207,
+                0.0010626992561105207
+            ]
+        },
+        {
+            "begin": 1906,
+            "end": 1914,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 1906,
+            "end": 1927,
+            "text": "European constitution",
+            "concept": 21
+        },
+        {
+            "begin": 2000,
+            "end": 2012,
+            "text": "Article I-41",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2029,
+            "end": 2042,
+            "text": "Member States",
+            "concept": 23
+        },
+        {
+            "begin": 2183,
+            "end": 2198,
+            "text": "Felix Oekentorp",
+            "concept": 24,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2217,
+            "end": 2228,
+            "text": "Ruhr Easter",
+            "concept": 25,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2408,
+            "end": 2421,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 2422,
+            "end": 2430,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 2543,
+            "end": 2549,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2566,
+            "end": 2573,
+            "text": "Stenner",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2715,
+            "end": 2729,
+            "text": "European Union",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 2892,
+            "end": 2900,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 2953,
+            "end": 2959,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 3012,
+            "end": 3025,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 3033,
+            "end": 3040,
+            "text": "Stenner",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3149,
+            "end": 3156,
+            "text": "Islamic",
+            "concept": 26
+        },
+        {
+            "begin": 3161,
+            "end": 3165,
+            "text": "Arab",
+            "concept": 27,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 3178,
+            "end": 3184,
+            "text": "Easter",
+            "concept": 7,
+            "candidates": [
+                "Easter",
+                "Easter_(Patti_Smith_Group_album)",
+                "Easter_(play)",
+                "Easter_Island",
+                "Easter_(film)",
+                "\u0112ostre",
+                "Easter_(These_Arms_Are_Snakes_album)",
+                "Easter_(Marillion_song)",
+                "Easter_term",
+                "Eastertide",
+                "Jermaine_Easter",
+                "Orthodox_Easter",
+                "Easter_hotspot",
+                "Oster",
+                "Easter_traditions",
+                "Eastern_Orthodox_Church"
+            ],
+            "scores": [
+                0.9624753127057275,
+                0.009545753785385122,
+                0.005595786701777485,
+                0.0026333113890717576,
+                0.002304147465437788,
+                0.0019749835418038184,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0009874917709019092,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 3210,
+            "end": 3217,
+            "text": "Britain",
+            "concept": 28,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 3225,
+            "end": 3229,
+            "text": "1950",
+            "concept": 29
+        },
+        {
+            "begin": 3345,
+            "end": 3351,
+            "text": "Easter",
+            "concept": 7,
+            "candidates": [
+                "Easter",
+                "Easter_(Patti_Smith_Group_album)",
+                "Easter_(play)",
+                "Easter_Island",
+                "Easter_(film)",
+                "\u0112ostre",
+                "Easter_(These_Arms_Are_Snakes_album)",
+                "Easter_(Marillion_song)",
+                "Easter_term",
+                "Eastertide",
+                "Jermaine_Easter",
+                "Orthodox_Easter",
+                "Easter_hotspot",
+                "Oster",
+                "Easter_traditions",
+                "Eastern_Orthodox_Church"
+            ],
+            "scores": [
+                0.9624753127057275,
+                0.009545753785385122,
+                0.005595786701777485,
+                0.0026333113890717576,
+                0.002304147465437788,
+                0.0019749835418038184,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0016458196181698486,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0009874917709019092,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 3356,
+            "end": 3363,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3395,
+            "end": 3399,
+            "text": "1960",
+            "concept": 30
+        },
+        {
+            "begin": 3416,
+            "end": 3423,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3427,
+            "end": 3431,
+            "text": "1983",
+            "concept": 31
+        },
+        {
+            "begin": 3491,
+            "end": 3493,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3494,
+            "end": 3505,
+            "text": "Pershing II",
+            "concept": 32,
+            "candidates": [
+                "Pershing_II"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 4,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "European Union",
+            "keyword": true,
+            "count": 7,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Germany",
+            "keyword": true,
+            "count": 6,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Informationsstelle Ostermarsch",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "slot::keyword"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Manfred Stenner",
+            "keyword": true,
+            "count": 4,
+            "link": "wikidata:Q28020458",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Willi van Ooyen",
+            "keyword": false,
+            "count": 2,
+            "link": "Willi_van_Ooyen",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Easter",
+            "keyword": false,
+            "count": 4,
+            "link": "Easter",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::event",
+                "type::religious_event"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "European",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "May 12",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Hamburg",
+            "keyword": false,
+            "count": 1,
+            "link": "Hamburg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Frankfurt",
+            "keyword": false,
+            "count": 1,
+            "link": "Frankfurt",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Network of the German Peace Movement",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::movement",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Hitler",
+            "keyword": false,
+            "count": 1,
+            "link": "Adolf_Hitler",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Second World War",
+            "keyword": false,
+            "count": 1,
+            "link": "World_War_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::war"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Network",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1638188",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::movement",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "director",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Ruhr",
+            "keyword": false,
+            "count": 1,
+            "link": "Ruhr",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "European constitution",
+            "keyword": false,
+            "count": 1,
+            "link": "Treaty_establishing_a_Constitution_for_Europe",
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Article I-41",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Member States",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Felix Oekentorp",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Ruhr Easter",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::ngo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Arab",
+            "keyword": false,
+            "count": 1,
+            "link": "Arabs",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Britain",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "1950",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "1960",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "1983",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Pershing II",
+            "keyword": false,
+            "count": 1,
+            "link": "Pershing_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_equipment",
+                "type::misc"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 15
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "head_of_state-x",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "head_of_state-x",
+            "o": 10
+        },
+        {
+            "s": 17,
+            "p": "event_in0",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 24,
+            "p": "member_of",
+            "o": 25
+        }
+    ],
+    "frames": [
+        {
+            "type": "demonstrate",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000065",
+        "20000066"
+    ]
+}

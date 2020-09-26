@@ -1,0 +1,1738 @@
+{
+    "id": "DW_39319961",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 78,
+            "end": 84,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 85,
+            "end": 99,
+            "text": "Prime Minister",
+            "concept": 5
+        },
+        {
+            "begin": 100,
+            "end": 116,
+            "text": "Edouard Philippe",
+            "concept": 0,
+            "candidates": [
+                "\u00c9douard_Philippe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 160,
+            "end": 169,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 170,
+            "end": 185,
+            "text": "Emmanuel Macron",
+            "concept": 1,
+            "candidates": [
+                "Emmanuel_Macron"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 249,
+            "end": 258,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 264,
+            "end": 270,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 294,
+            "end": 300,
+            "text": "Monday",
+            "concept": 8
+        },
+        {
+            "begin": 343,
+            "end": 352,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 353,
+            "end": 368,
+            "text": "Emmanuel Macron",
+            "concept": 1,
+            "candidates": [
+                "Emmanuel_Macron"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 393,
+            "end": 407,
+            "text": "Prime Minister",
+            "concept": 5
+        },
+        {
+            "begin": 408,
+            "end": 424,
+            "text": "Edouard Philippe",
+            "concept": 0,
+            "candidates": [
+                "\u00c9douard_Philippe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 475,
+            "end": 481,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 538,
+            "end": 547,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 549,
+            "end": 555,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 567,
+            "end": 577,
+            "text": "En Marche!",
+            "concept": 9,
+            "candidates": [
+                "La_R\u00e9publique_En_Marche!"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 707,
+            "end": 716,
+            "text": "spokesman",
+            "concept": 10
+        },
+        {
+            "begin": 717,
+            "end": 736,
+            "text": "Christophe Castaner",
+            "concept": 11,
+            "candidates": [
+                "Christophe_Castaner"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 742,
+            "end": 751,
+            "text": "RTL radio",
+            "concept": 12,
+            "candidates": [
+                "RTL_(French_radio)",
+                "RTL_Radio",
+                "City_Radio_(Croatia)"
+            ],
+            "scores": [
+                0.6222222222222222,
+                0.35555555555555557,
+                0.022222222222222223
+            ]
+        },
+        {
+            "begin": 820,
+            "end": 826,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 833,
+            "end": 843,
+            "text": "close ally",
+            "concept": 13
+        },
+        {
+            "begin": 844,
+            "end": 859,
+            "text": "Richard Ferrand",
+            "concept": 14,
+            "candidates": [
+                "Richard_Ferrand"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1059,
+            "end": 1073,
+            "text": "Champs-Elysees",
+            "concept": 15,
+            "candidates": [
+                "Champs-\u00c9lys\u00e9es",
+                "Champs-\u00c9lys\u00e9es_stage_in_the_Tour_de_France",
+                "Champs_Elysees_(horse)"
+            ],
+            "scores": [
+                0.8901098901098901,
+                0.08180708180708181,
+                0.028083028083028084
+            ]
+        },
+        {
+            "begin": 1077,
+            "end": 1093,
+            "text": "Monday afternoon",
+            "concept": 16
+        },
+        {
+            "begin": 1131,
+            "end": 1148,
+            "text": "Interior Minister",
+            "concept": 17
+        },
+        {
+            "begin": 1149,
+            "end": 1163,
+            "text": "Gerard Collomb",
+            "concept": 18,
+            "candidates": [
+                "G\u00e9rard_Collomb"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1215,
+            "end": 1224,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 1235,
+            "end": 1241,
+            "text": "France",
+            "concept": 19,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1268,
+            "end": 1275,
+            "text": "July 15",
+            "concept": 20
+        },
+        {
+            "begin": 1312,
+            "end": 1322,
+            "text": "November 1",
+            "concept": 21
+        },
+        {
+            "begin": 1324,
+            "end": 1330,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 1442,
+            "end": 1449,
+            "text": "June 27",
+            "concept": 22
+        },
+        {
+            "begin": 1553,
+            "end": 1559,
+            "text": "France",
+            "concept": 19,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1586,
+            "end": 1596,
+            "text": "En Marche!",
+            "concept": 9,
+            "candidates": [
+                "La_R\u00e9publique_En_Marche!"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1605,
+            "end": 1618,
+            "text": "centrist ally",
+            "concept": 23
+        },
+        {
+            "begin": 1619,
+            "end": 1624,
+            "text": "MoDem",
+            "concept": 24,
+            "candidates": [
+                "Modem",
+                "Democratic_Movement_(France)",
+                "Democratic_Movement_and_affiliated_group",
+                "Mobile_broadband_modem",
+                "Wake-on-ring"
+            ],
+            "scores": [
+                0.5478180129990715,
+                0.40018570102135564,
+                0.05013927576601671,
+                0.0009285051067780873,
+                0.0009285051067780873
+            ]
+        },
+        {
+            "begin": 1698,
+            "end": 1709,
+            "text": "Republicans",
+            "concept": 25,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 1759,
+            "end": 1774,
+            "text": "Socialist Party",
+            "concept": 26,
+            "candidates": [
+                "Socialist_Party_(France)",
+                "Socialist_Party_(Portugal)",
+                "Socialist_Party_(Netherlands)",
+                "Socialist_Party_of_Albania",
+                "Socialist_Party_of_America",
+                "Parti_Socialiste_(Belgium)",
+                "Socialist_Party_(Argentina)",
+                "Socialist_Party_(India)",
+                "Socialist_Party_(Ireland)",
+                "Socialist_Party_of_Chile",
+                "Socialist_Party",
+                "Socialist_Action_Party_(Spain)",
+                "Socialist_Party_(England_and_Wales)",
+                "Italian_Socialist_Party",
+                "Socialist_Party_USA",
+                "Social_Democratic_Party_of_Austria"
+            ],
+            "scores": [
+                0.31347487001733104,
+                0.09467071057192375,
+                0.06174176776429809,
+                0.05155979202772964,
+                0.047660311958405546,
+                0.04181109185441941,
+                0.035745233968804156,
+                0.03076256499133449,
+                0.029462738301559793,
+                0.024263431542461005,
+                0.024046793760831887,
+                0.016031195840554593,
+                0.014948006932409013,
+                0.01386481802426343,
+                0.013648180242634315,
+                0.009748700173310225
+            ]
+        },
+        {
+            "begin": 1778,
+            "end": 1784,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 1787,
+            "end": 1798,
+            "text": "predecessor",
+            "concept": 27
+        },
+        {
+            "begin": 1800,
+            "end": 1817,
+            "text": "Francois Hollande",
+            "concept": 28,
+            "candidates": [
+                "Fran\u00e7ois_Hollande"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1895,
+            "end": 1909,
+            "text": "Prime Minister",
+            "concept": 5
+        },
+        {
+            "begin": 1910,
+            "end": 1926,
+            "text": "Edouard Philippe",
+            "concept": 0,
+            "candidates": [
+                "\u00c9douard_Philippe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1973,
+            "end": 1982,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 1983,
+            "end": 1989,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 2083,
+            "end": 2091,
+            "text": "Philippe",
+            "concept": 0,
+            "candidates": [
+                "Philippe_of_Belgium",
+                "Prince_Philippe,_Count_of_Flanders",
+                "Philippe_I,_Duke_of_Orl\u00e9ans",
+                "Hurricane_Philippe_(2005)",
+                "Nelson_Philippe",
+                "Philippe_Jules_Mancini",
+                "Philippe_Amaury",
+                "Philippe,_Duke_of_Vend\u00f4me",
+                "Philippe_Cousteau",
+                "Philippe_Poisson_(actor)",
+                "Philippe_Renaud",
+                "Philippe_Panet",
+                "Philip_the_Bold",
+                "Philippe_de_Noailles",
+                "Philippe_Rozier",
+                "Philip,_Duke_of_Nemours"
+            ],
+            "scores": [
+                0.519774011299435,
+                0.05649717514124294,
+                0.04519774011299435,
+                0.02824858757062147,
+                0.022598870056497175,
+                0.022598870056497175,
+                0.01694915254237288,
+                0.01694915254237288,
+                0.01694915254237288,
+                0.011299435028248588,
+                0.011299435028248588,
+                0.011299435028248588,
+                0.011299435028248588,
+                0.011299435028248588,
+                0.011299435028248588,
+                0.011299435028248588
+            ]
+        },
+        {
+            "begin": 2153,
+            "end": 2159,
+            "text": "France",
+            "concept": 19,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2209,
+            "end": 2215,
+            "text": "France",
+            "concept": 19,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2253,
+            "end": 2259,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 2535,
+            "end": 2541,
+            "text": "German",
+            "concept": 29
+        },
+        {
+            "begin": 2542,
+            "end": 2552,
+            "text": "Chancellor",
+            "concept": 30
+        },
+        {
+            "begin": 2553,
+            "end": 2566,
+            "text": "Angela Merkel",
+            "concept": 2,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2603,
+            "end": 2609,
+            "text": "Macron",
+            "concept": 1,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 2684,
+            "end": 2690,
+            "text": "Sunday",
+            "concept": 31
+        },
+        {
+            "begin": 2703,
+            "end": 2712,
+            "text": "spokesman",
+            "concept": 10
+        },
+        {
+            "begin": 2713,
+            "end": 2728,
+            "text": "Steffen Seibert",
+            "concept": 3,
+            "candidates": [
+                "Steffen_Seibert"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2735,
+            "end": 2742,
+            "text": "Seibert",
+            "concept": 3,
+            "candidates": [
+                "Seibert,_Colorado",
+                "Seibert",
+                "Michael_Seibert_(figure_skater)",
+                "Fred_Seibert"
+            ],
+            "scores": [
+                0.8421052631578947,
+                0.05263157894736842,
+                0.05263157894736842,
+                0.05263157894736842
+            ]
+        },
+        {
+            "begin": 2767,
+            "end": 2773,
+            "text": "Merkel",
+            "concept": 2,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 2815,
+            "end": 2822,
+            "text": "Germany",
+            "concept": 32,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2824,
+            "end": 2830,
+            "text": "France",
+            "concept": 19,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2832,
+            "end": 2838,
+            "text": "Europe",
+            "concept": 33,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2841,
+            "end": 2870,
+            "text": "aw/tj (AFP, AP, Reuters, dpa)",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Edouard Philippe",
+            "keyword": true,
+            "count": 4,
+            "link": "\u00c9douard_Philippe",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Emmanuel Macron",
+            "keyword": true,
+            "count": 9,
+            "link": "Emmanuel_Macron",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Angela Merkel",
+            "keyword": false,
+            "count": 2,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Steffen Seibert",
+            "keyword": false,
+            "count": 2,
+            "link": "Steffen_Seibert",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "French",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "President",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "En Marche!",
+            "keyword": false,
+            "count": 2,
+            "link": "La_R\u00e9publique_En_Marche!",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Christophe Castaner",
+            "keyword": false,
+            "count": 1,
+            "link": "Christophe_Castaner",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "RTL radio",
+            "keyword": false,
+            "count": 1,
+            "link": "RTL_(French_radio)",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "close ally",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Richard Ferrand",
+            "keyword": false,
+            "count": 1,
+            "link": "Richard_Ferrand",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Champs-Elysees",
+            "keyword": false,
+            "count": 1,
+            "link": "Champs-\u00c9lys\u00e9es",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Monday afternoon",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Interior Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Gerard Collomb",
+            "keyword": false,
+            "count": 1,
+            "link": "G\u00e9rard_Collomb",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::interior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "France",
+            "keyword": false,
+            "count": 5,
+            "link": "France",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "July 15",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "November 1",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "June 27",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "centrist ally",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "MoDem",
+            "keyword": false,
+            "count": 1,
+            "link": "Democratic_Movement_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Republicans",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Republicans_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Socialist Party",
+            "keyword": false,
+            "count": 1,
+            "link": "Socialist_Party_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "predecessor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Francois Hollande",
+            "keyword": false,
+            "count": 1,
+            "link": "Fran\u00e7ois_Hollande",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "aw/tj (AFP, AP, Reuters, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov",
+            "o": 19
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 32
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 32
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov",
+            "o": 32
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 29
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 32
+        },
+        {
+            "s": 3,
+            "p": "agent_of-x",
+            "o": 29
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 32
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 19
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 11,
+            "p": "agent_of-x",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 11,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 12,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 18,
+            "p": "minister_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "minister_of-x",
+            "o": 4
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 25,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 26,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 28,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 28,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 28,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 28,
+            "p": "head_of_state",
+            "o": 19
+        },
+        {
+            "s": 28,
+            "p": "head_of_state-x",
+            "o": 4
+        },
+        {
+            "s": 28,
+            "p": "member_of",
+            "o": 26
+        },
+        {
+            "s": 29,
+            "p": "gpe0",
+            "o": 32
+        }
+    ],
+    "frames": [
+        {
+            "type": "end-position",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 0
+                },
+                {
+                    "name": "position",
+                    "value": 5
+                },
+                {
+                    "name": "place",
+                    "value": 19
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000593"
+    ]
+}

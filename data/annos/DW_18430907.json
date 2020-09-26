@@ -1,0 +1,784 @@
+{
+    "id": "DW_18430907",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 30,
+            "end": 36,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 97,
+            "end": 108,
+            "text": "Germanwings",
+            "concept": 0,
+            "candidates": [
+                "Germanwings",
+                "Germanwings_Flight_9525"
+            ],
+            "scores": [
+                0.9746835443037974,
+                0.02531645569620253
+            ]
+        },
+        {
+            "begin": 178,
+            "end": 187,
+            "text": "Barcelona",
+            "concept": 2,
+            "candidates": [
+                "Barcelona",
+                "FC_Barcelona",
+                "Province_of_Barcelona",
+                "Barcelona_S.C.",
+                "FC_Barcelona_Handbol",
+                "FC_Barcelona_B\u00e0squet",
+                "Barcelona_Open_(tennis)",
+                "Circuit_de_Barcelona-Catalunya",
+                "FC_Barcelona_Hoquei",
+                "FC_Barcelona_Femen\u00ed",
+                "CN_Barcelona",
+                "Barcelona_(Congress_of_Deputies_constituency)",
+                "Barcelona_(Parliament_of_Catalonia_constituency)",
+                "Barcelona\u2013El_Prat_Airport",
+                "Barcelona,_Venezuela",
+                "House_of_Barcelona"
+            ],
+            "scores": [
+                0.6385554188420738,
+                0.21499118752286256,
+                0.04376309401084101,
+                0.017225898706394866,
+                0.00781483821622161,
+                0.00781483821622161,
+                0.007016727079245785,
+                0.006484652987928569,
+                0.005420504805294137,
+                0.004888430713976921,
+                0.004389611253367031,
+                0.0032256991786106214,
+                0.0031259352864886434,
+                0.0028598982408300356,
+                0.0028266436101227095,
+                0.0019952778424395597
+            ]
+        },
+        {
+            "begin": 222,
+            "end": 232,
+            "text": "D\u00fcsseldorf",
+            "concept": 1,
+            "candidates": [
+                "D\u00fcsseldorf",
+                "D\u00fcsseldorf_Hauptbahnhof",
+                "D\u00fcsseldorf_Airport",
+                "D\u00fcsseldorf-Bilk_Observatory",
+                "D\u00fcsseldorf_(region)",
+                "D\u00fcsseldorf_Grand_Prix",
+                "PSD_Bank_Meeting",
+                "University_of_D\u00fcsseldorf",
+                "Timeline_of_D\u00fcsseldorf",
+                "D\u00fcsseldorf_(album)",
+                "Fortuna_D\u00fcsseldorf",
+                "Kunstakademie_D\u00fcsseldorf",
+                "D\u00fcsseldorfer_EG",
+                "Merkur_Spiel-Arena",
+                "TuRU_D\u00fcsseldorf",
+                "Gau_D\u00fcsseldorf"
+            ],
+            "scores": [
+                0.9396267837541163,
+                0.0319899639328838,
+                0.007683863885839737,
+                0.003606711619883958,
+                0.003449898071193351,
+                0.0028226438764309236,
+                0.0020385761329778894,
+                0.0015681354869060686,
+                0.0010976948408342481,
+                0.0010976948408342481,
+                0.0007840677434530343,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.00031362709738121374,
+                0.00031362709738121374
+            ]
+        },
+        {
+            "begin": 236,
+            "end": 242,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 297,
+            "end": 306,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 354,
+            "end": 365,
+            "text": "Germanwings",
+            "concept": 0,
+            "candidates": [
+                "Germanwings",
+                "Germanwings_Flight_9525"
+            ],
+            "scores": [
+                0.9746835443037974,
+                0.02531645569620253
+            ]
+        },
+        {
+            "begin": 373,
+            "end": 379,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 380,
+            "end": 406,
+            "text": "mass-circulation newspaper",
+            "concept": 7
+        },
+        {
+            "begin": 407,
+            "end": 411,
+            "text": "Bild",
+            "concept": 8,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 573,
+            "end": 587,
+            "text": "Andreas Lubitz",
+            "concept": 3,
+            "candidates": [
+                "Andreas_Lubitz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 712,
+            "end": 721,
+            "text": "Barcelona",
+            "concept": 2,
+            "candidates": [
+                "Barcelona",
+                "FC_Barcelona",
+                "Province_of_Barcelona",
+                "Barcelona_S.C.",
+                "FC_Barcelona_Handbol",
+                "FC_Barcelona_B\u00e0squet",
+                "Barcelona_Open_(tennis)",
+                "Circuit_de_Barcelona-Catalunya",
+                "FC_Barcelona_Hoquei",
+                "FC_Barcelona_Femen\u00ed",
+                "CN_Barcelona",
+                "Barcelona_(Congress_of_Deputies_constituency)",
+                "Barcelona_(Parliament_of_Catalonia_constituency)",
+                "Barcelona\u2013El_Prat_Airport",
+                "Barcelona,_Venezuela",
+                "House_of_Barcelona"
+            ],
+            "scores": [
+                0.6385554188420738,
+                0.21499118752286256,
+                0.04376309401084101,
+                0.017225898706394866,
+                0.00781483821622161,
+                0.00781483821622161,
+                0.007016727079245785,
+                0.006484652987928569,
+                0.005420504805294137,
+                0.004888430713976921,
+                0.004389611253367031,
+                0.0032256991786106214,
+                0.0031259352864886434,
+                0.0028598982408300356,
+                0.0028266436101227095,
+                0.0019952778424395597
+            ]
+        },
+        {
+            "begin": 795,
+            "end": 801,
+            "text": "French",
+            "concept": 9
+        },
+        {
+            "begin": 802,
+            "end": 805,
+            "text": "BEA",
+            "concept": 4,
+            "candidates": [
+                "Belgian_Entertainment_Association",
+                "British_European_Airways",
+                "Bureau_d'Enqu\u00eates_et_d'Analyses_pour_la_S\u00e9curit\u00e9_de_l'Aviation_Civile",
+                "Bea_(Dennis_the_Menace)",
+                "BEA_Systems",
+                "Ultratop",
+                "Beaconsfield_Town_F.C.",
+                "Bearsted_F.C.",
+                "Big_East_Conference_(1979\u20132013)",
+                "Be.A",
+                "AS_Beauvais_Oise",
+                "Bea_Smith_(Wentworth)",
+                "Bea,_Aragon",
+                "SD_Beasain",
+                "Augustin_Bea",
+                "Bea_(given_name)"
+            ],
+            "scores": [
+                0.5788043478260869,
+                0.13043478260869565,
+                0.059782608695652176,
+                0.043478260869565216,
+                0.029891304347826088,
+                0.024456521739130436,
+                0.021739130434782608,
+                0.016304347826086956,
+                0.010869565217391304,
+                0.010869565217391304,
+                0.010869565217391304,
+                0.008152173913043478,
+                0.008152173913043478,
+                0.005434782608695652,
+                0.005434782608695652,
+                0.005434782608695652
+            ]
+        },
+        {
+            "begin": 968,
+            "end": 974,
+            "text": "France",
+            "concept": 10,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1003,
+            "end": 1011,
+            "text": "March 24",
+            "concept": 11
+        },
+        {
+            "begin": 1171,
+            "end": 1180,
+            "text": "Barcelona",
+            "concept": 2,
+            "candidates": [
+                "Barcelona",
+                "FC_Barcelona",
+                "Province_of_Barcelona",
+                "Barcelona_S.C.",
+                "FC_Barcelona_Handbol",
+                "FC_Barcelona_B\u00e0squet",
+                "Barcelona_Open_(tennis)",
+                "Circuit_de_Barcelona-Catalunya",
+                "FC_Barcelona_Hoquei",
+                "FC_Barcelona_Femen\u00ed",
+                "CN_Barcelona",
+                "Barcelona_(Congress_of_Deputies_constituency)",
+                "Barcelona_(Parliament_of_Catalonia_constituency)",
+                "Barcelona\u2013El_Prat_Airport",
+                "Barcelona,_Venezuela",
+                "House_of_Barcelona"
+            ],
+            "scores": [
+                0.6385554188420738,
+                0.21499118752286256,
+                0.04376309401084101,
+                0.017225898706394866,
+                0.00781483821622161,
+                0.00781483821622161,
+                0.007016727079245785,
+                0.006484652987928569,
+                0.005420504805294137,
+                0.004888430713976921,
+                0.004389611253367031,
+                0.0032256991786106214,
+                0.0031259352864886434,
+                0.0028598982408300356,
+                0.0028266436101227095,
+                0.0019952778424395597
+            ]
+        },
+        {
+            "begin": 1184,
+            "end": 1187,
+            "text": "BEA",
+            "concept": 4,
+            "candidates": [
+                "Belgian_Entertainment_Association",
+                "British_European_Airways",
+                "Bureau_d'Enqu\u00eates_et_d'Analyses_pour_la_S\u00e9curit\u00e9_de_l'Aviation_Civile",
+                "Bea_(Dennis_the_Menace)",
+                "BEA_Systems",
+                "Ultratop",
+                "Beaconsfield_Town_F.C.",
+                "Bearsted_F.C.",
+                "Big_East_Conference_(1979\u20132013)",
+                "Be.A",
+                "AS_Beauvais_Oise",
+                "Bea_Smith_(Wentworth)",
+                "Bea,_Aragon",
+                "SD_Beasain",
+                "Augustin_Bea",
+                "Bea_(given_name)"
+            ],
+            "scores": [
+                0.5788043478260869,
+                0.13043478260869565,
+                0.059782608695652176,
+                0.043478260869565216,
+                0.029891304347826088,
+                0.024456521739130436,
+                0.021739130434782608,
+                0.016304347826086956,
+                0.010869565217391304,
+                0.010869565217391304,
+                0.010869565217391304,
+                0.008152173913043478,
+                0.008152173913043478,
+                0.005434782608695652,
+                0.005434782608695652,
+                0.005434782608695652
+            ]
+        },
+        {
+            "begin": 1217,
+            "end": 1220,
+            "text": "DPA",
+            "concept": 12,
+            "candidates": [
+                "Deutsche_Presse-Agentur",
+                "Democratic_Party_of_Albanians",
+                "DPA_Microphones",
+                "Doctor_of_Public_Administration",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_of_Artsakh",
+                "United_Nations_Department_of_Political_Affairs",
+                "Drug_Policy_Alliance",
+                "Democratic_Progressive_Alliance",
+                "National_data_protection_authority",
+                "Defence_Procurement_Agency",
+                "Dayton_Agreement",
+                "DPA",
+                "Docosapentaenoic_acid",
+                "9,10-Diphenylanthracene",
+                "Hexanitrodiphenylamine"
+            ],
+            "scores": [
+                0.5,
+                0.15625,
+                0.078125,
+                0.046875,
+                0.03125,
+                0.03125,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625
+            ]
+        },
+        {
+            "begin": 1302,
+            "end": 1311,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 1377,
+            "end": 1383,
+            "text": "Lubitz",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1507,
+            "end": 1513,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 1766,
+            "end": 1772,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 2072,
+            "end": 2093,
+            "text": "dj/kms (dpa, Reuters)",
+            "concept": 13
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germanwings",
+            "keyword": true,
+            "count": 2,
+            "link": "Germanwings",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "D\u00fcsseldorf",
+            "keyword": true,
+            "count": 1,
+            "link": "D\u00fcsseldorf",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Barcelona",
+            "keyword": true,
+            "count": 3,
+            "link": "Barcelona",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Andreas Lubitz",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "BEA",
+            "keyword": true,
+            "count": 2,
+            "link": "Bureau_d'Enqu\u00eates_et_d'Analyses_pour_la_S\u00e9curit\u00e9_de_l'Aviation_Civile",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "mass-circulation newspaper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Bild",
+            "keyword": false,
+            "count": 1,
+            "link": "Bild",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "March 24",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "DPA",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Presse-Agentur",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "dj/kms (dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        },
+        {
+            "concept": 15,
+            "keyword": false,
+            "count": 0,
+            "link": "Spain",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 15
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 14
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "agency_of",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "agency_of-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 10
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 12,
+            "p": "based_in0-x",
+            "o": 5
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-accident",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "20000139",
+        "20000143",
+        "20000144"
+    ]
+}

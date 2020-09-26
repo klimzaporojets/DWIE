@@ -1,0 +1,942 @@
+{
+    "id": "DW_42811821",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Vatican",
+            "concept": 3,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 58,
+            "text": "\u20ac50 million",
+            "concept": 5
+        },
+        {
+            "begin": 96,
+            "end": 103,
+            "text": "Vatican",
+            "concept": 3,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 185,
+            "end": 189,
+            "text": "Pope",
+            "concept": 6
+        },
+        {
+            "begin": 190,
+            "end": 197,
+            "text": "Francis",
+            "concept": 7,
+            "candidates": [
+                "Pope_Francis",
+                "George_Francis_(footballer)",
+                "Francis_II,_Holy_Roman_Emperor",
+                "Jeff_Francis",
+                "Francis_of_Assisi",
+                "John_Francis_(footballer)",
+                "Francis_(film)",
+                "Francis_(given_name)",
+                "Trevor_Francis",
+                "FRANCIS",
+                "Francis_turbine",
+                "Francis_II_of_France",
+                "Kevin_Francis_(footballer)",
+                "Francis_(electoral_district)",
+                "Francis,_Utah",
+                "Francis_Darwin"
+            ],
+            "scores": [
+                0.08243451463790447,
+                0.08089368258859785,
+                0.07627118644067797,
+                0.07164869029275808,
+                0.032357473035439135,
+                0.030046224961479198,
+                0.030046224961479198,
+                0.02465331278890601,
+                0.023882896764252697,
+                0.023112480739599383,
+                0.023112480739599383,
+                0.01848998459167951,
+                0.015408320493066256,
+                0.014637904468412942,
+                0.012326656394453005,
+                0.012326656394453005
+            ]
+        },
+        {
+            "begin": 275,
+            "end": 282,
+            "text": "Vatican",
+            "concept": 3,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 365,
+            "end": 376,
+            "text": "\u20ac50 million",
+            "concept": 5
+        },
+        {
+            "begin": 378,
+            "end": 389,
+            "text": "$62 million",
+            "concept": 8
+        },
+        {
+            "begin": 392,
+            "end": 405,
+            "text": "Angelo Caloia",
+            "concept": 0,
+            "candidates": [
+                "Angelo_Caloia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 432,
+            "end": 463,
+            "text": "Institute for Works of Religion",
+            "concept": 1,
+            "candidates": [
+                "Institute_for_the_Works_of_Religion"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 465,
+            "end": 468,
+            "text": "IOR",
+            "concept": 1,
+            "candidates": [
+                "International_Offshore_Rule",
+                "I.O.R.",
+                "India_Office_Records",
+                "J\u0113ran",
+                "Institute_for_the_Works_of_Religion",
+                "Inor_language",
+                "Interoperable_Object_Reference"
+            ],
+            "scores": [
+                0.5945945945945946,
+                0.1891891891891892,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 475,
+            "end": 479,
+            "text": "1999",
+            "concept": 9
+        },
+        {
+            "begin": 483,
+            "end": 487,
+            "text": "2009",
+            "concept": 10
+        },
+        {
+            "begin": 493,
+            "end": 499,
+            "text": "lawyer",
+            "concept": 11
+        },
+        {
+            "begin": 501,
+            "end": 516,
+            "text": "Gabriele Liuzzo",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 588,
+            "end": 591,
+            "text": "IOR",
+            "concept": 1,
+            "candidates": [
+                "International_Offshore_Rule",
+                "I.O.R.",
+                "India_Office_Records",
+                "J\u0113ran",
+                "Institute_for_the_Works_of_Religion",
+                "Inor_language",
+                "Interoperable_Object_Reference"
+            ],
+            "scores": [
+                0.5945945945945946,
+                0.1891891891891892,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 592,
+            "end": 608,
+            "text": "director general",
+            "concept": 12
+        },
+        {
+            "begin": 609,
+            "end": 623,
+            "text": "Lelio Scaletti",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 660,
+            "end": 667,
+            "text": "Vatican",
+            "concept": 3,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 732,
+            "end": 735,
+            "text": "IOR",
+            "concept": 1,
+            "candidates": [
+                "International_Offshore_Rule",
+                "I.O.R.",
+                "India_Office_Records",
+                "J\u0113ran",
+                "Institute_for_the_Works_of_Religion",
+                "Inor_language",
+                "Interoperable_Object_Reference"
+            ],
+            "scores": [
+                0.5945945945945946,
+                0.1891891891891892,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 845,
+            "end": 849,
+            "text": "2001",
+            "concept": 14
+        },
+        {
+            "begin": 854,
+            "end": 858,
+            "text": "2008",
+            "concept": 15
+        },
+        {
+            "begin": 936,
+            "end": 949,
+            "text": "December 2014",
+            "concept": 16
+        },
+        {
+            "begin": 954,
+            "end": 961,
+            "text": "Vatican",
+            "concept": 3,
+            "candidates": [
+                "Holy_See",
+                "Vatican_City",
+                "Apostolic_Palace",
+                "Roman_Curia",
+                "Vatican_Library",
+                "Vatican_Museums",
+                "Catholic_Church",
+                "St._Peter's_Basilica",
+                "Vatican_Hill",
+                "Codex_Vaticanus",
+                "Vatican,_Louisiana",
+                "Vatican_euro_coins",
+                "Vatican_lira",
+                "Pope",
+                "Vatican",
+                "Pontifical_Academy_for_Life"
+            ],
+            "scores": [
+                0.5709090909090909,
+                0.30247933884297523,
+                0.037024793388429754,
+                0.027107438016528925,
+                0.014545454545454545,
+                0.013553719008264463,
+                0.011570247933884297,
+                0.005289256198347108,
+                0.005289256198347108,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0009917355371900827,
+                0.0006611570247933885,
+                0.0006611570247933885,
+                0.00033057851239669424,
+                0.00033057851239669424
+            ]
+        },
+        {
+            "begin": 964,
+            "end": 978,
+            "text": "top prosecutor",
+            "concept": 17
+        },
+        {
+            "begin": 980,
+            "end": 997,
+            "text": "Gian Piero Milano",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1141,
+            "end": 1145,
+            "text": "2001",
+            "concept": 14
+        },
+        {
+            "begin": 1150,
+            "end": 1154,
+            "text": "2008",
+            "concept": 15
+        },
+        {
+            "begin": 1200,
+            "end": 1207,
+            "text": "Reuters",
+            "concept": 19,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1390,
+            "end": 1394,
+            "text": "Pope",
+            "concept": 6
+        },
+        {
+            "begin": 1395,
+            "end": 1402,
+            "text": "Francis",
+            "concept": 7,
+            "candidates": [
+                "Pope_Francis",
+                "George_Francis_(footballer)",
+                "Francis_II,_Holy_Roman_Emperor",
+                "Jeff_Francis",
+                "Francis_of_Assisi",
+                "John_Francis_(footballer)",
+                "Francis_(film)",
+                "Francis_(given_name)",
+                "Trevor_Francis",
+                "FRANCIS",
+                "Francis_turbine",
+                "Francis_II_of_France",
+                "Kevin_Francis_(footballer)",
+                "Francis_(electoral_district)",
+                "Francis,_Utah",
+                "Francis_Darwin"
+            ],
+            "scores": [
+                0.08243451463790447,
+                0.08089368258859785,
+                0.07627118644067797,
+                0.07164869029275808,
+                0.032357473035439135,
+                0.030046224961479198,
+                0.030046224961479198,
+                0.02465331278890601,
+                0.023882896764252697,
+                0.023112480739599383,
+                0.023112480739599383,
+                0.01848998459167951,
+                0.015408320493066256,
+                0.014637904468412942,
+                0.012326656394453005,
+                0.012326656394453005
+            ]
+        },
+        {
+            "begin": 1424,
+            "end": 1432,
+            "text": "March 15",
+            "concept": 20
+        },
+        {
+            "begin": 1434,
+            "end": 1454,
+            "text": "aw/jlw (Reuters, AP)",
+            "concept": 21
+        },
+        {
+            "begin": 1455,
+            "end": 1457,
+            "text": "DW",
+            "concept": 22,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Angelo Caloia",
+            "keyword": true,
+            "count": 2,
+            "link": "Angelo_Caloia",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "topic::justice",
+                "type::entity",
+                "type::manager",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Institute for Works of Religion",
+            "keyword": true,
+            "count": 4,
+            "link": "Institute_for_the_Works_of_Religion",
+            "tags": [
+                "iptc::12000000",
+                "iptc::20000170",
+                "sector::20000274",
+                "slot::keyword",
+                "topic::business",
+                "topic::religion",
+                "type::company",
+                "type::entity",
+                "type::organization",
+                "type::religion_org"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Gabriele Liuzzo",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Vatican",
+            "keyword": true,
+            "count": 5,
+            "link": "Vatican",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 5,
+            "text": "\u20ac50 million",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Pope",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Francis",
+            "keyword": false,
+            "count": 2,
+            "link": "Pope_Francis",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "$62 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "1999",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "2009",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "lawyer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "director general",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Lelio Scaletti",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "2001",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "2008",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "December 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "top prosecutor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Gian Piero Milano",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "March 15",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "aw/jlw (Reuters, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "head_of_state",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 22,
+            "p": "based_in0",
+            "o": 23
+        }
+    ],
+    "frames": [
+        {
+            "type": "charge-indict",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 0
+                },
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000087",
+        "20000090"
+    ]
+}

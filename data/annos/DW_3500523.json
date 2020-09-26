@@ -1,0 +1,1801 @@
+{
+    "id": "DW_3500523",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 37,
+            "end": 49,
+            "text": "Olympic Gold",
+            "concept": 0,
+            "candidates": [
+                "Olympic_medal",
+                "Olympic_Gold_(video_game)",
+                "Tennis_at_the_Summer_Olympics",
+                "Ice_hockey_at_the_Olympic_Games",
+                "Gold_medal",
+                "Badminton_at_the_1996_Summer_Olympics",
+                "Football_at_the_Summer_Olympics",
+                "Athletics_at_the_2008_Summer_Olympics_\u2013_Women's_20_kilometres_walk",
+                "Tennis_at_the_2012_Summer_Olympics_\u2013_Men's_doubles",
+                "Tennis_at_the_2008_Summer_Olympics",
+                "Table_tennis_at_the_Summer_Olympics",
+                "1994_Winter_Olympics",
+                "Ice_hockey_at_the_1994_Winter_Olympics",
+                "Ice_hockey_at_the_2006_Winter_Olympics",
+                "Olympic_Games",
+                "Athletics_at_the_2000_Summer_Olympics_\u2013_Men's_triple_jump"
+            ],
+            "scores": [
+                0.2127659574468085,
+                0.1702127659574468,
+                0.10638297872340426,
+                0.10638297872340426,
+                0.0851063829787234,
+                0.0425531914893617,
+                0.0425531914893617,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085
+            ]
+        },
+        {
+            "begin": 50,
+            "end": 57,
+            "text": "Swimmer",
+            "concept": 7
+        },
+        {
+            "begin": 58,
+            "end": 72,
+            "text": "Britta Steffen",
+            "concept": 1,
+            "candidates": [
+                "Britta_Steffen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 77,
+            "end": 84,
+            "text": "gymnast",
+            "concept": 8
+        },
+        {
+            "begin": 85,
+            "end": 102,
+            "text": "Fabian Hambuechen",
+            "concept": 2,
+            "candidates": [
+                "Fabian_Hamb\u00fcchen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 161,
+            "end": 168,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 169,
+            "end": 181,
+            "text": "Olympic gold",
+            "concept": 0,
+            "candidates": [
+                "Olympic_medal",
+                "Olympic_Gold_(video_game)",
+                "Tennis_at_the_Summer_Olympics",
+                "Ice_hockey_at_the_Olympic_Games",
+                "Gold_medal",
+                "Badminton_at_the_1996_Summer_Olympics",
+                "Football_at_the_Summer_Olympics",
+                "Athletics_at_the_2008_Summer_Olympics_\u2013_Women's_20_kilometres_walk",
+                "Tennis_at_the_2012_Summer_Olympics_\u2013_Men's_doubles",
+                "Tennis_at_the_2008_Summer_Olympics",
+                "Table_tennis_at_the_Summer_Olympics",
+                "1994_Winter_Olympics",
+                "Ice_hockey_at_the_1994_Winter_Olympics",
+                "Ice_hockey_at_the_2006_Winter_Olympics",
+                "Olympic_Games",
+                "Athletics_at_the_2000_Summer_Olympics_\u2013_Men's_triple_jump"
+            ],
+            "scores": [
+                0.2127659574468085,
+                0.1702127659574468,
+                0.10638297872340426,
+                0.10638297872340426,
+                0.0851063829787234,
+                0.0425531914893617,
+                0.0425531914893617,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085,
+                0.02127659574468085
+            ]
+        },
+        {
+            "begin": 207,
+            "end": 220,
+            "text": "Beijing Games",
+            "concept": 4,
+            "candidates": [
+                "2008_Summer_Olympics",
+                "2008_Summer_Paralympics",
+                "Athletics_at_the_2008_Summer_Olympics"
+            ],
+            "scores": [
+                0.625,
+                0.3125,
+                0.0625
+            ]
+        },
+        {
+            "begin": 320,
+            "end": 328,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 329,
+            "end": 342,
+            "text": "record holder",
+            "concept": 10
+        },
+        {
+            "begin": 343,
+            "end": 350,
+            "text": "Steffen",
+            "concept": 1,
+            "candidates": [
+                "Britta_Steffen",
+                "Zack_Steffen",
+                "Renato_Steffen",
+                "Steffen_Deibler",
+                "Steffen",
+                "Steffen_Tigges",
+                "Will_Steffen",
+                "Horst_Steffen",
+                "Cerro_Steffen",
+                "Steffen_Glacier",
+                "Steffen_Thoresen",
+                "Albert_Steffen"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.13636363636363635,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 356,
+            "end": 359,
+            "text": "DPA",
+            "concept": 11,
+            "candidates": [
+                "Deutsche_Presse-Agentur",
+                "Democratic_Party_of_Albanians",
+                "DPA_Microphones",
+                "Doctor_of_Public_Administration",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_of_Artsakh",
+                "United_Nations_Department_of_Political_Affairs",
+                "Drug_Policy_Alliance",
+                "Democratic_Progressive_Alliance",
+                "National_data_protection_authority",
+                "Defence_Procurement_Agency",
+                "Dayton_Agreement",
+                "DPA",
+                "Docosapentaenoic_acid",
+                "9,10-Diphenylanthracene",
+                "Hexanitrodiphenylamine"
+            ],
+            "scores": [
+                0.5,
+                0.15625,
+                0.078125,
+                0.046875,
+                0.03125,
+                0.03125,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625
+            ]
+        },
+        {
+            "begin": 373,
+            "end": 380,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 704,
+            "end": 728,
+            "text": "German Olympic Committee",
+            "concept": 5,
+            "candidates": [
+                "German_Olympic_Sports_Confederation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 730,
+            "end": 734,
+            "text": "DOSB",
+            "concept": 5,
+            "candidates": [
+                "German_Olympic_Sports_Confederation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 736,
+            "end": 752,
+            "text": "general director",
+            "concept": 12
+        },
+        {
+            "begin": 753,
+            "end": 767,
+            "text": "Michael Vesper",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 769,
+            "end": 776,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 795,
+            "end": 806,
+            "text": "Athens 2004",
+            "concept": 14,
+            "candidates": [
+                "2004_Summer_Olympics",
+                "2004_Summer_Paralympics",
+                "Football_at_the_2004_Summer_Olympics_\u2013_Women's_tournament",
+                "Athens_2004_(video_game)",
+                "Football_at_the_2004_Summer_Olympics",
+                "Basketball_at_the_2004_Summer_Olympics_\u2013_Women's_tournament",
+                "Table_tennis_at_the_2004_Summer_Olympics",
+                "Basketball_at_the_2004_Summer_Olympics",
+                "Australia_at_the_2004_Summer_Paralympics",
+                "Australia_at_the_2004_Summer_Olympics",
+                "Swimming_at_the_2004_Summer_Olympics",
+                "Volleyball_at_the_2004_Summer_Olympics_\u2013_Men's_tournament",
+                "Athletics_at_the_2004_Summer_Olympics_\u2013_Women's_100_metres_hurdles",
+                "Tennis_at_the_2004_Summer_Olympics",
+                "Basketball_at_the_2004_Summer_Olympics_\u2013_Men's_tournament",
+                "Judo_at_the_2004_Summer_Olympics"
+            ],
+            "scores": [
+                0.5857605177993528,
+                0.10032362459546926,
+                0.045307443365695796,
+                0.038834951456310676,
+                0.032362459546925564,
+                0.019417475728155338,
+                0.019417475728155338,
+                0.012944983818770227,
+                0.009708737864077669,
+                0.009708737864077669,
+                0.009708737864077669,
+                0.006472491909385114,
+                0.006472491909385114,
+                0.006472491909385114,
+                0.006472491909385114,
+                0.006472491909385114
+            ]
+        },
+        {
+            "begin": 940,
+            "end": 949,
+            "text": "Australia",
+            "concept": 15,
+            "candidates": [
+                "Australia",
+                "Australia_national_cricket_team",
+                "Australia_national_rugby_union_team",
+                "Australia_national_rugby_league_team",
+                "Australia_national_soccer_team",
+                "Rugby_Australia",
+                "Australia_women's_national_cricket_team",
+                "Australia_women's_national_soccer_team",
+                "Australia_(2008_film)",
+                "ARIA_Charts",
+                "Australia_international_rules_football_team",
+                "Football_Federation_Australia",
+                "A1_Team_Australia",
+                "Australia_Davis_Cup_team",
+                "Australian_Recording_Industry_Association",
+                "Kent_Music_Report"
+            ],
+            "scores": [
+                0.8091146964416243,
+                0.036229964935326334,
+                0.025827091962668306,
+                0.024312213311863725,
+                0.01744758837674926,
+                0.0034958738095490324,
+                0.0033475640115681643,
+                0.0031462864285941292,
+                0.0025636407936692903,
+                0.0025106730086761233,
+                0.0023199889827007214,
+                0.0022988018687034547,
+                0.0019280273737512844,
+                0.0016314077777895483,
+                0.0013983495238196128,
+                0.0013877559668209795
+            ]
+        },
+        {
+            "begin": 960,
+            "end": 962,
+            "text": "US",
+            "concept": 16,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1132,
+            "end": 1138,
+            "text": "Athens",
+            "concept": 17,
+            "candidates": [
+                "Athens",
+                "Athens,_Georgia",
+                "Athens,_Ohio",
+                "Classical_Athens",
+                "Athens,_Alabama",
+                "Ancient_Athens",
+                "Athens,_Texas",
+                "Athens_County,_Ohio",
+                "2004_Summer_Olympics",
+                "Athens,_Tennessee",
+                "Athens_Prefecture",
+                "History_of_Athens",
+                "Hellinikon_Olympic_Canoe/Kayak_Slalom_Centre",
+                "Athens,_Pennsylvania",
+                "ATP_Athens_Open",
+                "Athens,_New_York"
+            ],
+            "scores": [
+                0.8736129905277402,
+                0.038430311231393774,
+                0.010780333784393324,
+                0.010103743797925124,
+                0.005412719891745603,
+                0.005322507893549842,
+                0.005006765899864682,
+                0.004600811907983762,
+                0.0033378439332431213,
+                0.0033378439332431213,
+                0.002525935949481281,
+                0.002480829950383401,
+                0.0022552999548940008,
+                0.0019395579612088408,
+                0.0017140279657194407,
+                0.0014884979702300405
+            ]
+        },
+        {
+            "begin": 1180,
+            "end": 1184,
+            "text": "DOSB",
+            "concept": 5,
+            "candidates": [
+                "German_Olympic_Sports_Confederation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1187,
+            "end": 1201,
+            "text": "vice president",
+            "concept": 18
+        },
+        {
+            "begin": 1203,
+            "end": 1219,
+            "text": "Eberhard Gienger",
+            "concept": 19,
+            "candidates": [
+                "Eberhard_Gienger"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1225,
+            "end": 1231,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1274,
+            "end": 1290,
+            "text": "table tennis ace",
+            "concept": 20
+        },
+        {
+            "begin": 1291,
+            "end": 1300,
+            "text": "Timo Boll",
+            "concept": 21,
+            "candidates": [
+                "Timo_Boll"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1378,
+            "end": 1391,
+            "text": "Canoeing 2004",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1392,
+            "end": 1400,
+            "text": "champion",
+            "concept": 23
+        },
+        {
+            "begin": 1401,
+            "end": 1416,
+            "text": "Andreas Dittmer",
+            "concept": 24,
+            "candidates": [
+                "Andreas_Dittmer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1418,
+            "end": 1431,
+            "text": "dressage star",
+            "concept": 25
+        },
+        {
+            "begin": 1432,
+            "end": 1446,
+            "text": "Isabelle Werth",
+            "concept": 26,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1518,
+            "end": 1525,
+            "text": "Steffen",
+            "concept": 1,
+            "candidates": [
+                "Britta_Steffen",
+                "Zack_Steffen",
+                "Renato_Steffen",
+                "Steffen_Deibler",
+                "Steffen",
+                "Steffen_Tigges",
+                "Will_Steffen",
+                "Horst_Steffen",
+                "Cerro_Steffen",
+                "Steffen_Glacier",
+                "Steffen_Thoresen",
+                "Albert_Steffen"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.13636363636363635,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 1592,
+            "end": 1619,
+            "text": "2006 European championships",
+            "concept": 27,
+            "candidates": [
+                "2006_European_Athletics_Championships",
+                "2006_European_Figure_Skating_Championships",
+                "2006_European_Fencing_Championships",
+                "2006_European_Women's_Artistic_Gymnastics_Championships",
+                "2006_European_Aquatics_Championships",
+                "2006_Nestea_European_Championship_Final",
+                "2006_Rhythmic_Gymnastics_European_Championships",
+                "2006_European_Canoe_Slalom_Championships",
+                "2006_European_Amateur_Boxing_Championships",
+                "2006_European_Athletics_Championships_\u2013_Women's_heptathlon",
+                "2006_UEFA_European_Under-19_Championship",
+                "2006_European_Athletics_Championships_\u2013_Women's_long_jump",
+                "2006_CPISRA_Football_7-a-side_European_Championships",
+                "2006_European_Athletics_Championships_\u2013_Women's_200_metres",
+                "2006_European_Athletics_Championships_\u2013_Men's_high_jump",
+                "2006_European_Athletics_Championships_\u2013_Men's_shot_put"
+            ],
+            "scores": [
+                0.6380597014925373,
+                0.10074626865671642,
+                0.026119402985074626,
+                0.026119402985074626,
+                0.018656716417910446,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.011194029850746268,
+                0.011194029850746268,
+                0.011194029850746268,
+                0.011194029850746268,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179,
+                0.007462686567164179
+            ]
+        },
+        {
+            "begin": 1680,
+            "end": 1691,
+            "text": "2007 worlds",
+            "concept": 28,
+            "candidates": [
+                "2007_World_Figure_Skating_Championships",
+                "2007_AIBA_World_Boxing_Championships"
+            ],
+            "scores": [
+                0.9230769230769231,
+                0.07692307692307693
+            ]
+        },
+        {
+            "begin": 1734,
+            "end": 1741,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1766,
+            "end": 1770,
+            "text": "1992",
+            "concept": 29
+        },
+        {
+            "begin": 1994,
+            "end": 2001,
+            "text": "Steffen",
+            "concept": 1,
+            "candidates": [
+                "Britta_Steffen",
+                "Zack_Steffen",
+                "Renato_Steffen",
+                "Steffen_Deibler",
+                "Steffen",
+                "Steffen_Tigges",
+                "Will_Steffen",
+                "Horst_Steffen",
+                "Cerro_Steffen",
+                "Steffen_Glacier",
+                "Steffen_Thoresen",
+                "Albert_Steffen"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.13636363636363635,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 2008,
+            "end": 2018,
+            "text": "Hambuechen",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2051,
+            "end": 2058,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2213,
+            "end": 2220,
+            "text": "Beijing",
+            "concept": 30,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 2295,
+            "end": 2300,
+            "text": "China",
+            "concept": 31,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2391,
+            "end": 2396,
+            "text": "China",
+            "concept": 31,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2408,
+            "end": 2416,
+            "text": "Olympics",
+            "concept": 4,
+            "candidates": [
+                "Olympic_Games",
+                "Figure_skating_at_the_Olympic_Games",
+                "Summer_Olympic_Games",
+                "Winter_Olympic_Games",
+                "Tennis_at_the_Summer_Olympics",
+                "2012_Summer_Olympics",
+                "Football_at_the_Summer_Olympics",
+                "2008_Summer_Olympics",
+                "Basketball_at_the_Summer_Olympics",
+                "2016_Summer_Olympics",
+                "Ice_hockey_at_the_Olympic_Games",
+                "Tennis_at_the_2012_Summer_Olympics",
+                "Table_tennis_at_the_Summer_Olympics",
+                "Alpine_skiing_at_the_Winter_Olympics",
+                "Equestrian_at_the_Summer_Olympics",
+                "1996_Summer_Olympics"
+            ],
+            "scores": [
+                0.36557120500782475,
+                0.21189358372456965,
+                0.04381846635367762,
+                0.038184663536776214,
+                0.018466353677621283,
+                0.016275430359937403,
+                0.014084507042253521,
+                0.014084507042253521,
+                0.010641627543035994,
+                0.01001564945226917,
+                0.009389671361502348,
+                0.00782472613458529,
+                0.007511737089201878,
+                0.007198748043818467,
+                0.00594679186228482,
+                0.005633802816901409
+            ]
+        },
+        {
+            "begin": 2420,
+            "end": 2427,
+            "text": "Beijing",
+            "concept": 30,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 2474,
+            "end": 2484,
+            "text": "Hambuechen",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2490,
+            "end": 2518,
+            "text": "German Sportsman of the Year",
+            "concept": 32,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2522,
+            "end": 2526,
+            "text": "2007",
+            "concept": 33
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Olympic Gold",
+            "keyword": false,
+            "count": 2,
+            "link": "Olympic_medal",
+            "tags": [
+                "iptc::08000000",
+                "iptc::15000000",
+                "iptc::20000498",
+                "topic::human_interest",
+                "topic::sport",
+                "type::award",
+                "type::entity",
+                "type::misc",
+                "type::sport_award"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Britta Steffen",
+            "keyword": true,
+            "count": 4,
+            "link": "Britta_Steffen",
+            "tags": [
+                "gender::female",
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001071",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Fabian Hambuechen",
+            "keyword": true,
+            "count": 3,
+            "link": "Fabian_Hamb\u00fcchen",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000942",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Germany",
+            "keyword": true,
+            "count": 5,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Beijing Games",
+            "keyword": true,
+            "count": 2,
+            "link": "2008_Summer_Olympics",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::unknown",
+                "sport_event::20001177",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German Olympic Committee",
+            "keyword": true,
+            "count": 3,
+            "link": "German_Olympic_Sports_Confederation",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::unknown",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Swimmer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "gymnast",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "record holder",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "DPA",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Presse-Agentur",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "general director",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Michael Vesper",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1929650",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Athens 2004",
+            "keyword": false,
+            "count": 1,
+            "link": "2004_Summer_Olympics",
+            "tags": [
+                "iptc::15000000",
+                "sport::unknown",
+                "sport_event::20001177",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Australia",
+            "keyword": false,
+            "count": 1,
+            "link": "Australia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Athens",
+            "keyword": false,
+            "count": 1,
+            "link": "Athens",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "vice president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Eberhard Gienger",
+            "keyword": false,
+            "count": 1,
+            "link": "Eberhard_Gienger",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "table tennis ace",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Timo Boll",
+            "keyword": false,
+            "count": 1,
+            "link": "Timo_Boll",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001083",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Canoeing 2004",
+            "keyword": false,
+            "count": 1,
+            "link": "Canoeing_at_the_2004_Summer_Olympics",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000877",
+                "sport_event::20001177",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "champion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Andreas Dittmer",
+            "keyword": false,
+            "count": 1,
+            "link": "Andreas_Dittmer",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000877",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "dressage star",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Isabelle Werth",
+            "keyword": false,
+            "count": 1,
+            "link": "Isabell_Werth",
+            "tags": [
+                "gender::female",
+                "iptc::15000000",
+                "sport::20000925",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "2006 European championships",
+            "keyword": false,
+            "count": 1,
+            "link": "2006_European_Aquatics_Championships",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001071",
+                "sport_event::20001111",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "2007 worlds",
+            "keyword": false,
+            "count": 1,
+            "link": "Swimming_at_the_2007_World_Aquatics_Championships",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001071",
+                "sport_event::20001123",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "1992",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Beijing",
+            "keyword": false,
+            "count": 2,
+            "link": "Beijing",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "China",
+            "keyword": false,
+            "count": 2,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "German Sportsman of the Year",
+            "keyword": false,
+            "count": 1,
+            "link": "German_Sportspersonality_of_the_Year",
+            "tags": [
+                "iptc::08000000",
+                "iptc::15000000",
+                "iptc::20000498",
+                "topic::human_interest",
+                "topic::sport",
+                "type::award",
+                "type::entity",
+                "type::misc",
+                "type::sport_award"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "2007",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "Greece",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 27
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 28
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "appears_in",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "award_received",
+            "o": 32
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "event_in0",
+            "o": 31
+        },
+        {
+            "s": 4,
+            "p": "event_in2",
+            "o": 30
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "head_of",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "event_in0",
+            "o": 34
+        },
+        {
+            "s": 14,
+            "p": "event_in2",
+            "o": 17
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 34
+        },
+        {
+            "s": 19,
+            "p": "head_of",
+            "o": 5
+        },
+        {
+            "s": 19,
+            "p": "member_of",
+            "o": 5
+        },
+        {
+            "s": 21,
+            "p": "appears_in",
+            "o": 4
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "appears_in",
+            "o": 4
+        },
+        {
+            "s": 24,
+            "p": "appears_in",
+            "o": 22
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 26,
+            "p": "appears_in",
+            "o": 4
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 30,
+            "p": "in0",
+            "o": 31
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20000942",
+        "20001071",
+        "20001108",
+        "20001112"
+    ]
+}

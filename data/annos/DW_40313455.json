@@ -1,0 +1,61 @@
+{
+    "id": "DW_40313455",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 151,
+            "end": 154,
+            "text": "DIY",
+            "concept": 0
+        },
+        {
+            "begin": 441,
+            "end": 450,
+            "text": "Boxcutter",
+            "concept": 1
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "DIY",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Boxcutter",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "10000000",
+        "20000565",
+        "20000570"
+    ]
+}

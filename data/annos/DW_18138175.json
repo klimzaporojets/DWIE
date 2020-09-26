@@ -1,0 +1,887 @@
+{
+    "id": "DW_18138175",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 52,
+            "end": 60,
+            "text": "Nigerian",
+            "concept": 6
+        },
+        {
+            "begin": 168,
+            "end": 178,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 179,
+            "end": 188,
+            "text": "Islamists",
+            "concept": 3
+        },
+        {
+            "begin": 292,
+            "end": 301,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 354,
+            "end": 360,
+            "text": "August",
+            "concept": 8
+        },
+        {
+            "begin": 386,
+            "end": 391,
+            "text": "Borno",
+            "concept": 4,
+            "candidates": [
+                "Borno_State",
+                "Borno,_Lombardy",
+                "Kanem\u2013Bornu_Empire",
+                "Borno_Emirate",
+                "Nigerian_National_Assembly_delegation_from_Borno",
+                "Sayfawa_dynasty"
+            ],
+            "scores": [
+                0.7543859649122807,
+                0.09941520467836257,
+                0.09941520467836257,
+                0.029239766081871343,
+                0.011695906432748537,
+                0.005847953216374269
+            ]
+        },
+        {
+            "begin": 432,
+            "end": 440,
+            "text": "Islamist",
+            "concept": 9
+        },
+        {
+            "begin": 441,
+            "end": 451,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 470,
+            "end": 476,
+            "text": "lawyer",
+            "concept": 10
+        },
+        {
+            "begin": 478,
+            "end": 489,
+            "text": "Femi Falana",
+            "concept": 5,
+            "candidates": [
+                "Femi_Falana"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 656,
+            "end": 668,
+            "text": "7th Division",
+            "concept": 11,
+            "candidates": [
+                "7th_Division_(Australia)",
+                "7th_Infantry_Division_(United_Kingdom)",
+                "7th_Infantry_Division_(United_States)",
+                "7th_Division_(South_Vietnam)",
+                "7th_Infantry_Division_(Ottoman_Empire)",
+                "7th_Division_(German_Empire)",
+                "7th_Infantry_Division_(Vietnam)",
+                "7th_Division_(Imperial_Japanese_Army)",
+                "3rd_Motorized_Infantry_Brigade_(People's_Republic_of_China)",
+                "7th_Division_(Iraq)",
+                "12th_Division_(North_Korea)",
+                "7th_Division_(Japan)",
+                "7th_Infantry_Division_(South_Korea)",
+                "Finnish_7th_Division_(Continuation_War)",
+                "7th_Indian_Infantry_Division",
+                "7th_Armoured_Division_(United_Kingdom)"
+            ],
+            "scores": [
+                0.42332613390928725,
+                0.24406047516198703,
+                0.06695464362850972,
+                0.058315334773218146,
+                0.04535637149028078,
+                0.03455723542116631,
+                0.028077753779697623,
+                0.023758099352051837,
+                0.01079913606911447,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 676,
+            "end": 684,
+            "text": "Nigerian",
+            "concept": 6
+        },
+        {
+            "begin": 737,
+            "end": 747,
+            "text": "October 15",
+            "concept": 12
+        },
+        {
+            "begin": 1003,
+            "end": 1010,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1014,
+            "end": 1023,
+            "text": "September",
+            "concept": 13
+        },
+        {
+            "begin": 1143,
+            "end": 1152,
+            "text": "Maiduguri",
+            "concept": 14,
+            "candidates": [
+                "Maiduguri",
+                "Roman_Catholic_Diocese_of_Maiduguri",
+                "University_of_Maiduguri"
+            ],
+            "scores": [
+                0.9851190476190477,
+                0.008928571428571428,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1158,
+            "end": 1170,
+            "text": "7th Division",
+            "concept": 11,
+            "candidates": [
+                "7th_Division_(Australia)",
+                "7th_Infantry_Division_(United_Kingdom)",
+                "7th_Infantry_Division_(United_States)",
+                "7th_Division_(South_Vietnam)",
+                "7th_Infantry_Division_(Ottoman_Empire)",
+                "7th_Division_(German_Empire)",
+                "7th_Infantry_Division_(Vietnam)",
+                "7th_Division_(Imperial_Japanese_Army)",
+                "3rd_Motorized_Infantry_Brigade_(People's_Republic_of_China)",
+                "7th_Division_(Iraq)",
+                "12th_Division_(North_Korea)",
+                "7th_Division_(Japan)",
+                "7th_Infantry_Division_(South_Korea)",
+                "Finnish_7th_Division_(Continuation_War)",
+                "7th_Indian_Infantry_Division",
+                "7th_Armoured_Division_(United_Kingdom)"
+            ],
+            "scores": [
+                0.42332613390928725,
+                0.24406047516198703,
+                0.06695464362850972,
+                0.058315334773218146,
+                0.04535637149028078,
+                0.03455723542116631,
+                0.028077753779697623,
+                0.023758099352051837,
+                0.01079913606911447,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 1181,
+            "end": 1190,
+            "text": "Maiduguri",
+            "concept": 14,
+            "candidates": [
+                "Maiduguri",
+                "Roman_Catholic_Diocese_of_Maiduguri",
+                "University_of_Maiduguri"
+            ],
+            "scores": [
+                0.9851190476190477,
+                0.008928571428571428,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1376,
+            "end": 1385,
+            "text": "Islamists",
+            "concept": 3
+        },
+        {
+            "begin": 1481,
+            "end": 1491,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1536,
+            "end": 1543,
+            "text": "Islamic",
+            "concept": 15
+        },
+        {
+            "begin": 1589,
+            "end": 1597,
+            "text": "Cameroon",
+            "concept": 16,
+            "candidates": [
+                "Cameroon",
+                "Cameroon_national_football_team",
+                "Cameroonian_Football_Federation",
+                "Cameroon_women's_national_football_team",
+                "Kamerun",
+                "Cameroon_women's_national_handball_team",
+                "Cameroon_national_basketball_team",
+                "Cameroon_at_the_2006_Commonwealth_Games",
+                "Cameroon_national_under-20_football_team",
+                "Cameroonian_Armed_Forces",
+                "Cameroon_national_rugby_union_team",
+                "LGBT_rights_in_Cameroon",
+                "Cameroon_Air_Force",
+                "List_of_non-marine_molluscs_of_Cameroon",
+                "Elections_in_Cameroon",
+                "Miss_Cameroon"
+            ],
+            "scores": [
+                0.8735750327041675,
+                0.07559334703793684,
+                0.011399738366660438,
+                0.007194916837974211,
+                0.0039245000934404785,
+                0.0016819286114744907,
+                0.0016819286114744907,
+                0.0015884881330592412,
+                0.0014016071762287423,
+                0.001308166697813493,
+                0.0009344047841524949,
+                0.0009344047841524949,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0007475238273219959
+            ]
+        },
+        {
+            "begin": 1603,
+            "end": 1611,
+            "text": "Nigerian",
+            "concept": 6
+        },
+        {
+            "begin": 1749,
+            "end": 1757,
+            "text": "Islamist",
+            "concept": 9
+        },
+        {
+            "begin": 1888,
+            "end": 1896,
+            "text": "Cameroon",
+            "concept": 16,
+            "candidates": [
+                "Cameroon",
+                "Cameroon_national_football_team",
+                "Cameroonian_Football_Federation",
+                "Cameroon_women's_national_football_team",
+                "Kamerun",
+                "Cameroon_women's_national_handball_team",
+                "Cameroon_national_basketball_team",
+                "Cameroon_at_the_2006_Commonwealth_Games",
+                "Cameroon_national_under-20_football_team",
+                "Cameroonian_Armed_Forces",
+                "Cameroon_national_rugby_union_team",
+                "LGBT_rights_in_Cameroon",
+                "Cameroon_Air_Force",
+                "List_of_non-marine_molluscs_of_Cameroon",
+                "Elections_in_Cameroon",
+                "Miss_Cameroon"
+            ],
+            "scores": [
+                0.8735750327041675,
+                0.07559334703793684,
+                0.011399738366660438,
+                0.007194916837974211,
+                0.0039245000934404785,
+                0.0016819286114744907,
+                0.0016819286114744907,
+                0.0015884881330592412,
+                0.0014016071762287423,
+                0.001308166697813493,
+                0.0009344047841524949,
+                0.0009344047841524949,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0007475238273219959
+            ]
+        },
+        {
+            "begin": 1898,
+            "end": 1902,
+            "text": "Chad",
+            "concept": 17,
+            "candidates": [
+                "Chad",
+                "Chad_national_football_team",
+                "Chad_of_Mercia",
+                "Chadian_Football_Federation",
+                "French_Chad",
+                "Chad_(paper)",
+                "Elections_in_Chad",
+                "Chad_Basin",
+                "Chadian_Air_Force",
+                "Chad_(rapper)",
+                "LGBT_rights_in_Chad",
+                "Chad_DiMera",
+                "Chadian_ground_forces",
+                "Chad_Harris-Crane",
+                "Football_in_Chad",
+                "Flag_of_Chad"
+            ],
+            "scores": [
+                0.9176620076238882,
+                0.010927573062261754,
+                0.00940279542566709,
+                0.008386277001270648,
+                0.004066073697585769,
+                0.0035578144853875477,
+                0.002287166454891995,
+                0.0020330368487928843,
+                0.0017789072426937739,
+                0.0017789072426937739,
+                0.0017789072426937739,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632
+            ]
+        },
+        {
+            "begin": 1908,
+            "end": 1913,
+            "text": "Niger",
+            "concept": 18,
+            "candidates": [
+                "Niger",
+                "Niger_River",
+                "Niger_national_football_team",
+                "Niger_State",
+                "Nigerien_Football_Federation",
+                "Niger_Armed_Forces",
+                "Elections_in_Niger",
+                "LGBT_rights_in_Niger",
+                "Colony_of_Niger",
+                "Music_of_Niger",
+                "Niger_national_rugby_union_team",
+                "Bah\u00e1'\u00ed_Faith_in_Niger",
+                "Football_in_Niger",
+                "Guizotia_abyssinica",
+                "Niger_Delta",
+                "Niger_at_the_Paralympics"
+            ],
+            "scores": [
+                0.8631979695431472,
+                0.0434010152284264,
+                0.025634517766497462,
+                0.013451776649746193,
+                0.01065989847715736,
+                0.003553299492385787,
+                0.0027918781725888324,
+                0.0020304568527918783,
+                0.0020304568527918783,
+                0.0017766497461928934,
+                0.0015228426395939086,
+                0.0015228426395939086,
+                0.0015228426395939086,
+                0.0012690355329949238,
+                0.0010152284263959391,
+                0.0010152284263959391
+            ]
+        },
+        {
+            "begin": 1915,
+            "end": 1935,
+            "text": "rg/bk (AFP, AP, dpa)",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "Nigeria",
+            "keyword": true,
+            "count": 2,
+            "link": "Nigeria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Boko Haram",
+            "keyword": true,
+            "count": 3,
+            "link": "Boko_Haram",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Islamists",
+            "keyword": true,
+            "count": 2,
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Borno",
+            "keyword": true,
+            "count": 1,
+            "link": "Borno_State",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Femi Falana",
+            "keyword": true,
+            "count": 1,
+            "link": "Femi_Falana",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Nigerian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "August",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "lawyer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "7th Division",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "October 15",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "September",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Maiduguri",
+            "keyword": false,
+            "count": 2,
+            "link": "Maiduguri",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Cameroon",
+            "keyword": false,
+            "count": 2,
+            "link": "Cameroon",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Chad",
+            "keyword": false,
+            "count": 1,
+            "link": "Chad",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Niger",
+            "keyword": false,
+            "count": 1,
+            "link": "Niger",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "rg/bk (AFP, AP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 11,
+            "p": "agency_of",
+            "o": 1
+        },
+        {
+            "s": 11,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "sentence",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 1
+                },
+                {
+                    "name": "time",
+                    "value": 7
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "12000000",
+        "20000082",
+        "20000103",
+        "20000657",
+        "20000677"
+    ]
+}

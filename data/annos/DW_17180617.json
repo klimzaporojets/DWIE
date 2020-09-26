@@ -1,0 +1,2423 @@
+{
+    "id": "DW_17180617",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 1,
+            "end": 3,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 8,
+            "end": 15,
+            "text": "Germany",
+            "concept": 9,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 57,
+            "end": 60,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 75,
+            "end": 85,
+            "text": "Chancellor",
+            "concept": 10
+        },
+        {
+            "begin": 86,
+            "end": 99,
+            "text": "Angela Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 146,
+            "end": 148,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 219,
+            "end": 234,
+            "text": "Hillary Clinton",
+            "concept": 6,
+            "candidates": [
+                "Hillary_Clinton",
+                "Hillary_Clinton_presidential_campaign,_2016",
+                "Hillary_Clinton_presidential_campaign,_2008",
+                "Saturday_Night_Live_parodies_of_Hillary_Clinton",
+                "Hillary_Clinton's_tenure_as_Secretary_of_State",
+                "Hillary_Clinton_email_controversy",
+                "Political_positions_of_Hillary_Clinton"
+            ],
+            "scores": [
+                0.9655690873552849,
+                0.03217561268982108,
+                0.0015035333032626672,
+                0.00030070666065253347,
+                0.00015035333032626674,
+                0.00015035333032626674,
+                0.00015035333032626674
+            ]
+        },
+        {
+            "begin": 235,
+            "end": 242,
+            "text": "adviser",
+            "concept": 11
+        },
+        {
+            "begin": 243,
+            "end": 252,
+            "text": "Ben Scott",
+            "concept": 5,
+            "candidates": [
+                "Ben_Scott",
+                "Ben_Scott_(policy_advisor)"
+            ],
+            "scores": [
+                0.7391304347826086,
+                0.2608695652173913
+            ]
+        },
+        {
+            "begin": 258,
+            "end": 260,
+            "text": "DW",
+            "concept": 12,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 262,
+            "end": 271,
+            "text": "Ben Scott",
+            "concept": 5,
+            "candidates": [
+                "Ben_Scott",
+                "Ben_Scott_(policy_advisor)"
+            ],
+            "scores": [
+                0.7391304347826086,
+                0.2608695652173913
+            ]
+        },
+        {
+            "begin": 309,
+            "end": 315,
+            "text": "Berlin",
+            "concept": 13,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 322,
+            "end": 332,
+            "text": "think tank",
+            "concept": 14
+        },
+        {
+            "begin": 333,
+            "end": 360,
+            "text": "Stiftung Neue Verantwortung",
+            "concept": 8,
+            "candidates": [
+                "Stiftung_Neue_Verantwortung"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 362,
+            "end": 391,
+            "text": "New Responsibility Foundation",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 461,
+            "end": 479,
+            "text": "Secretary of State",
+            "concept": 15
+        },
+        {
+            "begin": 480,
+            "end": 495,
+            "text": "Hillary Clinton",
+            "concept": 6,
+            "candidates": [
+                "Hillary_Clinton",
+                "Hillary_Clinton_presidential_campaign,_2016",
+                "Hillary_Clinton_presidential_campaign,_2008",
+                "Saturday_Night_Live_parodies_of_Hillary_Clinton",
+                "Hillary_Clinton's_tenure_as_Secretary_of_State",
+                "Hillary_Clinton_email_controversy",
+                "Political_positions_of_Hillary_Clinton"
+            ],
+            "scores": [
+                0.9655690873552849,
+                0.03217561268982108,
+                0.0015035333032626672,
+                0.00030070666065253347,
+                0.00015035333032626674,
+                0.00015035333032626674,
+                0.00015035333032626674
+            ]
+        },
+        {
+            "begin": 499,
+            "end": 511,
+            "text": "Barack Obama",
+            "concept": 2,
+            "candidates": [
+                "Barack_Obama",
+                "Presidency_of_Barack_Obama",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_in_comics",
+                "Barack_Obama_presidential_campaign,_2012",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "President_Barack_Obama_(painting)",
+                "Efforts_to_impeach_Barack_Obama"
+            ],
+            "scores": [
+                0.9983731334611585,
+                0.0005810237638719423,
+                0.0005229213874847481,
+                0.00023240950554877696,
+                0.00011620475277438848,
+                5.810237638719424e-05,
+                5.810237638719424e-05,
+                5.810237638719424e-05
+            ]
+        },
+        {
+            "begin": 536,
+            "end": 538,
+            "text": "DW",
+            "concept": 12,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 540,
+            "end": 542,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 590,
+            "end": 596,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 597,
+            "end": 607,
+            "text": "Chancellor",
+            "concept": 10
+        },
+        {
+            "begin": 608,
+            "end": 621,
+            "text": "Angela Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 632,
+            "end": 638,
+            "text": "Berlin",
+            "concept": 13,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 652,
+            "end": 658,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 678,
+            "end": 680,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 681,
+            "end": 690,
+            "text": "President",
+            "concept": 17
+        },
+        {
+            "begin": 691,
+            "end": 696,
+            "text": "Obama",
+            "concept": 2,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 743,
+            "end": 752,
+            "text": "Ben Scott",
+            "concept": 5,
+            "candidates": [
+                "Ben_Scott",
+                "Ben_Scott_(policy_advisor)"
+            ],
+            "scores": [
+                0.7391304347826086,
+                0.2608695652173913
+            ]
+        },
+        {
+            "begin": 776,
+            "end": 800,
+            "text": "National Security Agency",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Agency_(Montenegro)",
+                "National_Security_Agency_(Egypt)",
+                "National_Security_Agency_(Liberia)",
+                "State_Security_Department",
+                "National_Security_Service_(Somalia)"
+            ],
+            "scores": [
+                0.9825581395348837,
+                0.010465116279069767,
+                0.0029069767441860465,
+                0.0017441860465116279,
+                0.0011627906976744186,
+                0.0005813953488372093,
+                0.0005813953488372093
+            ]
+        },
+        {
+            "begin": 829,
+            "end": 835,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 938,
+            "end": 940,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 941,
+            "end": 949,
+            "text": "American",
+            "concept": 18
+        },
+        {
+            "begin": 954,
+            "end": 962,
+            "text": "European",
+            "concept": 19
+        },
+        {
+            "begin": 1298,
+            "end": 1305,
+            "text": "Germany",
+            "concept": 9,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1853,
+            "end": 1855,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1860,
+            "end": 1867,
+            "text": "Germany",
+            "concept": 9,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2018,
+            "end": 2032,
+            "text": "Trans-Atlantic",
+            "concept": 7
+        },
+        {
+            "begin": 2079,
+            "end": 2093,
+            "text": "Trans-Atlantic",
+            "concept": 7
+        },
+        {
+            "begin": 2265,
+            "end": 2281,
+            "text": "(Edward) Snowden",
+            "concept": 20,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2336,
+            "end": 2339,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 2389,
+            "end": 2395,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 2423,
+            "end": 2429,
+            "text": "French",
+            "concept": 21
+        },
+        {
+            "begin": 2458,
+            "end": 2464,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2616,
+            "end": 2629,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 2772,
+            "end": 2780,
+            "text": "European",
+            "concept": 19
+        },
+        {
+            "begin": 2956,
+            "end": 2958,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 3060,
+            "end": 3062,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 3097,
+            "end": 3099,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 3108,
+            "end": 3110,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3157,
+            "end": 3161,
+            "text": "NATO",
+            "concept": 22,
+            "candidates": [
+                "NATO",
+                "NATO_reporting_name",
+                "NATO_summit",
+                "Ranks_and_insignia_of_NATO_navies_enlisted",
+                "NATO_(album)",
+                "International_Security_Assistance_Force",
+                "Ranks_and_insignia_of_NATO_armies_enlisted",
+                "Nato_wood",
+                "N.A.T.o._(singer)",
+                "Enlargement_of_NATO",
+                ".nato",
+                "2002_Prague_summit",
+                "Army_officer_ranks",
+                "Ukraine\u2013NATO_relations",
+                "Ranks_and_insignia_of_NATO_navies'_officers",
+                "United_States_Permanent_Representative_to_NATO"
+            ],
+            "scores": [
+                0.9870747006272572,
+                0.0028511689792815056,
+                0.0012355065576886524,
+                0.001045428625736552,
+                0.0009503896597605018,
+                0.0009503896597605018,
+                0.0007603117278084015,
+                0.0005702337958563011,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053
+            ]
+        },
+        {
+            "begin": 3600,
+            "end": 3610,
+            "text": "Washington",
+            "concept": 23,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 3690,
+            "end": 3698,
+            "text": "European",
+            "concept": 19
+        },
+        {
+            "begin": 3784,
+            "end": 3787,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 3815,
+            "end": 3817,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3858,
+            "end": 3868,
+            "text": "Washington",
+            "concept": 23,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 4066,
+            "end": 4075,
+            "text": "President",
+            "concept": 17
+        },
+        {
+            "begin": 4076,
+            "end": 4081,
+            "text": "Obama",
+            "concept": 2,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 4303,
+            "end": 4305,
+            "text": "UN",
+            "concept": 24,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 4360,
+            "end": 4371,
+            "text": "White House",
+            "concept": 25,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 4416,
+            "end": 4422,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 4903,
+            "end": 4914,
+            "text": "White House",
+            "concept": 25,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 4923,
+            "end": 4925,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 4970,
+            "end": 4973,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 5019,
+            "end": 5025,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 5060,
+            "end": 5063,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 5091,
+            "end": 5094,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 5289,
+            "end": 5292,
+            "text": "NSA",
+            "concept": 3,
+            "candidates": [
+                "National_Security_Agency",
+                "Norton_&_Stockton_Ancients_F.C.",
+                "Attack_(political_party)",
+                "National_Scrabble_Association",
+                "National_Security_Advisor_(United_States)",
+                "FC_NSA_Sofia",
+                "National_Sports_Academy_\"Vasil_Levski\"",
+                "National_Security_Agency_(Bahrain)",
+                "National_Security_Advisor_(Pakistan)",
+                "NSA_warrantless_surveillance_(2001\u20132007)",
+                "National_Sheriffs'_Association",
+                "National_Salvation_Government",
+                "National_Steeplechase_Association",
+                "New_Schubert_Edition",
+                "Sangtam_language",
+                "Spiritual_Assembly"
+            ],
+            "scores": [
+                0.9622437971952535,
+                0.005393743257820928,
+                0.004314994606256742,
+                0.003236245954692557,
+                0.003236245954692557,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.002157497303128371,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855,
+                0.0010787486515641855
+            ]
+        },
+        {
+            "begin": 5341,
+            "end": 5349,
+            "text": "European",
+            "concept": 19
+        },
+        {
+            "begin": 5452,
+            "end": 5456,
+            "text": "West",
+            "concept": 26,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 9,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Europe",
+            "keyword": false,
+            "count": 6,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Barack Obama",
+            "keyword": false,
+            "count": 3,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "National Security Agency",
+            "keyword": true,
+            "count": 8,
+            "link": "National_Security_Agency",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Angela Merkel",
+            "keyword": true,
+            "count": 3,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Ben Scott",
+            "keyword": true,
+            "count": 4,
+            "link": "Ben_Scott_(policy_advisor)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Hillary Clinton",
+            "keyword": true,
+            "count": 2,
+            "link": "Hillary_Clinton",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_national"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Trans-Atlantic",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "slot::keyword"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "New Responsibility Foundation",
+            "keyword": false,
+            "count": 2,
+            "link": "Stiftung_Neue_Verantwortung",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "adviser",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 2,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "think tank",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Secretary of State",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "European",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "(Edward) Snowden",
+            "keyword": false,
+            "count": 1,
+            "link": "Edward_Snowden",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "NATO",
+            "keyword": false,
+            "count": 1,
+            "link": "NATO",
+            "tags": [
+                "iptc::11000000",
+                "iptc::16000000",
+                "topic::conflict",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::military_alliance",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Washington",
+            "keyword": false,
+            "count": 2,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "UN",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Nations",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "White House",
+            "keyword": false,
+            "count": 2,
+            "link": "White_House",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "West",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 27,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov-x",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "advisor_of",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 9
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 8,
+            "p": "based_in2",
+            "o": 13
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 9
+        },
+        {
+            "s": 12,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 9
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 20,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 21,
+            "p": "gpe0",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000638"
+    ]
+}

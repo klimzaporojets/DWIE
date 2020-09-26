@@ -1,0 +1,819 @@
+{
+    "id": "DW_5846247",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Arctic",
+            "concept": 5,
+            "candidates": [
+                "Arctic",
+                "Arctic_Ocean",
+                "Arctic_convoys_of_World_War_II",
+                "Arctic_(company)",
+                "Climate_of_the_Arctic",
+                "Arctic_Circle",
+                "Northern_Canada",
+                "Arctic_(film)",
+                "Arctic_tundra",
+                "Cold-weather_warfare",
+                "Arctic_tern",
+                "Arctic_(journal)",
+                "SS_Arctic",
+                "Arctic_fox",
+                "Far_North_(Russia)",
+                "Diocese_of_The_Arctic"
+            ],
+            "scores": [
+                0.895158704713049,
+                0.042000641231163836,
+                0.008015389547932029,
+                0.005771080474511061,
+                0.004168002564924655,
+                0.0038473869830073742,
+                0.003526771401090093,
+                0.0028855402372555306,
+                0.0025649246553382495,
+                0.0025649246553382495,
+                0.0022443090734209684,
+                0.0022443090734209684,
+                0.0019236934915036871,
+                0.0016030779095864058,
+                0.0012824623276691247,
+                0.0012824623276691247
+            ]
+        },
+        {
+            "begin": 129,
+            "end": 135,
+            "text": "Norway",
+            "concept": 0,
+            "candidates": [
+                "Norway",
+                "Norway_national_football_team",
+                "Norway_women's_national_football_team",
+                "Football_Association_of_Norway",
+                "VG-lista",
+                "Same-sex_marriage_in_Norway",
+                "ISU_Junior_Grand_Prix_in_Norway",
+                "Norway_national_under-21_football_team",
+                "Norway_men's_national_ice_hockey_team",
+                "Norway_women's_national_handball_team",
+                "Norwegian_Campaign",
+                "Norway_national_handball_team",
+                "Norway_Fed_Cup_team",
+                "Norway,_Maine",
+                "Norway_national_cricket_team",
+                "Norway_at_the_1920_Summer_Olympics"
+            ],
+            "scores": [
+                0.8815544177497703,
+                0.03534199816200604,
+                0.011001706708677957,
+                0.005198897203623474,
+                0.0045687278456085076,
+                0.003308389129578574,
+                0.0023106209793882105,
+                0.00223184980963634,
+                0.0018642510174609426,
+                0.001680451621373244,
+                0.0014441381121176316,
+                0.0013391098857818038,
+                0.0013128528291978469,
+                0.0011815675462780622,
+                0.0009452540370224497,
+                0.0008664828672705789
+            ]
+        },
+        {
+            "begin": 328,
+            "end": 340,
+            "text": "Longyearbyen",
+            "concept": 1,
+            "candidates": [
+                "Longyearbyen",
+                "Svalbard_Airport,_Longyear"
+            ],
+            "scores": [
+                0.991304347826087,
+                0.008695652173913044
+            ]
+        },
+        {
+            "begin": 387,
+            "end": 397,
+            "text": "North Pole",
+            "concept": 2,
+            "candidates": [
+                "North_Pole",
+                "North_Pole,_Alaska",
+                "North_Pole,_New_York",
+                "North_Magnetic_Pole",
+                "Purple_Forbidden_enclosure",
+                "North_Pole_Marathon",
+                "North_Pole,_Idaho",
+                "Santa's_workshop",
+                "Poles_of_astronomical_bodies",
+                "North_Pole_(disambiguation)",
+                "Santa's_Workshop_(Colorado_amusement_park)",
+                "Lunar_north_pole",
+                "Geographical_pole",
+                "North_Pole_depot"
+            ],
+            "scores": [
+                0.9600532623169108,
+                0.027518863737239236,
+                0.004438526409232135,
+                0.001775410563692854,
+                0.0013315579227696406,
+                0.000887705281846427,
+                0.000887705281846427,
+                0.0004438526409232135,
+                0.0004438526409232135,
+                0.0004438526409232135,
+                0.0004438526409232135,
+                0.0004438526409232135,
+                0.0004438526409232135,
+                0.0004438526409232135
+            ]
+        },
+        {
+            "begin": 630,
+            "end": 634,
+            "text": "2008",
+            "concept": 6
+        },
+        {
+            "begin": 678,
+            "end": 684,
+            "text": "Arctic",
+            "concept": 5,
+            "candidates": [
+                "Arctic",
+                "Arctic_Ocean",
+                "Arctic_convoys_of_World_War_II",
+                "Arctic_(company)",
+                "Climate_of_the_Arctic",
+                "Arctic_Circle",
+                "Northern_Canada",
+                "Arctic_(film)",
+                "Arctic_tundra",
+                "Cold-weather_warfare",
+                "Arctic_tern",
+                "Arctic_(journal)",
+                "SS_Arctic",
+                "Arctic_fox",
+                "Far_North_(Russia)",
+                "Diocese_of_The_Arctic"
+            ],
+            "scores": [
+                0.895158704713049,
+                0.042000641231163836,
+                0.008015389547932029,
+                0.005771080474511061,
+                0.004168002564924655,
+                0.0038473869830073742,
+                0.003526771401090093,
+                0.0028855402372555306,
+                0.0025649246553382495,
+                0.0025649246553382495,
+                0.0022443090734209684,
+                0.0022443090734209684,
+                0.0019236934915036871,
+                0.0016030779095864058,
+                0.0012824623276691247,
+                0.0012824623276691247
+            ]
+        },
+        {
+            "begin": 711,
+            "end": 728,
+            "text": "Global Seed Vault",
+            "concept": 3,
+            "candidates": [
+                "Svalbard_Global_Seed_Vault"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 748,
+            "end": 757,
+            "text": "Norwegian",
+            "concept": 7
+        },
+        {
+            "begin": 788,
+            "end": 815,
+            "text": "Global Crop Diversity Trust",
+            "concept": 8,
+            "candidates": [
+                "Crop_Trust"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1223,
+            "end": 1241,
+            "text": "Roland von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1299,
+            "end": 1332,
+            "text": "Swedish University of Agriculture",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1456,
+            "end": 1464,
+            "text": "Internet",
+            "concept": 10,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 1683,
+            "end": 1694,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1741,
+            "end": 1748,
+            "text": "Denmark",
+            "concept": 11,
+            "candidates": [
+                "Denmark",
+                "Denmark_national_football_team",
+                "Denmark_women's_national_football_team",
+                "Denmark_national_cricket_team",
+                "Denmark_national_speedway_team",
+                "Danish_Football_Association",
+                "Same-sex_marriage_in_Denmark",
+                "Danish_literature",
+                "Denmark,_Western_Australia",
+                "Denmark_national_under-21_football_team",
+                "Denmark_national_badminton_team",
+                "Denmark_national_handball_team",
+                "Denmark_women's_national_cricket_team",
+                "Denmark_women's_national_handball_team",
+                "Denmark\u2013Norway",
+                "Hitlisten"
+            ],
+            "scores": [
+                0.8280020615014603,
+                0.04779247551967016,
+                0.010204432228139495,
+                0.008349080913932314,
+                0.005566053942621543,
+                0.005325545438928019,
+                0.0046383782855179525,
+                0.004123002920460402,
+                0.003916852774437382,
+                0.003504552482391342,
+                0.0034701941247208385,
+                0.003057893832674798,
+                0.002164576533241711,
+                0.0018209929565366776,
+                0.0017866345988661742,
+                0.0017179178835251675
+            ]
+        },
+        {
+            "begin": 1753,
+            "end": 1758,
+            "text": "India",
+            "concept": 12,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 2007,
+            "end": 2018,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2515,
+            "end": 2526,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2668,
+            "end": 2678,
+            "text": "Noah's Ark",
+            "concept": 13,
+            "candidates": [
+                "Noah's_Ark",
+                "Noah's_Ark_(1928_film)",
+                "Noah's_Ark_(miniseries)",
+                "Noah's_Ark_(UK_TV_series)",
+                "Noah's_Ark_(1956_TV_series)",
+                "Noah's_Ark_Water_Park",
+                "Noah's_Ark_(2007_film)",
+                "Noah's_Ark_(book)",
+                "Noah's_Ark_(album)",
+                "Noah's_Ark_(video_game)",
+                "Noah's_Ark_(fun_house)",
+                "Noah's_Ark_(1959_film)",
+                "Noah's_Ark_(Hong_Kong)",
+                "Noah's_Ark_(Pinkney_book)",
+                "Noah's_Ark_(game)",
+                "The_Ark_(film)"
+            ],
+            "scores": [
+                0.7238562091503268,
+                0.07679738562091504,
+                0.03594771241830065,
+                0.03431372549019608,
+                0.03104575163398693,
+                0.016339869281045753,
+                0.014705882352941176,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.008169934640522876,
+                0.008169934640522876,
+                0.008169934640522876,
+                0.004901960784313725,
+                0.004901960784313725,
+                0.0032679738562091504,
+                0.0016339869281045752
+            ]
+        },
+        {
+            "begin": 2718,
+            "end": 2729,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2944,
+            "end": 2955,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3260,
+            "end": 3263,
+            "text": "FAO",
+            "concept": 14,
+            "candidates": [
+                "Food_and_Agriculture_Organization",
+                "Ap\u00falia_e_F\u00e3o",
+                "Al-Faw",
+                "Fao_(god)",
+                "C.F._F\u00e3o",
+                "Al-Faw_Peninsula",
+                "Faro_Airport",
+                "Fao_Landing",
+                "Faroese_language"
+            ],
+            "scores": [
+                0.9716177861873226,
+                0.010406811731315043,
+                0.006622516556291391,
+                0.003784295175023652,
+                0.003784295175023652,
+                0.000946073793755913,
+                0.000946073793755913,
+                0.000946073793755913,
+                0.000946073793755913
+            ]
+        },
+        {
+            "begin": 3264,
+            "end": 3281,
+            "text": "World Food Summit",
+            "concept": 15,
+            "candidates": [
+                "World_Food_Summit",
+                "Food_security"
+            ],
+            "scores": [
+                0.9565217391304348,
+                0.043478260869565216
+            ]
+        },
+        {
+            "begin": 3373,
+            "end": 3377,
+            "text": "2050",
+            "concept": 16
+        },
+        {
+            "begin": 3571,
+            "end": 3582,
+            "text": "von Bothmer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3984,
+            "end": 4024,
+            "text": "Author: Irene Quaile Editor: Sean Sinico",
+            "concept": 17
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Norway",
+            "keyword": true,
+            "count": 1,
+            "link": "Norway",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Longyearbyen",
+            "keyword": true,
+            "count": 1,
+            "link": "Longyearbyen",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "North Pole",
+            "keyword": true,
+            "count": 1,
+            "link": "North_Pole",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Global Seed Vault",
+            "keyword": true,
+            "count": 1,
+            "link": "Svalbard_Global_Seed_Vault",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Roland von Bothmer",
+            "keyword": true,
+            "count": 7,
+            "link": "wikidata:Q5583361",
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "slot::keyword",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Arctic",
+            "keyword": false,
+            "count": 2,
+            "link": "Arctic",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Norwegian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Global Crop Diversity Trust",
+            "keyword": false,
+            "count": 1,
+            "link": "Crop_Trust",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Swedish University of Agriculture",
+            "keyword": false,
+            "count": 1,
+            "link": "Swedish_University_of_Agricultural_Sciences",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Internet",
+            "keyword": false,
+            "count": 1,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Denmark",
+            "keyword": false,
+            "count": 1,
+            "link": "Denmark",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "India",
+            "keyword": false,
+            "count": 1,
+            "link": "India",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Noah's Ark",
+            "keyword": false,
+            "count": 1,
+            "link": "Noah's_Ark",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "FAO",
+            "keyword": false,
+            "count": 1,
+            "link": "Food_and_Agriculture_Organization",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "World Food Summit",
+            "keyword": false,
+            "count": 1,
+            "link": "World_Food_Summit",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "2050",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Author: Irene Quaile Editor: Sean Sinico",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Sweden",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 9
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 18
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "13000000",
+        "20000717",
+        "20000719",
+        "20000721"
+    ]
+}

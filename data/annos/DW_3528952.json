@@ -1,0 +1,1438 @@
+{
+    "id": "DW_3528952",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 19,
+            "end": 27,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 39,
+            "end": 50,
+            "text": "UN Tribunal",
+            "concept": 0,
+            "candidates": [
+                "International_Criminal_Tribunal_for_the_former_Yugoslavia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 58,
+            "end": 65,
+            "text": "Bosnian",
+            "concept": 5
+        },
+        {
+            "begin": 66,
+            "end": 70,
+            "text": "Serb",
+            "concept": 6
+        },
+        {
+            "begin": 71,
+            "end": 77,
+            "text": "leader",
+            "concept": 7
+        },
+        {
+            "begin": 78,
+            "end": 94,
+            "text": "Radovan Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 134,
+            "end": 136,
+            "text": "UN",
+            "concept": 8,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 272,
+            "end": 280,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 446,
+            "end": 454,
+            "text": "Thursday",
+            "concept": 9
+        },
+        {
+            "begin": 456,
+            "end": 463,
+            "text": "July 31",
+            "concept": 10
+        },
+        {
+            "begin": 470,
+            "end": 475,
+            "text": "Judge",
+            "concept": 11
+        },
+        {
+            "begin": 476,
+            "end": 488,
+            "text": "Alphons Orie",
+            "concept": 4,
+            "candidates": [
+                "Alphons_Orie"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 623,
+            "end": 627,
+            "text": "Orie",
+            "concept": 4,
+            "candidates": [
+                "Orie",
+                "Alphons_Orie",
+                "Igbo_calendar"
+            ],
+            "scores": [
+                0.6,
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "begin": 690,
+            "end": 698,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 764,
+            "end": 821,
+            "text": "International Criminal Tribunal for the Former Yugoslavia",
+            "concept": 0,
+            "candidates": [
+                "International_Criminal_Tribunal_for_the_former_Yugoslavia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 853,
+            "end": 860,
+            "text": "Aug. 29",
+            "concept": 12
+        },
+        {
+            "begin": 882,
+            "end": 890,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 991,
+            "end": 1009,
+            "text": "Slobodan Milosevic",
+            "concept": 2,
+            "candidates": [
+                "Slobodan_Milo\u0161evi\u0107",
+                "Trial_of_Slobodan_Milo\u0161evi\u0107"
+            ],
+            "scores": [
+                0.9982158786797503,
+                0.001784121320249777
+            ]
+        },
+        {
+            "begin": 1074,
+            "end": 1081,
+            "text": "Bosnian",
+            "concept": 5
+        },
+        {
+            "begin": 1169,
+            "end": 1178,
+            "text": "The Hague",
+            "concept": 13,
+            "candidates": [
+                "The_Hague",
+                "Timeline_of_The_Hague",
+                "Den_Haag_Centraal_railway_station",
+                "HYS_The_Hague",
+                "Trams_in_The_Hague",
+                "International_Court_of_Justice",
+                "CPC_Loop_Den_Haag",
+                "Royal_Conservatory_of_The_Hague",
+                "Sportpark_Westvliet",
+                "The_Hague_dialect",
+                "Battle_for_The_Hague",
+                "Voorburg",
+                "Hague_Congress_(1872)",
+                "The_Hague_University_of_Applied_Sciences",
+                "Young_Plan",
+                "Den_Haag_HS_railway_station"
+            ],
+            "scores": [
+                0.9908256880733946,
+                0.001679803592195374,
+                0.0015505879312572683,
+                0.0009045096265667399,
+                0.0009045096265667399,
+                0.0007752939656286342,
+                0.0006460783046905285,
+                0.0002584313218762114,
+                0.0002584313218762114,
+                0.0002584313218762114,
+                0.0002584313218762114,
+                0.0001292156609381057,
+                0.0001292156609381057,
+                0.0001292156609381057,
+                0.0001292156609381057,
+                0.0001292156609381057
+            ]
+        },
+        {
+            "begin": 1199,
+            "end": 1203,
+            "text": "2006",
+            "concept": 14
+        },
+        {
+            "begin": 1221,
+            "end": 1229,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 1257,
+            "end": 1264,
+            "text": "Balkans",
+            "concept": 15,
+            "candidates": [
+                "Balkans",
+                "Balkan_cuisine",
+                "Balkans_Campaign_(World_War_II)",
+                "Balkan_Mountains",
+                "Iron_Age_Southeastern_Europe",
+                "Yugoslav_Wars",
+                "Balkans_Campaign_(World_War_I)",
+                "History_of_the_Balkans",
+                "Balkan_music",
+                "Rape_during_the_Bosnian_War",
+                "Maurice's_Balkan_campaigns",
+                "Russo-Turkish_War_(1877\u20131878)",
+                "Southeast_Europe",
+                "Balkan_Wars",
+                "History_of_the_Jews_in_Serbia",
+                "First_Balkan_War"
+            ],
+            "scores": [
+                0.9786176031824962,
+                0.003978120338140228,
+                0.0034808552958727,
+                0.002486325211337643,
+                0.0022376926902038788,
+                0.0012431626056688214,
+                0.000994530084535057,
+                0.000994530084535057,
+                0.0007458975634012929,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0002486325211337643,
+                0.0002486325211337643
+            ]
+        },
+        {
+            "begin": 1305,
+            "end": 1314,
+            "text": "Milosevic",
+            "concept": 2,
+            "candidates": [
+                "Slobodan_Milo\u0161evi\u0107",
+                "Savo_Milo\u0161evi\u0107",
+                "Milo\u0161evi\u0107_(surname)",
+                "Strahinja_Milo\u0161evi\u0107",
+                "Miroslav_Milo\u0161evi\u0107_(footballer,_born_1986)",
+                "Branko_Milosevic",
+                "Igor_Milo\u0161evi\u0107"
+            ],
+            "scores": [
+                0.5419847328244275,
+                0.3282442748091603,
+                0.09923664122137404,
+                0.007633587786259542,
+                0.007633587786259542,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 1324,
+            "end": 1332,
+            "text": "Thursday",
+            "concept": 9
+        },
+        {
+            "begin": 1577,
+            "end": 1590,
+            "text": "Dayton Accord",
+            "concept": 3,
+            "candidates": [
+                "Dayton_Agreement"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1608,
+            "end": 1615,
+            "text": "Bosnian",
+            "concept": 5
+        },
+        {
+            "begin": 1643,
+            "end": 1645,
+            "text": "US",
+            "concept": 16,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1646,
+            "end": 1674,
+            "text": "Assistant Secretary of State",
+            "concept": 17
+        },
+        {
+            "begin": 1675,
+            "end": 1692,
+            "text": "Richard Holbrooke",
+            "concept": 18,
+            "candidates": [
+                "Richard_Holbrooke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1787,
+            "end": 1791,
+            "text": "Orie",
+            "concept": 4,
+            "candidates": [
+                "Orie",
+                "Alphons_Orie",
+                "Igbo_calendar"
+            ],
+            "scores": [
+                0.6,
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "begin": 1815,
+            "end": 1822,
+            "text": "Bosnian",
+            "concept": 5
+        },
+        {
+            "begin": 1823,
+            "end": 1827,
+            "text": "Serb",
+            "concept": 6
+        },
+        {
+            "begin": 1965,
+            "end": 1981,
+            "text": "Chief prosecutor",
+            "concept": 19
+        },
+        {
+            "begin": 1982,
+            "end": 1996,
+            "text": "Serge Brammetz",
+            "concept": 20,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2036,
+            "end": 2045,
+            "text": "Milosevic",
+            "concept": 2,
+            "candidates": [
+                "Slobodan_Milo\u0161evi\u0107",
+                "Savo_Milo\u0161evi\u0107",
+                "Milo\u0161evi\u0107_(surname)",
+                "Strahinja_Milo\u0161evi\u0107",
+                "Miroslav_Milo\u0161evi\u0107_(footballer,_born_1986)",
+                "Branko_Milosevic",
+                "Igor_Milo\u0161evi\u0107"
+            ],
+            "scores": [
+                0.5419847328244275,
+                0.3282442748091603,
+                0.09923664122137404,
+                0.007633587786259542,
+                0.007633587786259542,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2356,
+            "end": 2360,
+            "text": "West",
+            "concept": 21,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 2483,
+            "end": 2511,
+            "text": "international justice expert",
+            "concept": 22
+        },
+        {
+            "begin": 2512,
+            "end": 2536,
+            "text": "Heikelina Verrijn Stuart",
+            "concept": 23,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2542,
+            "end": 2545,
+            "text": "AFP",
+            "concept": 24,
+            "candidates": [
+                "Associa\u00e7\u00e3o_Fonogr\u00e1fica_Portuguesa",
+                "Agence_France-Presse",
+                "Australia_First_Party",
+                "Armed_Forces_of_the_Philippines",
+                "Apple_Filing_Protocol",
+                "Australian_Federal_Police",
+                "Alpha-fetoprotein",
+                "Advanced_Function_Presentation",
+                "AFP_(TV_series)",
+                "Alliance_of_the_Forces_of_Progress_(Senegal)",
+                "Philippine_Army",
+                "Americans_for_Prosperity",
+                "American_Free_Press",
+                "Marinef\u00e4hrprahm",
+                "Tapei_language",
+                "AFP"
+            ],
+            "scores": [
+                0.4733009708737864,
+                0.2961165048543689,
+                0.0691747572815534,
+                0.05339805825242718,
+                0.0412621359223301,
+                0.021844660194174758,
+                0.01820388349514563,
+                0.009708737864077669,
+                0.006067961165048544,
+                0.0024271844660194173,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086
+            ]
+        },
+        {
+            "begin": 2612,
+            "end": 2620,
+            "text": "Thursday",
+            "concept": 9
+        },
+        {
+            "begin": 2632,
+            "end": 2636,
+            "text": "Orie",
+            "concept": 4,
+            "candidates": [
+                "Orie",
+                "Alphons_Orie",
+                "Igbo_calendar"
+            ],
+            "scores": [
+                0.6,
+                0.2,
+                0.2
+            ]
+        },
+        {
+            "begin": 2704,
+            "end": 2712,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 2716,
+            "end": 2720,
+            "text": "1995",
+            "concept": 25
+        },
+        {
+            "begin": 2758,
+            "end": 2766,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        },
+        {
+            "begin": 2801,
+            "end": 2809,
+            "text": "Sarajevo",
+            "concept": 26,
+            "candidates": [
+                "Sarajevo",
+                "FK_Sarajevo",
+                "Sarajevo_(1940_French_film)",
+                "SFK_2000",
+                "Sarajevo_(1955_film)",
+                "BH_Telecom_Indoors",
+                "Sarajevo_Film_Festival",
+                "Sarajevo_(1940_Hungarian_film)",
+                "Sarajevo_Canton",
+                "1984_Winter_Olympics",
+                "Siege_of_Sarajevo",
+                "University_of_Sarajevo",
+                "Zetra_Olympic_Hall,_Sarajevo",
+                "Bjela\u0161nica",
+                "Igman_Olympic_Jumps",
+                "Zetra_Ice_Rink"
+            ],
+            "scores": [
+                0.8774183059665095,
+                0.09689481385140628,
+                0.0037392293935945373,
+                0.003576654202568688,
+                0.002601203056413591,
+                0.002438627865387742,
+                0.0019509022923101934,
+                0.001788327101284344,
+                0.001788327101284344,
+                0.0011380263371809462,
+                0.0009754511461550967,
+                0.0008128759551292473,
+                0.0006503007641033978,
+                0.0006503007641033978,
+                0.00048772557307754836,
+                0.0003251503820516989
+            ]
+        },
+        {
+            "begin": 2818,
+            "end": 2828,
+            "text": "Srebrenica",
+            "concept": 27,
+            "candidates": [
+                "Srebrenica",
+                "Srebrenica_massacre"
+            ],
+            "scores": [
+                0.9125964010282777,
+                0.08740359897172237
+            ]
+        },
+        {
+            "begin": 2850,
+            "end": 2856,
+            "text": "Muslim",
+            "concept": 28
+        },
+        {
+            "begin": 2889,
+            "end": 2891,
+            "text": "UN",
+            "concept": 8,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 2906,
+            "end": 2916,
+            "text": "Srebrenica",
+            "concept": 27,
+            "candidates": [
+                "Srebrenica",
+                "Srebrenica_massacre"
+            ],
+            "scores": [
+                0.9125964010282777,
+                0.08740359897172237
+            ]
+        },
+        {
+            "begin": 2937,
+            "end": 2945,
+            "text": "Sarajevo",
+            "concept": 26,
+            "candidates": [
+                "Sarajevo",
+                "FK_Sarajevo",
+                "Sarajevo_(1940_French_film)",
+                "SFK_2000",
+                "Sarajevo_(1955_film)",
+                "BH_Telecom_Indoors",
+                "Sarajevo_Film_Festival",
+                "Sarajevo_(1940_Hungarian_film)",
+                "Sarajevo_Canton",
+                "1984_Winter_Olympics",
+                "Siege_of_Sarajevo",
+                "University_of_Sarajevo",
+                "Zetra_Olympic_Hall,_Sarajevo",
+                "Bjela\u0161nica",
+                "Igman_Olympic_Jumps",
+                "Zetra_Ice_Rink"
+            ],
+            "scores": [
+                0.8774183059665095,
+                0.09689481385140628,
+                0.0037392293935945373,
+                0.003576654202568688,
+                0.002601203056413591,
+                0.002438627865387742,
+                0.0019509022923101934,
+                0.001788327101284344,
+                0.001788327101284344,
+                0.0011380263371809462,
+                0.0009754511461550967,
+                0.0008128759551292473,
+                0.0006503007641033978,
+                0.0006503007641033978,
+                0.00048772557307754836,
+                0.0003251503820516989
+            ]
+        },
+        {
+            "begin": 3057,
+            "end": 3065,
+            "text": "Karadzic",
+            "concept": 1,
+            "candidates": [
+                "Radovan_Karad\u017ei\u0107",
+                "Vuk_Karad\u017ei\u0107",
+                "Karad\u017ei\u0107"
+            ],
+            "scores": [
+                0.6153846153846154,
+                0.23076923076923078,
+                0.15384615384615385
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "International Criminal Tribunal for the Former Yugoslavia",
+            "keyword": true,
+            "count": 2,
+            "link": "International_Criminal_Tribunal_for_the_former_Yugoslavia",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Radovan Karadzic",
+            "keyword": true,
+            "count": 9,
+            "link": "Radovan_Karad\u017ei\u0107",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Slobodan Milosevic",
+            "keyword": true,
+            "count": 3,
+            "link": "Slobodan_Milo\u0161evi\u0107",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Dayton Accord",
+            "keyword": true,
+            "count": 1,
+            "link": "Dayton_Agreement",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Alphons Orie",
+            "keyword": false,
+            "count": 4,
+            "link": "Alphons_Orie",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::judge",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Bosnian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Serb",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "UN",
+            "keyword": false,
+            "count": 2,
+            "link": "United_Nations",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "July 31",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Judge",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Aug. 29",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "The Hague",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Hague",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "2006",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Balkans",
+            "keyword": false,
+            "count": 1,
+            "link": "Balkans",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Assistant Secretary of State",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Richard Holbrooke",
+            "keyword": false,
+            "count": 1,
+            "link": "Richard_Holbrooke",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Chief prosecutor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Serge Brammetz",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q726255",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::justice_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "West",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "international justice expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Heikelina Verrijn Stuart",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q2692650",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "AFP",
+            "keyword": false,
+            "count": 1,
+            "link": "Agence_France-Presse",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "1995",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Sarajevo",
+            "keyword": false,
+            "count": 2,
+            "link": "Sarajevo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Srebrenica",
+            "keyword": false,
+            "count": 2,
+            "link": "Srebrenica",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 29,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        },
+        {
+            "concept": 30,
+            "keyword": false,
+            "count": 0,
+            "link": "Bosnia",
+            "tags": []
+        },
+        {
+            "concept": 31,
+            "keyword": false,
+            "count": 0,
+            "link": "Serbia",
+            "tags": []
+        },
+        {
+            "concept": 32,
+            "keyword": false,
+            "count": 0,
+            "link": "Netherlands",
+            "tags": []
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "Bosnia_and_Herzegovina",
+            "tags": []
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 32
+        },
+        {
+            "s": 0,
+            "p": "based_in2",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "institution_of",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "part_of",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 30
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 30
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 31
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 31
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 30
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 31
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 32
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 16
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 16
+        },
+        {
+            "s": 18,
+            "p": "minister_of",
+            "o": 16
+        },
+        {
+            "s": 20,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 34
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 33
+        },
+        {
+            "s": 27,
+            "p": "in0",
+            "o": 33
+        }
+    ],
+    "frames": [
+        {
+            "type": "trial-hearing",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 1
+                },
+                {
+                    "name": "adjudicator",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000105",
+        "20000121",
+        "20000126",
+        "20000128"
+    ]
+}

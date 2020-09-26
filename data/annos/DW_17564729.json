@@ -1,0 +1,752 @@
+{
+    "id": "DW_17564729",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 47,
+            "end": 56,
+            "text": "Malaysian",
+            "concept": 5
+        },
+        {
+            "begin": 72,
+            "end": 82,
+            "text": "Australian",
+            "concept": 6
+        },
+        {
+            "begin": 162,
+            "end": 176,
+            "text": "missing flight",
+            "concept": 7
+        },
+        {
+            "begin": 177,
+            "end": 182,
+            "text": "MH370",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_370"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 459,
+            "end": 469,
+            "text": "Australian",
+            "concept": 6
+        },
+        {
+            "begin": 485,
+            "end": 498,
+            "text": "Angus Houston",
+            "concept": 2,
+            "candidates": [
+                "Angus_Houston"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 525,
+            "end": 531,
+            "text": "Monday",
+            "concept": 8
+        },
+        {
+            "begin": 534,
+            "end": 546,
+            "text": "Ocean Shield",
+            "concept": 9,
+            "candidates": [
+                "Operation_Ocean_Shield"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 625,
+            "end": 654,
+            "text": "autonomous underwater vehicle",
+            "concept": 10
+        },
+        {
+            "begin": 655,
+            "end": 665,
+            "text": "Bluefin-21",
+            "concept": 11,
+            "candidates": [
+                "Bluefin-21"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 688,
+            "end": 695,
+            "text": "Houston",
+            "concept": 2,
+            "candidates": [
+                "Houston",
+                "Houston_Rockets",
+                "Houston_Cougars_football",
+                "Houston_Comets",
+                "Houston_Cougars_men's_basketball",
+                "University_of_Houston",
+                "National_Register_of_Historic_Places_listings_in_Houston_County,_Georgia",
+                "Houston_Dynamo",
+                "2017\u201318_Houston_Rockets_season",
+                "Houston_County,_Texas",
+                "2015\u201316_Houston_Rockets_season",
+                "2016\u201317_Houston_Rockets_season",
+                "Houston_Cougars",
+                "Houston_Astros",
+                "Houston_Cougars_baseball",
+                "Houston_County,_Alabama"
+            ],
+            "scores": [
+                0.6086694203369378,
+                0.04473940687798766,
+                0.0237620086322922,
+                0.022230472919663992,
+                0.015361767299392027,
+                0.009792546526198542,
+                0.007472037870701258,
+                0.005894091984963104,
+                0.005801271638743212,
+                0.005708451292523321,
+                0.005197939388313919,
+                0.004780247830324407,
+                0.004501786791664733,
+                0.004130505406785168,
+                0.0036199935025757646,
+                0.0036199935025757646
+            ]
+        },
+        {
+            "begin": 789,
+            "end": 796,
+            "text": "Houston",
+            "concept": 2,
+            "candidates": [
+                "Houston",
+                "Houston_Rockets",
+                "Houston_Cougars_football",
+                "Houston_Comets",
+                "Houston_Cougars_men's_basketball",
+                "University_of_Houston",
+                "National_Register_of_Historic_Places_listings_in_Houston_County,_Georgia",
+                "Houston_Dynamo",
+                "2017\u201318_Houston_Rockets_season",
+                "Houston_County,_Texas",
+                "2015\u201316_Houston_Rockets_season",
+                "2016\u201317_Houston_Rockets_season",
+                "Houston_Cougars",
+                "Houston_Astros",
+                "Houston_Cougars_baseball",
+                "Houston_County,_Alabama"
+            ],
+            "scores": [
+                0.6086694203369378,
+                0.04473940687798766,
+                0.0237620086322922,
+                0.022230472919663992,
+                0.015361767299392027,
+                0.009792546526198542,
+                0.007472037870701258,
+                0.005894091984963104,
+                0.005801271638743212,
+                0.005708451292523321,
+                0.005197939388313919,
+                0.004780247830324407,
+                0.004501786791664733,
+                0.004130505406785168,
+                0.0036199935025757646,
+                0.0036199935025757646
+            ]
+        },
+        {
+            "begin": 1130,
+            "end": 1142,
+            "text": "Indian Ocean",
+            "concept": 12,
+            "candidates": [
+                "Indian_Ocean",
+                "Indian_Ocean_(band)",
+                "Indian_Ocean_in_World_War_II",
+                "Indian_Ocean_(album)",
+                "Church_of_the_Province_of_the_Indian_Ocean",
+                "List_of_islands_in_the_Indian_Ocean",
+                "Gonzo_Station",
+                "Indian_Ocean_raid",
+                "CSCL_Indian_Ocean",
+                "List_of_ports_and_harbours_of_the_Indian_Ocean",
+                "Piracy_off_the_coast_of_Somalia",
+                "Operation_Earnest_Will",
+                "Indian_Ocean_Commission",
+                "Ottoman_naval_expeditions_in_the_Indian_Ocean",
+                "Battle_of_Madagascar"
+            ],
+            "scores": [
+                0.9856485242350392,
+                0.009206607094503114,
+                0.0023016517736257785,
+                0.0005415651232060655,
+                0.00040617384240454913,
+                0.00040617384240454913,
+                0.00027078256160303275,
+                0.00027078256160303275,
+                0.00013539128080151638,
+                0.00013539128080151638,
+                0.00013539128080151638,
+                0.00013539128080151638,
+                0.00013539128080151638,
+                0.00013539128080151638,
+                0.00013539128080151638
+            ]
+        },
+        {
+            "begin": 1542,
+            "end": 1547,
+            "text": "MH370",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_370"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1550,
+            "end": 1557,
+            "text": "Houston",
+            "concept": 2,
+            "candidates": [
+                "Houston",
+                "Houston_Rockets",
+                "Houston_Cougars_football",
+                "Houston_Comets",
+                "Houston_Cougars_men's_basketball",
+                "University_of_Houston",
+                "National_Register_of_Historic_Places_listings_in_Houston_County,_Georgia",
+                "Houston_Dynamo",
+                "2017\u201318_Houston_Rockets_season",
+                "Houston_County,_Texas",
+                "2015\u201316_Houston_Rockets_season",
+                "2016\u201317_Houston_Rockets_season",
+                "Houston_Cougars",
+                "Houston_Astros",
+                "Houston_Cougars_baseball",
+                "Houston_County,_Alabama"
+            ],
+            "scores": [
+                0.6086694203369378,
+                0.04473940687798766,
+                0.0237620086322922,
+                0.022230472919663992,
+                0.015361767299392027,
+                0.009792546526198542,
+                0.007472037870701258,
+                0.005894091984963104,
+                0.005801271638743212,
+                0.005708451292523321,
+                0.005197939388313919,
+                0.004780247830324407,
+                0.004501786791664733,
+                0.004130505406785168,
+                0.0036199935025757646,
+                0.0036199935025757646
+            ]
+        },
+        {
+            "begin": 1667,
+            "end": 1677,
+            "text": "Flight 370",
+            "concept": 0,
+            "candidates": [
+                "Malaysia_Airlines_Flight_370"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1694,
+            "end": 1701,
+            "text": "March 8",
+            "concept": 13
+        },
+        {
+            "begin": 1722,
+            "end": 1734,
+            "text": "Kuala Lumpur",
+            "concept": 14,
+            "candidates": [
+                "Kuala_Lumpur",
+                "Kuala_Lumpur_FA",
+                "Kuala_Lumpur_City_Hall",
+                "Kuala_Lumpur_International_Airport",
+                "Bukit_Jalil_National_Stadium",
+                "Kuala_Lumpur_railway_station",
+                "Roman_Catholic_Archdiocese_of_Kuala_Lumpur",
+                "Commonwealth_Bank_Tennis_Classic",
+                "Kuala_Lumpur_Open",
+                "Axiata_Arena",
+                "2001_Kuala_Lumpur_Sevens",
+                "Malaysian_Women's_Open",
+                "ATP_Malaysian_Open",
+                "2015_Malaysian_Open",
+                "Sepang_International_Circuit",
+                "1998_Commonwealth_Games"
+            ],
+            "scores": [
+                0.9398999745698059,
+                0.03339832160718827,
+                0.006866152411630075,
+                0.0034754598626769518,
+                0.001864880901924218,
+                0.0011867423921335934,
+                0.000932440450962109,
+                0.000932440450962109,
+                0.0008476731372382809,
+                0.0007629058235144528,
+                0.0006781385097906248,
+                0.0005933711960667967,
+                0.0005933711960667967,
+                0.00042383656861914046,
+                0.00042383656861914046,
+                0.00042383656861914046
+            ]
+        },
+        {
+            "begin": 1738,
+            "end": 1745,
+            "text": "Beijing",
+            "concept": 15,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 1772,
+            "end": 1779,
+            "text": "Houston",
+            "concept": 2,
+            "candidates": [
+                "Houston",
+                "Houston_Rockets",
+                "Houston_Cougars_football",
+                "Houston_Comets",
+                "Houston_Cougars_men's_basketball",
+                "University_of_Houston",
+                "National_Register_of_Historic_Places_listings_in_Houston_County,_Georgia",
+                "Houston_Dynamo",
+                "2017\u201318_Houston_Rockets_season",
+                "Houston_County,_Texas",
+                "2015\u201316_Houston_Rockets_season",
+                "2016\u201317_Houston_Rockets_season",
+                "Houston_Cougars",
+                "Houston_Astros",
+                "Houston_Cougars_baseball",
+                "Houston_County,_Alabama"
+            ],
+            "scores": [
+                0.6086694203369378,
+                0.04473940687798766,
+                0.0237620086322922,
+                0.022230472919663992,
+                0.015361767299392027,
+                0.009792546526198542,
+                0.007472037870701258,
+                0.005894091984963104,
+                0.005801271638743212,
+                0.005708451292523321,
+                0.005197939388313919,
+                0.004780247830324407,
+                0.004501786791664733,
+                0.004130505406785168,
+                0.0036199935025757646,
+                0.0036199935025757646
+            ]
+        },
+        {
+            "begin": 1903,
+            "end": 1908,
+            "text": "Perth",
+            "concept": 4,
+            "candidates": [
+                "Perth",
+                "Perth,_Scotland",
+                "Perth_Football_Club",
+                "WACA_Ground",
+                "Perth,_Ontario",
+                "Division_of_Perth",
+                "Perth_(UK_Parliament_constituency)",
+                "Electoral_district_of_Perth",
+                "Perth_railway_station",
+                "Perth_(suburb)",
+                "Perth_SC",
+                "Perth_Lynx",
+                "Perth_Airport",
+                "Perth_(electoral_district)",
+                "Perth_railway_station_(Scotland)",
+                "Perth,_Tasmania"
+            ],
+            "scores": [
+                0.7318400669876491,
+                0.12155467169074036,
+                0.027283511269276393,
+                0.01465354825204103,
+                0.011513502198032238,
+                0.00921080175842579,
+                0.009001465354825204,
+                0.009001465354825204,
+                0.007536110529621101,
+                0.0050240736864140675,
+                0.004744958481613286,
+                0.003488940060009769,
+                0.003279603656409183,
+                0.00272137324680762,
+                0.0026515944456074244,
+                0.002232921638406252
+            ]
+        },
+        {
+            "begin": 2069,
+            "end": 2075,
+            "text": "Monday",
+            "concept": 8
+        },
+        {
+            "begin": 2138,
+            "end": 2157,
+            "text": "hc/av (Reuters, AP)",
+            "concept": 16
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Flight 370",
+            "keyword": true,
+            "count": 3,
+            "link": "Malaysia_Airlines_Flight_370",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::misc",
+                "type::object"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "Angus Houston",
+            "keyword": true,
+            "count": 6,
+            "link": "Angus_Houston",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::head",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 4,
+            "text": "Perth",
+            "keyword": true,
+            "count": 1,
+            "link": "Perth",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Malaysian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Australian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "missing flight",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Monday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Ocean Shield",
+            "keyword": false,
+            "count": 1,
+            "link": "ABFC_Ocean_Shield",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "autonomous underwater vehicle",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Bluefin-21",
+            "keyword": false,
+            "count": 1,
+            "link": "Bluefin-21",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::misc",
+                "type::object"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Indian Ocean",
+            "keyword": false,
+            "count": 1,
+            "link": "Indian_Ocean",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "March 8",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Kuala Lumpur",
+            "keyword": false,
+            "count": 1,
+            "link": "Kuala_Lumpur",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Beijing",
+            "keyword": false,
+            "count": 1,
+            "link": "Beijing",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "hc/av (Reuters, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Australia",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "China",
+            "tags": []
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "Malaysia",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 17
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 17
+        },
+        {
+            "s": 4,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 17
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 18
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-accident",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "20000139",
+        "20000143",
+        "20000144"
+    ]
+}

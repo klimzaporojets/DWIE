@@ -1,0 +1,2781 @@
+{
+    "id": "DW_16699120",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 2,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 14,
+            "end": 23,
+            "text": "S African",
+            "concept": 4
+        },
+        {
+            "begin": 24,
+            "end": 33,
+            "text": "President",
+            "concept": 5
+        },
+        {
+            "begin": 34,
+            "end": 38,
+            "text": "Zuma",
+            "concept": 1,
+            "candidates": [
+                "Zuma_(video_game)",
+                "Zuma_(album)",
+                "Jacob_Zuma",
+                "Zuma_(satellite)",
+                "Sibusiso_Zuma",
+                "Zuma_(comics)",
+                "Zuma_(restaurant)",
+                "Zuma_(genus)",
+                "Yamaha_Zuma",
+                "Zuma,_Sudan",
+                "Zuma_Press",
+                "Zuma_Beach",
+                "Zuma_Township,_Rock_Island_County,_Illinois"
+            ],
+            "scores": [
+                0.34959349593495936,
+                0.24390243902439024,
+                0.0975609756097561,
+                0.07317073170731707,
+                0.06504065040650407,
+                0.06504065040650407,
+                0.056910569105691054,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009
+            ]
+        },
+        {
+            "begin": 48,
+            "end": 60,
+            "text": "BRICS summit",
+            "concept": 6,
+            "candidates": [
+                "9th_BRICS_summit",
+                "6th_BRICS_summit",
+                "3rd_BRICS_summit",
+                "8th_BRICS_summit"
+            ],
+            "scores": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 61,
+            "end": 68,
+            "text": "Chinese",
+            "concept": 7
+        },
+        {
+            "begin": 69,
+            "end": 78,
+            "text": "President",
+            "concept": 5
+        },
+        {
+            "begin": 79,
+            "end": 89,
+            "text": "Xi Jinping",
+            "concept": 0,
+            "candidates": [
+                "Xi_Jinping"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 110,
+            "end": 123,
+            "text": "South African",
+            "concept": 8
+        },
+        {
+            "begin": 124,
+            "end": 135,
+            "text": "counterpart",
+            "concept": 9
+        },
+        {
+            "begin": 136,
+            "end": 146,
+            "text": "Jacob Zuma",
+            "concept": 1,
+            "candidates": [
+                "Jacob_Zuma"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 160,
+            "end": 172,
+            "text": "BRICS summit",
+            "concept": 6,
+            "candidates": [
+                "9th_BRICS_summit",
+                "6th_BRICS_summit",
+                "3rd_BRICS_summit",
+                "8th_BRICS_summit"
+            ],
+            "scores": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 176,
+            "end": 182,
+            "text": "Durban",
+            "concept": 3,
+            "candidates": [
+                "Durban",
+                "Kingsmead_Cricket_Ground",
+                "Kings_Park_Stadium",
+                "Moses_Mabhida_Stadium",
+                "Port_of_Durban",
+                "Roman_Catholic_Archdiocese_of_Durban",
+                "2000_Durban_Sevens",
+                "Alan_Durban",
+                "EThekwini_Metropolitan_Municipality",
+                "Durban,_Manitoba",
+                "Timeline_of_Durban",
+                "Durban_International_Film_Festival",
+                "Durban,_Gers",
+                "King_Shaka_International_Airport",
+                "HMS_Durban_(D99)",
+                "Durban_railway_station"
+            ],
+            "scores": [
+                0.9449743213499633,
+                0.022010271460014674,
+                0.010271460014673514,
+                0.003484959647835657,
+                0.00293470286133529,
+                0.0020176082171680116,
+                0.001834189288334556,
+                0.0016507703595011005,
+                0.0012839325018341892,
+                0.0012839325018341892,
+                0.0011005135730007337,
+                0.0007336757153338225,
+                0.0007336757153338225,
+                0.0007336757153338225,
+                0.0005502567865003668,
+                0.0005502567865003668
+            ]
+        },
+        {
+            "begin": 192,
+            "end": 198,
+            "text": "Brazil",
+            "concept": 10,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 200,
+            "end": 206,
+            "text": "Russia",
+            "concept": 11,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 211,
+            "end": 216,
+            "text": "India",
+            "concept": 12,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 280,
+            "end": 282,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 351,
+            "end": 358,
+            "text": "Tuesday",
+            "concept": 13
+        },
+        {
+            "begin": 366,
+            "end": 379,
+            "text": "South African",
+            "concept": 8
+        },
+        {
+            "begin": 380,
+            "end": 387,
+            "text": "capital",
+            "concept": 14
+        },
+        {
+            "begin": 389,
+            "end": 397,
+            "text": "Pretoria",
+            "concept": 15,
+            "candidates": [
+                "Pretoria",
+                "Loftus_Versfeld_Stadium",
+                "Anglican_Diocese_of_Pretoria",
+                "Roman_Catholic_Archdiocese_of_Pretoria",
+                "LC_de_Villiers_Oval",
+                "City_of_Tshwane_Metropolitan_Municipality",
+                "Timeline_of_Pretoria",
+                "Pretoria_railway_station",
+                "Pretoria_(ship)",
+                "University_of_Pretoria",
+                "Pretoria,_Georgia",
+                "TS_Pretoria",
+                "Tuks_Stadium",
+                "Apostolic_Vicariate_of_Pretoria",
+                "Pretoria_National_Botanical_Garden",
+                "South_African_Mint"
+            ],
+            "scores": [
+                0.974787989915196,
+                0.005959202383680954,
+                0.0032088012835205133,
+                0.0025212010084804033,
+                0.0018336007334402934,
+                0.0016044006417602567,
+                0.0013752005500802201,
+                0.0013752005500802201,
+                0.0011460004584001834,
+                0.0011460004584001834,
+                0.0006876002750401101,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00022920009168003668
+            ]
+        },
+        {
+            "begin": 399,
+            "end": 403,
+            "text": "Zuma",
+            "concept": 1,
+            "candidates": [
+                "Zuma_(video_game)",
+                "Zuma_(album)",
+                "Jacob_Zuma",
+                "Zuma_(satellite)",
+                "Sibusiso_Zuma",
+                "Zuma_(comics)",
+                "Zuma_(restaurant)",
+                "Zuma_(genus)",
+                "Yamaha_Zuma",
+                "Zuma,_Sudan",
+                "Zuma_Press",
+                "Zuma_Beach",
+                "Zuma_Township,_Rock_Island_County,_Illinois"
+            ],
+            "scores": [
+                0.34959349593495936,
+                0.24390243902439024,
+                0.0975609756097561,
+                0.07317073170731707,
+                0.06504065040650407,
+                0.06504065040650407,
+                0.056910569105691054,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009
+            ]
+        },
+        {
+            "begin": 408,
+            "end": 410,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 471,
+            "end": 477,
+            "text": "Durban",
+            "concept": 3,
+            "candidates": [
+                "Durban",
+                "Kingsmead_Cricket_Ground",
+                "Kings_Park_Stadium",
+                "Moses_Mabhida_Stadium",
+                "Port_of_Durban",
+                "Roman_Catholic_Archdiocese_of_Durban",
+                "2000_Durban_Sevens",
+                "Alan_Durban",
+                "EThekwini_Metropolitan_Municipality",
+                "Durban,_Manitoba",
+                "Timeline_of_Durban",
+                "Durban_International_Film_Festival",
+                "Durban,_Gers",
+                "King_Shaka_International_Airport",
+                "HMS_Durban_(D99)",
+                "Durban_railway_station"
+            ],
+            "scores": [
+                0.9449743213499633,
+                0.022010271460014674,
+                0.010271460014673514,
+                0.003484959647835657,
+                0.00293470286133529,
+                0.0020176082171680116,
+                0.001834189288334556,
+                0.0016507703595011005,
+                0.0012839325018341892,
+                0.0012839325018341892,
+                0.0011005135730007337,
+                0.0007336757153338225,
+                0.0007336757153338225,
+                0.0007336757153338225,
+                0.0005502567865003668,
+                0.0005502567865003668
+            ]
+        },
+        {
+            "begin": 496,
+            "end": 508,
+            "text": "BRICS summit",
+            "concept": 6,
+            "candidates": [
+                "9th_BRICS_summit",
+                "6th_BRICS_summit",
+                "3rd_BRICS_summit",
+                "8th_BRICS_summit"
+            ],
+            "scores": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 546,
+            "end": 558,
+            "text": "BRICS summit",
+            "concept": 6,
+            "candidates": [
+                "9th_BRICS_summit",
+                "6th_BRICS_summit",
+                "3rd_BRICS_summit",
+                "8th_BRICS_summit"
+            ],
+            "scores": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 627,
+            "end": 631,
+            "text": "Zuma",
+            "concept": 1,
+            "candidates": [
+                "Zuma_(video_game)",
+                "Zuma_(album)",
+                "Jacob_Zuma",
+                "Zuma_(satellite)",
+                "Sibusiso_Zuma",
+                "Zuma_(comics)",
+                "Zuma_(restaurant)",
+                "Zuma_(genus)",
+                "Yamaha_Zuma",
+                "Zuma,_Sudan",
+                "Zuma_Press",
+                "Zuma_Beach",
+                "Zuma_Township,_Rock_Island_County,_Illinois"
+            ],
+            "scores": [
+                0.34959349593495936,
+                0.24390243902439024,
+                0.0975609756097561,
+                0.07317073170731707,
+                0.06504065040650407,
+                0.06504065040650407,
+                0.056910569105691054,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009
+            ]
+        },
+        {
+            "begin": 741,
+            "end": 751,
+            "text": "World Bank",
+            "concept": 16,
+            "candidates": [
+                "World_Bank",
+                "World_Bank_Group",
+                "International_Bank_for_Reconstruction_and_Development",
+                "Office_of_the_World_Bank,_London",
+                "Bank_for_International_Settlements"
+            ],
+            "scores": [
+                0.9843160910873171,
+                0.014779068013874228,
+                0.0006032272658724174,
+                0.00015080681646810435,
+                0.00015080681646810435
+            ]
+        },
+        {
+            "begin": 820,
+            "end": 830,
+            "text": "World Bank",
+            "concept": 16,
+            "candidates": [
+                "World_Bank",
+                "World_Bank_Group",
+                "International_Bank_for_Reconstruction_and_Development",
+                "Office_of_the_World_Bank,_London",
+                "Bank_for_International_Settlements"
+            ],
+            "scores": [
+                0.9843160910873171,
+                0.014779068013874228,
+                0.0006032272658724174,
+                0.00015080681646810435,
+                0.00015080681646810435
+            ]
+        },
+        {
+            "begin": 847,
+            "end": 874,
+            "text": "International Monetary Fund",
+            "concept": 17,
+            "candidates": [
+                "International_Monetary_Fund"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 969,
+            "end": 980,
+            "text": "$10 billion",
+            "concept": 18
+        },
+        {
+            "begin": 1030,
+            "end": 1042,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 1102,
+            "end": 1110,
+            "text": "Pretoria",
+            "concept": 15,
+            "candidates": [
+                "Pretoria",
+                "Loftus_Versfeld_Stadium",
+                "Anglican_Diocese_of_Pretoria",
+                "Roman_Catholic_Archdiocese_of_Pretoria",
+                "LC_de_Villiers_Oval",
+                "City_of_Tshwane_Metropolitan_Municipality",
+                "Timeline_of_Pretoria",
+                "Pretoria_railway_station",
+                "Pretoria_(ship)",
+                "University_of_Pretoria",
+                "Pretoria,_Georgia",
+                "TS_Pretoria",
+                "Tuks_Stadium",
+                "Apostolic_Vicariate_of_Pretoria",
+                "Pretoria_National_Botanical_Garden",
+                "South_African_Mint"
+            ],
+            "scores": [
+                0.974787989915196,
+                0.005959202383680954,
+                0.0032088012835205133,
+                0.0025212010084804033,
+                0.0018336007334402934,
+                0.0016044006417602567,
+                0.0013752005500802201,
+                0.0013752005500802201,
+                0.0011460004584001834,
+                0.0011460004584001834,
+                0.0006876002750401101,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00045840018336007336,
+                0.00022920009168003668
+            ]
+        },
+        {
+            "begin": 1156,
+            "end": 1160,
+            "text": "Zuma",
+            "concept": 1,
+            "candidates": [
+                "Zuma_(video_game)",
+                "Zuma_(album)",
+                "Jacob_Zuma",
+                "Zuma_(satellite)",
+                "Sibusiso_Zuma",
+                "Zuma_(comics)",
+                "Zuma_(restaurant)",
+                "Zuma_(genus)",
+                "Yamaha_Zuma",
+                "Zuma,_Sudan",
+                "Zuma_Press",
+                "Zuma_Beach",
+                "Zuma_Township,_Rock_Island_County,_Illinois"
+            ],
+            "scores": [
+                0.34959349593495936,
+                0.24390243902439024,
+                0.0975609756097561,
+                0.07317073170731707,
+                0.06504065040650407,
+                0.06504065040650407,
+                0.056910569105691054,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009
+            ]
+        },
+        {
+            "begin": 1215,
+            "end": 1227,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 1250,
+            "end": 1255,
+            "text": "BRICS",
+            "concept": 2,
+            "candidates": [
+                "BRICS",
+                "BRIC",
+                "BRICS_Cable",
+                "6th_BRICS_summit"
+            ],
+            "scores": [
+                0.94,
+                0.04,
+                0.012,
+                0.008
+            ]
+        },
+        {
+            "begin": 1284,
+            "end": 1296,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 1512,
+            "end": 1522,
+            "text": "Presidents",
+            "concept": 20
+        },
+        {
+            "begin": 1523,
+            "end": 1536,
+            "text": "Dilma Rouseff",
+            "concept": 21,
+            "candidates": [
+                "Dilma_Rousseff"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1540,
+            "end": 1546,
+            "text": "Brazil",
+            "concept": 10,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 1548,
+            "end": 1562,
+            "text": "Vladimir Putin",
+            "concept": 22,
+            "candidates": [
+                "Vladimir_Putin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1566,
+            "end": 1572,
+            "text": "Russia",
+            "concept": 11,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1574,
+            "end": 1588,
+            "text": "Prime Minister",
+            "concept": 23
+        },
+        {
+            "begin": 1589,
+            "end": 1603,
+            "text": "Manmohan Singh",
+            "concept": 24,
+            "candidates": [
+                "Manmohan_Singh",
+                "Manmohan_Singh_(film_director)"
+            ],
+            "scores": [
+                0.9671985815602837,
+                0.03280141843971631
+            ]
+        },
+        {
+            "begin": 1607,
+            "end": 1612,
+            "text": "India",
+            "concept": 12,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1625,
+            "end": 1627,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 1632,
+            "end": 1636,
+            "text": "Zuma",
+            "concept": 1,
+            "candidates": [
+                "Zuma_(video_game)",
+                "Zuma_(album)",
+                "Jacob_Zuma",
+                "Zuma_(satellite)",
+                "Sibusiso_Zuma",
+                "Zuma_(comics)",
+                "Zuma_(restaurant)",
+                "Zuma_(genus)",
+                "Yamaha_Zuma",
+                "Zuma,_Sudan",
+                "Zuma_Press",
+                "Zuma_Beach",
+                "Zuma_Township,_Rock_Island_County,_Illinois"
+            ],
+            "scores": [
+                0.34959349593495936,
+                0.24390243902439024,
+                0.0975609756097561,
+                0.07317073170731707,
+                0.06504065040650407,
+                0.06504065040650407,
+                0.056910569105691054,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009,
+                0.008130081300813009
+            ]
+        },
+        {
+            "begin": 1709,
+            "end": 1718,
+            "text": "Wednesday",
+            "concept": 25
+        },
+        {
+            "begin": 1720,
+            "end": 1726,
+            "text": "Brazil",
+            "concept": 10,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 1728,
+            "end": 1734,
+            "text": "Russia",
+            "concept": 11,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1736,
+            "end": 1741,
+            "text": "India",
+            "concept": 12,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1743,
+            "end": 1748,
+            "text": "China",
+            "concept": 26,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1753,
+            "end": 1765,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 1865,
+            "end": 1872,
+            "text": "African",
+            "concept": 27
+        },
+        {
+            "begin": 1888,
+            "end": 1895,
+            "text": "Chinese",
+            "concept": 7
+        },
+        {
+            "begin": 1917,
+            "end": 1929,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 1935,
+            "end": 1943,
+            "text": "Tanzania",
+            "concept": 28,
+            "candidates": [
+                "Tanzania",
+                "Tanzania_national_football_team",
+                "List_of_non-marine_molluscs_of_Tanzania",
+                "Tanzania_national_cricket_team",
+                "Tanzania_Football_Federation",
+                "Tanzania_women's_national_football_team",
+                "Tanzania_People's_Defence_Force",
+                "Rail_transport_in_Tanzania",
+                "Rugby_union_in_Tanzania",
+                "Tanzania_national_under-19_cricket_team",
+                "Miss_Tanzania",
+                "Miss_Universe_Tanzania",
+                "Tanzania_national_rugby_union_team",
+                "LGBT_rights_in_Tanzania",
+                "Transport_in_Tanzania",
+                "Tanzania_Air_Force_Command"
+            ],
+            "scores": [
+                0.9607886250366462,
+                0.009161536206391088,
+                0.005277044854881266,
+                0.0030782761653474055,
+                0.002491937848138376,
+                0.0013192612137203166,
+                0.0008795074758135445,
+                0.0008795074758135445,
+                0.0006596306068601583,
+                0.0005863383172090296,
+                0.0005863383172090296,
+                0.0005863383172090296,
+                0.0005863383172090296,
+                0.0005863383172090296,
+                0.0005863383172090296,
+                0.0005130460275579009
+            ]
+        },
+        {
+            "begin": 1981,
+            "end": 1988,
+            "text": "Beijing",
+            "concept": 29,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 2049,
+            "end": 2051,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 2100,
+            "end": 2113,
+            "text": "Dar es Salaam",
+            "concept": 30,
+            "candidates": [
+                "Dar_es_Salaam",
+                "Julius_Nyerere_International_Airport",
+                "Roman_Catholic_Archdiocese_of_Dar-es-Salaam",
+                "Port_of_Dar_es_Salaam",
+                "Tanzania",
+                "Apostolic_Vicariate_of_Dar-es-Salaam",
+                "Dar_es_Salaam_Stock_Exchange",
+                "Timeline_of_Dar_es_Salaam",
+                "National_Stadium_(Tanzania)",
+                "Anglican_Church_of_Tanzania",
+                "List_of_Australian_High_Commissioners_to_Kenya",
+                "Embassy_of_the_United_States,_Dar_es_Salaam"
+            ],
+            "scores": [
+                0.9837177747625508,
+                0.006331976481230212,
+                0.004522840343735866,
+                0.0018091361374943465,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866,
+                0.0004522840343735866
+            ]
+        },
+        {
+            "begin": 2114,
+            "end": 2121,
+            "text": "Tuesday",
+            "concept": 13
+        },
+        {
+            "begin": 2123,
+            "end": 2125,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 2146,
+            "end": 2157,
+            "text": "$20 billion",
+            "concept": 31
+        },
+        {
+            "begin": 2159,
+            "end": 2176,
+            "text": "15.5 billion euro",
+            "concept": 32
+        },
+        {
+            "begin": 2193,
+            "end": 2200,
+            "text": "African",
+            "concept": 27
+        },
+        {
+            "begin": 2234,
+            "end": 2239,
+            "text": "China",
+            "concept": 26,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2291,
+            "end": 2297,
+            "text": "Africa",
+            "concept": 33,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 2323,
+            "end": 2328,
+            "text": "China",
+            "concept": 26,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2333,
+            "end": 2345,
+            "text": "South Africa",
+            "concept": 19,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 2354,
+            "end": 2365,
+            "text": "$60 billion",
+            "concept": 34
+        },
+        {
+            "begin": 2402,
+            "end": 2407,
+            "text": "China",
+            "concept": 26,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2419,
+            "end": 2425,
+            "text": "Africa",
+            "concept": 33,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 2467,
+            "end": 2479,
+            "text": "$200 billion",
+            "concept": 35
+        },
+        {
+            "begin": 2504,
+            "end": 2514,
+            "text": "$1 billion",
+            "concept": 36
+        },
+        {
+            "begin": 2518,
+            "end": 2522,
+            "text": "2000",
+            "concept": 37
+        },
+        {
+            "begin": 2534,
+            "end": 2546,
+            "text": "BRICS summit",
+            "concept": 6,
+            "candidates": [
+                "9th_BRICS_summit",
+                "6th_BRICS_summit",
+                "3rd_BRICS_summit",
+                "8th_BRICS_summit"
+            ],
+            "scores": [
+                0.25,
+                0.25,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 2548,
+            "end": 2550,
+            "text": "Xi",
+            "concept": 0,
+            "candidates": [
+                "2005_Island_Games",
+                "Kumo_Xi",
+                "Super_Bowl_XI",
+                "Xi_(letter)",
+                "Davao_Region",
+                "1990_Asian_Games",
+                "1999_South_Pacific_Games",
+                "1991_Pan_American_Games",
+                "1978_Commonwealth_Games",
+                "XI_(Metal_Church_album)",
+                "XI_Corps_(Union_Army)",
+                "XI_International_Brigade",
+                "2015_African_Games",
+                "1991_Mediterranean_Games",
+                "Xi_River",
+                "2002_Racquetball_World_Championships"
+            ],
+            "scores": [
+                0.1523809523809524,
+                0.08412698412698413,
+                0.0761904761904762,
+                0.05555555555555555,
+                0.03968253968253968,
+                0.03492063492063492,
+                0.031746031746031744,
+                0.02857142857142857,
+                0.022222222222222223,
+                0.020634920634920634,
+                0.01746031746031746,
+                0.01746031746031746,
+                0.015873015873015872,
+                0.015873015873015872,
+                0.014285714285714285,
+                0.012698412698412698
+            ]
+        },
+        {
+            "begin": 2570,
+            "end": 2587,
+            "text": "Republic of Congo",
+            "concept": 38,
+            "candidates": [
+                "Republic_of_the_Congo",
+                "Democratic_Republic_of_the_Congo",
+                "Republic_of_the_Congo_(L\u00e9opoldville)",
+                "Elections_in_the_Republic_of_the_Congo",
+                "Congo_national_football_team",
+                "Islam_in_the_Republic_of_the_Congo",
+                "Petroleum_industry_in_the_Republic_of_the_Congo",
+                "Air_Force_of_the_Republic_of_Congo",
+                "Congo\u2013Ocean_Railway",
+                "Congo_women's_national_football_team",
+                "Brazzaville"
+            ],
+            "scores": [
+                0.964110929853181,
+                0.011419249592169658,
+                0.008156606851549755,
+                0.0032626427406199023,
+                0.0032626427406199023,
+                0.0016313213703099511,
+                0.0016313213703099511,
+                0.0016313213703099511,
+                0.0016313213703099511,
+                0.0016313213703099511,
+                0.0016313213703099511
+            ]
+        },
+        {
+            "begin": 2589,
+            "end": 2610,
+            "text": "dr/hc (AFP, dpa, PTI)",
+            "concept": 39
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Xi Jinping",
+            "keyword": true,
+            "count": 8,
+            "link": "Xi_Jinping",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Jacob Zuma",
+            "keyword": true,
+            "count": 6,
+            "link": "Jacob_Zuma",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "BRICS",
+            "keyword": true,
+            "count": 1,
+            "link": "BRICS",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Durban",
+            "keyword": true,
+            "count": 2,
+            "link": "Durban",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "S African",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "BRICS summit",
+            "keyword": false,
+            "count": 5,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Chinese",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "South African",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "counterpart",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Brazil",
+            "keyword": false,
+            "count": 3,
+            "link": "Brazil",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Russia",
+            "keyword": false,
+            "count": 3,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "India",
+            "keyword": false,
+            "count": 3,
+            "link": "India",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "capital",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Pretoria",
+            "keyword": false,
+            "count": 2,
+            "link": "Pretoria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "World Bank",
+            "keyword": false,
+            "count": 2,
+            "link": "World_Bank",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "International Monetary Fund",
+            "keyword": false,
+            "count": 1,
+            "link": "International_Monetary_Fund",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$10 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "South Africa",
+            "keyword": false,
+            "count": 6,
+            "link": "South_Africa",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Presidents",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Dilma Rouseff",
+            "keyword": false,
+            "count": 1,
+            "link": "Dilma_Rousseff",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Vladimir Putin",
+            "keyword": false,
+            "count": 1,
+            "link": "Vladimir_Putin",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Manmohan Singh",
+            "keyword": false,
+            "count": 1,
+            "link": "Manmohan_Singh",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "China",
+            "keyword": false,
+            "count": 4,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "African",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Tanzania",
+            "keyword": false,
+            "count": 1,
+            "link": "Tanzania",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Beijing",
+            "keyword": false,
+            "count": 1,
+            "link": "Beijing",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Dar es Salaam",
+            "keyword": false,
+            "count": 1,
+            "link": "Dar_es_Salaam",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "$20 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "15.5 billion euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Africa",
+            "keyword": false,
+            "count": 2,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "$60 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "$200 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "$1 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "2000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Republic of Congo",
+            "keyword": false,
+            "count": 1,
+            "link": "Republic_of_the_Congo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "dr/hc (AFP, dpa, PTI)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 26
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 26
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 26
+        },
+        {
+            "s": 0,
+            "p": "head_of_state-x",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "is_meeting",
+            "o": 1
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "is_meeting",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "event_in0",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "event_in2",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 19
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 21,
+            "p": "agent_of",
+            "o": 10
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 21,
+            "p": "head_of_state",
+            "o": 10
+        },
+        {
+            "s": 22,
+            "p": "agent_of",
+            "o": 11
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 11
+        },
+        {
+            "s": 22,
+            "p": "head_of_state",
+            "o": 11
+        },
+        {
+            "s": 24,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 24,
+            "p": "head_of_gov",
+            "o": 12
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 29,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 30,
+            "p": "in0",
+            "o": 28
+        }
+    ],
+    "frames": [
+        {
+            "type": "meet",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 0
+                },
+                {
+                    "name": "entity",
+                    "value": 1
+                },
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000638",
+        "20000639",
+        "20000640"
+    ]
+}

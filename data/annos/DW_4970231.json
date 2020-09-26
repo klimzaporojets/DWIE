@@ -1,0 +1,2124 @@
+{
+    "id": "DW_4970231",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 190,
+            "end": 204,
+            "text": "Deutsche Welle",
+            "concept": 7,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 285,
+            "end": 291,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 300,
+            "end": 306,
+            "text": "Bochum",
+            "concept": 9,
+            "candidates": [
+                "Bochum",
+                "VfL_Bochum",
+                "Bochum_Hauptbahnhof",
+                "Ruhr_University_Bochum",
+                "Senwabarwana",
+                "Ruhrstadion",
+                "Schauspielhaus_Bochum",
+                "Bochum-Westenfeld"
+            ],
+            "scores": [
+                0.8286423841059603,
+                0.11341059602649006,
+                0.030629139072847682,
+                0.0173841059602649,
+                0.004966887417218543,
+                0.0033112582781456954,
+                0.0008278145695364238,
+                0.0008278145695364238
+            ]
+        },
+        {
+            "begin": 393,
+            "end": 409,
+            "text": "Champions League",
+            "concept": 10,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 423,
+            "end": 432,
+            "text": "World Cup",
+            "concept": 11,
+            "candidates": [
+                "FIFA_World_Cup",
+                "World_Cup_(men's_golf)",
+                "FIS_Alpine_Ski_World_Cup",
+                "FIS_Ski_Jumping_World_Cup",
+                "Biathlon_World_Cup",
+                "Rugby_League_World_Cup",
+                "FIS_Freestyle_Ski_World_Cup",
+                "ISU_Speed_Skating_World_Cup",
+                "2006_IAAF_World_Cup",
+                "Cricket_World_Cup",
+                "FIS_Cross-Country_World_Cup",
+                "1989_IAAF_World_Cup",
+                "2006_FIFA_World_Cup",
+                "2010_FIFA_World_Cup",
+                "2017\u201318_ISU_Speed_Skating_World_Cup",
+                "Rugby_World_Cup"
+            ],
+            "scores": [
+                0.15123783835853963,
+                0.0750409401791735,
+                0.06743088334457181,
+                0.032848473172141415,
+                0.02331181967055197,
+                0.02042192467007032,
+                0.014642134669107023,
+                0.013871496002311917,
+                0.012330218668721703,
+                0.01136692033522782,
+                0.011174260668529043,
+                0.010981601001830267,
+                0.010981601001830267,
+                0.010403622001733937,
+                0.009632983334938831,
+                0.009440323668240054
+            ]
+        },
+        {
+            "begin": 605,
+            "end": 611,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 652,
+            "end": 659,
+            "text": "referee",
+            "concept": 12
+        },
+        {
+            "begin": 660,
+            "end": 673,
+            "text": "Robert Hoyzer",
+            "concept": 1,
+            "candidates": [
+                "Bundesliga_scandal_(2005)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 919,
+            "end": 927,
+            "text": "Internet",
+            "concept": 13,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 977,
+            "end": 983,
+            "text": "Hoyzer",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1058,
+            "end": 1094,
+            "text": "European Sports Security Association",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1099,
+            "end": 1103,
+            "text": "ESSA",
+            "concept": 0,
+            "candidates": [
+                "Essa,_Ontario",
+                "Environmental_Science_Services_Administration",
+                "Yungun",
+                "Muhammad_Essa",
+                "European_Social_Simulation_Association"
+            ],
+            "scores": [
+                0.7804878048780488,
+                0.12195121951219512,
+                0.04878048780487805,
+                0.024390243902439025,
+                0.024390243902439025
+            ]
+        },
+        {
+            "begin": 1185,
+            "end": 1191,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 1231,
+            "end": 1237,
+            "text": "Hoyzer",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1249,
+            "end": 1253,
+            "text": "2005",
+            "concept": 14
+        },
+        {
+            "begin": 1302,
+            "end": 1306,
+            "text": "bwin",
+            "concept": 15,
+            "candidates": [
+                "Bwin",
+                "Bwin.Party_Digital_Entertainment",
+                "GVC_Holdings"
+            ],
+            "scores": [
+                0.7796610169491526,
+                0.2033898305084746,
+                0.01694915254237288
+            ]
+        },
+        {
+            "begin": 1350,
+            "end": 1354,
+            "text": "ESSA",
+            "concept": 0,
+            "candidates": [
+                "Essa,_Ontario",
+                "Environmental_Science_Services_Administration",
+                "Yungun",
+                "Muhammad_Essa",
+                "European_Social_Simulation_Association"
+            ],
+            "scores": [
+                0.7804878048780488,
+                0.12195121951219512,
+                0.04878048780487805,
+                0.024390243902439025,
+                0.024390243902439025
+            ]
+        },
+        {
+            "begin": 1355,
+            "end": 1372,
+            "text": "Secretary General",
+            "concept": 16
+        },
+        {
+            "begin": 1373,
+            "end": 1383,
+            "text": "Khalid Ali",
+            "concept": 3,
+            "candidates": [
+                "Khalid_Ali"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1389,
+            "end": 1403,
+            "text": "Deutsche Welle",
+            "concept": 7,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 1416,
+            "end": 1420,
+            "text": "bwin",
+            "concept": 15,
+            "candidates": [
+                "Bwin",
+                "Bwin.Party_Digital_Entertainment",
+                "GVC_Holdings"
+            ],
+            "scores": [
+                0.7796610169491526,
+                0.2033898305084746,
+                0.01694915254237288
+            ]
+        },
+        {
+            "begin": 1738,
+            "end": 1761,
+            "text": "online betting platform",
+            "concept": 17
+        },
+        {
+            "begin": 1762,
+            "end": 1773,
+            "text": "Interwetten",
+            "concept": 18,
+            "candidates": [
+                "Interwetten",
+                "Interwetten_Racing"
+            ],
+            "scores": [
+                0.7272727272727273,
+                0.2727272727272727
+            ]
+        },
+        {
+            "begin": 1917,
+            "end": 1928,
+            "text": "Interwetten",
+            "concept": 18,
+            "candidates": [
+                "Interwetten",
+                "Interwetten_Racing"
+            ],
+            "scores": [
+                0.7272727272727273,
+                0.2727272727272727
+            ]
+        },
+        {
+            "begin": 1929,
+            "end": 1968,
+            "text": "Sponsoring and Public Relations Manager",
+            "concept": 19
+        },
+        {
+            "begin": 1969,
+            "end": 1983,
+            "text": "Michael Summer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2101,
+            "end": 2104,
+            "text": "Ali",
+            "concept": 3,
+            "candidates": [
+                "Ali",
+                "Ali_(actor)",
+                "Ali_(film)",
+                "Ali_(South_Korean_singer)",
+                "Ali\u02bbi",
+                "Ali_(American_rapper)",
+                "Ali_(name)",
+                "Alianza_Lima",
+                "Muhammad_Ali",
+                "Alianza_F.C.",
+                "Alianza_F.C._(Panama)",
+                "Ali_of_Hejaz",
+                "Ali_Hewson",
+                "ALi_Corporation",
+                "Al\u00ec",
+                "Onela"
+            ],
+            "scores": [
+                0.42714171337069656,
+                0.19855884707766214,
+                0.10568454763811048,
+                0.05404323458767014,
+                0.02321857485988791,
+                0.022017614091273018,
+                0.01521216973578863,
+                0.01401120896717374,
+                0.010408326661329063,
+                0.008406725380304243,
+                0.006405124099279423,
+                0.006405124099279423,
+                0.004803843074459567,
+                0.004803843074459567,
+                0.004403522818254604,
+                0.004403522818254604
+            ]
+        },
+        {
+            "begin": 2109,
+            "end": 2115,
+            "text": "Summer",
+            "concept": 4,
+            "candidates": [
+                "Summer",
+                "Summer_(Calvin_Harris_song)",
+                "Summer_Olympic_Games",
+                "Transfer_window",
+                "Summer_Paralympic_Games",
+                "Summer_Hoyland",
+                "Summer_(2008_film)",
+                "Summer_solstice",
+                "Summer_Swann",
+                "Summer_(War_song)",
+                "The_Four_Seasons_(ballet)",
+                "Summer_XO",
+                "Leto_(film)",
+                "Summer_Roberts",
+                "Summer_(Mogwai_composition)",
+                "Summer_(Jon_Foreman_EP)"
+            ],
+            "scores": [
+                0.6310517529215359,
+                0.06928213689482471,
+                0.0667779632721202,
+                0.03672787979966611,
+                0.03171953255425709,
+                0.012520868113522538,
+                0.012520868113522538,
+                0.01001669449081803,
+                0.007512520868113523,
+                0.007512520868113523,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.004173622704507512,
+                0.004173622704507512,
+                0.004173622704507512
+            ]
+        },
+        {
+            "begin": 2597,
+            "end": 2601,
+            "text": "ESSA",
+            "concept": 0,
+            "candidates": [
+                "Essa,_Ontario",
+                "Environmental_Science_Services_Administration",
+                "Yungun",
+                "Muhammad_Essa",
+                "European_Social_Simulation_Association"
+            ],
+            "scores": [
+                0.7804878048780488,
+                0.12195121951219512,
+                0.04878048780487805,
+                0.024390243902439025,
+                0.024390243902439025
+            ]
+        },
+        {
+            "begin": 2617,
+            "end": 2625,
+            "text": "Internet",
+            "concept": 13,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 3028,
+            "end": 3034,
+            "text": "Summer",
+            "concept": 4,
+            "candidates": [
+                "Summer",
+                "Summer_(Calvin_Harris_song)",
+                "Summer_Olympic_Games",
+                "Transfer_window",
+                "Summer_Paralympic_Games",
+                "Summer_Hoyland",
+                "Summer_(2008_film)",
+                "Summer_solstice",
+                "Summer_Swann",
+                "Summer_(War_song)",
+                "The_Four_Seasons_(ballet)",
+                "Summer_XO",
+                "Leto_(film)",
+                "Summer_Roberts",
+                "Summer_(Mogwai_composition)",
+                "Summer_(Jon_Foreman_EP)"
+            ],
+            "scores": [
+                0.6310517529215359,
+                0.06928213689482471,
+                0.0667779632721202,
+                0.03672787979966611,
+                0.03171953255425709,
+                0.012520868113522538,
+                0.012520868113522538,
+                0.01001669449081803,
+                0.007512520868113523,
+                0.007512520868113523,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.004173622704507512,
+                0.004173622704507512,
+                0.004173622704507512
+            ]
+        },
+        {
+            "begin": 3053,
+            "end": 3061,
+            "text": "Internet",
+            "concept": 13,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 3374,
+            "end": 3377,
+            "text": "Ali",
+            "concept": 3,
+            "candidates": [
+                "Ali",
+                "Ali_(actor)",
+                "Ali_(film)",
+                "Ali_(South_Korean_singer)",
+                "Ali\u02bbi",
+                "Ali_(American_rapper)",
+                "Ali_(name)",
+                "Alianza_Lima",
+                "Muhammad_Ali",
+                "Alianza_F.C.",
+                "Alianza_F.C._(Panama)",
+                "Ali_of_Hejaz",
+                "Ali_Hewson",
+                "ALi_Corporation",
+                "Al\u00ec",
+                "Onela"
+            ],
+            "scores": [
+                0.42714171337069656,
+                0.19855884707766214,
+                0.10568454763811048,
+                0.05404323458767014,
+                0.02321857485988791,
+                0.022017614091273018,
+                0.01521216973578863,
+                0.01401120896717374,
+                0.010408326661329063,
+                0.008406725380304243,
+                0.006405124099279423,
+                0.006405124099279423,
+                0.004803843074459567,
+                0.004803843074459567,
+                0.004403522818254604,
+                0.004403522818254604
+            ]
+        },
+        {
+            "begin": 3446,
+            "end": 3462,
+            "text": "Champions League",
+            "concept": 10,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 3468,
+            "end": 3482,
+            "text": "Premier League",
+            "concept": 20,
+            "candidates": [
+                "Premier_League",
+                "Scottish_Premier_League",
+                "Premier_League_(speedway)",
+                "Russian_Premier_League",
+                "Azerbaijan_Premier_League",
+                "Ukrainian_Premier_League",
+                "2011\u201312_Premier_League",
+                "Kenyan_Premier_League",
+                "2012\u201313_Premier_League",
+                "2013\u201314_Premier_League",
+                "Premier_League_of_Bosnia_and_Herzegovina",
+                "Israeli_Premier_League",
+                "2008\u201309_Premier_League",
+                "2009\u201310_Premier_League",
+                "2014\u201315_Premier_League",
+                "Kazakhstan_Premier_League"
+            ],
+            "scores": [
+                0.7786267370904056,
+                0.015332547048869289,
+                0.011948105225373058,
+                0.009179016460694323,
+                0.00902517819598995,
+                0.006461207117583714,
+                0.004410030254858725,
+                0.004410030254858725,
+                0.004410030254858725,
+                0.0043587508332906,
+                0.0043587508332906,
+                0.003999794882313727,
+                0.003948515460745603,
+                0.003948515460745603,
+                0.00348700066663248,
+                0.0034357212450643556
+            ]
+        },
+        {
+            "begin": 3490,
+            "end": 3500,
+            "text": "Bundesliga",
+            "concept": 21,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 3650,
+            "end": 3658,
+            "text": "50 euros",
+            "concept": 22
+        },
+        {
+            "begin": 3682,
+            "end": 3685,
+            "text": "Ali",
+            "concept": 3,
+            "candidates": [
+                "Ali",
+                "Ali_(actor)",
+                "Ali_(film)",
+                "Ali_(South_Korean_singer)",
+                "Ali\u02bbi",
+                "Ali_(American_rapper)",
+                "Ali_(name)",
+                "Alianza_Lima",
+                "Muhammad_Ali",
+                "Alianza_F.C.",
+                "Alianza_F.C._(Panama)",
+                "Ali_of_Hejaz",
+                "Ali_Hewson",
+                "ALi_Corporation",
+                "Al\u00ec",
+                "Onela"
+            ],
+            "scores": [
+                0.42714171337069656,
+                0.19855884707766214,
+                0.10568454763811048,
+                0.05404323458767014,
+                0.02321857485988791,
+                0.022017614091273018,
+                0.01521216973578863,
+                0.01401120896717374,
+                0.010408326661329063,
+                0.008406725380304243,
+                0.006405124099279423,
+                0.006405124099279423,
+                0.004803843074459567,
+                0.004803843074459567,
+                0.004403522818254604,
+                0.004403522818254604
+            ]
+        },
+        {
+            "begin": 3982,
+            "end": 3988,
+            "text": "Summer",
+            "concept": 4,
+            "candidates": [
+                "Summer",
+                "Summer_(Calvin_Harris_song)",
+                "Summer_Olympic_Games",
+                "Transfer_window",
+                "Summer_Paralympic_Games",
+                "Summer_Hoyland",
+                "Summer_(2008_film)",
+                "Summer_solstice",
+                "Summer_Swann",
+                "Summer_(War_song)",
+                "The_Four_Seasons_(ballet)",
+                "Summer_XO",
+                "Leto_(film)",
+                "Summer_Roberts",
+                "Summer_(Mogwai_composition)",
+                "Summer_(Jon_Foreman_EP)"
+            ],
+            "scores": [
+                0.6310517529215359,
+                0.06928213689482471,
+                0.0667779632721202,
+                0.03672787979966611,
+                0.03171953255425709,
+                0.012520868113522538,
+                0.012520868113522538,
+                0.01001669449081803,
+                0.007512520868113523,
+                0.007512520868113523,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.004173622704507512,
+                0.004173622704507512,
+                0.004173622704507512
+            ]
+        },
+        {
+            "begin": 4174,
+            "end": 4182,
+            "text": "Internet",
+            "concept": 13,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 4334,
+            "end": 4337,
+            "text": "Ali",
+            "concept": 3,
+            "candidates": [
+                "Ali",
+                "Ali_(actor)",
+                "Ali_(film)",
+                "Ali_(South_Korean_singer)",
+                "Ali\u02bbi",
+                "Ali_(American_rapper)",
+                "Ali_(name)",
+                "Alianza_Lima",
+                "Muhammad_Ali",
+                "Alianza_F.C.",
+                "Alianza_F.C._(Panama)",
+                "Ali_of_Hejaz",
+                "Ali_Hewson",
+                "ALi_Corporation",
+                "Al\u00ec",
+                "Onela"
+            ],
+            "scores": [
+                0.42714171337069656,
+                0.19855884707766214,
+                0.10568454763811048,
+                0.05404323458767014,
+                0.02321857485988791,
+                0.022017614091273018,
+                0.01521216973578863,
+                0.01401120896717374,
+                0.010408326661329063,
+                0.008406725380304243,
+                0.006405124099279423,
+                0.006405124099279423,
+                0.004803843074459567,
+                0.004803843074459567,
+                0.004403522818254604,
+                0.004403522818254604
+            ]
+        },
+        {
+            "begin": 4350,
+            "end": 4354,
+            "text": "UEFA",
+            "concept": 2,
+            "candidates": [
+                "UEFA",
+                "UEFA_Europa_League",
+                "2019_FIFA_Women's_World_Cup_qualification_(UEFA)",
+                "UEFA_Women's_Champions_League",
+                "UEFA_Champions_League",
+                "2010_FIFA_World_Cup_qualification_(UEFA)",
+                "UEFA_coefficient",
+                "UEFA_Euro_1996",
+                "1962_FIFA_World_Cup_qualification_(UEFA)",
+                "2011\u201312_UEFA_Europa_League",
+                "2005\u201306_UEFA_Cup",
+                "2018_FIFA_World_Cup_qualification_(UEFA)",
+                "2007\u201308_UEFA_Cup",
+                "2008\u201309_UEFA_Cup",
+                "2014_FIFA_World_Cup_qualification_(UEFA)",
+                "2006_FIFA_World_Cup_qualification_(UEFA)"
+            ],
+            "scores": [
+                0.9804635127370236,
+                0.003830683777054204,
+                0.0021068760773798123,
+                0.000957670944263551,
+                0.0007661367554108408,
+                0.0007661367554108408,
+                0.0007661367554108408,
+                0.0005746025665581306,
+                0.0005746025665581306,
+                0.0003830683777054204,
+                0.0003830683777054204,
+                0.0003830683777054204,
+                0.0003830683777054204,
+                0.0003830683777054204,
+                0.0003830683777054204,
+                0.0003830683777054204
+            ]
+        },
+        {
+            "begin": 4407,
+            "end": 4423,
+            "text": "Champions League",
+            "concept": 10,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 4428,
+            "end": 4441,
+            "text": "Europe League",
+            "concept": 23,
+            "candidates": [
+                "UEFA_Europa_League",
+                "2004\u201305_FIBA_Europe_League",
+                "2003\u201304_FIBA_Europe_League",
+                "Europe_Cup_(badminton)",
+                "NFL_Europe",
+                "FIBA_EuroChallenge",
+                "2012\u201313_UEFA_Europa_League",
+                "2011\u201312_UEFA_Europa_League"
+            ],
+            "scores": [
+                0.3157894736842105,
+                0.21052631578947367,
+                0.15789473684210525,
+                0.10526315789473684,
+                0.05263157894736842,
+                0.05263157894736842,
+                0.05263157894736842,
+                0.05263157894736842
+            ]
+        },
+        {
+            "begin": 4784,
+            "end": 4788,
+            "text": "Asia",
+            "concept": 24,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 4793,
+            "end": 4807,
+            "text": "Eastern Europe",
+            "concept": 25,
+            "candidates": [
+                "Eastern_Europe",
+                "Charouz_Racing_System",
+                "Eastern_Bloc",
+                "Novocherkassk_culture",
+                "Eastern_European_Group",
+                "Red_Bull_BC_One_Eastern_European_Finals",
+                "Eastern_European_cuisine",
+                "Category:Eastern_European_music",
+                "History_of_Europe",
+                "List_of_World_Heritage_sites_in_Eastern_Europe",
+                "Ashkenazi_Jews",
+                "Eastern_Front_(World_War_II)",
+                "Movies_24",
+                "The_Rough_Guide_to_the_Music_of_Eastern_Europe",
+                "Human_trafficking_in_Europe",
+                "Ochipok"
+            ],
+            "scores": [
+                0.9736319818542671,
+                0.005954068613552594,
+                0.005670541536716756,
+                0.0025517436915225406,
+                0.001701162461015027,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0005670541536716756,
+                0.0005670541536716756,
+                0.0005670541536716756,
+                0.0002835270768358378,
+                0.0002835270768358378,
+                0.0002835270768358378,
+                0.0002835270768358378
+            ]
+        },
+        {
+            "begin": 4926,
+            "end": 4933,
+            "text": "British",
+            "concept": 26
+        },
+        {
+            "begin": 4934,
+            "end": 4944,
+            "text": "journalist",
+            "concept": 27
+        },
+        {
+            "begin": 4945,
+            "end": 4956,
+            "text": "Declan Hill",
+            "concept": 5,
+            "candidates": [
+                "Declan_Hill"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4964,
+            "end": 4968,
+            "text": "2008",
+            "concept": 28
+        },
+        {
+            "begin": 4969,
+            "end": 4973,
+            "text": "book",
+            "concept": 29
+        },
+        {
+            "begin": 4975,
+            "end": 4982,
+            "text": "The Fix",
+            "concept": 30,
+            "candidates": [
+                "The_Fix_(musical)",
+                "The_Fix_(album)",
+                "The_Fix_(Heroes)",
+                "The_Fix_(1997_film)",
+                "The_Fix_(2019_TV_series)",
+                "The_Fix_(song)",
+                "The_Fix_(band)",
+                "The_Fix_(2008_TV_series)",
+                "Chris_Cillizza",
+                "The_Fix_(House)",
+                "Jordan_Knight",
+                "Nine.com.au",
+                "The_Fix_(Person_of_Interest)",
+                "American_Broadcasting_Company"
+            ],
+            "scores": [
+                0.23404255319148937,
+                0.16312056737588654,
+                0.1276595744680851,
+                0.11347517730496454,
+                0.09929078014184398,
+                0.06382978723404255,
+                0.05673758865248227,
+                0.0425531914893617,
+                0.03546099290780142,
+                0.028368794326241134,
+                0.014184397163120567,
+                0.0070921985815602835,
+                0.0070921985815602835,
+                0.0070921985815602835
+            ]
+        },
+        {
+            "begin": 5059,
+            "end": 5063,
+            "text": "Asia",
+            "concept": 24,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 5111,
+            "end": 5120,
+            "text": "Las Vegas",
+            "concept": 31,
+            "candidates": [
+                "Las_Vegas",
+                "Las_Vegas_Valley",
+                "Las_Vegas_(TV_series)",
+                "Las_Vegas_Strip",
+                "Las_Vegas,_New_Mexico",
+                "Las_Vegas_Motor_Speedway",
+                "Las_Vegas_Wranglers",
+                "Alan_King_Tennis_Classic",
+                "McCarran_International_Airport",
+                "2018_Las_Vegas_Aces_season",
+                "Las_Vegas_51s",
+                "Las_Vegas_(Modern_Family)",
+                "Paradise,_Nevada",
+                "MGM_Grand_Garden_Arena",
+                "Thomas_&_Mack_Center",
+                "Las_Vegas_Locomotives"
+            ],
+            "scores": [
+                0.5660622647964421,
+                0.2845022237427301,
+                0.04666438590489223,
+                0.037564146424905916,
+                0.009237085186452275,
+                0.007594936708860759,
+                0.004447485460143688,
+                0.00376325692781389,
+                0.0036264112213479304,
+                0.0027369141293191925,
+                0.0022579541566883337,
+                0.0015737256243585358,
+                0.0013684570646595963,
+                0.0013000342114266165,
+                0.0013000342114266165,
+                0.0013000342114266165
+            ]
+        },
+        {
+            "begin": 5129,
+            "end": 5137,
+            "text": "European",
+            "concept": 32
+        },
+        {
+            "begin": 5160,
+            "end": 5164,
+            "text": "Hill",
+            "concept": 5,
+            "candidates": [
+                "Hill",
+                "Hill_County,_Texas",
+                "Rich_Hill_(pitcher)",
+                "Hill_County,_Montana",
+                "George_Hill_(basketball)",
+                "Embassy_Hill",
+                "Gordon_Hill_(footballer)",
+                "Hill,_New_Hampshire",
+                "Shawn_Hill",
+                "Clint_Hill_(footballer)",
+                "Ken_Hill_(baseball)",
+                "Jordan_Hill_(basketball)",
+                "Hill_Zaini",
+                "Jimmy_Hill_(Scottish_footballer)",
+                "Jimmy_Hill_(footballer,_born_1935)",
+                "Danny_Hill_(rugby_league)"
+            ],
+            "scores": [
+                0.3693950177935943,
+                0.07758007117437722,
+                0.042704626334519574,
+                0.04128113879003559,
+                0.040569395017793594,
+                0.03202846975088968,
+                0.030604982206405694,
+                0.022775800711743774,
+                0.019217081850533807,
+                0.01708185053380783,
+                0.014234875444839857,
+                0.012811387900355872,
+                0.008540925266903915,
+                0.008540925266903915,
+                0.007829181494661922,
+                0.006405693950177936
+            ]
+        },
+        {
+            "begin": 5170,
+            "end": 5188,
+            "text": "The New York Times",
+            "concept": 33,
+            "candidates": [
+                "The_New_York_Times",
+                "The_New_York_Times_Best_Seller_list",
+                "List_of_The_New_York_Times_Manga_Best_Sellers",
+                "The_New_York_Times_Magazine",
+                "The_New_York_Times_International_Edition",
+                "The_New_York_Times_Company",
+                "Newspaper",
+                "The_New_York_Times_crossword_puzzle",
+                "Nytimes.com"
+            ],
+            "scores": [
+                0.9994369520336757,
+                0.00021449446336166446,
+                0.00010724723168083223,
+                8.043542376062418e-05,
+                5.3623615840416116e-05,
+                2.6811807920208058e-05,
+                2.6811807920208058e-05,
+                2.6811807920208058e-05,
+                2.6811807920208058e-05
+            ]
+        },
+        {
+            "begin": 5649,
+            "end": 5655,
+            "text": "Summer",
+            "concept": 4,
+            "candidates": [
+                "Summer",
+                "Summer_(Calvin_Harris_song)",
+                "Summer_Olympic_Games",
+                "Transfer_window",
+                "Summer_Paralympic_Games",
+                "Summer_Hoyland",
+                "Summer_(2008_film)",
+                "Summer_solstice",
+                "Summer_Swann",
+                "Summer_(War_song)",
+                "The_Four_Seasons_(ballet)",
+                "Summer_XO",
+                "Leto_(film)",
+                "Summer_Roberts",
+                "Summer_(Mogwai_composition)",
+                "Summer_(Jon_Foreman_EP)"
+            ],
+            "scores": [
+                0.6310517529215359,
+                0.06928213689482471,
+                0.0667779632721202,
+                0.03672787979966611,
+                0.03171953255425709,
+                0.012520868113522538,
+                0.012520868113522538,
+                0.01001669449081803,
+                0.007512520868113523,
+                0.007512520868113523,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.005008347245409015,
+                0.004173622704507512,
+                0.004173622704507512,
+                0.004173622704507512
+            ]
+        },
+        {
+            "begin": 5686,
+            "end": 5692,
+            "text": "Hoyzer",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5743,
+            "end": 5765,
+            "text": "German Football League",
+            "concept": 6,
+            "candidates": [
+                "German_Football_League",
+                "Deutsche_Fu\u00dfball_Liga",
+                "German_football_league_system",
+                "Bundesliga"
+            ],
+            "scores": [
+                0.9230769230769231,
+                0.05128205128205128,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 5771,
+            "end": 5774,
+            "text": "DFL",
+            "concept": 6,
+            "candidates": [
+                "Minnesota_Democratic\u2013Farmer\u2013Labor_Party",
+                "Deutsche_Fu\u00dfball_Liga",
+                "Double_Flower_FA",
+                "Cosworth_DFL",
+                "Cosworth_DFV",
+                "Cinelli\u2013Down_Under",
+                "DFL_(disambiguation)",
+                "Dead_Fucking_Last"
+            ],
+            "scores": [
+                0.955,
+                0.02666666666666667,
+                0.008333333333333333,
+                0.0033333333333333335,
+                0.0016666666666666668,
+                0.0016666666666666668,
+                0.0016666666666666668,
+                0.0016666666666666668
+            ]
+        },
+        {
+            "begin": 5985,
+            "end": 5991,
+            "text": "Bochum",
+            "concept": 9,
+            "candidates": [
+                "Bochum",
+                "VfL_Bochum",
+                "Bochum_Hauptbahnhof",
+                "Ruhr_University_Bochum",
+                "Senwabarwana",
+                "Ruhrstadion",
+                "Schauspielhaus_Bochum",
+                "Bochum-Westenfeld"
+            ],
+            "scores": [
+                0.8286423841059603,
+                0.11341059602649006,
+                0.030629139072847682,
+                0.0173841059602649,
+                0.004966887417218543,
+                0.0033112582781456954,
+                0.0008278145695364238,
+                0.0008278145695364238
+            ]
+        },
+        {
+            "begin": 6215,
+            "end": 6257,
+            "text": "Author: Jefferson Chase Editor: Kyle James",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Sports Security Association",
+            "keyword": true,
+            "count": 4,
+            "link": "wikidata:Q3734921",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::unknown",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Robert Hoyzer",
+            "keyword": true,
+            "count": 4,
+            "link": "wikidata:Q84318",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "slot::keyword",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_referee"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "UEFA",
+            "keyword": true,
+            "count": 1,
+            "link": "UEFA",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Khalid Ali",
+            "keyword": false,
+            "count": 5,
+            "link": "Khalid_Ali",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Michael Summer",
+            "keyword": false,
+            "count": 5,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Declan Hill",
+            "keyword": false,
+            "count": 4,
+            "link": "Declan_Hill",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "topic::media",
+                "type::artist",
+                "type::entity",
+                "type::journalist",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German Football League",
+            "keyword": false,
+            "count": 2,
+            "link": "German_Football_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Deutsche Welle",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Bochum",
+            "keyword": false,
+            "count": 2,
+            "link": "Bochum",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Champions League",
+            "keyword": false,
+            "count": 3,
+            "link": "UEFA_Champions_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001110",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "World Cup",
+            "keyword": false,
+            "count": 1,
+            "link": "FIFA_World_Cup",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001122",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "referee",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Internet",
+            "keyword": false,
+            "count": 4,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "2005",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "bwin",
+            "keyword": false,
+            "count": 2,
+            "link": "Bwin",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000332",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Secretary General",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "online betting platform",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Interwetten",
+            "keyword": false,
+            "count": 2,
+            "link": "Interwetten",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000332",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Sponsoring and Public Relations Manager",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Premier League",
+            "keyword": false,
+            "count": 1,
+            "link": "Premier_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Bundesliga",
+            "keyword": false,
+            "count": 1,
+            "link": "Bundesliga",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "50 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Europe League",
+            "keyword": false,
+            "count": 1,
+            "link": "UEFA_Europa_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001110",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Asia",
+            "keyword": false,
+            "count": 2,
+            "link": "Asia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Eastern Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Eastern_Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "journalist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "book",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "The Fix",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::book_title",
+                "type::entity",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Las Vegas",
+            "keyword": false,
+            "count": 1,
+            "link": "Las_Vegas",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "The New York Times",
+            "keyword": false,
+            "count": 1,
+            "link": "The_New_York_Times",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Author: Jefferson Chase Editor: Kyle James",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 36,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 37,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 36
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 26
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 35
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 7,
+            "p": "based_in0",
+            "o": 35
+        },
+        {
+            "s": 7,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 35
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 35
+        },
+        {
+            "s": 9,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 21,
+            "p": "event_in0",
+            "o": 35
+        },
+        {
+            "s": 26,
+            "p": "gpe0",
+            "o": 36
+        },
+        {
+            "s": 30,
+            "p": "created_by",
+            "o": 5
+        },
+        {
+            "s": 31,
+            "p": "in0",
+            "o": 37
+        },
+        {
+            "s": 33,
+            "p": "based_in0",
+            "o": 37
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20001065"
+    ]
+}

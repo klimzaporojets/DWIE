@@ -1,0 +1,1404 @@
+{
+    "id": "DW_17297528",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "France",
+            "concept": 3,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 9,
+            "end": 15,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 46,
+            "end": 51,
+            "text": "Syria",
+            "concept": 2,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 63,
+            "end": 69,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 70,
+            "end": 86,
+            "text": "Foreign Minister",
+            "concept": 5
+        },
+        {
+            "begin": 87,
+            "end": 101,
+            "text": "Laurent Fabius",
+            "concept": 1,
+            "candidates": [
+                "Laurent_Fabius"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 180,
+            "end": 185,
+            "text": "Syria",
+            "concept": 2,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 200,
+            "end": 206,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 285,
+            "end": 291,
+            "text": "French",
+            "concept": 4
+        },
+        {
+            "begin": 292,
+            "end": 308,
+            "text": "Foreign Minister",
+            "concept": 5
+        },
+        {
+            "begin": 326,
+            "end": 332,
+            "text": "France",
+            "concept": 3,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 382,
+            "end": 388,
+            "text": "Geneva",
+            "concept": 6,
+            "candidates": [
+                "Geneva",
+                "Canton_of_Geneva",
+                "Geneva,_New_York",
+                "Geneva,_Illinois",
+                "Geneva_County,_Alabama",
+                "University_of_Geneva",
+                "Geneva,_Ohio",
+                "Geneva_Open",
+                "Geneva_Open_Challenger",
+                "Geneva,_Alabama",
+                "Gen\u00e8ve-Cornavin_railway_station",
+                "Geneva_Airport",
+                "Geneva,_Florida",
+                "Geneva_College",
+                "Geneva_(band)",
+                "Geneva,_Nebraska"
+            ],
+            "scores": [
+                0.8718764623303696,
+                0.02236780533458119,
+                0.019560131024801124,
+                0.009733270940570894,
+                0.007393542349087506,
+                0.007206364061768835,
+                0.005708937763219467,
+                0.005147402901263453,
+                0.004211511464670099,
+                0.0039307440336920916,
+                0.003743565746373421,
+                0.0033692091717360787,
+                0.0022461394478240524,
+                0.0019653720168460458,
+                0.0019653720168460458,
+                0.0016846045858680393
+            ]
+        },
+        {
+            "begin": 392,
+            "end": 399,
+            "text": "January",
+            "concept": 7
+        },
+        {
+            "begin": 493,
+            "end": 498,
+            "text": "Syria",
+            "concept": 2,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 539,
+            "end": 545,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 566,
+            "end": 589,
+            "text": "World Policy Conference",
+            "concept": 8,
+            "candidates": [
+                "World_Policy_Conference"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 638,
+            "end": 644,
+            "text": "Monaco",
+            "concept": 9,
+            "candidates": [
+                "Monaco",
+                "AS_Monaco_FC",
+                "Dodge_Monaco",
+                "Circuit_de_Monaco",
+                "AS_Monaco_Basket",
+                "Herculis",
+                "A1_Team_Monaco",
+                "Monaco_Grand_Prix",
+                "2011_Monaco_Grand_Prix",
+                "Monaco_(band)",
+                "Monaco_in_the_Eurovision_Song_Contest",
+                "2010_Monaco_Grand_Prix",
+                "2012_Monaco_Grand_Prix",
+                "Stade_Louis_II",
+                "2013_Monaco_Grand_Prix",
+                "2017_Monaco_Grand_Prix"
+            ],
+            "scores": [
+                0.5880263157894737,
+                0.21105263157894738,
+                0.026842105263157896,
+                0.023421052631578947,
+                0.014342105263157894,
+                0.0060526315789473685,
+                0.005657894736842106,
+                0.0043421052631578945,
+                0.003947368421052632,
+                0.003947368421052632,
+                0.0036842105263157894,
+                0.0030263157894736843,
+                0.002631578947368421,
+                0.0025,
+                0.002368421052631579,
+                0.0022368421052631577
+            ]
+        },
+        {
+            "begin": 753,
+            "end": 763,
+            "text": "January 22",
+            "concept": 10
+        },
+        {
+            "begin": 771,
+            "end": 776,
+            "text": "Swiss",
+            "concept": 11
+        },
+        {
+            "begin": 878,
+            "end": 883,
+            "text": "Syria",
+            "concept": 2,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 904,
+            "end": 910,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 980,
+            "end": 988,
+            "text": "European",
+            "concept": 12
+        },
+        {
+            "begin": 1091,
+            "end": 1097,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 1258,
+            "end": 1264,
+            "text": "Syrian",
+            "concept": 13
+        },
+        {
+            "begin": 1330,
+            "end": 1338,
+            "text": "Geneva-2",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1360,
+            "end": 1366,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 1471,
+            "end": 1477,
+            "text": "Syrian",
+            "concept": 13
+        },
+        {
+            "begin": 1478,
+            "end": 1487,
+            "text": "President",
+            "concept": 15
+        },
+        {
+            "begin": 1488,
+            "end": 1503,
+            "text": "Bashar al-Assad",
+            "concept": 0,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Al-Assad_family"
+            ],
+            "scores": [
+                0.9990892531876139,
+                0.0009107468123861566
+            ]
+        },
+        {
+            "begin": 1515,
+            "end": 1530,
+            "text": "Bashar al-Assad",
+            "concept": 0,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Al-Assad_family"
+            ],
+            "scores": [
+                0.9990892531876139,
+                0.0009107468123861566
+            ]
+        },
+        {
+            "begin": 1568,
+            "end": 1574,
+            "text": "Geneva",
+            "concept": 6,
+            "candidates": [
+                "Geneva",
+                "Canton_of_Geneva",
+                "Geneva,_New_York",
+                "Geneva,_Illinois",
+                "Geneva_County,_Alabama",
+                "University_of_Geneva",
+                "Geneva,_Ohio",
+                "Geneva_Open",
+                "Geneva_Open_Challenger",
+                "Geneva,_Alabama",
+                "Gen\u00e8ve-Cornavin_railway_station",
+                "Geneva_Airport",
+                "Geneva,_Florida",
+                "Geneva_College",
+                "Geneva_(band)",
+                "Geneva,_Nebraska"
+            ],
+            "scores": [
+                0.8718764623303696,
+                0.02236780533458119,
+                0.019560131024801124,
+                0.009733270940570894,
+                0.007393542349087506,
+                0.007206364061768835,
+                0.005708937763219467,
+                0.005147402901263453,
+                0.004211511464670099,
+                0.0039307440336920916,
+                0.003743565746373421,
+                0.0033692091717360787,
+                0.0022461394478240524,
+                0.0019653720168460458,
+                0.0019653720168460458,
+                0.0016846045858680393
+            ]
+        },
+        {
+            "begin": 1582,
+            "end": 1588,
+            "text": "Fabius",
+            "concept": 1,
+            "candidates": [
+                "Fabius,_New_York",
+                "Fabia_(gens)",
+                "Fabius_(horse)",
+                "Fabius_(village),_New_York",
+                "Laurent_Fabius",
+                "Quintus_Fabius_Maximus_Verrucosus",
+                "Fabius_Township,_Schuyler_County,_Missouri",
+                "Fabius_Township,_Marion_County,_Missouri",
+                "Fabius_Township,_Davis_County,_Iowa",
+                "Saint_Fabius",
+                "Fabius_Township,_Michigan",
+                "Fabius_Township,_Knox_County,_Missouri"
+            ],
+            "scores": [
+                0.30927835051546393,
+                0.2268041237113402,
+                0.16494845360824742,
+                0.08247422680412371,
+                0.07216494845360824,
+                0.05154639175257732,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.020618556701030927,
+                0.010309278350515464,
+                0.010309278350515464,
+                0.010309278350515464
+            ]
+        },
+        {
+            "begin": 1600,
+            "end": 1605,
+            "text": "Assad",
+            "concept": 0,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 1750,
+            "end": 1758,
+            "text": "al-Assad",
+            "concept": 0,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad"
+            ],
+            "scores": [
+                0.3888888888888889,
+                0.3888888888888889,
+                0.2222222222222222
+            ]
+        },
+        {
+            "begin": 1833,
+            "end": 1841,
+            "text": "Islamist",
+            "concept": 16
+        },
+        {
+            "begin": 1880,
+            "end": 1888,
+            "text": "Thursday",
+            "concept": 17
+        },
+        {
+            "begin": 1898,
+            "end": 1900,
+            "text": "US",
+            "concept": 18,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1905,
+            "end": 1912,
+            "text": "Britain",
+            "concept": 19,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 1976,
+            "end": 1992,
+            "text": "Free Syrian Army",
+            "concept": 20,
+            "candidates": [
+                "Free_Syrian_Army",
+                "Turkish-backed_Free_Syrian_Army"
+            ],
+            "scores": [
+                0.9923371647509579,
+                0.007662835249042145
+            ]
+        },
+        {
+            "begin": 2039,
+            "end": 2052,
+            "text": "Islamic Front",
+            "concept": 21,
+            "candidates": [
+                "Islamic_Front_(Syria)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2066,
+            "end": 2073,
+            "text": "Turkish",
+            "concept": 22
+        },
+        {
+            "begin": 2138,
+            "end": 2143,
+            "text": "Syria",
+            "concept": 2,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2230,
+            "end": 2250,
+            "text": "rc/lw (AFP, Reuters)",
+            "concept": 23
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Bashar al-Assad",
+            "keyword": false,
+            "count": 4,
+            "link": "Bashar_al-Assad",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Laurent Fabius",
+            "keyword": true,
+            "count": 8,
+            "link": "Laurent_Fabius",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Syria",
+            "keyword": true,
+            "count": 5,
+            "link": "Syria",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "France",
+            "keyword": false,
+            "count": 2,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "French",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Geneva",
+            "keyword": false,
+            "count": 2,
+            "link": "Geneva",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "January",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "World Policy Conference",
+            "keyword": false,
+            "count": 1,
+            "link": "World_Policy_Conference",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Monaco",
+            "keyword": false,
+            "count": 1,
+            "link": "Monaco",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "January 22",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Swiss",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Geneva-2",
+            "keyword": false,
+            "count": 1,
+            "link": "Geneva_II_Conference_on_Syria",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Britain",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Free Syrian Army",
+            "keyword": false,
+            "count": 1,
+            "link": "Free_Syrian_Army",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Islamic Front",
+            "keyword": false,
+            "count": 1,
+            "link": "Islamic_Front_(Syria)",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Turkish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "rc/lw (AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 25,
+            "keyword": false,
+            "count": 0,
+            "link": "Turkey",
+            "tags": []
+        },
+        {
+            "concept": 26,
+            "keyword": false,
+            "count": 0,
+            "link": "Switzerland",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "head_of_state-x",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "minister_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "minister_of-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 11
+        },
+        {
+            "s": 8,
+            "p": "event_in0",
+            "o": 9
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 22,
+            "p": "gpe0",
+            "o": 25
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "16000000",
+        "20000073",
+        "20000076"
+    ]
+}

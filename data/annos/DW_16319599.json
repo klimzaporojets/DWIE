@@ -1,0 +1,930 @@
+{
+    "id": "DW_16319599",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 8,
+            "text": "November",
+            "concept": 5
+        },
+        {
+            "begin": 24,
+            "end": 31,
+            "text": "Iberian",
+            "concept": 6
+        },
+        {
+            "begin": 54,
+            "end": 61,
+            "text": "Spanish",
+            "concept": 7
+        },
+        {
+            "begin": 115,
+            "end": 121,
+            "text": "Madrid",
+            "concept": 8,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 207,
+            "end": 215,
+            "text": "Portugal",
+            "concept": 2,
+            "candidates": [
+                "Portugal",
+                "Portugal_national_football_team",
+                "Kingdom_of_Portugal",
+                "Portuguese_Football_Federation",
+                "Portugal_national_rugby_union_team",
+                "A1_Team_Portugal",
+                "Portugal_national_under-21_football_team",
+                "Portugal_national_beach_soccer_team",
+                "Estado_Novo_(Portugal)",
+                "Same-sex_marriage_in_Portugal",
+                "Portugal_women's_national_football_team",
+                "Portugal_national_under-20_football_team",
+                "Portugal_national_under-19_football_team",
+                "Portuguese_Empire",
+                "Portugal_in_the_Eurovision_Song_Contest",
+                "Portuguese_wine"
+            ],
+            "scores": [
+                0.7819838898763378,
+                0.07306281435540597,
+                0.022047422758385962,
+                0.009076126006882729,
+                0.007714707105850319,
+                0.006315471013122565,
+                0.005407858412434292,
+                0.005256589645652914,
+                0.004954052112090156,
+                0.004727148961918088,
+                0.004159891086487917,
+                0.003063192527322921,
+                0.003063192527322921,
+                0.0027228378020648187,
+                0.0021555799266346483,
+                0.0019664939681579246
+            ]
+        },
+        {
+            "begin": 247,
+            "end": 254,
+            "text": "Iberian",
+            "concept": 6
+        },
+        {
+            "begin": 273,
+            "end": 280,
+            "text": "Spanish",
+            "concept": 7
+        },
+        {
+            "begin": 281,
+            "end": 306,
+            "text": "trade union confederation",
+            "concept": 9
+        },
+        {
+            "begin": 307,
+            "end": 311,
+            "text": "CCOO",
+            "concept": 0,
+            "candidates": [
+                "Workers'_Commissions"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 319,
+            "end": 325,
+            "text": "Friday",
+            "concept": 10
+        },
+        {
+            "begin": 351,
+            "end": 362,
+            "text": "November 14",
+            "concept": 11
+        },
+        {
+            "begin": 395,
+            "end": 409,
+            "text": "Prime Minister",
+            "concept": 12
+        },
+        {
+            "begin": 410,
+            "end": 423,
+            "text": "Mariano Rajoy",
+            "concept": 3,
+            "candidates": [
+                "Mariano_Rajoy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 521,
+            "end": 529,
+            "text": "Portugal",
+            "concept": 2,
+            "candidates": [
+                "Portugal",
+                "Portugal_national_football_team",
+                "Kingdom_of_Portugal",
+                "Portuguese_Football_Federation",
+                "Portugal_national_rugby_union_team",
+                "A1_Team_Portugal",
+                "Portugal_national_under-21_football_team",
+                "Portugal_national_beach_soccer_team",
+                "Estado_Novo_(Portugal)",
+                "Same-sex_marriage_in_Portugal",
+                "Portugal_women's_national_football_team",
+                "Portugal_national_under-20_football_team",
+                "Portugal_national_under-19_football_team",
+                "Portuguese_Empire",
+                "Portugal_in_the_Eurovision_Song_Contest",
+                "Portuguese_wine"
+            ],
+            "scores": [
+                0.7819838898763378,
+                0.07306281435540597,
+                0.022047422758385962,
+                0.009076126006882729,
+                0.007714707105850319,
+                0.006315471013122565,
+                0.005407858412434292,
+                0.005256589645652914,
+                0.004954052112090156,
+                0.004727148961918088,
+                0.004159891086487917,
+                0.003063192527322921,
+                0.003063192527322921,
+                0.0027228378020648187,
+                0.0021555799266346483,
+                0.0019664939681579246
+            ]
+        },
+        {
+            "begin": 580,
+            "end": 587,
+            "text": "Iberian",
+            "concept": 6
+        },
+        {
+            "begin": 656,
+            "end": 664,
+            "text": "European",
+            "concept": 13
+        },
+        {
+            "begin": 702,
+            "end": 706,
+            "text": "CCOO",
+            "concept": 0,
+            "candidates": [
+                "Workers'_Commissions"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 707,
+            "end": 721,
+            "text": "representative",
+            "concept": 14
+        },
+        {
+            "begin": 722,
+            "end": 738,
+            "text": "Fernando Leczano",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 757,
+            "end": 763,
+            "text": "Madrid",
+            "concept": 8,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 765,
+            "end": 772,
+            "text": "Leczano",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 791,
+            "end": 793,
+            "text": "EU",
+            "concept": 15,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 889,
+            "end": 897,
+            "text": "November",
+            "concept": 5
+        },
+        {
+            "begin": 1043,
+            "end": 1050,
+            "text": "Spanish",
+            "concept": 7
+        },
+        {
+            "begin": 1051,
+            "end": 1065,
+            "text": "Prime Minister",
+            "concept": 12
+        },
+        {
+            "begin": 1066,
+            "end": 1079,
+            "text": "Mariano Rajoy",
+            "concept": 3,
+            "candidates": [
+                "Mariano_Rajoy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1231,
+            "end": 1236,
+            "text": "Rajoy",
+            "concept": 3,
+            "candidates": [
+                "Mariano_Rajoy",
+                "Spain"
+            ],
+            "scores": [
+                0.9333333333333333,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 1402,
+            "end": 1407,
+            "text": "Rajoy",
+            "concept": 3,
+            "candidates": [
+                "Mariano_Rajoy",
+                "Spain"
+            ],
+            "scores": [
+                0.9333333333333333,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 1436,
+            "end": 1438,
+            "text": "EU",
+            "concept": 15,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1456,
+            "end": 1464,
+            "text": "Brussels",
+            "concept": 16,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 1466,
+            "end": 1472,
+            "text": "Madrid",
+            "concept": 8,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 1628,
+            "end": 1632,
+            "text": "2012",
+            "concept": 17
+        },
+        {
+            "begin": 1634,
+            "end": 1639,
+            "text": "Spain",
+            "concept": 1,
+            "candidates": [
+                "Spain",
+                "Spain_national_football_team",
+                "Royal_Spanish_Football_Federation",
+                "Liga_ACB",
+                "Spanish_Empire",
+                "Spain_men's_national_basketball_team",
+                "Spain_national_rugby_union_team",
+                "Restoration_(Spain)",
+                "Habsburg_Spain",
+                "Francoist_Spain",
+                "Royal_Spanish_Cycling_Federation",
+                "Spain_women's_national_football_team",
+                "Same-sex_marriage_in_Spain",
+                "Spain_national_under-21_football_team",
+                "Spanish_poetry",
+                "Spain_national_beach_soccer_team"
+            ],
+            "scores": [
+                0.8500364403231558,
+                0.03932453596737428,
+                0.005504814774612725,
+                0.005349749569694057,
+                0.003969669245917909,
+                0.003582006233621238,
+                0.002651615004109228,
+                0.0026361084836173613,
+                0.00254306936066616,
+                0.0025120563196824263,
+                0.0021709128688613562,
+                0.002108886786893889,
+                0.002015847663942688,
+                0.0019383150614833537,
+                0.0019228085409914869,
+                0.0018762889795158864
+            ]
+        },
+        {
+            "begin": 1850,
+            "end": 1858,
+            "text": "European",
+            "concept": 13
+        },
+        {
+            "begin": 1868,
+            "end": 1884,
+            "text": "hg/mkg (dpa, AP)",
+            "concept": 18
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "CCOO",
+            "keyword": true,
+            "count": 2,
+            "link": "Workers'_Commissions",
+            "tags": [
+                "slot::keyword",
+                "topic::labour",
+                "type::entity",
+                "type::organization",
+                "type::union"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Spain",
+            "keyword": true,
+            "count": 1,
+            "link": "Spain",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Portugal",
+            "keyword": true,
+            "count": 2,
+            "link": "Portugal",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Mariano Rajoy",
+            "keyword": true,
+            "count": 4,
+            "link": "Mariano_Rajoy",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Fernando Leczano",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::labour",
+                "type::entity",
+                "type::person",
+                "type::union_member"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "November",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Iberian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Spanish",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Madrid",
+            "keyword": false,
+            "count": 3,
+            "link": "Madrid",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "trade union confederation",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "November 14",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "European",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "representative",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "EU",
+            "keyword": false,
+            "count": 2,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 1,
+            "link": "Brussels",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "2012",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "hg/mkg (dpa, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 19
+        }
+    ],
+    "frames": [
+        {
+            "type": "demonstrate",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 11
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "09000000",
+        "20000524",
+        "20000529",
+        "20000530"
+    ]
+}

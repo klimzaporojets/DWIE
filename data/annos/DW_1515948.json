@@ -1,0 +1,1324 @@
+{
+    "id": "DW_1515948",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 10,
+            "text": "RFID Chips",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 36,
+            "end": 66,
+            "text": "Radio Frequency Identification",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 206,
+            "end": 210,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 296,
+            "text": "CeBIT",
+            "concept": 1,
+            "candidates": [
+                "CEBIT"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 444,
+            "end": 447,
+            "text": "SAP",
+            "concept": 2,
+            "candidates": [
+                "SAP_SE",
+                "Sap",
+                "South_African_Party",
+                "SAP_ERP",
+                "Second_audio_program",
+                "Sap_(EP)",
+                "Sap_(producer)",
+                "Special_Assistance_Plan",
+                "SAP_F.C.",
+                "Deportivo_Saprissa",
+                "Swedish_Social_Democratic_Party",
+                "Saipa_F.C.",
+                "Samta_Party",
+                "Sapping",
+                "Samajwadi_Party",
+                "S\u00e1p"
+            ],
+            "scores": [
+                0.35835913312693496,
+                0.2515479876160991,
+                0.07198142414860681,
+                0.039473684210526314,
+                0.03637770897832817,
+                0.033281733746130034,
+                0.03018575851393189,
+                0.02321981424148607,
+                0.02244582043343653,
+                0.018575851393188854,
+                0.016253869969040248,
+                0.015479876160990712,
+                0.010835913312693499,
+                0.010835913312693499,
+                0.009287925696594427,
+                0.005417956656346749
+            ]
+        },
+        {
+            "begin": 448,
+            "end": 453,
+            "text": "Intel",
+            "concept": 3,
+            "candidates": [
+                "Intel",
+                "Apple\u2013Intel_architecture",
+                "Intelligence_assessment",
+                "X86",
+                "Military_intelligence",
+                "List_of_Intel_microprocessors",
+                "Intel_Ireland",
+                "Intel_Atom",
+                "Brian_Krzanich",
+                "Human_intelligence_(intelligence_gathering)",
+                "List_of_Intel_graphics_processing_units",
+                "Intel_assembly",
+                "Intel_Core",
+                "Intel_C_Compiler",
+                "Intel_i860",
+                "Robert_Noyce"
+            ],
+            "scores": [
+                0.9879901960784314,
+                0.0029411764705882353,
+                0.0024509803921568627,
+                0.00196078431372549,
+                0.0012254901960784314,
+                0.0007352941176470588,
+                0.0004901960784313725,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627
+            ]
+        },
+        {
+            "begin": 454,
+            "end": 463,
+            "text": "RFID chip",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Microchip_implant_(human)"
+            ],
+            "scores": [
+                0.8333333333333334,
+                0.16666666666666666
+            ]
+        },
+        {
+            "begin": 518,
+            "end": 524,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 540,
+            "end": 543,
+            "text": "SAP",
+            "concept": 2,
+            "candidates": [
+                "SAP_SE",
+                "Sap",
+                "South_African_Party",
+                "SAP_ERP",
+                "Second_audio_program",
+                "Sap_(EP)",
+                "Sap_(producer)",
+                "Special_Assistance_Plan",
+                "SAP_F.C.",
+                "Deportivo_Saprissa",
+                "Swedish_Social_Democratic_Party",
+                "Saipa_F.C.",
+                "Samta_Party",
+                "Sapping",
+                "Samajwadi_Party",
+                "S\u00e1p"
+            ],
+            "scores": [
+                0.35835913312693496,
+                0.2515479876160991,
+                0.07198142414860681,
+                0.039473684210526314,
+                0.03637770897832817,
+                0.033281733746130034,
+                0.03018575851393189,
+                0.02321981424148607,
+                0.02244582043343653,
+                0.018575851393188854,
+                0.016253869969040248,
+                0.015479876160990712,
+                0.010835913312693499,
+                0.010835913312693499,
+                0.009287925696594427,
+                0.005417956656346749
+            ]
+        },
+        {
+            "begin": 552,
+            "end": 560,
+            "text": "American",
+            "concept": 7
+        },
+        {
+            "begin": 561,
+            "end": 578,
+            "text": "chip manufacturer",
+            "concept": 8
+        },
+        {
+            "begin": 579,
+            "end": 584,
+            "text": "Intel",
+            "concept": 3,
+            "candidates": [
+                "Intel",
+                "Apple\u2013Intel_architecture",
+                "Intelligence_assessment",
+                "X86",
+                "Military_intelligence",
+                "List_of_Intel_microprocessors",
+                "Intel_Ireland",
+                "Intel_Atom",
+                "Brian_Krzanich",
+                "Human_intelligence_(intelligence_gathering)",
+                "List_of_Intel_graphics_processing_units",
+                "Intel_assembly",
+                "Intel_Core",
+                "Intel_C_Compiler",
+                "Intel_i860",
+                "Robert_Noyce"
+            ],
+            "scores": [
+                0.9879901960784314,
+                0.0029411764705882353,
+                0.0024509803921568627,
+                0.00196078431372549,
+                0.0012254901960784314,
+                0.0007352941176470588,
+                0.0004901960784313725,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627
+            ]
+        },
+        {
+            "begin": 644,
+            "end": 651,
+            "text": "Hanover",
+            "concept": 9,
+            "candidates": [
+                "Hanover",
+                "Hanover,_New_Hampshire",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Kingdom_of_Hanover",
+                "Hanover,_Pennsylvania",
+                "Hanover_County,_Virginia",
+                "Hannover_Hauptbahnhof",
+                "House_of_Hanover",
+                "Hanover,_Ontario",
+                "Hanover_(horse)",
+                "Hanover,_Massachusetts",
+                "Hanover_Parish",
+                "Hanover,_Maryland",
+                "Hanover,_Indiana",
+                "Hanover,_Brighton",
+                "Province_of_Hanover"
+            ],
+            "scores": [
+                0.6533849129593811,
+                0.04390715667311412,
+                0.03636363636363636,
+                0.03500967117988395,
+                0.019342359767891684,
+                0.016634429400386848,
+                0.015087040618955513,
+                0.014893617021276596,
+                0.013926499032882012,
+                0.013152804642166345,
+                0.011992263056092843,
+                0.00909090909090909,
+                0.007736943907156673,
+                0.007350096711798839,
+                0.006963249516441006,
+                0.006189555125725338
+            ]
+        },
+        {
+            "begin": 682,
+            "end": 686,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 863,
+            "end": 867,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 981,
+            "end": 998,
+            "text": "technology expert",
+            "concept": 10
+        },
+        {
+            "begin": 999,
+            "end": 1010,
+            "text": "J\u00fcrgen Kuri",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1016,
+            "end": 1030,
+            "text": "Deutsche Welle",
+            "concept": 11,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 1232,
+            "end": 1234,
+            "text": "US",
+            "concept": 12,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1241,
+            "end": 1249,
+            "text": "Wal-Mart",
+            "concept": 13,
+            "candidates": [
+                "Walmart",
+                "Walmart_Canada",
+                "Walmart_de_M\u00e9xico_y_Centroam\u00e9rica"
+            ],
+            "scores": [
+                0.9918238993710692,
+                0.006918238993710692,
+                0.0012578616352201257
+            ]
+        },
+        {
+            "begin": 1330,
+            "end": 1334,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 1569,
+            "end": 1573,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 1745,
+            "end": 1754,
+            "text": "World Cup",
+            "concept": 14,
+            "candidates": [
+                "FIFA_World_Cup",
+                "World_Cup_(men's_golf)",
+                "FIS_Alpine_Ski_World_Cup",
+                "FIS_Ski_Jumping_World_Cup",
+                "Biathlon_World_Cup",
+                "Rugby_League_World_Cup",
+                "FIS_Freestyle_Ski_World_Cup",
+                "ISU_Speed_Skating_World_Cup",
+                "2006_IAAF_World_Cup",
+                "Cricket_World_Cup",
+                "FIS_Cross-Country_World_Cup",
+                "1989_IAAF_World_Cup",
+                "2006_FIFA_World_Cup",
+                "2010_FIFA_World_Cup",
+                "2017\u201318_ISU_Speed_Skating_World_Cup",
+                "Rugby_World_Cup"
+            ],
+            "scores": [
+                0.15123783835853963,
+                0.0750409401791735,
+                0.06743088334457181,
+                0.032848473172141415,
+                0.02331181967055197,
+                0.02042192467007032,
+                0.014642134669107023,
+                0.013871496002311917,
+                0.012330218668721703,
+                0.01136692033522782,
+                0.011174260668529043,
+                0.010981601001830267,
+                0.010981601001830267,
+                0.010403622001733937,
+                0.009632983334938831,
+                0.009440323668240054
+            ]
+        },
+        {
+            "begin": 1757,
+            "end": 1768,
+            "text": "J\u00fcrgen Kuri",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1961,
+            "end": 1964,
+            "text": "SAP",
+            "concept": 2,
+            "candidates": [
+                "SAP_SE",
+                "Sap",
+                "South_African_Party",
+                "SAP_ERP",
+                "Second_audio_program",
+                "Sap_(EP)",
+                "Sap_(producer)",
+                "Special_Assistance_Plan",
+                "SAP_F.C.",
+                "Deportivo_Saprissa",
+                "Swedish_Social_Democratic_Party",
+                "Saipa_F.C.",
+                "Samta_Party",
+                "Sapping",
+                "Samajwadi_Party",
+                "S\u00e1p"
+            ],
+            "scores": [
+                0.35835913312693496,
+                0.2515479876160991,
+                0.07198142414860681,
+                0.039473684210526314,
+                0.03637770897832817,
+                0.033281733746130034,
+                0.03018575851393189,
+                0.02321981424148607,
+                0.02244582043343653,
+                0.018575851393188854,
+                0.016253869969040248,
+                0.015479876160990712,
+                0.010835913312693499,
+                0.010835913312693499,
+                0.009287925696594427,
+                0.005417956656346749
+            ]
+        },
+        {
+            "begin": 1969,
+            "end": 1974,
+            "text": "Intel",
+            "concept": 3,
+            "candidates": [
+                "Intel",
+                "Apple\u2013Intel_architecture",
+                "Intelligence_assessment",
+                "X86",
+                "Military_intelligence",
+                "List_of_Intel_microprocessors",
+                "Intel_Ireland",
+                "Intel_Atom",
+                "Brian_Krzanich",
+                "Human_intelligence_(intelligence_gathering)",
+                "List_of_Intel_graphics_processing_units",
+                "Intel_assembly",
+                "Intel_Core",
+                "Intel_C_Compiler",
+                "Intel_i860",
+                "Robert_Noyce"
+            ],
+            "scores": [
+                0.9879901960784314,
+                0.0029411764705882353,
+                0.0024509803921568627,
+                0.00196078431372549,
+                0.0012254901960784314,
+                0.0007352941176470588,
+                0.0004901960784313725,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627
+            ]
+        },
+        {
+            "begin": 2088,
+            "end": 2092,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 2160,
+            "end": 2163,
+            "text": "SAP",
+            "concept": 2,
+            "candidates": [
+                "SAP_SE",
+                "Sap",
+                "South_African_Party",
+                "SAP_ERP",
+                "Second_audio_program",
+                "Sap_(EP)",
+                "Sap_(producer)",
+                "Special_Assistance_Plan",
+                "SAP_F.C.",
+                "Deportivo_Saprissa",
+                "Swedish_Social_Democratic_Party",
+                "Saipa_F.C.",
+                "Samta_Party",
+                "Sapping",
+                "Samajwadi_Party",
+                "S\u00e1p"
+            ],
+            "scores": [
+                0.35835913312693496,
+                0.2515479876160991,
+                0.07198142414860681,
+                0.039473684210526314,
+                0.03637770897832817,
+                0.033281733746130034,
+                0.03018575851393189,
+                0.02321981424148607,
+                0.02244582043343653,
+                0.018575851393188854,
+                0.016253869969040248,
+                0.015479876160990712,
+                0.010835913312693499,
+                0.010835913312693499,
+                0.009287925696594427,
+                0.005417956656346749
+            ]
+        },
+        {
+            "begin": 2166,
+            "end": 2188,
+            "text": "Christoph Lessm\u00f6llmann",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2194,
+            "end": 2198,
+            "text": "Chip",
+            "concept": 0,
+            "candidates": [
+                "Chip_(rapper)",
+                "Integrated_circuit",
+                "Chip_(magazine)",
+                "Chromatin_immunoprecipitation",
+                "Microprocessor",
+                "Chip_'n'_Dale",
+                "Chip_(stock_market)",
+                "Amiga_Chip_RAM",
+                "State_Children's_Health_Insurance_Program",
+                "Swarf",
+                "Chip_(association_football)",
+                "Intelligent_Computing_CHIP_magazine_(India)",
+                "Smart_card",
+                "Chip_(CDMA)",
+                "CHIP_(computer)",
+                "Chipset"
+            ],
+            "scores": [
+                0.30414746543778803,
+                0.2534562211981567,
+                0.07142857142857142,
+                0.04377880184331797,
+                0.04377880184331797,
+                0.03456221198156682,
+                0.02534562211981567,
+                0.018433179723502304,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.01152073732718894,
+                0.01152073732718894,
+                0.01152073732718894,
+                0.01152073732718894,
+                0.009216589861751152,
+                0.009216589861751152
+            ]
+        },
+        {
+            "begin": 2433,
+            "end": 2444,
+            "text": "J\u00fcrgen Kuri",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2742,
+            "end": 2750,
+            "text": "IDTechEX",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2782,
+            "end": 2791,
+            "text": "Cambridge",
+            "concept": 16,
+            "candidates": [
+                "Cambridge",
+                "University_of_Cambridge",
+                "Cambridge,_Massachusetts",
+                "Cambridge_(UK_Parliament_constituency)",
+                "Cambridge,_Ontario",
+                "Cambridge,_New_Zealand",
+                "Cambridge_University_Boat_Club",
+                "Cambridge,_Maryland",
+                "Cambridge_railway_station",
+                "Cambridge_R.U.F.C.",
+                "Cambridge,_Ohio",
+                "Cambridge_(electoral_district)",
+                "Cambridge_University_Cricket_Club",
+                "Cambridge,_Minnesota",
+                "Cambridge_(provincial_electoral_district)",
+                "Cambridge_University_R.U.F.C."
+            ],
+            "scores": [
+                0.4615794278758369,
+                0.19917833231892879,
+                0.13618381010346928,
+                0.02632379793061473,
+                0.025943396226415096,
+                0.015672550213024956,
+                0.014911746804625686,
+                0.009966524650030431,
+                0.00928180158247109,
+                0.008444917833231893,
+                0.007684114424832624,
+                0.007227632379793061,
+                0.007151552038953134,
+                0.006618989653073646,
+                0.004184418746195983,
+                0.0036518563603164943
+            ]
+        },
+        {
+            "begin": 2793,
+            "end": 2806,
+            "text": "Massachusetts",
+            "concept": 17,
+            "candidates": [
+                "Massachusetts",
+                "List_of_United_States_Senators_from_Massachusetts",
+                "List_of_United_States_Representatives_from_Massachusetts",
+                "UMass_Minutemen_ice_hockey",
+                "Province_of_Massachusetts_Bay",
+                "UMass_Minutemen_basketball",
+                "UMass_Minutemen_football",
+                "Miss_Massachusetts_USA",
+                "Miss_Massachusetts",
+                "UMass_Minutemen_and_Minutewomen",
+                "UMass_Minutemen_baseball",
+                "Massachusetts_Bay_Colony",
+                "University_of_Massachusetts_Amherst",
+                "Massachusetts_(Bee_Gees_song)",
+                "United_States_congressional_delegations_from_Massachusetts",
+                "Miss_Massachusetts_Teen_USA"
+            ],
+            "scores": [
+                0.9020361273966091,
+                0.011527491681191571,
+                0.007090793852004436,
+                0.006694660117255585,
+                0.005308192045634606,
+                0.004912058310885755,
+                0.004555537949611789,
+                0.0037236571066392014,
+                0.0034067501188401205,
+                0.003050229757566154,
+                0.0028521628901917286,
+                0.0027729361432419584,
+                0.0025352559023926477,
+                0.0025352559023926477,
+                0.0021787355411186818,
+                0.0018222151798447156
+            ]
+        },
+        {
+            "begin": 2834,
+            "end": 2838,
+            "text": "RFID",
+            "concept": 0,
+            "candidates": [
+                "Radio-frequency_identification",
+                "Contactless_smart_card"
+            ],
+            "scores": [
+                0.9988151658767772,
+                0.001184834123222749
+            ]
+        },
+        {
+            "begin": 2849,
+            "end": 2853,
+            "text": "2008",
+            "concept": 18
+        },
+        {
+            "begin": 2866,
+            "end": 2876,
+            "text": "$7 billion",
+            "concept": 19
+        },
+        {
+            "begin": 2938,
+            "end": 2941,
+            "text": "SAP",
+            "concept": 2,
+            "candidates": [
+                "SAP_SE",
+                "Sap",
+                "South_African_Party",
+                "SAP_ERP",
+                "Second_audio_program",
+                "Sap_(EP)",
+                "Sap_(producer)",
+                "Special_Assistance_Plan",
+                "SAP_F.C.",
+                "Deportivo_Saprissa",
+                "Swedish_Social_Democratic_Party",
+                "Saipa_F.C.",
+                "Samta_Party",
+                "Sapping",
+                "Samajwadi_Party",
+                "S\u00e1p"
+            ],
+            "scores": [
+                0.35835913312693496,
+                0.2515479876160991,
+                0.07198142414860681,
+                0.039473684210526314,
+                0.03637770897832817,
+                0.033281733746130034,
+                0.03018575851393189,
+                0.02321981424148607,
+                0.02244582043343653,
+                0.018575851393188854,
+                0.016253869969040248,
+                0.015479876160990712,
+                0.010835913312693499,
+                0.010835913312693499,
+                0.009287925696594427,
+                0.005417956656346749
+            ]
+        },
+        {
+            "begin": 2967,
+            "end": 2972,
+            "text": "Intel",
+            "concept": 3,
+            "candidates": [
+                "Intel",
+                "Apple\u2013Intel_architecture",
+                "Intelligence_assessment",
+                "X86",
+                "Military_intelligence",
+                "List_of_Intel_microprocessors",
+                "Intel_Ireland",
+                "Intel_Atom",
+                "Brian_Krzanich",
+                "Human_intelligence_(intelligence_gathering)",
+                "List_of_Intel_graphics_processing_units",
+                "Intel_assembly",
+                "Intel_Core",
+                "Intel_C_Compiler",
+                "Intel_i860",
+                "Robert_Noyce"
+            ],
+            "scores": [
+                0.9879901960784314,
+                0.0029411764705882353,
+                0.0024509803921568627,
+                0.00196078431372549,
+                0.0012254901960784314,
+                0.0007352941176470588,
+                0.0004901960784313725,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627,
+                0.00024509803921568627
+            ]
+        },
+        {
+            "begin": 3107,
+            "end": 3119,
+            "text": "Lessm\u00f6llmann",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Radio Frequency Identification",
+            "keyword": true,
+            "count": 11,
+            "link": "Radio-frequency_identification",
+            "tags": [
+                "iptc::13000000",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::product",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "CeBIT",
+            "keyword": true,
+            "count": 1,
+            "link": "CEBIT",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::organization",
+                "type::trade_fair"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "SAP",
+            "keyword": true,
+            "count": 5,
+            "link": "SAP_SE",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000231",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Intel",
+            "keyword": true,
+            "count": 4,
+            "link": "Intel",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "J\u00fcrgen Kuri",
+            "keyword": true,
+            "count": 6,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::expert",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Christoph Lessm\u00f6llmann",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::employee",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "chip manufacturer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Hanover",
+            "keyword": false,
+            "count": 1,
+            "link": "Hanover",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "technology expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Deutsche Welle",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Wal-Mart",
+            "keyword": false,
+            "count": 1,
+            "link": "Walmart",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000252",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "World Cup",
+            "keyword": false,
+            "count": 1,
+            "link": "FIFA_World_Cup",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001122",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "IDTechEX",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000275",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Cambridge",
+            "keyword": false,
+            "count": 1,
+            "link": "Cambridge,_Massachusetts",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Massachusetts",
+            "keyword": false,
+            "count": 1,
+            "link": "Massachusetts",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "$7 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "based_in2",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 20
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 20
+        },
+        {
+            "s": 9,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 13,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "based_in2",
+            "o": 16
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 16,
+            "p": "in1",
+            "o": 17
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "13000000",
+        "20000735",
+        "20000736",
+        "20000756",
+        "20000763"
+    ]
+}

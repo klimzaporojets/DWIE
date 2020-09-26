@@ -1,0 +1,2547 @@
+{
+    "id": "DW_17419001",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 49,
+            "end": 51,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 76,
+            "end": 81,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 157,
+            "end": 165,
+            "text": "Damascus",
+            "concept": 3,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 225,
+            "end": 230,
+            "text": "Assad",
+            "concept": 6,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 337,
+            "end": 342,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 428,
+            "end": 480,
+            "text": "Organization for the Prohibition of Chemical Weapons",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 482,
+            "end": 486,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 500,
+            "end": 505,
+            "text": "Assad",
+            "concept": 6,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 558,
+            "end": 563,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 583,
+            "end": 591,
+            "text": "December",
+            "concept": 7
+        },
+        {
+            "begin": 704,
+            "end": 720,
+            "text": "February 5, 2014",
+            "concept": 8
+        },
+        {
+            "begin": 825,
+            "end": 830,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 899,
+            "end": 905,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 919,
+            "end": 926,
+            "text": "Latakia",
+            "concept": 9,
+            "candidates": [
+                "Latakia",
+                "Latakia_Governorate",
+                "Alawite_State",
+                "Latakia_(tobacco)",
+                "Timeline_of_Latakia",
+                "Latakia_District",
+                "Port_of_Latakia",
+                "Latakia_Sanjak",
+                "2016_Latakia_offensive",
+                "Melkite_Greek_Catholic_Archeparchy_of_Latakia",
+                "Maronite_Catholic_Eparchy_of_Latakia",
+                "Khmeimim_Air_Base"
+            ],
+            "scores": [
+                0.907928388746803,
+                0.05115089514066496,
+                0.008951406649616368,
+                0.00639386189258312,
+                0.005115089514066497,
+                0.005115089514066497,
+                0.005115089514066497,
+                0.0038363171355498722,
+                0.0025575447570332483,
+                0.0012787723785166241,
+                0.0012787723785166241,
+                0.0012787723785166241
+            ]
+        },
+        {
+            "begin": 1058,
+            "end": 1063,
+            "text": "Assad",
+            "concept": 6,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 1207,
+            "end": 1212,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1235,
+            "end": 1239,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1301,
+            "end": 1308,
+            "text": "June 30",
+            "concept": 10
+        },
+        {
+            "begin": 1314,
+            "end": 1320,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 1498,
+            "end": 1506,
+            "text": "Damascus",
+            "concept": 3,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 1627,
+            "end": 1632,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1699,
+            "end": 1705,
+            "text": "Russia",
+            "concept": 11,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1743,
+            "end": 1747,
+            "text": "SUVS",
+            "concept": 12,
+            "candidates": [
+                "Sport_utility_vehicle",
+                "Crossover_(automobile)",
+                "Nontransporting_EMS_vehicle",
+                "Jeep_Wagoneer"
+            ],
+            "scores": [
+                0.9903536977491961,
+                0.003215434083601286,
+                0.003215434083601286,
+                0.003215434083601286
+            ]
+        },
+        {
+            "begin": 1878,
+            "end": 1885,
+            "text": "Denmark",
+            "concept": 13,
+            "candidates": [
+                "Denmark",
+                "Denmark_national_football_team",
+                "Denmark_women's_national_football_team",
+                "Denmark_national_cricket_team",
+                "Denmark_national_speedway_team",
+                "Danish_Football_Association",
+                "Same-sex_marriage_in_Denmark",
+                "Danish_literature",
+                "Denmark,_Western_Australia",
+                "Denmark_national_under-21_football_team",
+                "Denmark_national_badminton_team",
+                "Denmark_national_handball_team",
+                "Denmark_women's_national_cricket_team",
+                "Denmark_women's_national_handball_team",
+                "Denmark\u2013Norway",
+                "Hitlisten"
+            ],
+            "scores": [
+                0.8280020615014603,
+                0.04779247551967016,
+                0.010204432228139495,
+                0.008349080913932314,
+                0.005566053942621543,
+                0.005325545438928019,
+                0.0046383782855179525,
+                0.004123002920460402,
+                0.003916852774437382,
+                0.003504552482391342,
+                0.0034701941247208385,
+                0.003057893832674798,
+                0.002164576533241711,
+                0.0018209929565366776,
+                0.0017866345988661742,
+                0.0017179178835251675
+            ]
+        },
+        {
+            "begin": 1890,
+            "end": 1896,
+            "text": "Norway",
+            "concept": 14,
+            "candidates": [
+                "Norway",
+                "Norway_national_football_team",
+                "Norway_women's_national_football_team",
+                "Football_Association_of_Norway",
+                "VG-lista",
+                "Same-sex_marriage_in_Norway",
+                "ISU_Junior_Grand_Prix_in_Norway",
+                "Norway_national_under-21_football_team",
+                "Norway_men's_national_ice_hockey_team",
+                "Norway_women's_national_handball_team",
+                "Norwegian_Campaign",
+                "Norway_national_handball_team",
+                "Norway_Fed_Cup_team",
+                "Norway,_Maine",
+                "Norway_national_cricket_team",
+                "Norway_at_the_1920_Summer_Olympics"
+            ],
+            "scores": [
+                0.8815544177497703,
+                0.03534199816200604,
+                0.011001706708677957,
+                0.005198897203623474,
+                0.0045687278456085076,
+                0.003308389129578574,
+                0.0023106209793882105,
+                0.00223184980963634,
+                0.0018642510174609426,
+                0.001680451621373244,
+                0.0014441381121176316,
+                0.0013391098857818038,
+                0.0013128528291978469,
+                0.0011815675462780622,
+                0.0009452540370224497,
+                0.0008664828672705789
+            ]
+        },
+        {
+            "begin": 1937,
+            "end": 1943,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 2060,
+            "end": 2073,
+            "text": "Mediterranean",
+            "concept": 15,
+            "candidates": [
+                "Mediterranean_Sea",
+                "Mediterranean_climate",
+                "Mediterranean_Basin",
+                "Mediterranean_Region,_Turkey",
+                "Mediterranean_cuisine",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Mediterranean_Fleet",
+                "Mediterranean_race",
+                "Mediterranean_Revival_architecture",
+                "Battle_of_the_Mediterranean",
+                "History_of_the_Mediterranean_region",
+                "Mediterranean_Theater_of_Operations",
+                "Mediterranean_Region_(statistical)",
+                "Mediterranean_Squadron_(United_States)",
+                "Climate_categories_in_viticulture",
+                "Classical_antiquity"
+            ],
+            "scores": [
+                0.8733238853156001,
+                0.038700534176387226,
+                0.024201460808895674,
+                0.012536792761364875,
+                0.00937534067371634,
+                0.007849122424506704,
+                0.005668810639921509,
+                0.004578654747628911,
+                0.004142592390711872,
+                0.0032704676768777934,
+                0.0031614520876485338,
+                0.0026163741415022347,
+                0.0011991714815218577,
+                0.000981140303063338,
+                0.000981140303063338,
+                0.000981140303063338
+            ]
+        },
+        {
+            "begin": 2086,
+            "end": 2091,
+            "text": "Italy",
+            "concept": 16,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 2152,
+            "end": 2159,
+            "text": "Denmark",
+            "concept": 13,
+            "candidates": [
+                "Denmark",
+                "Denmark_national_football_team",
+                "Denmark_women's_national_football_team",
+                "Denmark_national_cricket_team",
+                "Denmark_national_speedway_team",
+                "Danish_Football_Association",
+                "Same-sex_marriage_in_Denmark",
+                "Danish_literature",
+                "Denmark,_Western_Australia",
+                "Denmark_national_under-21_football_team",
+                "Denmark_national_badminton_team",
+                "Denmark_national_handball_team",
+                "Denmark_women's_national_cricket_team",
+                "Denmark_women's_national_handball_team",
+                "Denmark\u2013Norway",
+                "Hitlisten"
+            ],
+            "scores": [
+                0.8280020615014603,
+                0.04779247551967016,
+                0.010204432228139495,
+                0.008349080913932314,
+                0.005566053942621543,
+                0.005325545438928019,
+                0.0046383782855179525,
+                0.004123002920460402,
+                0.003916852774437382,
+                0.003504552482391342,
+                0.0034701941247208385,
+                0.003057893832674798,
+                0.002164576533241711,
+                0.0018209929565366776,
+                0.0017866345988661742,
+                0.0017179178835251675
+            ]
+        },
+        {
+            "begin": 2161,
+            "end": 2166,
+            "text": "China",
+            "concept": 17,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2168,
+            "end": 2181,
+            "text": "Great Britain",
+            "concept": 18,
+            "candidates": [
+                "Great_Britain",
+                "Great_Britain_national_rugby_league_team",
+                "Kingdom_of_Great_Britain",
+                "United_Kingdom",
+                "A1_Team_Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Great_Britain_Olympic_football_team",
+                "List_of_non-marine_molluscs_of_Great_Britain",
+                "Great_Britain_national_speedway_team",
+                "Peerage_of_Great_Britain",
+                "Great_Britain_at_the_Olympics",
+                "Great_Britain_men's_national_field_hockey_team",
+                "English_poetry",
+                "Great_Britain_Davis_Cup_team",
+                "Great_Britain_at_the_2012_Summer_Olympics",
+                "Great_Britain_at_the_1908_Summer_Olympics"
+            ],
+            "scores": [
+                0.5992347363167526,
+                0.1316475350745855,
+                0.0545666278489436,
+                0.03892863084345367,
+                0.011312593578439528,
+                0.010092607996450951,
+                0.009593522985637442,
+                0.009427161315366273,
+                0.008096267953196916,
+                0.007375367382021849,
+                0.00704264404147951,
+                0.00682082848111795,
+                0.006044474019852492,
+                0.005822658459490934,
+                0.005268119558587035,
+                0.0042699495369600176
+            ]
+        },
+        {
+            "begin": 2183,
+            "end": 2189,
+            "text": "Norway",
+            "concept": 14,
+            "candidates": [
+                "Norway",
+                "Norway_national_football_team",
+                "Norway_women's_national_football_team",
+                "Football_Association_of_Norway",
+                "VG-lista",
+                "Same-sex_marriage_in_Norway",
+                "ISU_Junior_Grand_Prix_in_Norway",
+                "Norway_national_under-21_football_team",
+                "Norway_men's_national_ice_hockey_team",
+                "Norway_women's_national_handball_team",
+                "Norwegian_Campaign",
+                "Norway_national_handball_team",
+                "Norway_Fed_Cup_team",
+                "Norway,_Maine",
+                "Norway_national_cricket_team",
+                "Norway_at_the_1920_Summer_Olympics"
+            ],
+            "scores": [
+                0.8815544177497703,
+                0.03534199816200604,
+                0.011001706708677957,
+                0.005198897203623474,
+                0.0045687278456085076,
+                0.003308389129578574,
+                0.0023106209793882105,
+                0.00223184980963634,
+                0.0018642510174609426,
+                0.001680451621373244,
+                0.0014441381121176316,
+                0.0013391098857818038,
+                0.0013128528291978469,
+                0.0011815675462780622,
+                0.0009452540370224497,
+                0.0008664828672705789
+            ]
+        },
+        {
+            "begin": 2194,
+            "end": 2200,
+            "text": "Russia",
+            "concept": 11,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 2275,
+            "end": 2283,
+            "text": "Cape Ray",
+            "concept": 19,
+            "candidates": [
+                "Cape_Ray",
+                "Cape_Ray,_Newfoundland_and_Labrador",
+                "MV_Cape_Ray_(T-AKR-9679)"
+            ],
+            "scores": [
+                0.7058823529411765,
+                0.2647058823529412,
+                0.029411764705882353
+            ]
+        },
+        {
+            "begin": 2292,
+            "end": 2301,
+            "text": "Calabrian",
+            "concept": 20
+        },
+        {
+            "begin": 2310,
+            "end": 2321,
+            "text": "Gioia Tauro",
+            "concept": 21,
+            "candidates": [
+                "Gioia_Tauro",
+                "Port_of_Gioia_Tauro"
+            ],
+            "scores": [
+                0.970873786407767,
+                0.02912621359223301
+            ]
+        },
+        {
+            "begin": 2339,
+            "end": 2341,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2616,
+            "end": 2620,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2734,
+            "end": 2739,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2792,
+            "end": 2805,
+            "text": "Michael Luhan",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2831,
+            "end": 2835,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2858,
+            "end": 2860,
+            "text": "DW",
+            "concept": 23,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2894,
+            "end": 2907,
+            "text": "Mediterranean",
+            "concept": 15,
+            "candidates": [
+                "Mediterranean_Sea",
+                "Mediterranean_climate",
+                "Mediterranean_Basin",
+                "Mediterranean_Region,_Turkey",
+                "Mediterranean_cuisine",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Mediterranean_Fleet",
+                "Mediterranean_race",
+                "Mediterranean_Revival_architecture",
+                "Battle_of_the_Mediterranean",
+                "History_of_the_Mediterranean_region",
+                "Mediterranean_Theater_of_Operations",
+                "Mediterranean_Region_(statistical)",
+                "Mediterranean_Squadron_(United_States)",
+                "Climate_categories_in_viticulture",
+                "Classical_antiquity"
+            ],
+            "scores": [
+                0.8733238853156001,
+                0.038700534176387226,
+                0.024201460808895674,
+                0.012536792761364875,
+                0.00937534067371634,
+                0.007849122424506704,
+                0.005668810639921509,
+                0.004578654747628911,
+                0.004142592390711872,
+                0.0032704676768777934,
+                0.0031614520876485338,
+                0.0026163741415022347,
+                0.0011991714815218577,
+                0.000981140303063338,
+                0.000981140303063338,
+                0.000981140303063338
+            ]
+        },
+        {
+            "begin": 2989,
+            "end": 2998,
+            "text": "Norwegian",
+            "concept": 24
+        },
+        {
+            "begin": 2999,
+            "end": 3015,
+            "text": "Defense Ministry",
+            "concept": 25,
+            "candidates": [
+                "Ministry_of_Defense_(Israel)",
+                "Defence_minister",
+                "Ministry_of_Defence_(Russia)",
+                "Ministry_of_National_Defence_(Romania)",
+                "Ministry_of_National_Defense_of_the_People's_Republic_of_China",
+                "Ministry_of_the_Reichswehr",
+                "Ministry_of_Defense_(Syria)",
+                "Ministry_of_National_Defense_(South_Korea)",
+                "Ministry_of_Defence_(India)",
+                "Ministry_of_Defense_(Austria)",
+                "Department_of_National_Defense_(Philippines)",
+                "Ministry_of_National_Defense_(Lebanon)",
+                "Armed_Forces_of_Armenia",
+                "Ministry_of_Defence_(Czech_Republic)",
+                "Ministry_of_Defence_(Iraq)",
+                "Ministry_of_Defense_(Afghanistan)"
+            ],
+            "scores": [
+                0.17142857142857143,
+                0.11428571428571428,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05714285714285714,
+                0.04285714285714286,
+                0.04285714285714286,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.014285714285714285,
+                0.014285714285714285,
+                0.014285714285714285,
+                0.014285714285714285
+            ]
+        },
+        {
+            "begin": 3021,
+            "end": 3023,
+            "text": "DW",
+            "concept": 23,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 3101,
+            "end": 3119,
+            "text": "five million euros",
+            "concept": 26
+        },
+        {
+            "begin": 3121,
+            "end": 3133,
+            "text": "$6.8 million",
+            "concept": 27
+        },
+        {
+            "begin": 3435,
+            "end": 3439,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3450,
+            "end": 3452,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3494,
+            "end": 3505,
+            "text": "Sigrid Kaag",
+            "concept": 28,
+            "candidates": [
+                "Sigrid_Kaag"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3527,
+            "end": 3529,
+            "text": "UN",
+            "concept": 29,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 3530,
+            "end": 3546,
+            "text": "Security Council",
+            "concept": 30,
+            "candidates": [
+                "United_Nations_Security_Council",
+                "Security_Council_of_Russia",
+                "Security_Council_(Japan)",
+                "United_Nations_Security_Council_election,_2016",
+                "United_Nations_Security_Council_election,_2015",
+                "United_Nations_Security_Council_election,_2014",
+                "United_Nations_Security_Council_election,_2013",
+                "United_Nations_Security_Council_election,_2011",
+                "National_Security_Council_(Israel)",
+                "National_Security_Council_(Saudi_Arabia)",
+                "National_Security_Council_(Sri_Lanka)",
+                "Security_Council_of_the_Soviet_Union"
+            ],
+            "scores": [
+                0.9609164420485176,
+                0.0215633423180593,
+                0.005390835579514825,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063,
+                0.0013477088948787063
+            ]
+        },
+        {
+            "begin": 3590,
+            "end": 3596,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 3684,
+            "end": 3688,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3689,
+            "end": 3698,
+            "text": "spokesman",
+            "concept": 31
+        },
+        {
+            "begin": 3699,
+            "end": 3712,
+            "text": "Michael Luhan",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3889,
+            "end": 3901,
+            "text": "30th of June",
+            "concept": 32
+        },
+        {
+            "begin": 3996,
+            "end": 4000,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4067,
+            "end": 4069,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 4099,
+            "end": 4115,
+            "text": "State Department",
+            "concept": 33,
+            "candidates": [
+                "United_States_Department_of_State",
+                "Awards_of_the_United_States_Department_of_State",
+                "Harry_S_Truman_Building",
+                "United_States_Secretary_of_State",
+                "Minister_of_the_Interior_(France)",
+                "Bureau_of_Consular_Affairs",
+                "United_States_Department_of_Homeland_Security",
+                "United_States",
+                "Hillary_Clinton's_tenure_as_Secretary_of_State",
+                "Jen_Psaki",
+                "George_Marshall"
+            ],
+            "scores": [
+                0.9854280510018215,
+                0.007893139040680024,
+                0.0012143290831815423,
+                0.0012143290831815423,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711
+            ]
+        },
+        {
+            "begin": 4146,
+            "end": 4150,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4334,
+            "end": 4348,
+            "text": "Samantha Power",
+            "concept": 34,
+            "candidates": [
+                "Samantha_Power"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4354,
+            "end": 4356,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 4375,
+            "end": 4377,
+            "text": "UN",
+            "concept": 29,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 4399,
+            "end": 4404,
+            "text": "Assad",
+            "concept": 6,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 4494,
+            "end": 4500,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 4561,
+            "end": 4566,
+            "text": "Assad",
+            "concept": 6,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 4836,
+            "end": 4842,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 5055,
+            "end": 5061,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 5078,
+            "end": 5082,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 5216,
+            "end": 5221,
+            "text": "Syria",
+            "concept": 1,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 5239,
+            "end": 5243,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 5329,
+            "end": 5337,
+            "text": "Damascus",
+            "concept": 3,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 5400,
+            "end": 5406,
+            "text": "Syrian",
+            "concept": 5
+        },
+        {
+            "begin": 5519,
+            "end": 5526,
+            "text": "October",
+            "concept": 35
+        },
+        {
+            "begin": 5532,
+            "end": 5536,
+            "text": "OPCW",
+            "concept": 2,
+            "candidates": [
+                "Organisation_for_the_Prohibition_of_Chemical_Weapons"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "US",
+            "keyword": true,
+            "count": 5,
+            "link": "United_States",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Syria",
+            "keyword": true,
+            "count": 8,
+            "link": "Syria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Organization for the Prohibition of Chemical Weapons",
+            "keyword": true,
+            "count": 12,
+            "link": "Organisation_for_the_Prohibition_of_Chemical_Weapons",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Damascus",
+            "keyword": true,
+            "count": 3,
+            "link": "Damascus",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 5,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 9,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Assad",
+            "keyword": false,
+            "count": 5,
+            "link": "Bashar_al-Assad",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "December",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "February 5, 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Latakia",
+            "keyword": false,
+            "count": 1,
+            "link": "Latakia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "June 30",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Russia",
+            "keyword": false,
+            "count": 2,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "SUVS",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_equipment",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Denmark",
+            "keyword": false,
+            "count": 2,
+            "link": "Denmark",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Norway",
+            "keyword": false,
+            "count": 2,
+            "link": "Norway",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Mediterranean",
+            "keyword": false,
+            "count": 2,
+            "link": "Mediterranean_Sea",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Italy",
+            "keyword": false,
+            "count": 1,
+            "link": "Italy",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Great Britain",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Cape Ray",
+            "keyword": false,
+            "count": 1,
+            "link": "MV_Cape_Ray_(T-AKR-9679)",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Calabrian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe1-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Gioia Tauro",
+            "keyword": false,
+            "count": 1,
+            "link": "Gioia_Tauro",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Michael Luhan",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Norwegian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Defense Ministry",
+            "keyword": false,
+            "count": 1,
+            "link": "Minister_of_Defence_(Norway)",
+            "tags": [
+                "iptc::11000000",
+                "policy::defense",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "five million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "$6.8 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Sigrid Kaag",
+            "keyword": false,
+            "count": 1,
+            "link": "Sigrid_Kaag",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "UN",
+            "keyword": false,
+            "count": 2,
+            "link": "United_Nations",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Security Council",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Nations_Security_Council",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "30th of June",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "State Department",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States_Department_of_State",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Samantha Power",
+            "keyword": false,
+            "count": 1,
+            "link": "Samantha_Power",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "October",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "keyword": false,
+            "count": 0,
+            "link": "Calabria",
+            "tags": []
+        },
+        {
+            "concept": 37,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 6,
+            "p": "head_of_state",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 20,
+            "p": "gpe1",
+            "o": 36
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 16
+        },
+        {
+            "s": 22,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 22,
+            "p": "spokesperson_of",
+            "o": 2
+        },
+        {
+            "s": 23,
+            "p": "based_in0",
+            "o": 37
+        },
+        {
+            "s": 24,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 25,
+            "p": "agency_of",
+            "o": 14
+        },
+        {
+            "s": 25,
+            "p": "agency_of-x",
+            "o": 24
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 25,
+            "p": "based_in0-x",
+            "o": 24
+        },
+        {
+            "s": 25,
+            "p": "ministry_of",
+            "o": 14
+        },
+        {
+            "s": 30,
+            "p": "institution_of",
+            "o": 29
+        },
+        {
+            "s": 30,
+            "p": "part_of",
+            "o": 29
+        },
+        {
+            "s": 33,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 33,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 33,
+            "p": "ministry_of",
+            "o": 0
+        },
+        {
+            "s": 34,
+            "p": "agent_of",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "16000000",
+        "20000056",
+        "20000062",
+        "20000063",
+        "20000593",
+        "20000598",
+        "20000601",
+        "20000602"
+    ]
+}

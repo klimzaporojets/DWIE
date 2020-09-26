@@ -1,0 +1,900 @@
+{
+    "id": "DW_43922367",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Canada",
+            "concept": 0,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 43,
+            "end": 49,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 115,
+            "end": 121,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 144,
+            "end": 151,
+            "text": "Toronto",
+            "concept": 1,
+            "candidates": [
+                "Toronto",
+                "Toronto_Raptors",
+                "Toronto_Maple_Leafs",
+                "Canadian_Open_(tennis)",
+                "Toronto_FC",
+                "University_of_Toronto",
+                "2015\u201316_Toronto_Raptors_season",
+                "2016\u201317_Toronto_Raptors_season",
+                "Honda_Indy_Toronto",
+                "2017\u201318_Toronto_Raptors_season",
+                "Toronto_Blue_Jays",
+                "Toronto_Varsity_Blues",
+                "Toronto_International_Film_Festival",
+                "2017\u201318_Toronto_Maple_Leafs_season",
+                "2007\u201308_Toronto_Raptors_season",
+                "2014\u201315_Toronto_Raptors_season"
+            ],
+            "scores": [
+                0.8382384941790882,
+                0.020753998476770754,
+                0.010281797410510283,
+                0.006446523773256447,
+                0.006011315417256012,
+                0.004243281471004243,
+                0.0032912631922532914,
+                0.002964856925252965,
+                0.0029104558807529104,
+                0.0027744532695027743,
+                0.0025296485692525295,
+                0.002203242302252203,
+                0.002176041780002176,
+                0.002012838646502013,
+                0.0018224349907518225,
+                0.0016592318572516591
+            ]
+        },
+        {
+            "begin": 227,
+            "end": 238,
+            "text": "Bombay Bhel",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 325,
+            "end": 331,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 350,
+            "end": 358,
+            "text": "Canadian",
+            "concept": 6
+        },
+        {
+            "begin": 367,
+            "end": 378,
+            "text": "Mississauga",
+            "concept": 3,
+            "candidates": [
+                "Mississauga",
+                "Mississaugas",
+                "Mississauga_Jr._Chiefs",
+                "Peel_South",
+                "University_of_Toronto_Mississauga",
+                "Port_Credit",
+                "List_of_people_from_Mississauga",
+                "Mississauga_Eagles_FC",
+                "Mississauga_IceDogs",
+                "List_of_mayors_of_Mississauga",
+                "Eastern_Ojibwa_language"
+            ],
+            "scores": [
+                0.9585575888051668,
+                0.02691065662002153,
+                0.006458557588805167,
+                0.003767491926803014,
+                0.001076426264800861,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305
+            ]
+        },
+        {
+            "begin": 382,
+            "end": 390,
+            "text": "Thursday",
+            "concept": 7
+        },
+        {
+            "begin": 627,
+            "end": 648,
+            "text": "10:30 p.m. local time",
+            "concept": 8
+        },
+        {
+            "begin": 650,
+            "end": 658,
+            "text": "0230 UTC",
+            "concept": 9
+        },
+        {
+            "begin": 667,
+            "end": 678,
+            "text": "Bombay Bhel",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 693,
+            "end": 704,
+            "text": "Mississauga",
+            "concept": 3,
+            "candidates": [
+                "Mississauga",
+                "Mississaugas",
+                "Mississauga_Jr._Chiefs",
+                "Peel_South",
+                "University_of_Toronto_Mississauga",
+                "Port_Credit",
+                "List_of_people_from_Mississauga",
+                "Mississauga_Eagles_FC",
+                "Mississauga_IceDogs",
+                "List_of_mayors_of_Mississauga",
+                "Eastern_Ojibwa_language"
+            ],
+            "scores": [
+                0.9585575888051668,
+                0.02691065662002153,
+                0.006458557588805167,
+                0.003767491926803014,
+                0.001076426264800861,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305
+            ]
+        },
+        {
+            "begin": 706,
+            "end": 712,
+            "text": "Canada",
+            "concept": 0,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1031,
+            "end": 1051,
+            "text": "Peel Regional Police",
+            "concept": 10,
+            "candidates": [
+                "Peel_Regional_Police"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1060,
+            "end": 1067,
+            "text": "Twitter",
+            "concept": 11,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 1463,
+            "end": 1474,
+            "text": "Peel Region",
+            "concept": 12,
+            "candidates": [
+                "Regional_Municipality_of_Peel",
+                "Peel_(Western_Australia)",
+                "Peel_District_School_Board"
+            ],
+            "scores": [
+                0.794392523364486,
+                0.19626168224299065,
+                0.009345794392523364
+            ]
+        },
+        {
+            "begin": 1475,
+            "end": 1483,
+            "text": "Sergeant",
+            "concept": 13
+        },
+        {
+            "begin": 1484,
+            "end": 1496,
+            "text": "Matt Bertram",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1544,
+            "end": 1555,
+            "text": "Peel Region",
+            "concept": 12,
+            "candidates": [
+                "Regional_Municipality_of_Peel",
+                "Peel_(Western_Australia)",
+                "Peel_District_School_Board"
+            ],
+            "scores": [
+                0.794392523364486,
+                0.19626168224299065,
+                0.009345794392523364
+            ]
+        },
+        {
+            "begin": 1556,
+            "end": 1564,
+            "text": "Sergeant",
+            "concept": 13
+        },
+        {
+            "begin": 1565,
+            "end": 1577,
+            "text": "Matt Bertram",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1698,
+            "end": 1709,
+            "text": "Mississauga",
+            "concept": 3,
+            "candidates": [
+                "Mississauga",
+                "Mississaugas",
+                "Mississauga_Jr._Chiefs",
+                "Peel_South",
+                "University_of_Toronto_Mississauga",
+                "Port_Credit",
+                "List_of_people_from_Mississauga",
+                "Mississauga_Eagles_FC",
+                "Mississauga_IceDogs",
+                "List_of_mayors_of_Mississauga",
+                "Eastern_Ojibwa_language"
+            ],
+            "scores": [
+                0.9585575888051668,
+                0.02691065662002153,
+                0.006458557588805167,
+                0.003767491926803014,
+                0.001076426264800861,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305,
+                0.0005382131324004305
+            ]
+        },
+        {
+            "begin": 1713,
+            "end": 1719,
+            "text": "Canada",
+            "concept": 0,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1790,
+            "end": 1797,
+            "text": "Toronto",
+            "concept": 1,
+            "candidates": [
+                "Toronto",
+                "Toronto_Raptors",
+                "Toronto_Maple_Leafs",
+                "Canadian_Open_(tennis)",
+                "Toronto_FC",
+                "University_of_Toronto",
+                "2015\u201316_Toronto_Raptors_season",
+                "2016\u201317_Toronto_Raptors_season",
+                "Honda_Indy_Toronto",
+                "2017\u201318_Toronto_Raptors_season",
+                "Toronto_Blue_Jays",
+                "Toronto_Varsity_Blues",
+                "Toronto_International_Film_Festival",
+                "2017\u201318_Toronto_Maple_Leafs_season",
+                "2007\u201308_Toronto_Raptors_season",
+                "2014\u201315_Toronto_Raptors_season"
+            ],
+            "scores": [
+                0.8382384941790882,
+                0.020753998476770754,
+                0.010281797410510283,
+                0.006446523773256447,
+                0.006011315417256012,
+                0.004243281471004243,
+                0.0032912631922532914,
+                0.002964856925252965,
+                0.0029104558807529104,
+                0.0027744532695027743,
+                0.0025296485692525295,
+                0.002203242302252203,
+                0.002176041780002176,
+                0.002012838646502013,
+                0.0018224349907518225,
+                0.0016592318572516591
+            ]
+        },
+        {
+            "begin": 1877,
+            "end": 1884,
+            "text": "Toronto",
+            "concept": 1,
+            "candidates": [
+                "Toronto",
+                "Toronto_Raptors",
+                "Toronto_Maple_Leafs",
+                "Canadian_Open_(tennis)",
+                "Toronto_FC",
+                "University_of_Toronto",
+                "2015\u201316_Toronto_Raptors_season",
+                "2016\u201317_Toronto_Raptors_season",
+                "Honda_Indy_Toronto",
+                "2017\u201318_Toronto_Raptors_season",
+                "Toronto_Blue_Jays",
+                "Toronto_Varsity_Blues",
+                "Toronto_International_Film_Festival",
+                "2017\u201318_Toronto_Maple_Leafs_season",
+                "2007\u201308_Toronto_Raptors_season",
+                "2014\u201315_Toronto_Raptors_season"
+            ],
+            "scores": [
+                0.8382384941790882,
+                0.020753998476770754,
+                0.010281797410510283,
+                0.006446523773256447,
+                0.006011315417256012,
+                0.004243281471004243,
+                0.0032912631922532914,
+                0.002964856925252965,
+                0.0029104558807529104,
+                0.0027744532695027743,
+                0.0025296485692525295,
+                0.002203242302252203,
+                0.002176041780002176,
+                0.002012838646502013,
+                0.0018224349907518225,
+                0.0016592318572516591
+            ]
+        },
+        {
+            "begin": 1900,
+            "end": 1907,
+            "text": "Toronto",
+            "concept": 1,
+            "candidates": [
+                "Toronto",
+                "Toronto_Raptors",
+                "Toronto_Maple_Leafs",
+                "Canadian_Open_(tennis)",
+                "Toronto_FC",
+                "University_of_Toronto",
+                "2015\u201316_Toronto_Raptors_season",
+                "2016\u201317_Toronto_Raptors_season",
+                "Honda_Indy_Toronto",
+                "2017\u201318_Toronto_Raptors_season",
+                "Toronto_Blue_Jays",
+                "Toronto_Varsity_Blues",
+                "Toronto_International_Film_Festival",
+                "2017\u201318_Toronto_Maple_Leafs_season",
+                "2007\u201308_Toronto_Raptors_season",
+                "2014\u201315_Toronto_Raptors_season"
+            ],
+            "scores": [
+                0.8382384941790882,
+                0.020753998476770754,
+                0.010281797410510283,
+                0.006446523773256447,
+                0.006011315417256012,
+                0.004243281471004243,
+                0.0032912631922532914,
+                0.002964856925252965,
+                0.0029104558807529104,
+                0.0027744532695027743,
+                0.0025296485692525295,
+                0.002203242302252203,
+                0.002176041780002176,
+                0.002012838646502013,
+                0.0018224349907518225,
+                0.0016592318572516591
+            ]
+        },
+        {
+            "begin": 1916,
+            "end": 1924,
+            "text": "Thursday",
+            "concept": 7
+        },
+        {
+            "begin": 2019,
+            "end": 2026,
+            "text": "Toronto",
+            "concept": 1,
+            "candidates": [
+                "Toronto",
+                "Toronto_Raptors",
+                "Toronto_Maple_Leafs",
+                "Canadian_Open_(tennis)",
+                "Toronto_FC",
+                "University_of_Toronto",
+                "2015\u201316_Toronto_Raptors_season",
+                "2016\u201317_Toronto_Raptors_season",
+                "Honda_Indy_Toronto",
+                "2017\u201318_Toronto_Raptors_season",
+                "Toronto_Blue_Jays",
+                "Toronto_Varsity_Blues",
+                "Toronto_International_Film_Festival",
+                "2017\u201318_Toronto_Maple_Leafs_season",
+                "2007\u201308_Toronto_Raptors_season",
+                "2014\u201315_Toronto_Raptors_season"
+            ],
+            "scores": [
+                0.8382384941790882,
+                0.020753998476770754,
+                0.010281797410510283,
+                0.006446523773256447,
+                0.006011315417256012,
+                0.004243281471004243,
+                0.0032912631922532914,
+                0.002964856925252965,
+                0.0029104558807529104,
+                0.0027744532695027743,
+                0.0025296485692525295,
+                0.002203242302252203,
+                0.002176041780002176,
+                0.002012838646502013,
+                0.0018224349907518225,
+                0.0016592318572516591
+            ]
+        },
+        {
+            "begin": 2239,
+            "end": 2260,
+            "text": "rs/sms (dpa, Reuters)",
+            "concept": 14
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Canada",
+            "keyword": true,
+            "count": 3,
+            "link": "Canada",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Toronto",
+            "keyword": true,
+            "count": 5,
+            "link": "Toronto",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Bombay Bhel",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000335",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Mississauga",
+            "keyword": true,
+            "count": 3,
+            "link": "Mississauga",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Matt Bertram",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::police"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Indian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Canadian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "10:30 p.m. local time",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "0230 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Peel Regional Police",
+            "keyword": false,
+            "count": 1,
+            "link": "Peel_Regional_Police",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::police"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Peel Region",
+            "keyword": false,
+            "count": 2,
+            "link": "Regional_Municipality_of_Peel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::loc",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Sergeant",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "rs/sms \u00a0 (dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "keyword": false,
+            "count": 0,
+            "link": "India",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in2",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "target",
+                    "value": 2
+                },
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "03000000",
+        "20000082",
+        "20000103",
+        "20000139",
+        "20000160"
+    ]
+}

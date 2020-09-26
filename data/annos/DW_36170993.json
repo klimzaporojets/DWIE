@@ -1,0 +1,251 @@
+{
+    "id": "DW_36170993",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 20,
+            "end": 45,
+            "text": "Ep 03: Looking for Clues!",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 65,
+            "end": 69,
+            "text": "Matu",
+            "concept": 5,
+            "candidates": [
+                "Matu_District",
+                "Nga_La_language",
+                "Matus",
+                "Ma_(cuneiform)",
+                "Matu,_Kalewa"
+            ],
+            "scores": [
+                0.6111111111111112,
+                0.16666666666666666,
+                0.1111111111111111,
+                0.05555555555555555,
+                0.05555555555555555
+            ]
+        },
+        {
+            "begin": 86,
+            "end": 96,
+            "text": "girlfriend",
+            "concept": 6
+        },
+        {
+            "begin": 97,
+            "end": 103,
+            "text": "Zawadi",
+            "concept": 1,
+            "candidates": [
+                "Monster_Hunters"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 122,
+            "end": 133,
+            "text": "best friend",
+            "concept": 7
+        },
+        {
+            "begin": 135,
+            "end": 140,
+            "text": "Kendi",
+            "concept": 2,
+            "candidates": [
+                "Kendi_Island"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 160,
+            "end": 165,
+            "text": "Kendi",
+            "concept": 2,
+            "candidates": [
+                "Kendi_Island"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 213,
+            "end": 218,
+            "text": "Tembo",
+            "concept": 3,
+            "candidates": [
+                "Tembo",
+                "Budza_language",
+                "Tembo_(Kitembo)_language"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 316,
+            "end": 322,
+            "text": "Zawadi",
+            "concept": 1,
+            "candidates": [
+                "Monster_Hunters"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "Zawadi",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::01000000",
+                "slot::keyword",
+                "topic::culture",
+                "type::character",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Kendi",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::01000000",
+                "slot::keyword",
+                "topic::culture",
+                "type::character",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Tembo",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "slot::keyword",
+                "topic::culture",
+                "type::character",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Ep 03: Looking for Clues!",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "topic::culture",
+                "type::entity",
+                "type::misc",
+                "type::tv_title",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Matu",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "meta::todo",
+                "topic::culture",
+                "topic::none",
+                "type::character",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "girlfriend",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "best friend",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "character_in",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "character_in",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "character_in",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "character_in",
+            "o": 4
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "01000000",
+        "20000002",
+        "20000005"
+    ]
+}

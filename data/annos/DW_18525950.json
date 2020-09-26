@@ -1,0 +1,2043 @@
+{
+    "id": "DW_18525950",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 21,
+            "text": "Christopher Springate",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 32,
+            "end": 41,
+            "text": "Hong Kong",
+            "concept": 1,
+            "candidates": [
+                "Hong_Kong",
+                "Hong_Kong_people",
+                "Hong_Kong_national_cricket_team",
+                "British_Hong_Kong",
+                "Hong_Kong_national_football_team",
+                "Cinema_of_Hong_Kong",
+                "Hong_Kong_Open_(tennis)",
+                "Hong_Kong_International_Airport",
+                "Hong_Kong_national_rugby_union_team",
+                "LGBT_rights_in_Hong_Kong",
+                "Hong_Kong_women's_national_squash_team",
+                "Football_in_Hong_Kong",
+                "Television_in_Hong_Kong",
+                "Hong_Kong_(TV_series)",
+                "Hong_Kong_men's_national_squash_team",
+                "Hong_Kong_women's_national_football_team"
+            ],
+            "scores": [
+                0.8689299239250645,
+                0.015449579409497637,
+                0.013874459599852541,
+                0.01250041891484299,
+                0.0118636683534971,
+                0.008813968296524682,
+                0.005026978115888602,
+                0.004524280304299742,
+                0.00442374074198197,
+                0.003585911056000536,
+                0.0020443044337946983,
+                0.0017761989342806395,
+                0.0017091725594021248,
+                0.001541606622205838,
+                0.0013740406850095512,
+                0.0012399879352525218
+            ]
+        },
+        {
+            "begin": 53,
+            "end": 60,
+            "text": "English",
+            "concept": 2,
+            "candidates": [
+                "English_language",
+                "England",
+                "English_people",
+                "English_poetry",
+                "English_studies",
+                "Kingdom_of_England",
+                "English_Americans",
+                "United_Kingdom",
+                "English_literature",
+                "Australian_English",
+                "England_national_football_team",
+                "American_English",
+                "Philippine_English",
+                "English_law",
+                "English_Canadians",
+                "English-speaking_world"
+            ],
+            "scores": [
+                0.48988774122184187,
+                0.23750728710444102,
+                0.1568334354773614,
+                0.026069149015680353,
+                0.017922539948280244,
+                0.0103290034230706,
+                0.010254263890342157,
+                0.00554567332845035,
+                0.0033632789727798622,
+                0.002660727365132513,
+                0.0023916650473101244,
+                0.0019133320378480994,
+                0.0015545822807515807,
+                0.001509738561114516,
+                0.001509738561114516,
+                0.0012556241498378152
+            ]
+        },
+        {
+            "begin": 62,
+            "end": 68,
+            "text": "German",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 70,
+            "end": 76,
+            "text": "French",
+            "concept": 4,
+            "candidates": [
+                "France",
+                "French_language",
+                "French_people",
+                "French_poetry",
+                "Cinema_of_France",
+                "Kingdom_of_France",
+                "French_cuisine",
+                "French_Americans",
+                "First_French_Empire",
+                "French_Third_Republic",
+                "French_colonial_empire",
+                "Canadian_French",
+                "French_Canadians",
+                "French_First_Republic",
+                "French_Army",
+                "French_Navy"
+            ],
+            "scores": [
+                0.4247991377621007,
+                0.38668430335097004,
+                0.09499314128943759,
+                0.008426415833823241,
+                0.006025867136978248,
+                0.005323665817492978,
+                0.005078711868835325,
+                0.004033575021229342,
+                0.003657978966620942,
+                0.0027434842249657062,
+                0.002514860539551898,
+                0.0023188973806257756,
+                0.002155594748187341,
+                0.002155594748187341,
+                0.0016983473773597231,
+                0.0016820171141158796
+            ]
+        },
+        {
+            "begin": 78,
+            "end": 88,
+            "text": "Portuguese",
+            "concept": 5,
+            "candidates": [
+                "Portuguese_language",
+                "Portugal",
+                "Portuguese_people",
+                "Portuguese_Empire",
+                "Kingdom_of_Portugal",
+                "Portuguese_India",
+                "Portuguese_Americans",
+                "Portuguese_cuisine",
+                "Portuguese_Brazilians",
+                "Portuguese_Ceylon",
+                "Brazilian_Portuguese",
+                "Portuguese_poetry",
+                "Portuguese_Canadians",
+                "Portugal_national_football_team",
+                "Architecture_of_Portugal",
+                "Cinema_of_Portugal"
+            ],
+            "scores": [
+                0.4249583847929979,
+                0.3615958760672287,
+                0.1253825914192128,
+                0.025237609407721635,
+                0.008161950276539763,
+                0.004725339633786178,
+                0.004242066262148955,
+                0.004080975138269881,
+                0.0031681254362884606,
+                0.003114428394995436,
+                0.003114428394995436,
+                0.0027385491059442623,
+                0.0016109112387907426,
+                0.001503517156204693,
+                0.0009128497019814208,
+                0.0008054556193953713
+            ]
+        },
+        {
+            "begin": 90,
+            "end": 97,
+            "text": "Spanish",
+            "concept": 6,
+            "candidates": [
+                "Spanish_language",
+                "Spain",
+                "Spaniards",
+                "Spanish_Empire",
+                "Spanish_poetry",
+                "Spanish_language_in_the_Philippines",
+                "Spanish_cuisine",
+                "Cinema_of_Spain",
+                "Spanish_language_in_the_United_States",
+                "Spanish_colonization_of_the_Americas",
+                "Spanish_Americans",
+                "New_Spain",
+                "Habsburg_Spain",
+                "Football_in_Spain",
+                "Music_of_Spain",
+                "Spanish_wine"
+            ],
+            "scores": [
+                0.5239500758981278,
+                0.30972058244785516,
+                0.08132343846629561,
+                0.016275931860347446,
+                0.004750660594816439,
+                0.003907348063192219,
+                0.003232698037892843,
+                0.0030921459492888066,
+                0.0022769438353853937,
+                0.0021645021645021645,
+                0.0020801709113397425,
+                0.001939618822735706,
+                0.0018552875695732839,
+                0.0017428458986900545,
+                0.0014336313037611739,
+                0.0011806375442739079
+            ]
+        },
+        {
+            "begin": 114,
+            "end": 121,
+            "text": "Italian",
+            "concept": 7,
+            "candidates": [
+                "Italy",
+                "Italian_language",
+                "Italians",
+                "Cinema_of_Italy",
+                "Italian_Americans",
+                "Italian_poetry",
+                "Kingdom_of_Italy",
+                "Italian_cuisine",
+                "Italian_Canadians",
+                "Italian_wine",
+                "Culture_of_Italy",
+                "Italian_Brazilians",
+                "Italian_Australians",
+                "Politics_of_Italy",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_football_team"
+            ],
+            "scores": [
+                0.5550384500149805,
+                0.21693798062518727,
+                0.13436532507739937,
+                0.024588035553780085,
+                0.01122540697093778,
+                0.008149405772495755,
+                0.007410366523519425,
+                0.007130730050933786,
+                0.0015979227004893639,
+                0.001258364126635374,
+                0.0011584939578547888,
+                0.0010586237890742036,
+                0.0010386497553180865,
+                0.000838909417756916,
+                0.000818935384000799,
+                0.0007789873164885648
+            ]
+        },
+        {
+            "begin": 163,
+            "end": 193,
+            "text": "Modern and Mediaeval Languages",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 195,
+            "end": 217,
+            "text": "St Catharine\u00b4s College",
+            "concept": 9,
+            "candidates": [
+                "St_Catharine's_College,_Cambridge"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 219,
+            "end": 228,
+            "text": "Cambridge",
+            "concept": 10,
+            "candidates": [
+                "Cambridge",
+                "University_of_Cambridge",
+                "Cambridge,_Massachusetts",
+                "Cambridge_(UK_Parliament_constituency)",
+                "Cambridge,_Ontario",
+                "Cambridge,_New_Zealand",
+                "Cambridge_University_Boat_Club",
+                "Cambridge,_Maryland",
+                "Cambridge_railway_station",
+                "Cambridge_R.U.F.C.",
+                "Cambridge,_Ohio",
+                "Cambridge_(electoral_district)",
+                "Cambridge_University_Cricket_Club",
+                "Cambridge,_Minnesota",
+                "Cambridge_(provincial_electoral_district)",
+                "Cambridge_University_R.U.F.C."
+            ],
+            "scores": [
+                0.4615794278758369,
+                0.19917833231892879,
+                0.13618381010346928,
+                0.02632379793061473,
+                0.025943396226415096,
+                0.015672550213024956,
+                0.014911746804625686,
+                0.009966524650030431,
+                0.00928180158247109,
+                0.008444917833231893,
+                0.007684114424832624,
+                0.007227632379793061,
+                0.007151552038953134,
+                0.006618989653073646,
+                0.004184418746195983,
+                0.0036518563603164943
+            ]
+        },
+        {
+            "begin": 241,
+            "end": 262,
+            "text": "Periodical Journalism",
+            "concept": 11,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 264,
+            "end": 291,
+            "text": "Grad. Centre for Journalism",
+            "concept": 12,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 293,
+            "end": 308,
+            "text": "City University",
+            "concept": 13,
+            "candidates": [
+                "City,_University_of_London",
+                "City_University_of_New_York",
+                "City_University_of_Hong_Kong",
+                "City_University_of_Seattle",
+                "City_University_of_Mogadishu",
+                "City_University,_Bangladesh",
+                "Department_of_Journalism,_City_University",
+                "University",
+                "National_Autonomous_University_of_Mexico",
+                "Graduate_Center,_CUNY",
+                "Humboldt_University_of_Berlin",
+                "Local_colleges_and_universities_(Philippines)",
+                "University_of_Bucharest",
+                "Queens_College,_City_University_of_New_York",
+                "City_University"
+            ],
+            "scores": [
+                0.8023255813953488,
+                0.08139534883720931,
+                0.03875968992248062,
+                0.015503875968992248,
+                0.015503875968992248,
+                0.007751937984496124,
+                0.007751937984496124,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062,
+                0.003875968992248062
+            ]
+        },
+        {
+            "begin": 310,
+            "end": 316,
+            "text": "London",
+            "concept": 14,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 329,
+            "end": 348,
+            "text": "European Journalism",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 350,
+            "end": 386,
+            "text": "Centre de Formation des Journalistes",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 388,
+            "end": 393,
+            "text": "Paris",
+            "concept": 17,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 408,
+            "end": 410,
+            "text": "DW",
+            "concept": 18,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 412,
+            "end": 429,
+            "text": "BBC World Service",
+            "concept": 19,
+            "candidates": [
+                "BBC_World_Service",
+                "BBC_World_Service_Television",
+                "BBC",
+                "BBC_World_News",
+                "BBC_News"
+            ],
+            "scores": [
+                0.9963702359346642,
+                0.0012099213551119178,
+                0.0012099213551119178,
+                0.0006049606775559589,
+                0.0006049606775559589
+            ]
+        },
+        {
+            "begin": 431,
+            "end": 439,
+            "text": "Guardian",
+            "concept": 20,
+            "candidates": [
+                "The_Guardian",
+                "Legal_guardian",
+                "Guardian_(DC_Comics)",
+                "TheGuardian.com",
+                "Guardian_(band)",
+                "Custos_(Franciscans)",
+                "Guardian_(Bah\u00e1'\u00ed_Faith)",
+                "GuardiaN",
+                "Guardian_(Marvel_Comics)",
+                "Guardian_(song)",
+                "The_Guardian_(Nigeria)",
+                "Guardians_of_the_Universe",
+                "Guardian_(web_series)",
+                "Guardian_temperament",
+                "Guardian_(fireboat)",
+                "Trinidad_and_Tobago_Guardian"
+            ],
+            "scores": [
+                0.5830945558739254,
+                0.07879656160458452,
+                0.04799426934097421,
+                0.04297994269340974,
+                0.03581661891117478,
+                0.03008595988538682,
+                0.03008595988538682,
+                0.025787965616045846,
+                0.024355300859598854,
+                0.0071633237822349575,
+                0.0071633237822349575,
+                0.0064469914040114614,
+                0.0057306590257879654,
+                0.00501432664756447,
+                0.004297994269340974,
+                0.0035816618911174787
+            ]
+        },
+        {
+            "begin": 441,
+            "end": 452,
+            "text": "Independent",
+            "concept": 21,
+            "candidates": [
+                "Independent_politician",
+                "Independent_film",
+                "Independent_station_(North_America)",
+                "NCAA_Division_I_FBS_independent_schools",
+                "Independent_school",
+                "Independent_school_(United_Kingdom)",
+                "Independence_(probability_theory)",
+                "Independent_record_label",
+                "Independent_music",
+                "Independent_circuit",
+                "Independent_station",
+                "The_Independent",
+                "Independent_baseball_league",
+                "Independence",
+                "Independent_(religion)",
+                "Independent_(United_States)"
+            ],
+            "scores": [
+                0.7299063302613688,
+                0.05212267714156217,
+                0.024701616558392505,
+                0.023039734098806466,
+                0.020660220577126454,
+                0.015561263030669285,
+                0.011066626378607041,
+                0.010575615651911166,
+                0.009782444478017828,
+                0.008196102130231152,
+                0.0076295512917359115,
+                0.006949690285541623,
+                0.005967668832149871,
+                0.005514428161353679,
+                0.004872337211059072,
+                0.004268016316664148
+            ]
+        },
+        {
+            "begin": 454,
+            "end": 467,
+            "text": "New Statesman",
+            "concept": 22,
+            "candidates": [
+                "New_Statesman"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 478,
+            "end": 480,
+            "text": "DW",
+            "concept": 18,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 488,
+            "end": 492,
+            "text": "1992",
+            "concept": 23
+        },
+        {
+            "begin": 600,
+            "end": 602,
+            "text": "US",
+            "concept": 24,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 603,
+            "end": 612,
+            "text": "President",
+            "concept": 25
+        },
+        {
+            "begin": 613,
+            "end": 628,
+            "text": "John F. Kennedy",
+            "concept": 26,
+            "candidates": [
+                "John_F._Kennedy",
+                "Assassination_of_John_F._Kennedy",
+                "John_F._Kennedy_High_School_(New_York_City)",
+                "John_F._Kennedy_International_Airport",
+                "John_F_Kennedy_(horse)",
+                "John_F._Kennedy_High_School_(Cleveland,_Ohio)",
+                "USS_John_F._Kennedy_(CV-67)",
+                "John_F._Kennedy_(Georgia_politician)",
+                "Presidency_of_John_F._Kennedy",
+                "Bloomington_Kennedy_High_School",
+                "John_F._Kennedy_Catholic_High_School_(Somers,_New_York)",
+                "John_F._Kennedy_High_School_(Warren,_Ohio)",
+                "State_funeral_of_John_F._Kennedy",
+                "John_F._Kennedy_College",
+                "John_F._Kennedy_High_School_(Cedar_Rapids,_Iowa)",
+                "John_F._Kennedy_presidential_campaign,_1960"
+            ],
+            "scores": [
+                0.9855337078651686,
+                0.002949438202247191,
+                0.0016853932584269663,
+                0.0014044943820224719,
+                0.0012640449438202246,
+                0.0009831460674157304,
+                0.0009831460674157304,
+                0.0005617977528089888,
+                0.0005617977528089888,
+                0.0005617977528089888,
+                0.0004213483146067416,
+                0.0004213483146067416,
+                0.0004213483146067416,
+                0.0002808988764044944,
+                0.0001404494382022472,
+                0.0001404494382022472
+            ]
+        },
+        {
+            "begin": 736,
+            "end": 742,
+            "text": "Soviet",
+            "concept": 27
+        },
+        {
+            "begin": 743,
+            "end": 750,
+            "text": "Premier",
+            "concept": 28
+        },
+        {
+            "begin": 752,
+            "end": 767,
+            "text": "Nikita Kruschev",
+            "concept": 29,
+            "candidates": [
+                "Nikita_Khrushchev"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 787,
+            "end": 801,
+            "text": "Nelson Mandela",
+            "concept": 30,
+            "candidates": [
+                "Nelson_Mandela",
+                "Free_Nelson_Mandela",
+                "Nelson_Mandela_(EP)",
+                "Memorial_service_of_Nelson_Mandela",
+                "Statue_of_Nelson_Mandela,_Union_Buildings",
+                "Death_of_Nelson_Mandela",
+                "Nelson_Mandela_Bay_Stadium"
+            ],
+            "scores": [
+                0.9952830188679245,
+                0.0016846361185983828,
+                0.0006738544474393531,
+                0.0006738544474393531,
+                0.0006738544474393531,
+                0.0006738544474393531,
+                0.00033692722371967657
+            ]
+        },
+        {
+            "begin": 2174,
+            "end": 2222,
+            "text": "Kavango-Zambezi Trans-Frontier Conservation Area",
+            "concept": 31,
+            "candidates": [
+                "Kavango\u2013Zambezi_Transfrontier_Conservation_Area"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2235,
+            "end": 2241,
+            "text": "Africa",
+            "concept": 32,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 2269,
+            "end": 2279,
+            "text": "Mozambique",
+            "concept": 33,
+            "candidates": [
+                "Mozambique",
+                "Portuguese_Mozambique",
+                "Mozambique_national_football_team",
+                "People's_Republic_of_Mozambique",
+                "Mozambican_Football_Federation",
+                "Mozambique_women's_national_football_team",
+                "Mozambique_Defence_Armed_Forces",
+                "Mozambique_national_cricket_team",
+                "Mozambique_(film)",
+                "Mozambique_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Mozambique",
+                "Island_of_Mozambique",
+                "Mozambique_Ports_and_Railways",
+                "Mozambique_(music)",
+                "Music_of_Mozambique",
+                "Elections_in_Mozambique"
+            ],
+            "scores": [
+                0.9045627376425855,
+                0.028897338403041824,
+                0.015209125475285171,
+                0.006083650190114068,
+                0.00532319391634981,
+                0.0029150823827629913,
+                0.0029150823827629913,
+                0.0025348542458808617,
+                0.0021546261089987325,
+                0.0020278833967046894,
+                0.0016476552598225602,
+                0.0016476552598225602,
+                0.001394169835234474,
+                0.001394169835234474,
+                0.0012674271229404308,
+                0.0011406844106463879
+            ]
+        },
+        {
+            "begin": 2286,
+            "end": 2292,
+            "text": "Maputo",
+            "concept": 34,
+            "candidates": [
+                "Maputo",
+                "Maputo_Province",
+                "Roman_Catholic_Archdiocese_of_Maputo",
+                "Maputo_River",
+                "Maputo_International_Airport",
+                "Est\u00e1dio_do_Zimpeto",
+                "2011_All-Africa_Games",
+                "Liga_Desportiva_de_Maputo"
+            ],
+            "scores": [
+                0.9718969555035128,
+                0.00936768149882904,
+                0.00624512099921936,
+                0.0039032006245121,
+                0.0039032006245121,
+                0.00312256049960968,
+                0.00078064012490242,
+                0.00078064012490242
+            ]
+        },
+        {
+            "begin": 2309,
+            "end": 2312,
+            "text": "Ibo",
+            "concept": 35,
+            "candidates": [
+                "International_Boxing_Organization",
+                "Igbo_people",
+                "Igbo_language",
+                "International_Baccalaureate",
+                "International_Biology_Olympiad",
+                "Ibo_(Mozambique)",
+                "Ibo_District",
+                "Ibo_District,_Hy\u014dgo",
+                "International_Radio_and_Television_Organisation",
+                "International_Boxing_Federation",
+                "IB_Middle_Years_Programme",
+                "Ibo_(disambiguation)"
+            ],
+            "scores": [
+                0.7948717948717948,
+                0.07948717948717948,
+                0.035897435897435895,
+                0.03076923076923077,
+                0.020512820512820513,
+                0.017948717948717947,
+                0.005128205128205128,
+                0.005128205128205128,
+                0.002564102564102564,
+                0.002564102564102564,
+                0.002564102564102564,
+                0.002564102564102564
+            ]
+        },
+        {
+            "begin": 2351,
+            "end": 2363,
+            "text": "South Africa",
+            "concept": 36,
+            "candidates": [
+                "South_Africa",
+                "South_Africa_national_cricket_team",
+                "South_Africa_national_rugby_union_team",
+                "South_Africa_national_football_team",
+                "Union_of_South_Africa",
+                "South_African_Rugby_Union",
+                "A1_Team_South_Africa",
+                "South_Africa_women's_national_cricket_team",
+                "Same-sex_marriage_in_South_Africa",
+                "South_Africa_national_rugby_league_team",
+                "South_Africa_women's_national_football_team",
+                "South_African_Football_Association",
+                "South_Africa_national_rugby_sevens_team",
+                "South_African_wine",
+                "South_Africa_Fed_Cup_team",
+                "South_Africa_national_baseball_team"
+            ],
+            "scores": [
+                0.8268390962215987,
+                0.04160249783759836,
+                0.036011898483154364,
+                0.01805869074492099,
+                0.00905044197379802,
+                0.00867070314972258,
+                0.003818484842091939,
+                0.0036497120313917428,
+                0.0026370751671905657,
+                0.0023206261471276977,
+                0.002278432944452649,
+                0.00200417712706483,
+                0.0015400518976392903,
+                0.0014767620936267168,
+                0.001202506276238898,
+                0.0011392164722263244
+            ]
+        },
+        {
+            "begin": 2419,
+            "end": 2433,
+            "text": "Okavango Delta",
+            "concept": 37,
+            "candidates": [
+                "Okavango_Delta"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2437,
+            "end": 2445,
+            "text": "Botswana",
+            "concept": 38,
+            "candidates": [
+                "Botswana",
+                "Botswana_national_football_team",
+                "Botswana_Football_Association",
+                "Botswana_national_cricket_team",
+                "Botswana_at_the_2006_Commonwealth_Games",
+                "Botswana_women's_national_football_team",
+                "Botswana_Defence_Force",
+                "Botswana_national_rugby_union_team",
+                "Botswana_Defence_Force_Air_Wing",
+                "Football_in_Botswana",
+                "LGBT_rights_in_Botswana",
+                "Miss_Botswana",
+                "Botswana_Fed_Cup_team",
+                "Botswana_men's_national_squash_team",
+                "Elections_in_Botswana",
+                "Transport_in_Botswana"
+            ],
+            "scores": [
+                0.9150224653252589,
+                0.02617698769290877,
+                0.007618675522563001,
+                0.005860519632740769,
+                0.0035163117796444617,
+                0.002344207853096308,
+                0.0019535065442469234,
+                0.0017581558898222308,
+                0.0015628052353975385,
+                0.0015628052353975385,
+                0.0015628052353975385,
+                0.0013674545809728462,
+                0.0013674545809728462,
+                0.001172103926548154,
+                0.001172103926548154,
+                0.001172103926548154
+            ]
+        },
+        {
+            "begin": 2517,
+            "end": 2523,
+            "text": "Brazil",
+            "concept": 39,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 2552,
+            "end": 2565,
+            "text": "Walter Salles",
+            "concept": 40,
+            "candidates": [
+                "Walter_Salles"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2567,
+            "end": 2571,
+            "text": "film",
+            "concept": 41
+        },
+        {
+            "begin": 2574,
+            "end": 2589,
+            "text": "Central Station",
+            "concept": 42,
+            "candidates": [
+                "Central_Station_(film)",
+                "Central_railway_station,_Sydney",
+                "Montreal_Central_Station",
+                "Central_Station_(Chicago_terminal)",
+                "Central_station_(MTR)",
+                "Rapid_Central_Station",
+                "Central_railway_station,_Brisbane",
+                "Hamburg_Hauptbahnhof",
+                "Amsterdam_Centraal_station",
+                "Central_station",
+                "Aarhus_Central_Station",
+                "Copenhagen_Central_Station",
+                "Central_Station,_Chicago",
+                "Memphis_Central_Station",
+                "Central_station_(Metro_Transit)",
+                "Central_station_(Jacksonville)"
+            ],
+            "scores": [
+                0.16477272727272727,
+                0.13210227272727273,
+                0.12073863636363637,
+                0.046875,
+                0.03125,
+                0.029829545454545456,
+                0.029829545454545456,
+                0.028409090909090908,
+                0.024147727272727272,
+                0.024147727272727272,
+                0.022727272727272728,
+                0.02130681818181818,
+                0.015625,
+                0.015625,
+                0.014204545454545454,
+                0.014204545454545454
+            ]
+        },
+        {
+            "begin": 2625,
+            "end": 2627,
+            "text": "US",
+            "concept": 24,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2677,
+            "end": 2690,
+            "text": "Latin America",
+            "concept": 43,
+            "candidates": [
+                "Latin_America",
+                "Senior_League_World_Series_(Latin_America_Region)",
+                "Little_League_World_Series_in_Latin_America",
+                "Maunabo,_Puerto_Rico",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Junior_League_World_Series_(Latin_America_Region)",
+                "Latin_American_literature",
+                "United_Nations_geoscheme_for_the_Americas",
+                "Boomerang_(Latin_America)",
+                "Music_of_Latin_America",
+                "History_of_the_Jews_in_Latin_America_and_the_Caribbean",
+                "Intermediate_League_World_Series_(Latin_America_Region)",
+                "Latin_American_poetry",
+                "Mexicali",
+                "Monterrey",
+                "Latin_American_cuisine"
+            ],
+            "scores": [
+                0.9514010507880911,
+                0.008464681844716871,
+                0.004524226503210741,
+                0.0035026269702276708,
+                0.003356684179801518,
+                0.003356684179801518,
+                0.0024810274372446,
+                0.0018972562755399883,
+                0.0013134851138353765,
+                0.0011675423234092236,
+                0.0011675423234092236,
+                0.0010215995329830706,
+                0.0010215995329830706,
+                0.0008756567425569177,
+                0.0008756567425569177,
+                0.0008756567425569177
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Christopher Springate",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Hong Kong",
+            "keyword": false,
+            "count": 1,
+            "link": "Hong_Kong",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "English",
+            "keyword": false,
+            "count": 1,
+            "link": "English_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "link": "German_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "link": "French_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Portuguese",
+            "keyword": false,
+            "count": 1,
+            "link": "Portuguese_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Spanish",
+            "keyword": false,
+            "count": 1,
+            "link": "Spanish_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Italian",
+            "keyword": false,
+            "count": 1,
+            "link": "Italian_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Modern and Mediaeval Languages",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_study",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "St Catharine\u00b4s College",
+            "keyword": false,
+            "count": 1,
+            "link": "St_Catharine's_College,_Cambridge",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Cambridge",
+            "keyword": false,
+            "count": 1,
+            "link": "Cambridge",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Periodical Journalism",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_study",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Grad. Centre for Journalism",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "City University",
+            "keyword": false,
+            "count": 1,
+            "link": "City,_University_of_London",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "European Journalism",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_study",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Centre de Formation des Journalistes",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q2945328",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Paris",
+            "keyword": false,
+            "count": 1,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "BBC World Service",
+            "keyword": false,
+            "count": 1,
+            "link": "BBC_World_Service",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Guardian",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Guardian",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Independent",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Independent",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "New Statesman",
+            "keyword": false,
+            "count": 1,
+            "link": "New_Statesman",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "1992",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "John F. Kennedy",
+            "keyword": false,
+            "count": 1,
+            "link": "John_F._Kennedy",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Soviet",
+            "keyword": false,
+            "count": 1,
+            "link": "Soviet_Union",
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Premier",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Nikita Kruschev",
+            "keyword": false,
+            "count": 1,
+            "link": "Nikita_Khrushchev",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Nelson Mandela",
+            "keyword": false,
+            "count": 1,
+            "link": "Nelson_Mandela",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Kavango-Zambezi Trans-Frontier Conservation Area",
+            "keyword": false,
+            "count": 1,
+            "link": "Kavango\u2013Zambezi_Transfrontier_Conservation_Area",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Mozambique",
+            "keyword": false,
+            "count": 1,
+            "link": "Mozambique",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Maputo",
+            "keyword": false,
+            "count": 1,
+            "link": "Maputo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Ibo",
+            "keyword": false,
+            "count": 1,
+            "link": "Ibo_(Mozambique)",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "South Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "South_Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Okavango Delta",
+            "keyword": false,
+            "count": 1,
+            "link": "Okavango_Delta",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Botswana",
+            "keyword": false,
+            "count": 1,
+            "link": "Botswana",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Brazil",
+            "keyword": false,
+            "count": 1,
+            "link": "Brazil",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Walter Salles",
+            "keyword": false,
+            "count": 1,
+            "link": "Walter_Salles",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000005",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::filmmaker",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "film",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Central Station",
+            "keyword": false,
+            "count": 1,
+            "link": "Central_Station_(film)",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000005",
+                "topic::culture",
+                "type::entity",
+                "type::film_title",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "Latin America",
+            "keyword": false,
+            "count": 1,
+            "link": "Latin_America",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 44,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        },
+        {
+            "concept": 45,
+            "keyword": false,
+            "count": 0,
+            "link": "China",
+            "tags": []
+        },
+        {
+            "concept": 46,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 47,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 20
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 21
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 22
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 45
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "based_in2",
+            "o": 10
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 46
+        },
+        {
+            "s": 13,
+            "p": "based_in2",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 46
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 44
+        },
+        {
+            "s": 16,
+            "p": "based_in2",
+            "o": 17
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 44
+        },
+        {
+            "s": 18,
+            "p": "based_in0",
+            "o": 47
+        },
+        {
+            "s": 19,
+            "p": "based_in0",
+            "o": 46
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 46
+        },
+        {
+            "s": 26,
+            "p": "agent_of",
+            "o": 24
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 24
+        },
+        {
+            "s": 26,
+            "p": "head_of_state",
+            "o": 24
+        },
+        {
+            "s": 29,
+            "p": "head_of_gov-x",
+            "o": 27
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 33
+        },
+        {
+            "s": 35,
+            "p": "in0",
+            "o": 33
+        },
+        {
+            "s": 37,
+            "p": "in0",
+            "o": 38
+        },
+        {
+            "s": 42,
+            "p": "created_by",
+            "o": 40
+        }
+    ],
+    "frames": [],
+    "iptc": []
+}

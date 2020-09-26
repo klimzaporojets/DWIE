@@ -1,0 +1,1760 @@
+{
+    "id": "DW_19120622",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 16,
+            "end": 31,
+            "text": "Merrick Garland",
+            "concept": 1,
+            "candidates": [
+                "Merrick_Garland",
+                "Merrick_Garland_Supreme_Court_nomination"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.031578947368421054
+            ]
+        },
+        {
+            "begin": 35,
+            "end": 48,
+            "text": "Supreme Court",
+            "concept": 2,
+            "candidates": [
+                "Supreme_Court_of_the_United_States",
+                "Supreme_court",
+                "Supreme_Court_of_the_Philippines",
+                "Supreme_Court_of_India",
+                "Supreme_Court_of_Ireland",
+                "Supreme_Court_of_Norway",
+                "Supreme_Court_of_Pakistan",
+                "Supreme_Court_of_the_United_Kingdom",
+                "Supreme_Court_of_Canada",
+                "Supreme_Court_of_Israel",
+                "Supreme_Court_of_Japan",
+                "Supreme_Court_of_Spain",
+                "Supreme_Court_of_Sri_Lanka",
+                "Supreme_Court_of_New_South_Wales",
+                "Supreme_Court_of_New_Zealand",
+                "Supreme_Court_of_Singapore"
+            ],
+            "scores": [
+                0.39750762970498477,
+                0.08176500508646999,
+                0.05366225839267548,
+                0.04806714140386572,
+                0.02695829094608342,
+                0.025178026449643946,
+                0.024669379450661243,
+                0.021363173957273652,
+                0.02034587995930824,
+                0.01780264496439471,
+                0.015132248219735503,
+                0.009664292980671414,
+                0.009664292980671414,
+                0.008519837232960325,
+                0.00839267548321465,
+                0.008265513733468972
+            ]
+        },
+        {
+            "begin": 49,
+            "end": 51,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 52,
+            "end": 61,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 62,
+            "end": 74,
+            "text": "Barack Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Presidency_of_Barack_Obama",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_in_comics",
+                "Barack_Obama_presidential_campaign,_2012",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "President_Barack_Obama_(painting)",
+                "Efforts_to_impeach_Barack_Obama"
+            ],
+            "scores": [
+                0.9983731334611585,
+                0.0005810237638719423,
+                0.0005229213874847481,
+                0.00023240950554877696,
+                0.00011620475277438848,
+                5.810237638719424e-05,
+                5.810237638719424e-05,
+                5.810237638719424e-05
+            ]
+        },
+        {
+            "begin": 89,
+            "end": 104,
+            "text": "Merrick Garland",
+            "concept": 1,
+            "candidates": [
+                "Merrick_Garland",
+                "Merrick_Garland_Supreme_Court_nomination"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.031578947368421054
+            ]
+        },
+        {
+            "begin": 121,
+            "end": 134,
+            "text": "Supreme Court",
+            "concept": 2,
+            "candidates": [
+                "Supreme_Court_of_the_United_States",
+                "Supreme_court",
+                "Supreme_Court_of_the_Philippines",
+                "Supreme_Court_of_India",
+                "Supreme_Court_of_Ireland",
+                "Supreme_Court_of_Norway",
+                "Supreme_Court_of_Pakistan",
+                "Supreme_Court_of_the_United_Kingdom",
+                "Supreme_Court_of_Canada",
+                "Supreme_Court_of_Israel",
+                "Supreme_Court_of_Japan",
+                "Supreme_Court_of_Spain",
+                "Supreme_Court_of_Sri_Lanka",
+                "Supreme_Court_of_New_South_Wales",
+                "Supreme_Court_of_New_Zealand",
+                "Supreme_Court_of_Singapore"
+            ],
+            "scores": [
+                0.39750762970498477,
+                0.08176500508646999,
+                0.05366225839267548,
+                0.04806714140386572,
+                0.02695829094608342,
+                0.025178026449643946,
+                0.024669379450661243,
+                0.021363173957273652,
+                0.02034587995930824,
+                0.01780264496439471,
+                0.015132248219735503,
+                0.009664292980671414,
+                0.009664292980671414,
+                0.008519837232960325,
+                0.00839267548321465,
+                0.008265513733468972
+            ]
+        },
+        {
+            "begin": 203,
+            "end": 214,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 246,
+            "end": 260,
+            "text": "Antonin Scalia",
+            "concept": 4,
+            "candidates": [
+                "Antonin_Scalia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 265,
+            "end": 274,
+            "text": "Wednesday",
+            "concept": 8
+        },
+        {
+            "begin": 276,
+            "end": 285,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 286,
+            "end": 291,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 320,
+            "end": 327,
+            "text": "Garland",
+            "concept": 1,
+            "candidates": [
+                "Jon_Garland",
+                "Garland,_Texas",
+                "Garland",
+                "Garland_County,_Arkansas",
+                "National_Register_of_Historic_Places_listings_in_Garland_County,_Arkansas",
+                "Garland,_Utah",
+                "Garland,_Arkansas",
+                "Chris_Garland",
+                "Garland,_North_Carolina",
+                "Timeline_of_Garland,_Texas",
+                "Garland_High_School",
+                "Garland_Science",
+                "Garland,_Maine",
+                "Garland,_Nebraska",
+                "Polk_County,_Arkansas",
+                "HMS_Garland"
+            ],
+            "scores": [
+                0.27036599763872493,
+                0.24203069657615112,
+                0.1334120425029516,
+                0.09681227863046045,
+                0.09208972845336481,
+                0.025974025974025976,
+                0.018890200708382526,
+                0.015348288075560802,
+                0.009445100354191263,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0059031877213695395,
+                0.0059031877213695395,
+                0.004722550177095631,
+                0.004722550177095631
+            ]
+        },
+        {
+            "begin": 353,
+            "end": 355,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 356,
+            "end": 409,
+            "text": "Court of Appeals for the District of Columbia Circuit",
+            "concept": 5,
+            "candidates": [
+                "United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 440,
+            "end": 451,
+            "text": "White House",
+            "concept": 9,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 458,
+            "end": 463,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 473,
+            "end": 480,
+            "text": "Garland",
+            "concept": 1,
+            "candidates": [
+                "Jon_Garland",
+                "Garland,_Texas",
+                "Garland",
+                "Garland_County,_Arkansas",
+                "National_Register_of_Historic_Places_listings_in_Garland_County,_Arkansas",
+                "Garland,_Utah",
+                "Garland,_Arkansas",
+                "Chris_Garland",
+                "Garland,_North_Carolina",
+                "Timeline_of_Garland,_Texas",
+                "Garland_High_School",
+                "Garland_Science",
+                "Garland,_Maine",
+                "Garland,_Nebraska",
+                "Polk_County,_Arkansas",
+                "HMS_Garland"
+            ],
+            "scores": [
+                0.27036599763872493,
+                0.24203069657615112,
+                0.1334120425029516,
+                0.09681227863046045,
+                0.09208972845336481,
+                0.025974025974025976,
+                0.018890200708382526,
+                0.015348288075560802,
+                0.009445100354191263,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0059031877213695395,
+                0.0059031877213695395,
+                0.004722550177095631,
+                0.004722550177095631
+            ]
+        },
+        {
+            "begin": 747,
+            "end": 752,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 791,
+            "end": 806,
+            "text": "Merrick Garland",
+            "concept": 1,
+            "candidates": [
+                "Merrick_Garland",
+                "Merrick_Garland_Supreme_Court_nomination"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.031578947368421054
+            ]
+        },
+        {
+            "begin": 848,
+            "end": 858,
+            "text": "Washington",
+            "concept": 10,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 917,
+            "end": 928,
+            "text": "White House",
+            "concept": 9,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 937,
+            "end": 947,
+            "text": "Republican",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Republican_Party_of_Wisconsin",
+                "Republican_Party_of_Minnesota",
+                "Ohio_Republican_Party",
+                "Republicanism",
+                "Irish_republicanism",
+                "California_Republican_Party",
+                "North_Dakota_Republican_Party",
+                "Maine_Republican_Party",
+                "Republican_Party_of_Iowa",
+                "Second_Spanish_Republic",
+                "Republic",
+                "Democratic-Republican_Party",
+                "Oregon_Republican_Party",
+                "Vermont_Republican_Party",
+                "Oklahoma_Republican_Party"
+            ],
+            "scores": [
+                0.8884245987399382,
+                0.010770451711125147,
+                0.010414136015418752,
+                0.009895858639845812,
+                0.007676983625674165,
+                0.006219328506875273,
+                0.006105955330968693,
+                0.006008778323048767,
+                0.004696888716129764,
+                0.0037737071408904654,
+                0.003725118636930502,
+                0.0034011952771974153,
+                0.003223037429344217,
+                0.0031420565894109452,
+                0.002186482678198338,
+                0.0018301669824919424
+            ]
+        },
+        {
+            "begin": 959,
+            "end": 965,
+            "text": "Senate",
+            "concept": 11,
+            "candidates": [
+                "United_States_Senate",
+                "Australian_Senate",
+                "New_Jersey_Senate,_2018\u201319_term",
+                "Roman_Senate",
+                "Senate_(Netherlands)",
+                "Senate_of_Chile",
+                "Senate_of_Canada",
+                "Senate_(France)",
+                "Senate_of_Spain",
+                "Senate_of_the_Philippines",
+                "Senate_of_the_Republic_(Italy)",
+                "Senate",
+                "Senate_of_Romania",
+                "Minnesota_Senate",
+                "Senate_of_Poland",
+                "Senate_(Belgium)"
+            ],
+            "scores": [
+                0.24814814814814815,
+                0.06811594202898551,
+                0.057085346215781,
+                0.056682769726247986,
+                0.03413848631239936,
+                0.032286634460547504,
+                0.0322061191626409,
+                0.026167471819645734,
+                0.025925925925925925,
+                0.025603864734299518,
+                0.025603864734299518,
+                0.024476650563607084,
+                0.018760064412238327,
+                0.01634460547504026,
+                0.015297906602254429,
+                0.013365539452495974
+            ]
+        },
+        {
+            "begin": 1046,
+            "end": 1060,
+            "text": "Antonin Scalia",
+            "concept": 4,
+            "candidates": [
+                "Antonin_Scalia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1072,
+            "end": 1081,
+            "text": "Democrats",
+            "concept": 12,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Australian_Democrats",
+                "Democrats_(Brazil)",
+                "Democrats_(Greenland)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Montenegro",
+                "Democrats_in_Norway",
+                "Democracy",
+                "New_Zealand_Democratic_Party_for_Social_Credit",
+                "California_Democratic_Party",
+                "Vermont_Democratic_Party",
+                "Maine_Democratic_Party",
+                "Ohio_Democratic_Party",
+                "Democratic_Party_of_Oregon",
+                "Democrat_Party_(Thailand)",
+                "Florida_Democratic_Party"
+            ],
+            "scores": [
+                0.7198505869797225,
+                0.15741728922091783,
+                0.016008537886873,
+                0.01200640341515475,
+                0.011472785485592316,
+                0.007737459978655283,
+                0.006937033084311633,
+                0.005336179295624333,
+                0.003735325506937033,
+                0.003735325506937033,
+                0.002934898612593383,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.00240128068303095,
+                0.00240128068303095
+            ]
+        },
+        {
+            "begin": 1086,
+            "end": 1097,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 1112,
+            "end": 1121,
+            "text": "Democrats",
+            "concept": 12,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Australian_Democrats",
+                "Democrats_(Brazil)",
+                "Democrats_(Greenland)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Montenegro",
+                "Democrats_in_Norway",
+                "Democracy",
+                "New_Zealand_Democratic_Party_for_Social_Credit",
+                "California_Democratic_Party",
+                "Vermont_Democratic_Party",
+                "Maine_Democratic_Party",
+                "Ohio_Democratic_Party",
+                "Democratic_Party_of_Oregon",
+                "Democrat_Party_(Thailand)",
+                "Florida_Democratic_Party"
+            ],
+            "scores": [
+                0.7198505869797225,
+                0.15741728922091783,
+                0.016008537886873,
+                0.01200640341515475,
+                0.011472785485592316,
+                0.007737459978655283,
+                0.006937033084311633,
+                0.005336179295624333,
+                0.003735325506937033,
+                0.003735325506937033,
+                0.002934898612593383,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.00240128068303095,
+                0.00240128068303095
+            ]
+        },
+        {
+            "begin": 1143,
+            "end": 1148,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1218,
+            "end": 1231,
+            "text": "Supreme Court",
+            "concept": 2,
+            "candidates": [
+                "Supreme_Court_of_the_United_States",
+                "Supreme_court",
+                "Supreme_Court_of_the_Philippines",
+                "Supreme_Court_of_India",
+                "Supreme_Court_of_Ireland",
+                "Supreme_Court_of_Norway",
+                "Supreme_Court_of_Pakistan",
+                "Supreme_Court_of_the_United_Kingdom",
+                "Supreme_Court_of_Canada",
+                "Supreme_Court_of_Israel",
+                "Supreme_Court_of_Japan",
+                "Supreme_Court_of_Spain",
+                "Supreme_Court_of_Sri_Lanka",
+                "Supreme_Court_of_New_South_Wales",
+                "Supreme_Court_of_New_Zealand",
+                "Supreme_Court_of_Singapore"
+            ],
+            "scores": [
+                0.39750762970498477,
+                0.08176500508646999,
+                0.05366225839267548,
+                0.04806714140386572,
+                0.02695829094608342,
+                0.025178026449643946,
+                0.024669379450661243,
+                0.021363173957273652,
+                0.02034587995930824,
+                0.01780264496439471,
+                0.015132248219735503,
+                0.009664292980671414,
+                0.009664292980671414,
+                0.008519837232960325,
+                0.00839267548321465,
+                0.008265513733468972
+            ]
+        },
+        {
+            "begin": 1319,
+            "end": 1330,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 1403,
+            "end": 1409,
+            "text": "Scalia",
+            "concept": 4,
+            "candidates": [
+                "Antonin_Scalia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1446,
+            "end": 1454,
+            "text": "February",
+            "concept": 13
+        },
+        {
+            "begin": 1493,
+            "end": 1504,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 1549,
+            "end": 1554,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1636,
+            "end": 1644,
+            "text": "November",
+            "concept": 14
+        },
+        {
+            "begin": 1725,
+            "end": 1730,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1753,
+            "end": 1764,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 1900,
+            "end": 1905,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2002,
+            "end": 2007,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2305,
+            "end": 2310,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2421,
+            "end": 2428,
+            "text": "Garland",
+            "concept": 1,
+            "candidates": [
+                "Jon_Garland",
+                "Garland,_Texas",
+                "Garland",
+                "Garland_County,_Arkansas",
+                "National_Register_of_Historic_Places_listings_in_Garland_County,_Arkansas",
+                "Garland,_Utah",
+                "Garland,_Arkansas",
+                "Chris_Garland",
+                "Garland,_North_Carolina",
+                "Timeline_of_Garland,_Texas",
+                "Garland_High_School",
+                "Garland_Science",
+                "Garland,_Maine",
+                "Garland,_Nebraska",
+                "Polk_County,_Arkansas",
+                "HMS_Garland"
+            ],
+            "scores": [
+                0.27036599763872493,
+                0.24203069657615112,
+                0.1334120425029516,
+                0.09681227863046045,
+                0.09208972845336481,
+                0.025974025974025976,
+                0.018890200708382526,
+                0.015348288075560802,
+                0.009445100354191263,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0070838252656434475,
+                0.0059031877213695395,
+                0.0059031877213695395,
+                0.004722550177095631,
+                0.004722550177095631
+            ]
+        },
+        {
+            "begin": 2474,
+            "end": 2484,
+            "text": "DC Circuit",
+            "concept": 5,
+            "candidates": [
+                "United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit",
+                "Direct_current",
+                "United_States_District_Court_for_the_District_of_Columbia",
+                "United_States_Circuit_Court_of_the_District_of_Columbia"
+            ],
+            "scores": [
+                0.9576271186440678,
+                0.025423728813559324,
+                0.00847457627118644,
+                0.00847457627118644
+            ]
+        },
+        {
+            "begin": 2488,
+            "end": 2492,
+            "text": "1997",
+            "concept": 15
+        },
+        {
+            "begin": 2501,
+            "end": 2510,
+            "text": "Democrats",
+            "concept": 12,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Australian_Democrats",
+                "Democrats_(Brazil)",
+                "Democrats_(Greenland)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Montenegro",
+                "Democrats_in_Norway",
+                "Democracy",
+                "New_Zealand_Democratic_Party_for_Social_Credit",
+                "California_Democratic_Party",
+                "Vermont_Democratic_Party",
+                "Maine_Democratic_Party",
+                "Ohio_Democratic_Party",
+                "Democratic_Party_of_Oregon",
+                "Democrat_Party_(Thailand)",
+                "Florida_Democratic_Party"
+            ],
+            "scores": [
+                0.7198505869797225,
+                0.15741728922091783,
+                0.016008537886873,
+                0.01200640341515475,
+                0.011472785485592316,
+                0.007737459978655283,
+                0.006937033084311633,
+                0.005336179295624333,
+                0.003735325506937033,
+                0.003735325506937033,
+                0.002934898612593383,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.0026680896478121665,
+                0.00240128068303095,
+                0.00240128068303095
+            ]
+        },
+        {
+            "begin": 2515,
+            "end": 2526,
+            "text": "Republicans",
+            "concept": 0,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Republicans",
+            "keyword": false,
+            "count": 7,
+            "link": "Republican_Party_(United_States)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Merrick Garland",
+            "keyword": true,
+            "count": 6,
+            "link": "Merrick_Garland",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::judge",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Supreme Court",
+            "keyword": true,
+            "count": 3,
+            "link": "Supreme_Court_of_the_United_States",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Barack Obama",
+            "keyword": true,
+            "count": 11,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Antonin Scalia",
+            "keyword": true,
+            "count": 3,
+            "link": "Antonin_Scalia",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::judge",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Court of Appeals for the District of Columbia Circuit",
+            "keyword": true,
+            "count": 2,
+            "link": "United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "White House",
+            "keyword": false,
+            "count": 2,
+            "link": "White_House",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Senate",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States_Senate",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Democrats",
+            "keyword": false,
+            "count": 3,
+            "link": "Democratic_Party_(United_States)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "February",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "November",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "1997",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States_Congress",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 2,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "head_of_state",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 12
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "nominate",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 1
+                },
+                {
+                    "name": "agent",
+                    "value": 3
+                },
+                {
+                    "name": "place",
+                    "value": 6
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000593",
+        "20000594",
+        "20000595"
+    ]
+}

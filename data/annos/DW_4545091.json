@@ -1,0 +1,1694 @@
+{
+    "id": "DW_4545091",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Franco",
+            "concept": 5
+        },
+        {
+            "begin": 7,
+            "end": 13,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 34,
+            "end": 40,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 66,
+            "end": 72,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 85,
+            "end": 91,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 92,
+            "end": 101,
+            "text": "Wehrmacht",
+            "concept": 8,
+            "candidates": [
+                "Wehrmacht",
+                "German_Army_(Wehrmacht)",
+                "Wehrmacht_(band)",
+                "German_Army",
+                "Army",
+                "Nazi_Germany",
+                "Wehrmacht_foreign_volunteers_and_conscripts",
+                "Operation_Achse",
+                "Military"
+            ],
+            "scores": [
+                0.9937487790584099,
+                0.003125610470795077,
+                0.0017581558898222308,
+                0.0003907013088493846,
+                0.0001953506544246923,
+                0.0001953506544246923,
+                0.0001953506544246923,
+                0.0001953506544246923,
+                0.0001953506544246923
+            ]
+        },
+        {
+            "begin": 123,
+            "end": 136,
+            "text": "Daniel Rouxel",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 140,
+            "end": 149,
+            "text": "Wednesday",
+            "concept": 9
+        },
+        {
+            "begin": 167,
+            "end": 173,
+            "text": "Franco",
+            "concept": 5
+        },
+        {
+            "begin": 174,
+            "end": 180,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 207,
+            "end": 213,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 231,
+            "end": 237,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 258,
+            "end": 264,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 298,
+            "end": 304,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 318,
+            "end": 323,
+            "text": "Paris",
+            "concept": 10,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 325,
+            "end": 331,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 485,
+            "end": 491,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 619,
+            "end": 625,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 649,
+            "end": 654,
+            "text": "Boche",
+            "concept": 11
+        },
+        {
+            "begin": 698,
+            "end": 702,
+            "text": "1941",
+            "concept": 12
+        },
+        {
+            "begin": 707,
+            "end": 711,
+            "text": "1945",
+            "concept": 13
+        },
+        {
+            "begin": 744,
+            "end": 750,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 771,
+            "end": 777,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 799,
+            "end": 803,
+            "text": "Nazi",
+            "concept": 14,
+            "candidates": [
+                "Nazism",
+                "Nazi_Germany",
+                "Nazi_Party",
+                "Propaganda_in_Nazi_Germany",
+                "Wehrmacht",
+                "German-occupied_Europe",
+                "Reichskommissariat_Ostland",
+                "Neo-Nazism",
+                "German_military_administration_in_occupied_France_during_World_War_II",
+                "Nazism_and_cinema",
+                "Austrian_National_Socialism",
+                "Nazi_architecture",
+                "Occupation_of_Poland_(1939\u20131945)",
+                "Austria_under_National_Socialism",
+                "One-party_state",
+                "Nazi,_Markazi"
+            ],
+            "scores": [
+                0.8493613272647188,
+                0.10057260314197622,
+                0.04257818235207752,
+                0.0007341065922771986,
+                0.0005872852738217589,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00014682131845543972,
+                0.00014682131845543972,
+                0.00014682131845543972,
+                0.00014682131845543972
+            ]
+        },
+        {
+            "begin": 835,
+            "end": 841,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 864,
+            "end": 874,
+            "text": "Norwegians",
+            "concept": 15
+        },
+        {
+            "begin": 878,
+            "end": 883,
+            "text": "Dutch",
+            "concept": 16
+        },
+        {
+            "begin": 907,
+            "end": 912,
+            "text": "Aryan",
+            "concept": 17,
+            "candidates": [
+                "Aryan",
+                "Aryan_race",
+                "Aryan_(1988_film)",
+                "Aryan_(actor)",
+                "Aryan_F.C.",
+                "Aryan_(2014_film)",
+                "Aryan:_Unbreakable",
+                "Indo-Aryan_peoples",
+                "Indo-Iranians",
+                "Indo-Aryan_languages",
+                "Nazism_and_race",
+                "Nordic_race",
+                "Aryan_Brotherhood",
+                "Arianism",
+                "Master_race",
+                "Racial_policy_of_Nazi_Germany"
+            ],
+            "scores": [
+                0.6092105263157894,
+                0.2131578947368421,
+                0.03289473684210526,
+                0.02894736842105263,
+                0.02763157894736842,
+                0.02236842105263158,
+                0.014473684210526316,
+                0.013157894736842105,
+                0.005263157894736842,
+                0.003947368421052632,
+                0.003947368421052632,
+                0.002631578947368421,
+                0.002631578947368421,
+                0.002631578947368421,
+                0.002631578947368421,
+                0.0013157894736842105
+            ]
+        },
+        {
+            "begin": 1074,
+            "end": 1080,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1140,
+            "end": 1145,
+            "text": "Boche",
+            "concept": 11
+        },
+        {
+            "begin": 1169,
+            "end": 1176,
+            "text": "Germans",
+            "concept": 18
+        },
+        {
+            "begin": 1319,
+            "end": 1325,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1367,
+            "end": 1372,
+            "text": "Paris",
+            "concept": 10,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 1376,
+            "end": 1380,
+            "text": "1943",
+            "concept": 19
+        },
+        {
+            "begin": 1392,
+            "end": 1404,
+            "text": "World War II",
+            "concept": 20,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "World_War_II_in_Yugoslavia",
+                "Pacific_War",
+                "Second_Sino-Japanese_War",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Military_history_of_Australia_during_World_War_II",
+                "Romania_in_World_War_II",
+                "European_theatre_of_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Hungary_in_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Invasion_of_Poland",
+                "Military_history_of_Greece_during_World_War_II",
+                "Netherlands_in_World_War_II",
+                "Slovene_Lands_in_World_War_II"
+            ],
+            "scores": [
+                0.9959006074339848,
+                0.000637333585119441,
+                0.00044849400434331034,
+                0.00039341579328360557,
+                0.0001258930538507538,
+                0.00010228810625373745,
+                0.00010228810625373745,
+                9.441979038806533e-05,
+                9.441979038806533e-05,
+                8.655147452239323e-05,
+                7.868315865672112e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05
+            ]
+        },
+        {
+            "begin": 1457,
+            "end": 1463,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1479,
+            "end": 1487,
+            "text": "Brittany",
+            "concept": 21,
+            "candidates": [
+                "Brittany",
+                "Brittany_(administrative_region)",
+                "Duchy_of_Brittany",
+                "Brittany_Pierce",
+                "Brittany_dog",
+                "Santana_Garrett",
+                "Brittany_national_football_team",
+                "Music_of_Brittany",
+                "Brittany,_Louisiana",
+                "Brittany_Force",
+                "List_of_rulers_of_Brittany",
+                "Brittany_Daniel",
+                "Brittany_Apartment_Building",
+                "Kingdom_of_Brittany",
+                "Brittany_(name)",
+                "History_of_Brittany"
+            ],
+            "scores": [
+                0.6672125181950509,
+                0.29075691411935956,
+                0.014374090247452693,
+                0.010189228529839884,
+                0.004366812227074236,
+                0.0023653566229985446,
+                0.0020014556040756915,
+                0.0016375545851528383,
+                0.0009097525473071324,
+                0.000727802037845706,
+                0.000727802037845706,
+                0.000727802037845706,
+                0.0005458515283842794,
+                0.0005458515283842794,
+                0.000363901018922853,
+                0.000363901018922853
+            ]
+        },
+        {
+            "begin": 1496,
+            "end": 1505,
+            "text": "Pleurtuit",
+            "concept": 22,
+            "candidates": [
+                "Pleurtuit"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1524,
+            "end": 1534,
+            "text": "Lieutenant",
+            "concept": 23
+        },
+        {
+            "begin": 1535,
+            "end": 1545,
+            "text": "Otto Ammon",
+            "concept": 4,
+            "candidates": [
+                "Otto_Ammon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1562,
+            "end": 1567,
+            "text": "Ammon",
+            "concept": 4,
+            "candidates": [
+                "Ammon",
+                "Amun",
+                "Ammon,_Idaho",
+                "Ammon_(Book_of_Mormon_missionary)",
+                "Ammon,_New_Brunswick",
+                "Saint_Amun",
+                "Ammon_Bundy",
+                "Charles_Ammon,_1st_Baron_Ammon",
+                "Ammon_(Book_of_Mormon_explorer)",
+                "Ammon,_North_Carolina",
+                "Ammon_(god)",
+                "Karnak",
+                "Ammon,_Virginia"
+            ],
+            "scores": [
+                0.6622222222222223,
+                0.09333333333333334,
+                0.06666666666666667,
+                0.06222222222222222,
+                0.03111111111111111,
+                0.02666666666666667,
+                0.017777777777777778,
+                0.008888888888888889,
+                0.008888888888888889,
+                0.008888888888888889,
+                0.0044444444444444444,
+                0.0044444444444444444,
+                0.0044444444444444444
+            ]
+        },
+        {
+            "begin": 1590,
+            "end": 1596,
+            "text": "Allied",
+            "concept": 24,
+            "candidates": [
+                "Allies_of_World_War_II",
+                "Allies_of_World_War_I",
+                "Allied_(film)",
+                "Alliance",
+                "Allied-occupied_Germany",
+                "Grand_Alliance_(League_of_Augsburg)",
+                "Triple_Entente",
+                "NATO",
+                "Allied_Control_Council",
+                "Allied_leaders_of_World_War_II",
+                "United_Nations_Command",
+                "Military_alliance",
+                "Eight-Nation_Alliance",
+                "Allied_Aviation",
+                "Straight_ally",
+                "Monogram_Pictures"
+            ],
+            "scores": [
+                0.780271154745208,
+                0.16736792893875643,
+                0.020570359981299673,
+                0.0074801309022907905,
+                0.0018700327255726976,
+                0.0018700327255726976,
+                0.0018700327255726976,
+                0.001402524544179523,
+                0.0011687704534829358,
+                0.0009350163627863488,
+                0.0009350163627863488,
+                0.0009350163627863488,
+                0.0007012622720897616,
+                0.0007012622720897616,
+                0.0004675081813931744,
+                0.0004675081813931744
+            ]
+        },
+        {
+            "begin": 1611,
+            "end": 1617,
+            "text": "France",
+            "concept": 25,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1692,
+            "end": 1698,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1742,
+            "end": 1748,
+            "text": "Breton",
+            "concept": 26
+        },
+        {
+            "begin": 1803,
+            "end": 1809,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1937,
+            "end": 1943,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1989,
+            "end": 1993,
+            "text": "2004",
+            "concept": 27
+        },
+        {
+            "begin": 1997,
+            "end": 2003,
+            "text": "France",
+            "concept": 25,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2040,
+            "end": 2046,
+            "text": "Franco",
+            "concept": 5
+        },
+        {
+            "begin": 2047,
+            "end": 2053,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 2086,
+            "end": 2092,
+            "text": "Breton",
+            "concept": 26
+        },
+        {
+            "begin": 2104,
+            "end": 2110,
+            "text": "Megrit",
+            "concept": 28,
+            "candidates": [
+                "M\u00e9grit"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2118,
+            "end": 2122,
+            "text": "1950",
+            "concept": 29
+        },
+        {
+            "begin": 2125,
+            "end": 2131,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2220,
+            "end": 2226,
+            "text": "Sunday",
+            "concept": 30
+        },
+        {
+            "begin": 2291,
+            "end": 2296,
+            "text": "Boche",
+            "concept": 11
+        },
+        {
+            "begin": 2373,
+            "end": 2379,
+            "text": "France",
+            "concept": 25,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2427,
+            "end": 2432,
+            "text": "Boche",
+            "concept": 11
+        },
+        {
+            "begin": 2488,
+            "end": 2494,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2644,
+            "end": 2651,
+            "text": "Germany",
+            "concept": 31,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2656,
+            "end": 2662,
+            "text": "France",
+            "concept": 25,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2847,
+            "end": 2854,
+            "text": "Germany",
+            "concept": 31,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2985,
+            "end": 2991,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 3009,
+            "end": 3015,
+            "text": "Rouxel",
+            "concept": 0,
+            "candidates": [
+                "Rouxel_(car)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3067,
+            "end": 3073,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 3074,
+            "end": 3083,
+            "text": "historian",
+            "concept": 32
+        },
+        {
+            "begin": 3084,
+            "end": 3099,
+            "text": "Fabrice Virgili",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3209,
+            "end": 3215,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 3229,
+            "end": 3236,
+            "text": "Virgili",
+            "concept": 3,
+            "candidates": [
+                "Giuseppe_Virgili"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3293,
+            "end": 3325,
+            "text": "sp/afp/ap/dpa Editor: Kyle James",
+            "concept": 33
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Daniel Rouxel",
+            "keyword": true,
+            "count": 10,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "text": "Fabrice Virgili",
+            "keyword": true,
+            "count": 2,
+            "link": "wikidata:Q3063954",
+            "tags": [
+                "gender::male",
+                "iptc::13000000",
+                "slot::keyword",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::science_per"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Otto Ammon",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::military_personnel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Franco",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 14,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "French",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Wehrmacht",
+            "keyword": false,
+            "count": 1,
+            "link": "Wehrmacht",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Paris",
+            "keyword": false,
+            "count": 2,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Boche",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "1941",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "1945",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Nazi",
+            "keyword": false,
+            "count": 1,
+            "link": "Nazism",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Norwegians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Aryan",
+            "keyword": false,
+            "count": 1,
+            "link": "Aryan_race",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "1943",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "World War II",
+            "keyword": false,
+            "count": 1,
+            "link": "World_War_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::war"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Brittany",
+            "keyword": false,
+            "count": 1,
+            "link": "Brittany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Pleurtuit",
+            "keyword": false,
+            "count": 1,
+            "link": "Pleurtuit",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Lieutenant",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Allied",
+            "keyword": false,
+            "count": 1,
+            "link": "Allies_of_World_War_II",
+            "tags": [
+                "iptc::11000000",
+                "iptc::16000000",
+                "topic::conflict",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::military_alliance",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "France",
+            "keyword": false,
+            "count": 4,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Breton",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe1-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Megrit",
+            "keyword": false,
+            "count": 1,
+            "link": "M\u00e9grit",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "1950",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "historian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "sp/afp/ap/dpa Editor: Kyle James",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "Netherlands",
+            "tags": []
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Norway",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 25
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 18
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 25
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 25
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 31
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 25
+        },
+        {
+            "s": 8,
+            "p": "agency_of",
+            "o": 31
+        },
+        {
+            "s": 8,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "agency_of-x",
+            "o": 18
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 18
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 18
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 35
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 34
+        },
+        {
+            "s": 18,
+            "p": "gpe0",
+            "o": 31
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 21,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 21,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 22,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 22,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 22,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 28,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 28,
+            "p": "in0-x",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000056",
+        "20000060"
+    ]
+}

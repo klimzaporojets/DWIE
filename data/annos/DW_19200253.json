@@ -1,0 +1,792 @@
+{
+    "id": "DW_19200253",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 39,
+            "end": 45,
+            "text": "Hublot",
+            "concept": 1,
+            "candidates": [
+                "Hublot"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 55,
+            "end": 64,
+            "text": "Manhattan",
+            "concept": 0,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 65,
+            "end": 70,
+            "text": "Swiss",
+            "concept": 4
+        },
+        {
+            "begin": 71,
+            "end": 81,
+            "text": "watchmaker",
+            "concept": 5
+        },
+        {
+            "begin": 82,
+            "end": 88,
+            "text": "Hublot",
+            "concept": 1,
+            "candidates": [
+                "Hublot"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 123,
+            "end": 132,
+            "text": "Manhattan",
+            "concept": 0,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 250,
+            "end": 255,
+            "text": "Swiss",
+            "concept": 4
+        },
+        {
+            "begin": 256,
+            "end": 274,
+            "text": "watch manufacturer",
+            "concept": 6
+        },
+        {
+            "begin": 275,
+            "end": 281,
+            "text": "Hublot",
+            "concept": 1,
+            "candidates": [
+                "Hublot"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 307,
+            "end": 315,
+            "text": "New York",
+            "concept": 7,
+            "candidates": [
+                "New_York_(state)",
+                "New_York_City",
+                "New_York_(magazine)",
+                "New_York_Knicks",
+                "New_York_Liberty",
+                "Manhattan",
+                "List_of_United_States_Senators_from_New_York",
+                "New_York_GAA",
+                "Province_of_New_York",
+                "List_of_United_States_Representatives_from_New_York",
+                "United_States_congressional_delegations_from_New_York",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York_USA",
+                "Miss_New_York",
+                "2015\u201316_New_York_Knicks_season",
+                "2016\u201317_New_York_Knicks_season"
+            ],
+            "scores": [
+                0.5868936312942854,
+                0.22854387656702024,
+                0.0213408242840971,
+                0.014352997079088228,
+                0.00907019971210152,
+                0.008077928248990259,
+                0.004038964124495129,
+                0.003619694492194597,
+                0.0034939136025044374,
+                0.003130546587843976,
+                0.002934887426103727,
+                0.001663102874792112,
+                0.0015512976395119702,
+                0.0014814193674618813,
+                0.0012578088969015975,
+                0.001229857588081562
+            ]
+        },
+        {
+            "begin": 319,
+            "end": 326,
+            "text": "Tuesday",
+            "concept": 8
+        },
+        {
+            "begin": 457,
+            "end": 466,
+            "text": "Manhattan",
+            "concept": 0,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 469,
+            "end": 481,
+            "text": "Fifth Avenue",
+            "concept": 9,
+            "candidates": [
+                "Fifth_Avenue",
+                "Chrysler_Fifth_Avenue",
+                "Fifth_Avenue_(Pittsburgh)",
+                "Fifth_Avenue_(IRT_Flushing_Line)",
+                "Fifth_Avenue_(film)",
+                "Fifth_Avenue_(Brooklyn)",
+                "Fifth_Avenue_station",
+                "Fifth_Avenue_Line_(Brooklyn_elevated)",
+                "Fifth_Avenue_(disambiguation)",
+                "Fifth_Avenue_Hotel",
+                "Eighth_Avenue_(Manhattan)",
+                "Fifth_Avenue_Theatre"
+            ],
+            "scores": [
+                0.8845855925639039,
+                0.06584043377226956,
+                0.017815646785437646,
+                0.010844306738962044,
+                0.008520526723470178,
+                0.004647560030983733,
+                0.0038729666924864447,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289
+            ]
+        },
+        {
+            "begin": 693,
+            "end": 697,
+            "text": "1980",
+            "concept": 10
+        },
+        {
+            "begin": 701,
+            "end": 708,
+            "text": "Italian",
+            "concept": 11
+        },
+        {
+            "begin": 709,
+            "end": 721,
+            "text": "Carlo Crocco",
+            "concept": 12,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 727,
+            "end": 732,
+            "text": "Swiss",
+            "concept": 4
+        },
+        {
+            "begin": 839,
+            "end": 851,
+            "text": "Fifth Avenue",
+            "concept": 9,
+            "candidates": [
+                "Fifth_Avenue",
+                "Chrysler_Fifth_Avenue",
+                "Fifth_Avenue_(Pittsburgh)",
+                "Fifth_Avenue_(IRT_Flushing_Line)",
+                "Fifth_Avenue_(film)",
+                "Fifth_Avenue_(Brooklyn)",
+                "Fifth_Avenue_station",
+                "Fifth_Avenue_Line_(Brooklyn_elevated)",
+                "Fifth_Avenue_(disambiguation)",
+                "Fifth_Avenue_Hotel",
+                "Eighth_Avenue_(Manhattan)",
+                "Fifth_Avenue_Theatre"
+            ],
+            "scores": [
+                0.8845855925639039,
+                0.06584043377226956,
+                0.017815646785437646,
+                0.010844306738962044,
+                0.008520526723470178,
+                0.004647560030983733,
+                0.0038729666924864447,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289,
+                0.000774593338497289
+            ]
+        },
+        {
+            "begin": 853,
+            "end": 862,
+            "text": "architect",
+            "concept": 13
+        },
+        {
+            "begin": 863,
+            "end": 875,
+            "text": "Peter Marino",
+            "concept": 3,
+            "candidates": [
+                "Peter_Marino"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1058,
+            "end": 1064,
+            "text": "Marino",
+            "concept": 3,
+            "candidates": [
+                "Marino,_Lazio",
+                "Marino_de_Luanco",
+                "Marino,_Dublin",
+                "Marino,_South_Australia",
+                "CD_Marino",
+                "History_of_A.S.D._Citt\u00e0_di_Marino_Calcio",
+                "Marino_railway_station,_Adelaide",
+                "Dan_Marino",
+                "Marino_railway_station",
+                "Marino_College_of_Further_Education",
+                "Rebecca_Marino",
+                "Giambattista_Marino",
+                "Mari\u00f1o",
+                "Marino_Franchitti",
+                "Marino,_Ilinden",
+                "Florian_Marino"
+            ],
+            "scores": [
+                0.27007299270072993,
+                0.19708029197080293,
+                0.145985401459854,
+                0.0948905109489051,
+                0.06934306569343066,
+                0.040145985401459854,
+                0.040145985401459854,
+                0.029197080291970802,
+                0.014598540145985401,
+                0.010948905109489052,
+                0.010948905109489052,
+                0.010948905109489052,
+                0.0072992700729927005,
+                0.0072992700729927005,
+                0.0036496350364963502,
+                0.0036496350364963502
+            ]
+        },
+        {
+            "begin": 1088,
+            "end": 1094,
+            "text": "Hublot",
+            "concept": 1,
+            "candidates": [
+                "Hublot"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1195,
+            "end": 1202,
+            "text": "Olympic",
+            "concept": 14,
+            "candidates": [
+                "Olympic_Games",
+                "Summer_Olympic_Games",
+                "Winter_Olympic_Games",
+                "Ancient_Olympic_Games",
+                "RMS_Olympic",
+                "Alpine_skiing_at_the_Winter_Olympics",
+                "2012_Summer_Olympics",
+                "Basketball_at_the_Summer_Olympics",
+                "Ice_hockey_at_the_Olympic_Games",
+                "Football_at_the_Summer_Olympics",
+                "Olympic_sports",
+                "Rowing_at_the_Summer_Olympics",
+                "Equestrian_at_the_Summer_Olympics",
+                "Olympic_FC",
+                "Olympic_Theatre",
+                "Olympic_(band)"
+            ],
+            "scores": [
+                0.6901847852171826,
+                0.05063594912407007,
+                0.02687784977201824,
+                0.011039116870650349,
+                0.010319174466042717,
+                0.009839212862970962,
+                0.008879289656827454,
+                0.007679385649148068,
+                0.0069594432445404366,
+                0.006239500839932805,
+                0.004799616030717543,
+                0.004559635229181665,
+                0.004559635229181665,
+                0.004319654427645789,
+                0.004319654427645789,
+                0.003599712023038157
+            ]
+        },
+        {
+            "begin": 1203,
+            "end": 1211,
+            "text": "sprinter",
+            "concept": 15
+        },
+        {
+            "begin": 1212,
+            "end": 1222,
+            "text": "Usain Bolt",
+            "concept": 16,
+            "candidates": [
+                "Usain_Bolt"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Manhattan",
+            "keyword": true,
+            "count": 3,
+            "link": "Manhattan",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Hublot",
+            "keyword": true,
+            "count": 4,
+            "link": "Hublot",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000249",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "text": "Peter Marino",
+            "keyword": false,
+            "count": 2,
+            "link": "Peter_Marino",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Swiss",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "watchmaker",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "watch manufacturer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "New York",
+            "keyword": false,
+            "count": 1,
+            "link": "New_York_City",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Fifth Avenue",
+            "keyword": false,
+            "count": 2,
+            "link": "Fifth_Avenue",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::street"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "1980",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Italian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Carlo Crocco",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "architect",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Olympic",
+            "keyword": false,
+            "count": 1,
+            "link": "Olympic_Games",
+            "tags": [
+                "iptc::15000000",
+                "sport::unknown",
+                "sport_event::20001177",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "sprinter",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Usain Bolt",
+            "keyword": false,
+            "count": 1,
+            "link": "Usain_Bolt",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000844",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Italy",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Switzerland",
+            "tags": []
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in2",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 17
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 17
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 12,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 12,
+            "p": "member_of",
+            "o": 1
+        }
+    ],
+    "frames": [
+        {
+            "type": "start-org",
+            "slots": [
+                {
+                    "name": "org",
+                    "value": 1
+                },
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000209",
+        "20000243",
+        "20000249"
+    ]
+}

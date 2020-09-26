@@ -1,0 +1,101 @@
+{
+    "id": "DW_16809083",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 147,
+            "end": 151,
+            "text": "West",
+            "concept": 1,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 289,
+            "end": 296,
+            "text": "Storify",
+            "concept": 2
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "West",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Storify",
+            "keyword": false,
+            "count": 1,
+            "link": "Storify",
+            "tags": [
+                "meta::todo"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000649",
+        "20000653",
+        "20000654"
+    ]
+}

@@ -1,0 +1,592 @@
+{
+    "id": "DW_16199211",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 8,
+            "end": 15,
+            "text": "Belgian",
+            "concept": 3
+        },
+        {
+            "begin": 55,
+            "end": 62,
+            "text": "Belgian",
+            "concept": 3
+        },
+        {
+            "begin": 122,
+            "end": 135,
+            "text": "serial killer",
+            "concept": 4
+        },
+        {
+            "begin": 140,
+            "end": 149,
+            "text": "pedophile",
+            "concept": 5
+        },
+        {
+            "begin": 150,
+            "end": 162,
+            "text": "Marc Dutroux",
+            "concept": 1,
+            "candidates": [
+                "Marc_Dutroux"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 275,
+            "end": 290,
+            "text": "Michelle Martin",
+            "concept": 2,
+            "candidates": [
+                "Michelle_Martin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 318,
+            "end": 325,
+            "text": "Belgium",
+            "concept": 0,
+            "candidates": [
+                "Belgium",
+                "Belgium_national_football_team",
+                "Royal_Belgian_Football_Association",
+                "Same-sex_marriage_in_Belgium",
+                "Belgium_women's_national_football_team",
+                "Ultratop",
+                "Battle_of_Belgium",
+                "Belgium_national_under-21_football_team",
+                "Royal_Belgian_Cycling_League",
+                "Belgium_Davis_Cup_team",
+                "Belgium_national_rugby_union_team",
+                "Belgium_Fed_Cup_team",
+                "Belgium_national_basketball_team",
+                "Football_in_Belgium",
+                "Belgium_in_the_Eurovision_Song_Contest",
+                "Belgium_men's_national_field_hockey_team"
+            ],
+            "scores": [
+                0.868776160429812,
+                0.0462610108077716,
+                0.006809520834634848,
+                0.004216905104016993,
+                0.003404760417317424,
+                0.0029049790716561504,
+                0.0026550883988255137,
+                0.0025926157306178548,
+                0.002498906728306366,
+                0.0019991253826450927,
+                0.001905416380333604,
+                0.0018741800462297744,
+                0.0014993440369838195,
+                0.0013743987005685012,
+                0.0013119260323608422,
+                0.0011869806959455239
+            ]
+        },
+        {
+            "begin": 345,
+            "end": 352,
+            "text": "Tuesday",
+            "concept": 6
+        },
+        {
+            "begin": 354,
+            "end": 360,
+            "text": "Martin",
+            "concept": 2,
+            "candidates": [
+                "Martin_(TV_series)",
+                "Martin,_Slovakia",
+                "Paul_Martin",
+                "Martin_County,_Florida",
+                "C._F._Martin_&_Company",
+                "Glenn_L._Martin_Company",
+                "Martin_County,_Texas",
+                "National_Register_of_Historic_Places_listings_in_Martin_County,_Florida",
+                "Martin,_Tennessee",
+                "Tony_Martin_(rugby_league)",
+                "Martin_County,_Minnesota",
+                "Martin_County,_North_Carolina",
+                "Division_of_Martin",
+                "Martin_(name)",
+                "Martin_(1978_film)",
+                "Martin_County,_Indiana"
+            ],
+            "scores": [
+                0.14128895184135978,
+                0.0768413597733711,
+                0.04745042492917847,
+                0.047096317280453256,
+                0.04001416430594901,
+                0.030453257790368272,
+                0.02762039660056657,
+                0.02443342776203966,
+                0.02301699716713881,
+                0.02160056657223796,
+                0.021246458923512748,
+                0.020538243626062325,
+                0.019121813031161474,
+                0.018767705382436262,
+                0.018413597733711047,
+                0.01593484419263456
+            ]
+        },
+        {
+            "begin": 422,
+            "end": 429,
+            "text": "Dutroux",
+            "concept": 1,
+            "candidates": [
+                "Marc_Dutroux"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 472,
+            "end": 476,
+            "text": "1990",
+            "concept": 7
+        },
+        {
+            "begin": 574,
+            "end": 580,
+            "text": "Martin",
+            "concept": 2,
+            "candidates": [
+                "Martin_(TV_series)",
+                "Martin,_Slovakia",
+                "Paul_Martin",
+                "Martin_County,_Florida",
+                "C._F._Martin_&_Company",
+                "Glenn_L._Martin_Company",
+                "Martin_County,_Texas",
+                "National_Register_of_Historic_Places_listings_in_Martin_County,_Florida",
+                "Martin,_Tennessee",
+                "Tony_Martin_(rugby_league)",
+                "Martin_County,_Minnesota",
+                "Martin_County,_North_Carolina",
+                "Division_of_Martin",
+                "Martin_(name)",
+                "Martin_(1978_film)",
+                "Martin_County,_Indiana"
+            ],
+            "scores": [
+                0.14128895184135978,
+                0.0768413597733711,
+                0.04745042492917847,
+                0.047096317280453256,
+                0.04001416430594901,
+                0.030453257790368272,
+                0.02762039660056657,
+                0.02443342776203966,
+                0.02301699716713881,
+                0.02160056657223796,
+                0.021246458923512748,
+                0.020538243626062325,
+                0.019121813031161474,
+                0.018767705382436262,
+                0.018413597733711047,
+                0.01593484419263456
+            ]
+        },
+        {
+            "begin": 717,
+            "end": 724,
+            "text": "Belgian",
+            "concept": 3
+        },
+        {
+            "begin": 783,
+            "end": 789,
+            "text": "Martin",
+            "concept": 2,
+            "candidates": [
+                "Martin_(TV_series)",
+                "Martin,_Slovakia",
+                "Paul_Martin",
+                "Martin_County,_Florida",
+                "C._F._Martin_&_Company",
+                "Glenn_L._Martin_Company",
+                "Martin_County,_Texas",
+                "National_Register_of_Historic_Places_listings_in_Martin_County,_Florida",
+                "Martin,_Tennessee",
+                "Tony_Martin_(rugby_league)",
+                "Martin_County,_Minnesota",
+                "Martin_County,_North_Carolina",
+                "Division_of_Martin",
+                "Martin_(name)",
+                "Martin_(1978_film)",
+                "Martin_County,_Indiana"
+            ],
+            "scores": [
+                0.14128895184135978,
+                0.0768413597733711,
+                0.04745042492917847,
+                0.047096317280453256,
+                0.04001416430594901,
+                0.030453257790368272,
+                0.02762039660056657,
+                0.02443342776203966,
+                0.02301699716713881,
+                0.02160056657223796,
+                0.021246458923512748,
+                0.020538243626062325,
+                0.019121813031161474,
+                0.018767705382436262,
+                0.018413597733711047,
+                0.01593484419263456
+            ]
+        },
+        {
+            "begin": 1000,
+            "end": 1007,
+            "text": "Malonne",
+            "concept": 8,
+            "candidates": [
+                "Malonne",
+                "Namur"
+            ],
+            "scores": [
+                0.75,
+                0.25
+            ]
+        },
+        {
+            "begin": 1269,
+            "end": 1275,
+            "text": "Martin",
+            "concept": 2,
+            "candidates": [
+                "Martin_(TV_series)",
+                "Martin,_Slovakia",
+                "Paul_Martin",
+                "Martin_County,_Florida",
+                "C._F._Martin_&_Company",
+                "Glenn_L._Martin_Company",
+                "Martin_County,_Texas",
+                "National_Register_of_Historic_Places_listings_in_Martin_County,_Florida",
+                "Martin,_Tennessee",
+                "Tony_Martin_(rugby_league)",
+                "Martin_County,_Minnesota",
+                "Martin_County,_North_Carolina",
+                "Division_of_Martin",
+                "Martin_(name)",
+                "Martin_(1978_film)",
+                "Martin_County,_Indiana"
+            ],
+            "scores": [
+                0.14128895184135978,
+                0.0768413597733711,
+                0.04745042492917847,
+                0.047096317280453256,
+                0.04001416430594901,
+                0.030453257790368272,
+                0.02762039660056657,
+                0.02443342776203966,
+                0.02301699716713881,
+                0.02160056657223796,
+                0.021246458923512748,
+                0.020538243626062325,
+                0.019121813031161474,
+                0.018767705382436262,
+                0.018413597733711047,
+                0.01593484419263456
+            ]
+        },
+        {
+            "begin": 1353,
+            "end": 1360,
+            "text": "Dutroux",
+            "concept": 1,
+            "candidates": [
+                "Marc_Dutroux"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1533,
+            "end": 1539,
+            "text": "French",
+            "concept": 9
+        },
+        {
+            "begin": 1586,
+            "end": 1592,
+            "text": "Martin",
+            "concept": 2,
+            "candidates": [
+                "Martin_(TV_series)",
+                "Martin,_Slovakia",
+                "Paul_Martin",
+                "Martin_County,_Florida",
+                "C._F._Martin_&_Company",
+                "Glenn_L._Martin_Company",
+                "Martin_County,_Texas",
+                "National_Register_of_Historic_Places_listings_in_Martin_County,_Florida",
+                "Martin,_Tennessee",
+                "Tony_Martin_(rugby_league)",
+                "Martin_County,_Minnesota",
+                "Martin_County,_North_Carolina",
+                "Division_of_Martin",
+                "Martin_(name)",
+                "Martin_(1978_film)",
+                "Martin_County,_Indiana"
+            ],
+            "scores": [
+                0.14128895184135978,
+                0.0768413597733711,
+                0.04745042492917847,
+                0.047096317280453256,
+                0.04001416430594901,
+                0.030453257790368272,
+                0.02762039660056657,
+                0.02443342776203966,
+                0.02301699716713881,
+                0.02160056657223796,
+                0.021246458923512748,
+                0.020538243626062325,
+                0.019121813031161474,
+                0.018767705382436262,
+                0.018413597733711047,
+                0.01593484419263456
+            ]
+        },
+        {
+            "begin": 1594,
+            "end": 1611,
+            "text": "rc/mkg (AFP, dpa)",
+            "concept": 10
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Belgium",
+            "keyword": true,
+            "count": 1,
+            "link": "Belgium",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Marc Dutroux",
+            "keyword": true,
+            "count": 3,
+            "link": "Marc_Dutroux",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Michelle Martin",
+            "keyword": true,
+            "count": 6,
+            "link": "wikidata:Q547953",
+            "tags": [
+                "gender::female",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Belgian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "serial killer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "pedophile",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "1990",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Malonne",
+            "keyword": false,
+            "count": 1,
+            "link": "Malonne",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "rc/mkg (AFP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "spouse_of",
+            "o": 2
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "spouse_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 11
+        }
+    ],
+    "frames": [
+        {
+            "type": "release-parole",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000080"
+    ]
+}

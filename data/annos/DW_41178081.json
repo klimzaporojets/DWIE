@@ -1,0 +1,470 @@
+{
+    "id": "DW_41178081",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 7,
+            "end": 16,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 17,
+            "end": 32,
+            "text": "Emmanuel Macron",
+            "concept": 0,
+            "candidates": [
+                "Emmanuel_Macron"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 87,
+            "end": 93,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 290,
+            "end": 296,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 297,
+            "end": 306,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 307,
+            "end": 322,
+            "text": "Emmanuel Macron",
+            "concept": 0,
+            "candidates": [
+                "Emmanuel_Macron"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 390,
+            "end": 396,
+            "text": "Monday",
+            "concept": 7
+        },
+        {
+            "begin": 455,
+            "end": 468,
+            "text": "November 2015",
+            "concept": 8
+        },
+        {
+            "begin": 487,
+            "end": 492,
+            "text": "Paris",
+            "concept": 1,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 961,
+            "end": 971,
+            "text": "November 1",
+            "concept": 9
+        },
+        {
+            "begin": 1024,
+            "end": 1030,
+            "text": "Macron",
+            "concept": 0,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 1221,
+            "end": 1227,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 1320,
+            "end": 1327,
+            "text": "Muslims",
+            "concept": 3
+        },
+        {
+            "begin": 1344,
+            "end": 1350,
+            "text": "Macron",
+            "concept": 0,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 1455,
+            "end": 1464,
+            "text": "Le Figaro",
+            "concept": 10,
+            "candidates": [
+                "Le_Figaro"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1494,
+            "end": 1500,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 1600,
+            "end": 1617,
+            "text": "Interior Minister",
+            "concept": 11
+        },
+        {
+            "begin": 1618,
+            "end": 1632,
+            "text": "Gerard Collomb",
+            "concept": 2,
+            "candidates": [
+                "G\u00e9rard_Collomb"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1983,
+            "end": 1998,
+            "text": "es/jm (AP, AFP)",
+            "concept": 12
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Emmanuel Macron",
+            "keyword": true,
+            "count": 4,
+            "link": "Emmanuel_Macron",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Paris",
+            "keyword": true,
+            "count": 1,
+            "link": "Paris",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Gerard Collomb",
+            "keyword": true,
+            "count": 1,
+            "link": "G\u00e9rard_Collomb",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::interior",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Muslims",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 5,
+            "text": "French",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "November 2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "November 1",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Le Figaro",
+            "keyword": false,
+            "count": 1,
+            "link": "Le_Figaro",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Interior Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "es/jm (AP, AFP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        },
+        {
+            "concept": 14,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 14
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 14
+        },
+        {
+            "s": 0,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "minister_of",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 5
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103",
+        "20000121",
+        "20000125"
+    ]
+}

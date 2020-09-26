@@ -1,0 +1,699 @@
+{
+    "id": "DW_3347799",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 17,
+            "end": 24,
+            "text": "Germans",
+            "concept": 1
+        },
+        {
+            "begin": 84,
+            "end": 91,
+            "text": "Germans",
+            "concept": 1
+        },
+        {
+            "begin": 125,
+            "end": 129,
+            "text": "2007",
+            "concept": 2
+        },
+        {
+            "begin": 170,
+            "end": 174,
+            "text": "1990",
+            "concept": 3
+        },
+        {
+            "begin": 259,
+            "end": 273,
+            "text": "Monday, May 19",
+            "concept": 4
+        },
+        {
+            "begin": 282,
+            "end": 307,
+            "text": "Federal Statistics Office",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 328,
+            "end": 334,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 408,
+            "end": 412,
+            "text": "2006",
+            "concept": 6
+        },
+        {
+            "begin": 440,
+            "end": 451,
+            "text": "Switzerland",
+            "concept": 7,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 457,
+            "end": 470,
+            "text": "United States",
+            "concept": 8,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 472,
+            "end": 478,
+            "text": "Poland",
+            "concept": 9,
+            "candidates": [
+                "Poland",
+                "Poland_national_football_team",
+                "Second_Polish_Republic",
+                "Polish_People's_Republic",
+                "ISU_Junior_Grand_Prix_in_Poland",
+                "Polish_Football_Association",
+                "Poland_national_speedway_team",
+                "Polish\u2013Lithuanian_Commonwealth",
+                "List_of_non-marine_molluscs_of_Poland",
+                "Recognition_of_same-sex_unions_in_Poland",
+                "Kingdom_of_Poland_(1025\u20131385)",
+                "Poland_women's_national_football_team",
+                "Congress_Poland",
+                "Poland_national_under-21_football_team",
+                "Poland_men's_national_volleyball_team",
+                "Poland_national_handball_team"
+            ],
+            "scores": [
+                0.8540980765898458,
+                0.03132039507884249,
+                0.01999220239126668,
+                0.008014208975914053,
+                0.006974527811471148,
+                0.004570265118696933,
+                0.004028764512216254,
+                0.0036172240512909373,
+                0.0027508230809218507,
+                0.002404262692774216,
+                0.002014382256108127,
+                0.0017544619649974007,
+                0.001646161843701265,
+                0.0014945416738866748,
+                0.0014512216253682205,
+                0.0013645815283313118
+            ]
+        },
+        {
+            "begin": 483,
+            "end": 490,
+            "text": "Austria",
+            "concept": 10,
+            "candidates": [
+                "Austria",
+                "Austria_national_football_team",
+                "Austrian_Empire",
+                "ISU_Junior_Grand_Prix_in_Austria",
+                "Habsburg_Monarchy",
+                "Same-sex_marriage_in_Austria",
+                "Archduchy_of_Austria",
+                "Austrian_Football_Association",
+                "First_Austrian_Republic",
+                "\u00d63_Austria_Top_40",
+                "Austria-Hungary",
+                "Austria_women's_national_football_team",
+                "Austria_national_under-21_football_team",
+                "Duchy_of_Austria",
+                "List_of_non-marine_molluscs_of_Austria",
+                "Federal_State_of_Austria"
+            ],
+            "scores": [
+                0.8352887119007505,
+                0.03819880533006586,
+                0.014734262521059886,
+                0.008975340787256854,
+                0.0076581406034614795,
+                0.006800428855873794,
+                0.005758921733803032,
+                0.004594884362076888,
+                0.00367590748966151,
+                0.003400214427936897,
+                0.0028181957420738246,
+                0.0024812375555215193,
+                0.0024812375555215193,
+                0.0024199724306938277,
+                0.0023280747434522896,
+                0.0020523816817276763
+            ]
+        },
+        {
+            "begin": 511,
+            "end": 518,
+            "text": "Germans",
+            "concept": 1
+        },
+        {
+            "begin": 543,
+            "end": 547,
+            "text": "2007",
+            "concept": 2
+        },
+        {
+            "begin": 631,
+            "end": 638,
+            "text": "Germans",
+            "concept": 1
+        },
+        {
+            "begin": 695,
+            "end": 702,
+            "text": "Germans",
+            "concept": 1
+        },
+        {
+            "begin": 743,
+            "end": 749,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 799,
+            "end": 803,
+            "text": "1990",
+            "concept": 3
+        },
+        {
+            "begin": 829,
+            "end": 836,
+            "text": "Germany",
+            "concept": 11,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 925,
+            "end": 932,
+            "text": "Germany",
+            "concept": 11,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 987,
+            "end": 993,
+            "text": "Europe",
+            "concept": 12,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1070,
+            "end": 1087,
+            "text": "Statistics Office",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1152,
+            "end": 1159,
+            "text": "Germany",
+            "concept": 11,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1424,
+            "end": 1428,
+            "text": "2007",
+            "concept": 2
+        },
+        {
+            "begin": 1470,
+            "end": 1476,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 1549,
+            "end": 1555,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 1605,
+            "end": 1609,
+            "text": "2050",
+            "concept": 13
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Federal Statistics Office",
+            "keyword": true,
+            "count": 2,
+            "link": "Federal_Statistical_Office_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Germans",
+            "keyword": true,
+            "count": 5,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "2007",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "1990",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Monday, May 19",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "2006",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Switzerland",
+            "keyword": false,
+            "count": 1,
+            "link": "Switzerland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "United States",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Poland",
+            "keyword": false,
+            "count": 1,
+            "link": "Poland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Austria",
+            "keyword": false,
+            "count": 1,
+            "link": "Austria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "2050",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agency_of",
+            "o": 11
+        },
+        {
+            "s": 0,
+            "p": "agency_of-x",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 11
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "gpe0",
+            "o": 11
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 11
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "14000000",
+        "20000770",
+        "20000771",
+        "20000772"
+    ]
+}

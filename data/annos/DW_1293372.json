@@ -1,0 +1,944 @@
+{
+    "id": "DW_1293372",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Baltic",
+            "concept": 4
+        },
+        {
+            "begin": 24,
+            "end": 34,
+            "text": "Baltic Sea",
+            "concept": 1,
+            "candidates": [
+                "Baltic_Sea",
+                "Sea",
+                "Curonian_Lagoon"
+            ],
+            "scores": [
+                0.999613601236476,
+                0.00019319938176197836,
+                0.00019319938176197836
+            ]
+        },
+        {
+            "begin": 59,
+            "end": 66,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 70,
+            "end": 76,
+            "text": "Poland",
+            "concept": 5,
+            "candidates": [
+                "Poland",
+                "Poland_national_football_team",
+                "Second_Polish_Republic",
+                "Polish_People's_Republic",
+                "ISU_Junior_Grand_Prix_in_Poland",
+                "Polish_Football_Association",
+                "Poland_national_speedway_team",
+                "Polish\u2013Lithuanian_Commonwealth",
+                "List_of_non-marine_molluscs_of_Poland",
+                "Recognition_of_same-sex_unions_in_Poland",
+                "Kingdom_of_Poland_(1025\u20131385)",
+                "Poland_women's_national_football_team",
+                "Congress_Poland",
+                "Poland_national_under-21_football_team",
+                "Poland_men's_national_volleyball_team",
+                "Poland_national_handball_team"
+            ],
+            "scores": [
+                0.8540980765898458,
+                0.03132039507884249,
+                0.01999220239126668,
+                0.008014208975914053,
+                0.006974527811471148,
+                0.004570265118696933,
+                0.004028764512216254,
+                0.0036172240512909373,
+                0.0027508230809218507,
+                0.002404262692774216,
+                0.002014382256108127,
+                0.0017544619649974007,
+                0.001646161843701265,
+                0.0014945416738866748,
+                0.0014512216253682205,
+                0.0013645815283313118
+            ]
+        },
+        {
+            "begin": 90,
+            "end": 95,
+            "text": "Mecca",
+            "concept": 6,
+            "candidates": [
+                "Mecca",
+                "Mecca,_California",
+                "Mecca,_Indiana",
+                "Mecca_Leisure_Group",
+                "Muhammad_in_Mecca",
+                "Mecca_(song)",
+                "Timeline_of_Mecca",
+                "Mecca_Township,_Trumbull_County,_Ohio",
+                "UW\u2013Milwaukee_Panther_Arena",
+                "Great_Mosque_of_Mecca",
+                "Battle_of_Mecca_(1916)",
+                "Mecca_(musician)",
+                "Jeddah",
+                "Makkah_Region",
+                "Mecca,_Ohio",
+                "Riverton_Parke_Junior-Senior_High_School"
+            ],
+            "scores": [
+                0.9733036707452726,
+                0.012235817575083427,
+                0.0030589543937708566,
+                0.002224694104560623,
+                0.0011123470522803114,
+                0.0011123470522803114,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0008342602892102336,
+                0.0005561735261401557,
+                0.0005561735261401557,
+                0.00027808676307007786,
+                0.00027808676307007786,
+                0.00027808676307007786,
+                0.00027808676307007786
+            ]
+        },
+        {
+            "begin": 171,
+            "end": 178,
+            "text": "Western",
+            "concept": 7
+        },
+        {
+            "begin": 232,
+            "end": 241,
+            "text": "Communism",
+            "concept": 8,
+            "candidates": [
+                "Communism",
+                "Communist_society",
+                "Socialist_Republic_of_Romania",
+                "Ideology_of_the_Communist_Party_of_the_Soviet_Union",
+                "People's_Socialist_Republic_of_Albania",
+                "Anarcho-communism",
+                "Marxism\u2013Leninism",
+                "Hungarian_People's_Republic",
+                "Communist_state",
+                "History_of_Poland_(1945\u20131989)",
+                "Communism_in_Korea",
+                "Socialism_in_Pakistan",
+                "Anti-communism",
+                "Communist_Party_of_Australia",
+                "Communist_Party_of_China",
+                "Communist_symbolism"
+            ],
+            "scores": [
+                0.9717933491686461,
+                0.002672209026128266,
+                0.002672209026128266,
+                0.0020783847980997625,
+                0.0020783847980997625,
+                0.0020783847980997625,
+                0.0014845605700712589,
+                0.0011876484560570072,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036,
+                0.0005938242280285036
+            ]
+        },
+        {
+            "begin": 290,
+            "end": 301,
+            "text": "East German",
+            "concept": 9
+        },
+        {
+            "begin": 328,
+            "end": 338,
+            "text": "Baltic Sea",
+            "concept": 1,
+            "candidates": [
+                "Baltic_Sea",
+                "Sea",
+                "Curonian_Lagoon"
+            ],
+            "scores": [
+                0.999613601236476,
+                0.00019319938176197836,
+                0.00019319938176197836
+            ]
+        },
+        {
+            "begin": 431,
+            "end": 442,
+            "text": "Berlin Wall",
+            "concept": 10
+        },
+        {
+            "begin": 540,
+            "end": 547,
+            "text": "Germany",
+            "concept": 2,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 593,
+            "end": 610,
+            "text": "Free Body Culture",
+            "concept": 0
+        },
+        {
+            "begin": 612,
+            "end": 615,
+            "text": "FKK",
+            "concept": 0
+        },
+        {
+            "begin": 687,
+            "end": 698,
+            "text": "news agency",
+            "concept": 11
+        },
+        {
+            "begin": 699,
+            "end": 706,
+            "text": "Reuters",
+            "concept": 12,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 848,
+            "end": 860,
+            "text": "Susanne Koch",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 871,
+            "end": 878,
+            "text": "Reuters",
+            "concept": 12,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1031,
+            "end": 1038,
+            "text": "Germans",
+            "concept": 13
+        },
+        {
+            "begin": 1057,
+            "end": 1063,
+            "text": "German",
+            "concept": 14
+        },
+        {
+            "begin": 1126,
+            "end": 1131,
+            "text": "Ossis",
+            "concept": 15
+        },
+        {
+            "begin": 1138,
+            "end": 1144,
+            "text": "Wessis",
+            "concept": 16
+        },
+        {
+            "begin": 1148,
+            "end": 1155,
+            "text": "Western",
+            "concept": 7
+        },
+        {
+            "begin": 1194,
+            "end": 1198,
+            "text": "Koch",
+            "concept": 3,
+            "candidates": [
+                "Entertainment_One_Music",
+                "Billy_Koch",
+                "Rajbongshi_people",
+                "Koch_Entertainment",
+                "Carin_Koch",
+                "Karl_Koch_(botanist)",
+                "Koch_language",
+                "Robert_Koch",
+                "Ed_Koch",
+                "Koch_(film)",
+                "Koch_dynasty",
+                "Michael_Koch_(basketball)",
+                "Koch,_South_Sudan",
+                "Fabian_Koch",
+                "Kamata_Kingdom",
+                "Koch_(crater)"
+            ],
+            "scores": [
+                0.4092920353982301,
+                0.09734513274336283,
+                0.06858407079646017,
+                0.0420353982300885,
+                0.02654867256637168,
+                0.024336283185840708,
+                0.024336283185840708,
+                0.022123893805309734,
+                0.022123893805309734,
+                0.01991150442477876,
+                0.01991150442477876,
+                0.015486725663716814,
+                0.015486725663716814,
+                0.01327433628318584,
+                0.01327433628318584,
+                0.011061946902654867
+            ]
+        },
+        {
+            "begin": 1341,
+            "end": 1351,
+            "text": "Warnem\u00fcnde",
+            "concept": 17,
+            "candidates": [
+                "Warnem\u00fcnde",
+                "Warnem\u00fcnde_station",
+                "Rostock"
+            ],
+            "scores": [
+                0.8487084870848709,
+                0.11070110701107011,
+                0.04059040590405904
+            ]
+        },
+        {
+            "begin": 1376,
+            "end": 1383,
+            "text": "Rostock",
+            "concept": 18,
+            "candidates": [
+                "Rostock",
+                "Rostock_(district)",
+                "University_of_Rostock",
+                "Rostock_Hauptbahnhof",
+                "Bezirk_Rostock",
+                "Lordship_of_Rostock",
+                "Rostock\u2013Laage_Airport",
+                "Rostock_S-Bahn",
+                "Warnem\u00fcnde",
+                "Rostock_People's_Theatre",
+                "Trams_in_Rostock",
+                "2003_World_Horticultural_Exposition",
+                "Perth_East,_Ontario",
+                "Stralsund\u2013Rostock_railway",
+                "Bad_Kleinen\u2013Rostock_railway"
+            ],
+            "scores": [
+                0.8128593831677993,
+                0.09200209095661264,
+                0.04391008886565604,
+                0.028227914270778882,
+                0.010454783063251438,
+                0.004181913225300575,
+                0.0031364349189754314,
+                0.0010454783063251437,
+                0.0010454783063251437,
+                0.0005227391531625719,
+                0.0005227391531625719,
+                0.0005227391531625719,
+                0.0005227391531625719,
+                0.0005227391531625719,
+                0.0005227391531625719
+            ]
+        },
+        {
+            "begin": 1536,
+            "end": 1539,
+            "text": "FKK",
+            "concept": 0
+        },
+        {
+            "begin": 1793,
+            "end": 1805,
+            "text": "Dirk Richter",
+            "concept": 19,
+            "candidates": [
+                "Dirk_Richter"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1837,
+            "end": 1844,
+            "text": "Hanover",
+            "concept": 20,
+            "candidates": [
+                "Hanover",
+                "Hanover,_New_Hampshire",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Kingdom_of_Hanover",
+                "Hanover,_Pennsylvania",
+                "Hanover_County,_Virginia",
+                "Hannover_Hauptbahnhof",
+                "House_of_Hanover",
+                "Hanover,_Ontario",
+                "Hanover_(horse)",
+                "Hanover,_Massachusetts",
+                "Hanover_Parish",
+                "Hanover,_Maryland",
+                "Hanover,_Indiana",
+                "Hanover,_Brighton",
+                "Province_of_Hanover"
+            ],
+            "scores": [
+                0.6533849129593811,
+                0.04390715667311412,
+                0.03636363636363636,
+                0.03500967117988395,
+                0.019342359767891684,
+                0.016634429400386848,
+                0.015087040618955513,
+                0.014893617021276596,
+                0.013926499032882012,
+                0.013152804642166345,
+                0.011992263056092843,
+                0.00909090909090909,
+                0.007736943907156673,
+                0.007350096711798839,
+                0.006963249516441006,
+                0.006189555125725338
+            ]
+        },
+        {
+            "begin": 2136,
+            "end": 2146,
+            "text": "Maron Mock",
+            "concept": 21,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Free Body Culture",
+            "keyword": true,
+            "count": 3,
+            "link": "Freik\u00f6rperkultur",
+            "tags": [
+                "meta::todo",
+                "slot::keyword"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Baltic Sea",
+            "keyword": true,
+            "count": 2,
+            "link": "Baltic_Sea",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Germany",
+            "keyword": true,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Susanne Koch",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Baltic",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Poland",
+            "keyword": false,
+            "count": 1,
+            "link": "Poland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Mecca",
+            "keyword": false,
+            "count": 1,
+            "link": "Mecca",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Western",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Communism",
+            "keyword": false,
+            "count": 1,
+            "link": "Communism",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::ideology"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "East German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Berlin Wall",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin_Wall",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "news agency",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 2,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Ossis",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Wessis",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Warnem\u00fcnde",
+            "keyword": false,
+            "count": 1,
+            "link": "Warnem\u00fcnde",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Rostock",
+            "keyword": false,
+            "count": 1,
+            "link": "Rostock",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Dirk Richter",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Hanover",
+            "keyword": false,
+            "count": 1,
+            "link": "Hanover",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Maron Mock",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 22,
+            "keyword": false,
+            "count": 0,
+            "link": "East_Germany",
+            "tags": []
+        },
+        {
+            "concept": 23,
+            "keyword": false,
+            "count": 0,
+            "link": "Saudi_Arabia",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 23
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 22
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 18,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 18,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 18,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 14
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "10000000",
+        "20000538",
+        "20000563",
+        "20000564"
+    ]
+}

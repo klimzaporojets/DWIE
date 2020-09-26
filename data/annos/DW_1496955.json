@@ -1,0 +1,2570 @@
+{
+    "id": "DW_1496955",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 44,
+            "end": 53,
+            "text": "President",
+            "concept": 5
+        },
+        {
+            "begin": 54,
+            "end": 58,
+            "text": "Bush",
+            "concept": 6,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 70,
+            "end": 76,
+            "text": "Europe",
+            "concept": 7,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 261,
+            "end": 268,
+            "text": "America",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Club_Am\u00e9rica",
+                "Americas",
+                "America_(band)",
+                "Am\u00e9rica_de_Cali",
+                "America_Football_Club_(Rio_de_Janeiro)",
+                "Am\u00e9rica_Futebol_Clube_(RN)",
+                "America_(magazine)",
+                "Am\u00e9rica_(Brazilian_TV_series)",
+                "Am\u00e9rica_Futebol_Clube_(MG)",
+                "America_(West_Side_Story_song)",
+                "America_(Simon_&_Garfunkel_song)",
+                "North_America",
+                "America_Records_(France)",
+                "America_(Thirty_Seconds_to_Mars_album)",
+                "America_(yacht)"
+            ],
+            "scores": [
+                0.37258396161754626,
+                0.20137080191912268,
+                0.07909527073337903,
+                0.06579849211788896,
+                0.03481836874571624,
+                0.021247429746401644,
+                0.015078821110349555,
+                0.014667580534612748,
+                0.014256339958875942,
+                0.014119259766963673,
+                0.010418094585332419,
+                0.009184372858122002,
+                0.007402330363262509,
+                0.007128169979437971,
+                0.006579849211788897,
+                0.006305688827964359
+            ]
+        },
+        {
+            "begin": 276,
+            "end": 289,
+            "text": "Florens Focke",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 293,
+            "end": 299,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 324,
+            "end": 337,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 410,
+            "end": 412,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 413,
+            "end": 419,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 463,
+            "end": 468,
+            "text": "Focke",
+            "concept": 2,
+            "candidates": [
+                "Wilhelm_Olbers_Focke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 512,
+            "end": 519,
+            "text": "Germans",
+            "concept": 9
+        },
+        {
+            "begin": 660,
+            "end": 666,
+            "text": "Dayton",
+            "concept": 10,
+            "candidates": [
+                "Dayton,_Ohio",
+                "Dayton_Flyers_men's_basketball",
+                "University_of_Dayton",
+                "Dayton_Flyers",
+                "Dayton_Flyers_football",
+                "Dayton,_Oregon",
+                "Dayton,_Tennessee",
+                "Dayton_Flyers_baseball",
+                "Dayton,_New_York",
+                "Dayton,_Texas",
+                "Dayton,_Minnesota",
+                "Dayton,_Nevada",
+                "Dayton_Flyers_men's_soccer",
+                "Dayton,_Washington",
+                "Dayton,_Virginia",
+                "Dayton_Bombers"
+            ],
+            "scores": [
+                0.5059301931548628,
+                0.1036936631650288,
+                0.04032531345306676,
+                0.024059640799728905,
+                0.023720772619451033,
+                0.02304303625889529,
+                0.019993222636394442,
+                0.016604540833615723,
+                0.013893595391392748,
+                0.013554727211114876,
+                0.013215859030837005,
+                0.012199254490003388,
+                0.010843781768891902,
+                0.009827177228058285,
+                0.008471704506946797,
+                0.007455099966113182
+            ]
+        },
+        {
+            "begin": 668,
+            "end": 672,
+            "text": "Ohio",
+            "concept": 11,
+            "candidates": [
+                "Ohio",
+                "Ohio_River",
+                "List_of_United_States_Senators_from_Ohio",
+                "Ohio_Bobcats_men's_basketball",
+                "List_of_United_States_Representatives_from_Ohio",
+                "Ohio_Bobcats_football",
+                "Miss_Ohio",
+                "Ohio_University",
+                "Miss_Ohio_USA",
+                "Ohio_Bobcats",
+                "Ohio_County,_West_Virginia",
+                "Ohio_(Crosby,_Stills,_Nash_&_Young_song)",
+                "National_Register_of_Historic_Places_listings_in_Ohio_County,_West_Virginia",
+                "Ohio_County,_Kentucky",
+                "Ohio,_New_York",
+                "Miss_Ohio_Teen_USA"
+            ],
+            "scores": [
+                0.890478903448507,
+                0.018733871778544856,
+                0.008713428734206911,
+                0.006266966051141124,
+                0.006199939676262609,
+                0.005730755052113006,
+                0.0033178055564864776,
+                0.0032507791816079627,
+                0.0032172659941687052,
+                0.003183752806729448,
+                0.002513489057944301,
+                0.0020778176212339554,
+                0.001910251684037669,
+                0.001742685746841382,
+                0.001742685746841382,
+                0.0017091725594021248
+            ]
+        },
+        {
+            "begin": 689,
+            "end": 698,
+            "text": "Americans",
+            "concept": 12
+        },
+        {
+            "begin": 764,
+            "end": 769,
+            "text": "Focke",
+            "concept": 2,
+            "candidates": [
+                "Wilhelm_Olbers_Focke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 779,
+            "end": 786,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 795,
+            "end": 798,
+            "text": "USA",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "WeatherTech_Raceway_Laguna_Seca",
+                "USA_Network",
+                "United_States_men's_national_soccer_team",
+                "United_States_Army",
+                "A1_Team_USA",
+                "United_States_national_rugby_union_team",
+                "Indianapolis_Motor_Speedway",
+                "1974_United_States_Grand_Prix",
+                "1977_United_States_Grand_Prix",
+                "1960_United_States_Grand_Prix",
+                "2009_Miller_Superbike_World_Championship_round",
+                "1959_United_States_Grand_Prix",
+                "1975_United_States_Grand_Prix",
+                "1989_United_States_Grand_Prix",
+                "Geography_of_the_United_States"
+            ],
+            "scores": [
+                0.5379222108495394,
+                0.037768679631525075,
+                0.019498464687819857,
+                0.014790174002047083,
+                0.009416581371545548,
+                0.008802456499488229,
+                0.00849539406345957,
+                0.0065506653019447286,
+                0.006038894575230297,
+                0.00593654042988741,
+                0.005834186284544524,
+                0.005783009211873081,
+                0.005783009211873081,
+                0.005271238485158649,
+                0.005271238485158649,
+                0.005220061412487206
+            ]
+        },
+        {
+            "begin": 863,
+            "end": 869,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 870,
+            "end": 878,
+            "text": "American",
+            "concept": 13
+        },
+        {
+            "begin": 1063,
+            "end": 1079,
+            "text": "Michael Schuster",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1098,
+            "end": 1136,
+            "text": "Confederation of German-American Clubs",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1310,
+            "end": 1316,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 1345,
+            "end": 1347,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1390,
+            "end": 1394,
+            "text": "Iraq",
+            "concept": 16,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 1404,
+            "end": 1408,
+            "text": "2003",
+            "concept": 17
+        },
+        {
+            "begin": 1409,
+            "end": 1413,
+            "text": "2004",
+            "concept": 18
+        },
+        {
+            "begin": 1432,
+            "end": 1439,
+            "text": "Germans",
+            "concept": 9
+        },
+        {
+            "begin": 1518,
+            "end": 1531,
+            "text": "November 2004",
+            "concept": 19
+        },
+        {
+            "begin": 1548,
+            "end": 1584,
+            "text": "Institute of International Education",
+            "concept": 1,
+            "candidates": [
+                "Institute_of_International_Education"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1586,
+            "end": 1589,
+            "text": "IIE",
+            "concept": 1,
+            "candidates": [
+                "Apple_IIe",
+                "Institute_of_Industrial_and_Systems_Engineers",
+                "Institute_of_International_Education",
+                "IIE_iron_meteorite",
+                "Hsiung_Feng_IIE",
+                "IIE"
+            ],
+            "scores": [
+                0.3125,
+                0.25,
+                0.1875,
+                0.125,
+                0.0625,
+                0.0625
+            ]
+        },
+        {
+            "begin": 1594,
+            "end": 1602,
+            "text": "New York",
+            "concept": 20,
+            "candidates": [
+                "New_York_(state)",
+                "New_York_City",
+                "New_York_(magazine)",
+                "New_York_Knicks",
+                "New_York_Liberty",
+                "Manhattan",
+                "List_of_United_States_Senators_from_New_York",
+                "New_York_GAA",
+                "Province_of_New_York",
+                "List_of_United_States_Representatives_from_New_York",
+                "United_States_congressional_delegations_from_New_York",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York_USA",
+                "Miss_New_York",
+                "2015\u201316_New_York_Knicks_season",
+                "2016\u201317_New_York_Knicks_season"
+            ],
+            "scores": [
+                0.5868936312942854,
+                0.22854387656702024,
+                0.0213408242840971,
+                0.014352997079088228,
+                0.00907019971210152,
+                0.008077928248990259,
+                0.004038964124495129,
+                0.003619694492194597,
+                0.0034939136025044374,
+                0.003130546587843976,
+                0.002934887426103727,
+                0.001663102874792112,
+                0.0015512976395119702,
+                0.0014814193674618813,
+                0.0012578088969015975,
+                0.001229857588081562
+            ]
+        },
+        {
+            "begin": 1661,
+            "end": 1677,
+            "text": "Katrin Alt-Rudin",
+            "concept": 21,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1726,
+            "end": 1738,
+            "text": "Amerika Haus",
+            "concept": 22,
+            "candidates": [
+                "Amerika_Haus"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1742,
+            "end": 1748,
+            "text": "Munich",
+            "concept": 23,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 1822,
+            "end": 1835,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 1855,
+            "end": 1864,
+            "text": "Australia",
+            "concept": 24,
+            "candidates": [
+                "Australia",
+                "Australia_national_cricket_team",
+                "Australia_national_rugby_union_team",
+                "Australia_national_rugby_league_team",
+                "Australia_national_soccer_team",
+                "Rugby_Australia",
+                "Australia_women's_national_cricket_team",
+                "Australia_women's_national_soccer_team",
+                "Australia_(2008_film)",
+                "ARIA_Charts",
+                "Australia_international_rules_football_team",
+                "Football_Federation_Australia",
+                "A1_Team_Australia",
+                "Australia_Davis_Cup_team",
+                "Australian_Recording_Industry_Association",
+                "Kent_Music_Report"
+            ],
+            "scores": [
+                0.8091146964416243,
+                0.036229964935326334,
+                0.025827091962668306,
+                0.024312213311863725,
+                0.01744758837674926,
+                0.0034958738095490324,
+                0.0033475640115681643,
+                0.0031462864285941292,
+                0.0025636407936692903,
+                0.0025106730086761233,
+                0.0023199889827007214,
+                0.0022988018687034547,
+                0.0019280273737512844,
+                0.0016314077777895483,
+                0.0013983495238196128,
+                0.0013877559668209795
+            ]
+        },
+        {
+            "begin": 1866,
+            "end": 1872,
+            "text": "Canada",
+            "concept": 25,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1877,
+            "end": 1888,
+            "text": "New Zealand",
+            "concept": 26,
+            "candidates": [
+                "New_Zealand",
+                "New_Zealand_national_cricket_team",
+                "New_Zealand_national_rugby_union_team",
+                "New_Zealand_national_rugby_league_team",
+                "New_Zealand_national_football_team",
+                "New_Zealand_Rugby",
+                "New_Zealand_women's_national_cricket_team",
+                "New_Zealand_women's_national_football_team",
+                "New_Zealanders",
+                "Recorded_Music_NZ",
+                "A1_Team_New_Zealand",
+                "Official_New_Zealand_Music_Chart",
+                "New_Zealand_literature",
+                "New_Zealand_national_rugby_sevens_team",
+                "New_Zealand_Football",
+                "Dominion_of_New_Zealand"
+            ],
+            "scores": [
+                0.7694002629288796,
+                0.04510526413242728,
+                0.03305127113151999,
+                0.031699594497009646,
+                0.020145536689688374,
+                0.008758123946895773,
+                0.006184383505841835,
+                0.00527709371007462,
+                0.004388320032588368,
+                0.004277223322902587,
+                0.003610643064787898,
+                0.003036643398078027,
+                0.0030181272797970633,
+                0.002610772677615865,
+                0.0024441276130871925,
+                0.002407095376525265
+            ]
+        },
+        {
+            "begin": 1974,
+            "end": 1981,
+            "text": "English",
+            "concept": 27,
+            "candidates": [
+                "English_language",
+                "England",
+                "English_people",
+                "English_poetry",
+                "English_studies",
+                "Kingdom_of_England",
+                "English_Americans",
+                "United_Kingdom",
+                "English_literature",
+                "Australian_English",
+                "England_national_football_team",
+                "American_English",
+                "Philippine_English",
+                "English_law",
+                "English_Canadians",
+                "English-speaking_world"
+            ],
+            "scores": [
+                0.48988774122184187,
+                0.23750728710444102,
+                0.1568334354773614,
+                0.026069149015680353,
+                0.017922539948280244,
+                0.0103290034230706,
+                0.010254263890342157,
+                0.00554567332845035,
+                0.0033632789727798622,
+                0.002660727365132513,
+                0.0023916650473101244,
+                0.0019133320378480994,
+                0.0015545822807515807,
+                0.001509738561114516,
+                0.001509738561114516,
+                0.0012556241498378152
+            ]
+        },
+        {
+            "begin": 2068,
+            "end": 2070,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2135,
+            "end": 2152,
+            "text": "Christian Sch\u00e4fer",
+            "concept": 28,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2160,
+            "end": 2192,
+            "text": "German Academic Exchange Service",
+            "concept": 29,
+            "candidates": [
+                "German_Academic_Exchange_Service"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2242,
+            "end": 2251,
+            "text": "Americans",
+            "concept": 12
+        },
+        {
+            "begin": 2264,
+            "end": 2271,
+            "text": "Germans",
+            "concept": 9
+        },
+        {
+            "begin": 2299,
+            "end": 2303,
+            "text": "2002",
+            "concept": 30
+        },
+        {
+            "begin": 2304,
+            "end": 2308,
+            "text": "2003",
+            "concept": 17
+        },
+        {
+            "begin": 2344,
+            "end": 2351,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2375,
+            "end": 2384,
+            "text": "Americans",
+            "concept": 12
+        },
+        {
+            "begin": 2419,
+            "end": 2422,
+            "text": "IIE",
+            "concept": 1,
+            "candidates": [
+                "Apple_IIe",
+                "Institute_of_Industrial_and_Systems_Engineers",
+                "Institute_of_International_Education",
+                "IIE_iron_meteorite",
+                "Hsiung_Feng_IIE",
+                "IIE"
+            ],
+            "scores": [
+                0.3125,
+                0.25,
+                0.1875,
+                0.125,
+                0.0625,
+                0.0625
+            ]
+        },
+        {
+            "begin": 2466,
+            "end": 2478,
+            "text": "Eric Schranz",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2487,
+            "end": 2495,
+            "text": "American",
+            "concept": 13
+        },
+        {
+            "begin": 2559,
+            "end": 2599,
+            "text": "Max Planck Institute of Chemical Ecology",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2603,
+            "end": 2607,
+            "text": "Jena",
+            "concept": 32,
+            "candidates": [
+                "Jena",
+                "University_of_Jena",
+                "Jena,_Louisiana",
+                "Battle_of_Jena\u2013Auerstedt",
+                "Apache_Jena",
+                "FF_USV_Jena",
+                "Jena_West_station",
+                "Jena_Paradies_station",
+                "Science_City_Jena",
+                "Jena_Saale_station",
+                "FC_Carl_Zeiss_Jena",
+                "Jena,_Florida",
+                "Jena-G\u00f6schwitz_station",
+                "Jena,_Alabama",
+                "Jena_(disambiguation)",
+                "Steinhatchee,_Florida"
+            ],
+            "scores": [
+                0.7374005305039788,
+                0.1469496021220159,
+                0.04509283819628647,
+                0.042440318302387266,
+                0.00636604774535809,
+                0.004244031830238726,
+                0.003713527851458886,
+                0.002652519893899204,
+                0.002122015915119363,
+                0.0015915119363395225,
+                0.0015915119363395225,
+                0.0015915119363395225,
+                0.0010610079575596816,
+                0.0010610079575596816,
+                0.0005305039787798408,
+                0.0005305039787798408
+            ]
+        },
+        {
+            "begin": 2617,
+            "end": 2624,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2637,
+            "end": 2639,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2666,
+            "end": 2670,
+            "text": "Iraq",
+            "concept": 16,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 2743,
+            "end": 2750,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2858,
+            "end": 2865,
+            "text": "Schranz",
+            "concept": 4,
+            "candidates": [
+                "Karl_Schranz",
+                "Ivan_Schranz",
+                "Andreas_Schranz"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 2942,
+            "end": 2950,
+            "text": "American",
+            "concept": 13
+        },
+        {
+            "begin": 3054,
+            "end": 3060,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 3073,
+            "end": 3082,
+            "text": "Americans",
+            "concept": 12
+        },
+        {
+            "begin": 3136,
+            "end": 3146,
+            "text": "John Magee",
+            "concept": 33,
+            "candidates": [
+                "John_Magee_(missionary)",
+                "John_Magee_(bishop)",
+                "John_Magee_(congressman)",
+                "John_Magee_(American_football)",
+                "John_Gillespie_Magee_Jr.",
+                "Magee_Marshall_&_Co"
+            ],
+            "scores": [
+                0.3142857142857143,
+                0.2714285714285714,
+                0.18571428571428572,
+                0.17142857142857143,
+                0.04285714285714286,
+                0.014285714285714285
+            ]
+        },
+        {
+            "begin": 3150,
+            "end": 3167,
+            "text": "The Magee Company",
+            "concept": 34,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3229,
+            "end": 3238,
+            "text": "Americans",
+            "concept": 12
+        },
+        {
+            "begin": 3325,
+            "end": 3338,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 3365,
+            "end": 3371,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 3372,
+            "end": 3388,
+            "text": "exchange student",
+            "concept": 35
+        },
+        {
+            "begin": 3389,
+            "end": 3394,
+            "text": "Focke",
+            "concept": 2,
+            "candidates": [
+                "Wilhelm_Olbers_Focke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3494,
+            "end": 3501,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3516,
+            "end": 3532,
+            "text": "Second World War",
+            "concept": 36,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "Netherlands_in_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Pacific_War",
+                "German_occupation_of_Norway",
+                "World_War_II_in_Yugoslavia",
+                "World_War_I",
+                "Military_history_of_the_United_Kingdom_during_World_War_II",
+                "Second_Sino-Japanese_War",
+                "Second_World_War_at_Sea_series",
+                "Belgium_in_World_War_II",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Denmark_in_World_War_II",
+                "History_of_Poland_(1939\u20131945)"
+            ],
+            "scores": [
+                0.9937571592210768,
+                0.0016323024054982818,
+                0.0004009163802978236,
+                0.0003436426116838488,
+                0.0003150057273768614,
+                0.0002577319587628866,
+                0.0002290950744558992,
+                0.0002290950744558992,
+                0.0002004581901489118,
+                0.0001718213058419244,
+                0.0001718213058419244,
+                0.000143184421534937,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                8.59106529209622e-05
+            ]
+        },
+        {
+            "begin": 3580,
+            "end": 3584,
+            "text": "Iraq",
+            "concept": 16,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3608,
+            "end": 3614,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 3634,
+            "end": 3638,
+            "text": "Nazi",
+            "concept": 37,
+            "candidates": [
+                "Nazism",
+                "Nazi_Germany",
+                "Nazi_Party",
+                "Propaganda_in_Nazi_Germany",
+                "Wehrmacht",
+                "German-occupied_Europe",
+                "Reichskommissariat_Ostland",
+                "Neo-Nazism",
+                "German_military_administration_in_occupied_France_during_World_War_II",
+                "Nazism_and_cinema",
+                "Austrian_National_Socialism",
+                "Nazi_architecture",
+                "Occupation_of_Poland_(1939\u20131945)",
+                "Austria_under_National_Socialism",
+                "One-party_state",
+                "Nazi,_Markazi"
+            ],
+            "scores": [
+                0.8493613272647188,
+                0.10057260314197622,
+                0.04257818235207752,
+                0.0007341065922771986,
+                0.0005872852738217589,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00029364263691087944,
+                0.00014682131845543972,
+                0.00014682131845543972,
+                0.00014682131845543972,
+                0.00014682131845543972
+            ]
+        },
+        {
+            "begin": 3649,
+            "end": 3656,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3676,
+            "end": 3692,
+            "text": "Second World War",
+            "concept": 36,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "Netherlands_in_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Pacific_War",
+                "German_occupation_of_Norway",
+                "World_War_II_in_Yugoslavia",
+                "World_War_I",
+                "Military_history_of_the_United_Kingdom_during_World_War_II",
+                "Second_Sino-Japanese_War",
+                "Second_World_War_at_Sea_series",
+                "Belgium_in_World_War_II",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Denmark_in_World_War_II",
+                "History_of_Poland_(1939\u20131945)"
+            ],
+            "scores": [
+                0.9937571592210768,
+                0.0016323024054982818,
+                0.0004009163802978236,
+                0.0003436426116838488,
+                0.0003150057273768614,
+                0.0002577319587628866,
+                0.0002290950744558992,
+                0.0002290950744558992,
+                0.0002004581901489118,
+                0.0001718213058419244,
+                0.0001718213058419244,
+                0.000143184421534937,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                8.59106529209622e-05
+            ]
+        },
+        {
+            "begin": 3736,
+            "end": 3741,
+            "text": "Focke",
+            "concept": 2,
+            "candidates": [
+                "Wilhelm_Olbers_Focke"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": true,
+            "count": 9,
+            "link": "United_States",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Institute of International Education",
+            "keyword": true,
+            "count": 3,
+            "link": "Institute_of_International_Education",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Florens Focke",
+            "keyword": true,
+            "count": 6,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "slot::keyword",
+                "topic::education",
+                "type::education_student",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Germany",
+            "keyword": true,
+            "count": 6,
+            "link": "Germany",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Eric Schranz",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::researcher"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Bush",
+            "keyword": false,
+            "count": 1,
+            "link": "George_W._Bush",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "German",
+            "keyword": false,
+            "count": 7,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Germans",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Dayton",
+            "keyword": false,
+            "count": 1,
+            "link": "Dayton,_Ohio",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Ohio",
+            "keyword": false,
+            "count": 1,
+            "link": "Ohio",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Americans",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "American",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Michael Schuster",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::head",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Confederation of German-American Clubs",
+            "keyword": false,
+            "count": 1,
+            "link": "Federation_of_German-American_Clubs",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 3,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "2003",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "November 2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "New York",
+            "keyword": false,
+            "count": 1,
+            "link": "New_York_City",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Katrin Alt-Rudin",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Amerika Haus",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q467956",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Munich",
+            "keyword": false,
+            "count": 1,
+            "link": "Munich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Australia",
+            "keyword": false,
+            "count": 1,
+            "link": "Australia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Canada",
+            "keyword": false,
+            "count": 1,
+            "link": "Canada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "New Zealand",
+            "keyword": false,
+            "count": 1,
+            "link": "New_Zealand",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "English",
+            "keyword": false,
+            "count": 1,
+            "link": "English_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Christian Sch\u00e4fer",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "German Academic Exchange Service",
+            "keyword": false,
+            "count": 1,
+            "link": "German_Academic_Exchange_Service",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "2002",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Max Planck Institute of Chemical Ecology",
+            "keyword": false,
+            "count": 1,
+            "link": "Max_Planck_Institute_for_Chemical_Ecology",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::organization",
+                "type::research_center"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Jena",
+            "keyword": false,
+            "count": 1,
+            "link": "Jena",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "John Magee",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::employee",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "The Magee Company",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "exchange student",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Second World War",
+            "keyword": false,
+            "count": 2,
+            "link": "World_War_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::war"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Nazi",
+            "keyword": false,
+            "count": 1,
+            "link": "Nazism",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 12
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "based_in2",
+            "o": 20
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 31
+        },
+        {
+            "s": 6,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 6,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "head_of_state-x",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "head_of_state-x",
+            "o": 13
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 12
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "in0-x",
+            "o": 12
+        },
+        {
+            "s": 11,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "head_of",
+            "o": 15
+        },
+        {
+            "s": 14,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 12
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 21,
+            "p": "head_of",
+            "o": 22
+        },
+        {
+            "s": 21,
+            "p": "member_of",
+            "o": 22
+        },
+        {
+            "s": 22,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 22,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 22,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 22,
+            "p": "based_in2",
+            "o": 23
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 9
+        },
+        {
+            "s": 28,
+            "p": "member_of",
+            "o": 29
+        },
+        {
+            "s": 29,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 29,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 29,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 31,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 31,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 31,
+            "p": "based_in2",
+            "o": 32
+        },
+        {
+            "s": 32,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 32,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 32,
+            "p": "in0-x",
+            "o": 9
+        },
+        {
+            "s": 33,
+            "p": "member_of",
+            "o": 34
+        },
+        {
+            "s": 34,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 34,
+            "p": "based_in0-x",
+            "o": 12
+        },
+        {
+            "s": 34,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 36,
+            "p": "event_in0",
+            "o": 3
+        },
+        {
+            "s": 37,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 37,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 37,
+            "p": "based_in0-x",
+            "o": 9
+        }
+    ],
+    "frames": [
+        {
+            "type": "meet",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 6
+                },
+                {
+                    "name": "place",
+                    "value": 7
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "05000000"
+    ]
+}

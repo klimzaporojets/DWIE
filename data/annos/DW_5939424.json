@@ -1,0 +1,64 @@
+{
+    "id": "DW_5939424",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 52,
+            "end": 57,
+            "text": "March",
+            "concept": 1
+        },
+        {
+            "begin": 59,
+            "end": 63,
+            "text": "2010",
+            "concept": 2
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "March",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "2010",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000304",
+        "20000310"
+    ]
+}

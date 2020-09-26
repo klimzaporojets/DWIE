@@ -1,0 +1,1855 @@
+{
+    "id": "DW_15491387",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 10,
+            "end": 18,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 60,
+            "end": 64,
+            "text": "1989",
+            "concept": 6
+        },
+        {
+            "begin": 161,
+            "end": 172,
+            "text": "Arab Spring",
+            "concept": 5,
+            "candidates": [
+                "Arab_Spring",
+                "2011\u201312_Saudi_Arabian_protests",
+                "Internet_censorship_in_the_Arab_Spring",
+                "Impact_of_the_Arab_Spring"
+            ],
+            "scores": [
+                0.9975429975429976,
+                0.000819000819000819,
+                0.000819000819000819,
+                0.000819000819000819
+            ]
+        },
+        {
+            "begin": 174,
+            "end": 176,
+            "text": "DW",
+            "concept": 1,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 183,
+            "end": 191,
+            "text": "Lebanese",
+            "concept": 7
+        },
+        {
+            "begin": 192,
+            "end": 200,
+            "text": "lecturer",
+            "concept": 8
+        },
+        {
+            "begin": 205,
+            "end": 213,
+            "text": "activist",
+            "concept": 9
+        },
+        {
+            "begin": 214,
+            "end": 224,
+            "text": "Ziad Majed",
+            "concept": 3,
+            "candidates": [
+                "Ziad_Majed"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 263,
+            "end": 273,
+            "text": "Ziad Majed",
+            "concept": 3,
+            "candidates": [
+                "Ziad_Majed"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 316,
+            "end": 335,
+            "text": "American University",
+            "concept": 10,
+            "candidates": [
+                "American_University",
+                "American_Eagles",
+                "The_American_University_in_Cairo",
+                "American_Eagles_men's_basketball",
+                "American_University_of_Beirut",
+                "Washington_College_of_Law",
+                "American_University_(Nicaragua)",
+                "American_University_of_Paris",
+                "Higher_education_in_the_United_States",
+                "RIT_Kosovo",
+                "American_Eagles_wrestling",
+                "List_of_United_States_university_campuses_by_enrollment"
+            ],
+            "scores": [
+                0.975230694511899,
+                0.005342399222923749,
+                0.004371053909664886,
+                0.003399708596406022,
+                0.003399708596406022,
+                0.0029140359397765905,
+                0.0014570179698882952,
+                0.0014570179698882952,
+                0.0009713453132588635,
+                0.00048567265662943174,
+                0.00048567265662943174,
+                0.00048567265662943174
+            ]
+        },
+        {
+            "begin": 339,
+            "end": 344,
+            "text": "Paris",
+            "concept": 11,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 349,
+            "end": 353,
+            "text": "2004",
+            "concept": 12
+        },
+        {
+            "begin": 373,
+            "end": 397,
+            "text": "Democratic Left Movement",
+            "concept": 13,
+            "candidates": [
+                "Democratic_Left_Movement_(Lebanon)",
+                "Democratic_Left_Movement_(Peru)"
+            ],
+            "scores": [
+                0.84,
+                0.16
+            ]
+        },
+        {
+            "begin": 422,
+            "end": 430,
+            "text": "Lebanese",
+            "concept": 7
+        },
+        {
+            "begin": 443,
+            "end": 447,
+            "text": "2005",
+            "concept": 14
+        },
+        {
+            "begin": 460,
+            "end": 466,
+            "text": "Syrian",
+            "concept": 15
+        },
+        {
+            "begin": 481,
+            "end": 488,
+            "text": "Lebanon",
+            "concept": 16,
+            "candidates": [
+                "Lebanon",
+                "Lebanon_national_football_team",
+                "Lebanon,_Pennsylvania",
+                "A1_Team_Lebanon",
+                "Lebanon,_Tennessee",
+                "Lebanon,_New_Hampshire",
+                "Lebanon_national_rugby_league_team",
+                "Lebanon_County,_Pennsylvania",
+                "Lebanon,_Ohio",
+                "Lebanon,_Missouri",
+                "Lebanon,_Connecticut",
+                "Lebanon,_Kentucky",
+                "Lebanon,_Oregon",
+                "Lebanon_(2009_film)",
+                "Lebanon,_Indiana",
+                "Lebanon_national_basketball_team"
+            ],
+            "scores": [
+                0.8166021855698092,
+                0.016493585827733658,
+                0.01296409421027625,
+                0.012285345822303673,
+                0.01106359872395303,
+                0.010792099368764,
+                0.010656349691169483,
+                0.00984185162560239,
+                0.008755854204846264,
+                0.005769361297766918,
+                0.005565736781375144,
+                0.004479739360619018,
+                0.004479739360619018,
+                0.004208240005429987,
+                0.004208240005429987,
+                0.003393741939862893
+            ]
+        },
+        {
+            "begin": 493,
+            "end": 497,
+            "text": "2009",
+            "concept": 17
+        },
+        {
+            "begin": 512,
+            "end": 531,
+            "text": "Beirut Spring Forum",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 533,
+            "end": 547,
+            "text": "Deutsche Welle",
+            "concept": 1,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 720,
+            "end": 730,
+            "text": "Ziad Majed",
+            "concept": 3,
+            "candidates": [
+                "Ziad_Majed"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1813,
+            "end": 1817,
+            "text": "Arab",
+            "concept": 19,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 1988,
+            "end": 1998,
+            "text": "al-Jazeera",
+            "concept": 20,
+            "candidates": [
+                "Al_Jazeera",
+                "Al-Jazeera_Club_(Jordan)",
+                "Al_Jazeera_English",
+                "Al-Jazeera_SC_(Syria)",
+                "Al_Jazeera_SC",
+                "Al_Jazeera_Media_Network",
+                "Aljazeera_SC",
+                "Upper_Mesopotamia",
+                "Al-Jazira_Province",
+                "Al_Jazeera_America",
+                "BeIN_Sports_(Middle_East_TV_network)",
+                "Aljazeera_Publishing"
+            ],
+            "scores": [
+                0.8936376881981545,
+                0.07139388052452647,
+                0.016027197668771247,
+                0.008742107819329771,
+                0.0029140359397765905,
+                0.0029140359397765905,
+                0.0014570179698882952,
+                0.0009713453132588635,
+                0.00048567265662943174,
+                0.00048567265662943174,
+                0.00048567265662943174,
+                0.00048567265662943174
+            ]
+        },
+        {
+            "begin": 2002,
+            "end": 2012,
+            "text": "al-Arabiya",
+            "concept": 21,
+            "candidates": [
+                "Al_Arabiya",
+                "Al-Arabiya_Coalition"
+            ],
+            "scores": [
+                0.9971910112359551,
+                0.0028089887640449437
+            ]
+        },
+        {
+            "begin": 2021,
+            "end": 2031,
+            "text": "Arabophone",
+            "concept": 22
+        },
+        {
+            "begin": 2032,
+            "end": 2040,
+            "text": "European",
+            "concept": 23
+        },
+        {
+            "begin": 2057,
+            "end": 2065,
+            "text": "Internet",
+            "concept": 24,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 2165,
+            "end": 2170,
+            "text": "Egypt",
+            "concept": 25,
+            "candidates": [
+                "Egypt",
+                "Egypt_national_football_team",
+                "Ancient_Egypt",
+                "Egypt_(Roman_province)",
+                "Kingdom_of_Egypt",
+                "Egypt_Eyalet",
+                "Egypt_in_the_Middle_Ages",
+                "Egyptian_Football_Association",
+                "Ptolemaic_Kingdom",
+                "Egypt_national_basketball_team",
+                "Khedivate_of_Egypt",
+                "History_of_ancient_Egypt",
+                "Egypt_national_handball_team",
+                "Egypt_Fed_Cup_team",
+                "Egypt_women's_national_squash_team",
+                "Egyptian_revolution_of_2011"
+            ],
+            "scores": [
+                0.8557138744962579,
+                0.025115141047783535,
+                0.02284830166954519,
+                0.008491652274035694,
+                0.007052389176741509,
+                0.0054332181922855495,
+                0.005289291882556131,
+                0.00395797351755901,
+                0.0034542314335060447,
+                0.00295048934945308,
+                0.002662636729994243,
+                0.0018350604490500863,
+                0.0017990788716177317,
+                0.0017271157167530224,
+                0.0016911341393206678,
+                0.0015112262521588947
+            ]
+        },
+        {
+            "begin": 2186,
+            "end": 2197,
+            "text": "Khalid Said",
+            "concept": 26,
+            "candidates": [
+                "Death_of_Khaled_Mohamed_Saeed"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2217,
+            "end": 2227,
+            "text": "Alexandria",
+            "concept": 27,
+            "candidates": [
+                "Alexandria",
+                "Alexandria,_Virginia",
+                "Alexandria,_Louisiana",
+                "Alexandria,_Minnesota",
+                "Alexandria,_West_Dunbartonshire",
+                "Alexandria,_New_South_Wales",
+                "Alexandria,_Romania",
+                "Alexandria_Governorate",
+                "Patriarch_of_Alexandria",
+                "North_Glengarry,_Ontario",
+                "Alexandria,_Indiana",
+                "Greek_Orthodox_Patriarchate_of_Alexandria_and_all_Africa",
+                "Alexandria,_Kentucky",
+                "Alexandria,_New_York",
+                "Alexandria,_British_Columbia",
+                "Alexandria,_New_Hampshire"
+            ],
+            "scores": [
+                0.6767151767151767,
+                0.10383460383460383,
+                0.09274659274659275,
+                0.017902517902517904,
+                0.010972510972510972,
+                0.009817509817509817,
+                0.00693000693000693,
+                0.004851004851004851,
+                0.00462000462000462,
+                0.004389004389004389,
+                0.0035805035805035806,
+                0.0035805035805035806,
+                0.0033495033495033496,
+                0.0033495033495033496,
+                0.003234003234003234,
+                0.0026565026565026563
+            ]
+        },
+        {
+            "begin": 2500,
+            "end": 2508,
+            "text": "facebook",
+            "concept": 28,
+            "candidates": [
+                "Facebook",
+                "Facebook_Platform",
+                "Censorship_of_Facebook",
+                "Social-network_game",
+                "Facebook_Watch",
+                "Facebook_Home",
+                "Facebook_Messenger",
+                "Facebook_Live",
+                "List_of_Facebook_features",
+                "YouTube",
+                "Instagram",
+                "Initial_public_offering_of_Facebook",
+                "Google"
+            ],
+            "scores": [
+                0.9975667305707123,
+                0.0006636189352602861,
+                0.0005161480607580003,
+                0.0003686771862557145,
+                0.0001474708745022858,
+                0.0001474708745022858,
+                0.0001474708745022858,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05,
+                7.37354372511429e-05
+            ]
+        },
+        {
+            "begin": 2596,
+            "end": 2601,
+            "text": "Syria",
+            "concept": 29,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2826,
+            "end": 2833,
+            "text": "Youtube",
+            "concept": 30,
+            "candidates": [
+                "YouTube",
+                "Censorship_of_YouTube",
+                "List_of_YouTubers",
+                "YouTuber",
+                "Social_impact_of_YouTube",
+                "YouTube_Premium",
+                "IBM_Cloud_Video"
+            ],
+            "scores": [
+                0.9994316105720433,
+                0.00020299622427022857,
+                0.00012179773456213715,
+                8.119848970809142e-05,
+                8.119848970809142e-05,
+                4.059924485404571e-05,
+                4.059924485404571e-05
+            ]
+        },
+        {
+            "begin": 2887,
+            "end": 2895,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 2943,
+            "end": 2950,
+            "text": "Tunisia",
+            "concept": 31,
+            "candidates": [
+                "Tunisia",
+                "Tunisia_national_football_team",
+                "Tunisian_Football_Federation",
+                "Tunisian_Campaign",
+                "French_protectorate_of_Tunisia",
+                "Tunisia_national_handball_team",
+                "Tunisian_Revolution",
+                "Tunisia_national_rugby_union_team",
+                "Tunisia_national_basketball_team",
+                "Tunisia_Fed_Cup_team",
+                "Tunisia_Davis_Cup_team",
+                "History_of_the_Jews_in_Tunisia",
+                "Elections_in_Tunisia",
+                "Tunisian_Ligue_Professionnelle_1",
+                "Football_in_Tunisia",
+                "Miss_Tunisie"
+            ],
+            "scores": [
+                0.8606814176620325,
+                0.05159584883493244,
+                0.014294106128842765,
+                0.00998629332289015,
+                0.005091051497943999,
+                0.004993146661445075,
+                0.004307812805952614,
+                0.004209907969453691,
+                0.0032308596044644607,
+                0.0028392402584687683,
+                0.0027413354219698455,
+                0.002056001566477384,
+                0.0014685725474838456,
+                0.0012727628744859997,
+                0.0012727628744859997,
+                0.0009790483649892304
+            ]
+        },
+        {
+            "begin": 2960,
+            "end": 2978,
+            "text": "Muslim Brotherhood",
+            "concept": 32,
+            "candidates": [
+                "Muslim_Brotherhood",
+                "Muslim_Brotherhood_in_Egypt",
+                "Muslim_Brotherhood_of_Syria",
+                "History_of_the_Muslim_Brotherhood_in_Egypt",
+                "Jordanian_Muslim_Brotherhood",
+                "Yihewani"
+            ],
+            "scores": [
+                0.913626209977662,
+                0.06105733432613552,
+                0.017870439314966492,
+                0.004467609828741623,
+                0.0022338049143708115,
+                0.0007446016381236039
+            ]
+        },
+        {
+            "begin": 3037,
+            "end": 3042,
+            "text": "Egypt",
+            "concept": 25,
+            "candidates": [
+                "Egypt",
+                "Egypt_national_football_team",
+                "Ancient_Egypt",
+                "Egypt_(Roman_province)",
+                "Kingdom_of_Egypt",
+                "Egypt_Eyalet",
+                "Egypt_in_the_Middle_Ages",
+                "Egyptian_Football_Association",
+                "Ptolemaic_Kingdom",
+                "Egypt_national_basketball_team",
+                "Khedivate_of_Egypt",
+                "History_of_ancient_Egypt",
+                "Egypt_national_handball_team",
+                "Egypt_Fed_Cup_team",
+                "Egypt_women's_national_squash_team",
+                "Egyptian_revolution_of_2011"
+            ],
+            "scores": [
+                0.8557138744962579,
+                0.025115141047783535,
+                0.02284830166954519,
+                0.008491652274035694,
+                0.007052389176741509,
+                0.0054332181922855495,
+                0.005289291882556131,
+                0.00395797351755901,
+                0.0034542314335060447,
+                0.00295048934945308,
+                0.002662636729994243,
+                0.0018350604490500863,
+                0.0017990788716177317,
+                0.0017271157167530224,
+                0.0016911341393206678,
+                0.0015112262521588947
+            ]
+        },
+        {
+            "begin": 3091,
+            "end": 3099,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 3154,
+            "end": 3158,
+            "text": "1980",
+            "concept": 33
+        },
+        {
+            "begin": 3164,
+            "end": 3166,
+            "text": "90",
+            "concept": 34
+        },
+        {
+            "begin": 3202,
+            "end": 3207,
+            "text": "Islam",
+            "concept": 35,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 3277,
+            "end": 3285,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 3295,
+            "end": 3302,
+            "text": "Wahabis",
+            "concept": 36
+        },
+        {
+            "begin": 3310,
+            "end": 3317,
+            "text": "Salafis",
+            "concept": 37
+        },
+        {
+            "begin": 3323,
+            "end": 3341,
+            "text": "Muslim Brotherhood",
+            "concept": 32,
+            "candidates": [
+                "Muslim_Brotherhood",
+                "Muslim_Brotherhood_in_Egypt",
+                "Muslim_Brotherhood_of_Syria",
+                "History_of_the_Muslim_Brotherhood_in_Egypt",
+                "Jordanian_Muslim_Brotherhood",
+                "Yihewani"
+            ],
+            "scores": [
+                0.913626209977662,
+                0.06105733432613552,
+                0.017870439314966492,
+                0.004467609828741623,
+                0.0022338049143708115,
+                0.0007446016381236039
+            ]
+        },
+        {
+            "begin": 3345,
+            "end": 3354,
+            "text": "Hezbollah",
+            "concept": 38,
+            "candidates": [
+                "Hezbollah",
+                "Hezbollah_(Iran)",
+                "Loyalty_to_the_Resistance_Bloc",
+                "Turkish_Hezbollah",
+                "Hezbollah_armed_strength",
+                "Flag_of_Hezbollah",
+                "Hezbollah_Movement_in_Iraq",
+                "Hezbollah_involvement_in_the_Syrian_Civil_War",
+                "Funding_of_Hezbollah"
+            ],
+            "scores": [
+                0.9888793840889649,
+                0.0029940119760479044,
+                0.001710863986313088,
+                0.001710863986313088,
+                0.0012831479897348161,
+                0.0012831479897348161,
+                0.000855431993156544,
+                0.000855431993156544,
+                0.000427715996578272
+            ]
+        },
+        {
+            "begin": 3359,
+            "end": 3364,
+            "text": "Hamas",
+            "concept": 39,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 3452,
+            "end": 3456,
+            "text": "West",
+            "concept": 0,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 3693,
+            "end": 3701,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 3773,
+            "end": 3777,
+            "text": "1980",
+            "concept": 33
+        },
+        {
+            "begin": 3783,
+            "end": 3785,
+            "text": "90",
+            "concept": 34
+        },
+        {
+            "begin": 3882,
+            "end": 3890,
+            "text": "Islamist",
+            "concept": 4
+        },
+        {
+            "begin": 4426,
+            "end": 4437,
+            "text": "Arab Spring",
+            "concept": 5,
+            "candidates": [
+                "Arab_Spring",
+                "2011\u201312_Saudi_Arabian_protests",
+                "Internet_censorship_in_the_Arab_Spring",
+                "Impact_of_the_Arab_Spring"
+            ],
+            "scores": [
+                0.9975429975429976,
+                0.000819000819000819,
+                0.000819000819000819,
+                0.000819000819000819
+            ]
+        },
+        {
+            "begin": 4534,
+            "end": 4543,
+            "text": "Islamists",
+            "concept": 2
+        },
+        {
+            "begin": 4691,
+            "end": 4697,
+            "text": "Europe",
+            "concept": 40,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 4706,
+            "end": 4710,
+            "text": "West",
+            "concept": 0,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 4775,
+            "end": 4786,
+            "text": "Arab Spring",
+            "concept": 5,
+            "candidates": [
+                "Arab_Spring",
+                "2011\u201312_Saudi_Arabian_protests",
+                "Internet_censorship_in_the_Arab_Spring",
+                "Impact_of_the_Arab_Spring"
+            ],
+            "scores": [
+                0.9975429975429976,
+                0.000819000819000819,
+                0.000819000819000819,
+                0.000819000819000819
+            ]
+        },
+        {
+            "begin": 5089,
+            "end": 5096,
+            "text": "Western",
+            "concept": 0,
+            "candidates": [
+                "Western_(genre)",
+                "Western_world",
+                "Western_culture",
+                "Western_United_States",
+                "Western_Province,_Sri_Lanka",
+                "Western_Province_(Victoria)",
+                "Western_film",
+                "Western_Europe",
+                "Western_comics",
+                "Western_fiction",
+                "Western_Conference_(NBA)",
+                "Western_music_(North_America)",
+                "Western_Mustangs",
+                "Western_Province_(Papua_New_Guinea)",
+                "American_frontier",
+                "Western_Province_(Kenya)"
+            ],
+            "scores": [
+                0.4424464086152596,
+                0.09814081072843646,
+                0.042060347455044195,
+                0.03830133089505232,
+                0.03088489281723052,
+                0.017779132378339935,
+                0.015747231535101085,
+                0.01422330590267195,
+                0.013613735649700295,
+                0.011073859595651733,
+                0.009041958752412883,
+                0.008838768668088998,
+                0.00853398354160317,
+                0.006806867824850148,
+                0.006705272782688205,
+                0.006298892614040435
+            ]
+        },
+        {
+            "begin": 5285,
+            "end": 5329,
+            "text": "Interview: Jefferson Chase Editor: Rob Mudge",
+            "concept": 41
+        },
+        {
+            "begin": 5296,
+            "end": 5311,
+            "text": "Jefferson Chase",
+            "concept": 42,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5320,
+            "end": 5329,
+            "text": "Rob Mudge",
+            "concept": 43,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Western",
+            "keyword": false,
+            "count": 3,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::loc-x",
+                "type::location",
+                "type::other",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Deutsche Welle",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Islamists",
+            "keyword": false,
+            "count": 1,
+            "link": "Islamism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Ziad Majed",
+            "keyword": true,
+            "count": 3,
+            "link": "Ziad_Majed",
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Islamist",
+            "keyword": true,
+            "count": 6,
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Arab Spring",
+            "keyword": true,
+            "count": 3,
+            "link": "Arab_Spring",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::protest"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "1989",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Lebanese",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "lecturer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "activist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "American University",
+            "keyword": false,
+            "count": 1,
+            "link": "American_University_of_Paris",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Paris",
+            "keyword": false,
+            "count": 1,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Democratic Left Movement",
+            "keyword": false,
+            "count": 1,
+            "link": "Democratic_Left_Movement_(Lebanon)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "2005",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Lebanon",
+            "keyword": false,
+            "count": 1,
+            "link": "Lebanon",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "2009",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Beirut Spring Forum",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Arab",
+            "keyword": false,
+            "count": 1,
+            "link": "Arabs",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "al-Jazeera",
+            "keyword": false,
+            "count": 1,
+            "link": "Al_Jazeera",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "al-Arabiya",
+            "keyword": false,
+            "count": 1,
+            "link": "Al_Arabiya",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Arabophone",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Internet",
+            "keyword": false,
+            "count": 1,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Egypt",
+            "keyword": false,
+            "count": 2,
+            "link": "Egypt",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Khalid Said",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q559182",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::victim"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Alexandria",
+            "keyword": false,
+            "count": 1,
+            "link": "Alexandria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "facebook",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Syria",
+            "keyword": false,
+            "count": 1,
+            "link": "Syria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Youtube",
+            "keyword": false,
+            "count": 1,
+            "link": "YouTube",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Tunisia",
+            "keyword": false,
+            "count": 1,
+            "link": "Tunisia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Muslim Brotherhood",
+            "keyword": false,
+            "count": 2,
+            "link": "Muslim_Brotherhood",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "1980",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "90",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Islam",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Wahabis",
+            "keyword": false,
+            "count": 1,
+            "link": "Wahhabism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Salafis",
+            "keyword": false,
+            "count": 1,
+            "link": "Salafi_movement",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Hezbollah",
+            "keyword": false,
+            "count": 1,
+            "link": "Hezbollah",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Hamas",
+            "keyword": false,
+            "count": 1,
+            "link": "Hamas",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "Interview: Jefferson Chase Editor: Rob Mudge",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Jefferson Chase",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "gender::male",
+                "slot::interviewer",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "Rob Mudge",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 44,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        },
+        {
+            "concept": 45,
+            "keyword": false,
+            "count": 0,
+            "link": "State_of_Palestine",
+            "tags": []
+        },
+        {
+            "concept": 46,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 46
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 16
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 16
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 44
+        },
+        {
+            "s": 10,
+            "p": "based_in2",
+            "o": 11
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 44
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 16
+        },
+        {
+            "s": 13,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 29
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 27,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 32,
+            "p": "based_in0",
+            "o": 25
+        },
+        {
+            "s": 39,
+            "p": "based_in0",
+            "o": 45
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 3
+                },
+                {
+                    "name": "interviewer",
+                    "value": 42
+                },
+                {
+                    "name": "media",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000"
+    ]
+}

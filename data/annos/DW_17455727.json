@@ -1,0 +1,596 @@
+{
+    "id": "DW_17455727",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 30,
+            "end": 37,
+            "text": "Nairobi",
+            "concept": 2,
+            "candidates": [
+                "Nairobi",
+                "Gymkhana_Club_Ground",
+                "Nairobi_County",
+                "Roman_Catholic_Archdiocese_of_Nairobi",
+                "Nyayo_National_Stadium",
+                "United_Nations_Office_at_Nairobi",
+                "Jomo_Kenyatta_International_Airport",
+                "University_of_Nairobi",
+                "Nairobi_railway_station",
+                "Moi_International_Sports_Centre",
+                "Nairobi_National_Park",
+                "Timeline_of_Nairobi",
+                "1987_All-Africa_Games",
+                "Nairobi_local_elections,_2013",
+                "Nairobi_Securities_Exchange",
+                "Moi_Air_Base"
+            ],
+            "scores": [
+                0.9733166189111748,
+                0.008775071633237822,
+                0.0053724928366762174,
+                0.002507163323782235,
+                0.002148997134670487,
+                0.0016117478510028654,
+                0.0016117478510028654,
+                0.0008954154727793697,
+                0.0007163323782234957,
+                0.0005372492836676218,
+                0.0005372492836676218,
+                0.00035816618911174784,
+                0.00017908309455587392,
+                0.00017908309455587392,
+                0.00017908309455587392,
+                0.00017908309455587392
+            ]
+        },
+        {
+            "begin": 38,
+            "end": 52,
+            "text": "Muguika Kaburu",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 265,
+            "end": 277,
+            "text": "entrepreneur",
+            "concept": 3
+        },
+        {
+            "begin": 278,
+            "end": 292,
+            "text": "Muguika Kaburu",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 358,
+            "end": 362,
+            "text": "2007",
+            "concept": 4
+        },
+        {
+            "begin": 649,
+            "end": 677,
+            "text": "two million Kenyan shillings",
+            "concept": 5
+        },
+        {
+            "begin": 680,
+            "end": 687,
+            "text": "$25,000",
+            "concept": 6
+        },
+        {
+            "begin": 689,
+            "end": 701,
+            "text": "18,000 euros",
+            "concept": 7
+        },
+        {
+            "begin": 705,
+            "end": 711,
+            "text": "Kaburu",
+            "concept": 0,
+            "candidates": [
+                "Kaburu"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 714,
+            "end": 721,
+            "text": "company",
+            "concept": 8
+        },
+        {
+            "begin": 722,
+            "end": 735,
+            "text": "Prosoya Kenya",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1101,
+            "end": 1105,
+            "text": "2017",
+            "concept": 9
+        },
+        {
+            "begin": 1110,
+            "end": 1138,
+            "text": "4.8 billion Kenyan shillings",
+            "concept": 10
+        },
+        {
+            "begin": 1183,
+            "end": 1189,
+            "text": "Africa",
+            "concept": 11,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 1224,
+            "end": 1226,
+            "text": "DW",
+            "concept": 12,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 1252,
+            "end": 1258,
+            "text": "Africa",
+            "concept": 11,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 1303,
+            "end": 1309,
+            "text": "Kaburu",
+            "concept": 0,
+            "candidates": [
+                "Kaburu"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1320,
+            "end": 1323,
+            "text": "son",
+            "concept": 13
+        },
+        {
+            "begin": 1324,
+            "end": 1330,
+            "text": "Kinoti",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1391,
+            "end": 1397,
+            "text": "Kinoti",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1443,
+            "end": 1451,
+            "text": "Barclays",
+            "concept": 15,
+            "candidates": [
+                "Barclays",
+                "The_Northern_Trust",
+                "Barclays_Investment_Bank",
+                "Barclays_Center",
+                "Barclay_(surname)"
+            ],
+            "scores": [
+                0.990990990990991,
+                0.003861003861003861,
+                0.002574002574002574,
+                0.001287001287001287,
+                0.001287001287001287
+            ]
+        },
+        {
+            "begin": 1536,
+            "end": 1542,
+            "text": "Kaburu",
+            "concept": 0,
+            "candidates": [
+                "Kaburu"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Muguika Kaburu",
+            "keyword": true,
+            "count": 5,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Prosoya Kenya",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000324",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Nairobi",
+            "keyword": false,
+            "count": 1,
+            "link": "Nairobi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "entrepreneur",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "2007",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "two million Kenyan shillings",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "$25,000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "18,000 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "company",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "2017",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "4.8 billion Kenyan shillings",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Africa",
+            "keyword": false,
+            "count": 2,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "son",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Kinoti",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::business_per",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Barclays",
+            "keyword": false,
+            "count": 1,
+            "link": "Barclays",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000274",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "keyword": false,
+            "count": 0,
+            "link": "Kenya",
+            "tags": []
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 16
+        },
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "parent_of",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 16
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 16
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 17
+        },
+        {
+            "s": 14,
+            "p": "child_of",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 16
+        },
+        {
+            "s": 14,
+            "p": "member_of",
+            "o": 15
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-business",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000349"
+    ]
+}

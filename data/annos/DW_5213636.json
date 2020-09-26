@@ -1,0 +1,2558 @@
+{
+    "id": "DW_5213636",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 11,
+            "end": 16,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 36,
+            "end": 42,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 52,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 95,
+            "end": 109,
+            "text": "Prime Minister",
+            "concept": 9
+        },
+        {
+            "begin": 110,
+            "end": 124,
+            "text": "Vladimir Putin",
+            "concept": 2,
+            "candidates": [
+                "Vladimir_Putin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 289,
+            "end": 294,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 299,
+            "end": 305,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 441,
+            "end": 461,
+            "text": "Northern Territories",
+            "concept": 1,
+            "candidates": [
+                "Kuril_Islands_dispute",
+                "Northern_Territory",
+                "Northwest_Territories",
+                "Northern_Canada",
+                "Northern_Region_(Ghana)",
+                "Mexican_Cession",
+                "Kingdom_of_Dagbon",
+                "Provinces_and_territories_of_Canada"
+            ],
+            "scores": [
+                0.42857142857142855,
+                0.3392857142857143,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.03571428571428571,
+                0.017857142857142856,
+                0.017857142857142856,
+                0.017857142857142856
+            ]
+        },
+        {
+            "begin": 469,
+            "end": 477,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 486,
+            "end": 501,
+            "text": "Southern Kurils",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 509,
+            "end": 517,
+            "text": "Russians",
+            "concept": 11
+        },
+        {
+            "begin": 548,
+            "end": 554,
+            "text": "Soviet",
+            "concept": 12
+        },
+        {
+            "begin": 580,
+            "end": 592,
+            "text": "World War II",
+            "concept": 13,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "World_War_II_in_Yugoslavia",
+                "Pacific_War",
+                "Second_Sino-Japanese_War",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Military_history_of_Australia_during_World_War_II",
+                "Romania_in_World_War_II",
+                "European_theatre_of_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Hungary_in_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Invasion_of_Poland",
+                "Military_history_of_Greece_during_World_War_II",
+                "Netherlands_in_World_War_II",
+                "Slovene_Lands_in_World_War_II"
+            ],
+            "scores": [
+                0.9959006074339848,
+                0.000637333585119441,
+                0.00044849400434331034,
+                0.00039341579328360557,
+                0.0001258930538507538,
+                0.00010228810625373745,
+                0.00010228810625373745,
+                9.441979038806533e-05,
+                9.441979038806533e-05,
+                8.655147452239323e-05,
+                7.868315865672112e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05,
+                6.29465269253769e-05
+            ]
+        },
+        {
+            "begin": 656,
+            "end": 663,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 664,
+            "end": 678,
+            "text": "Prime Minister",
+            "concept": 9
+        },
+        {
+            "begin": 679,
+            "end": 693,
+            "text": "Vladimir Putin",
+            "concept": 2,
+            "candidates": [
+                "Vladimir_Putin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 702,
+            "end": 710,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 723,
+            "end": 731,
+            "text": "Taro Aso",
+            "concept": 3,
+            "candidates": [
+                "Tar\u014d_As\u014d"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 735,
+            "end": 740,
+            "text": "Tokyo",
+            "concept": 15,
+            "candidates": [
+                "Tokyo",
+                "Pan_Pacific_Open",
+                "Japan_Open_(tennis)",
+                "Special_wards_of_Tokyo",
+                "Tokyo_Station",
+                "Tokyo!",
+                "Tokyo_Prefecture",
+                "Tokyo_Indoor",
+                "Greater_Tokyo_Area",
+                "Tokyo_at-large_district",
+                "Chichibunomiya_Rugby_Stadium",
+                "National_Stadium_(Tokyo)",
+                "Nichirei_International_Championships",
+                "Tokyo_City",
+                "FC_Tokyo",
+                "Tokyo_Racecourse"
+            ],
+            "scores": [
+                0.9470961281708945,
+                0.01054739652870494,
+                0.004906542056074766,
+                0.0025700934579439253,
+                0.0022363150867823764,
+                0.0013351134846461949,
+                0.0011682242990654205,
+                0.0011014686248331108,
+                0.0011014686248331108,
+                0.0010013351134846463,
+                0.0010013351134846463,
+                0.0009012016021361815,
+                0.0007676902536715621,
+                0.0007343124165554072,
+                0.0006675567423230974,
+                0.0006675567423230974
+            ]
+        },
+        {
+            "begin": 981,
+            "end": 987,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 988,
+            "end": 996,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 1195,
+            "end": 1204,
+            "text": "Professor",
+            "concept": 16
+        },
+        {
+            "begin": 1205,
+            "end": 1221,
+            "text": "Nobuo Shimotomai",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1236,
+            "end": 1241,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 1242,
+            "end": 1248,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1262,
+            "end": 1267,
+            "text": "Tokyo",
+            "concept": 15,
+            "candidates": [
+                "Tokyo",
+                "Pan_Pacific_Open",
+                "Japan_Open_(tennis)",
+                "Special_wards_of_Tokyo",
+                "Tokyo_Station",
+                "Tokyo!",
+                "Tokyo_Prefecture",
+                "Tokyo_Indoor",
+                "Greater_Tokyo_Area",
+                "Tokyo_at-large_district",
+                "Chichibunomiya_Rugby_Stadium",
+                "National_Stadium_(Tokyo)",
+                "Nichirei_International_Championships",
+                "Tokyo_City",
+                "FC_Tokyo",
+                "Tokyo_Racecourse"
+            ],
+            "scores": [
+                0.9470961281708945,
+                0.01054739652870494,
+                0.004906542056074766,
+                0.0025700934579439253,
+                0.0022363150867823764,
+                0.0013351134846461949,
+                0.0011682242990654205,
+                0.0011014686248331108,
+                0.0011014686248331108,
+                0.0010013351134846463,
+                0.0010013351134846463,
+                0.0009012016021361815,
+                0.0007676902536715621,
+                0.0007343124165554072,
+                0.0006675567423230974,
+                0.0006675567423230974
+            ]
+        },
+        {
+            "begin": 1270,
+            "end": 1286,
+            "text": "Hosei University",
+            "concept": 17,
+            "candidates": [
+                "Hosei_University"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1336,
+            "end": 1341,
+            "text": "Putin",
+            "concept": 2,
+            "candidates": [
+                "Vladimir_Putin",
+                "Puin_(brand)",
+                "Putin_(surname)"
+            ],
+            "scores": [
+                0.985,
+                0.01,
+                0.005
+            ]
+        },
+        {
+            "begin": 1342,
+            "end": 1345,
+            "text": "Aso",
+            "concept": 3,
+            "candidates": [
+                "Amaury_Sport_Organisation",
+                "Aso,_Kumamoto",
+                "Russian_cruiser_Bayan_(1900)",
+                "Aso_District,_Kumamoto",
+                "As\u014d,_Ibaraki",
+                "Tar\u014d_As\u014d",
+                "Anti-streptolysin_O",
+                "Mount_Aso",
+                "Aso_(river)",
+                "Address_Supporting_Organization",
+                "Aso_(Pugad_Baboy_story_arc)",
+                "Digital_television_transition",
+                "Unry\u016b-class_aircraft_carrier",
+                "Aso_Koremitsu",
+                "Waco_10",
+                "ASO"
+            ],
+            "scores": [
+                0.2986111111111111,
+                0.22916666666666666,
+                0.0625,
+                0.05555555555555555,
+                0.034722222222222224,
+                0.034722222222222224,
+                0.034722222222222224,
+                0.034722222222222224,
+                0.027777777777777776,
+                0.020833333333333332,
+                0.020833333333333332,
+                0.020833333333333332,
+                0.020833333333333332,
+                0.013888888888888888,
+                0.006944444444444444,
+                0.006944444444444444
+            ]
+        },
+        {
+            "begin": 1422,
+            "end": 1430,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 1445,
+            "end": 1451,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1464,
+            "end": 1469,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 1563,
+            "end": 1569,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1594,
+            "end": 1601,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 1639,
+            "end": 1652,
+            "text": "Marcel Vi\u00ebtor",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1688,
+            "end": 1723,
+            "text": "German Council of Foreign Relations",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1727,
+            "end": 1733,
+            "text": "Berlin",
+            "concept": 19,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1740,
+            "end": 1747,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 1989,
+            "end": 1994,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 2077,
+            "end": 2084,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 2129,
+            "end": 2137,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 2142,
+            "end": 2149,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 2235,
+            "end": 2242,
+            "text": "Siberia",
+            "concept": 20,
+            "candidates": [
+                "Siberia",
+                "Siberia_(continent)",
+                "Siberia_(Lights_album)",
+                "Siberia_(Echo_&_the_Bunnymen_album)",
+                "Siberia_(TV_series)",
+                "Siberia_(opera)",
+                "Siberia_(1926_film)",
+                "Siberia_(2018_film)",
+                "Siberian_Federal_District",
+                "Siberian_Intervention",
+                "Khanate_of_Sibir",
+                "Siberia_(1998_film)",
+                "Siberia,_California",
+                "Waverley,_Western_Australia",
+                "Siberia_(Polvo_album)",
+                "Indigenous_peoples_of_Siberia"
+            ],
+            "scores": [
+                0.968091697645601,
+                0.0057311028500619575,
+                0.0030978934324659233,
+                0.0027881040892193307,
+                0.0027881040892193307,
+                0.0026332094175960346,
+                0.0023234200743494425,
+                0.0018587360594795538,
+                0.0012391573729863693,
+                0.0010842627013630732,
+                0.0010842627013630732,
+                0.0009293680297397769,
+                0.0007744733581164808,
+                0.0006195786864931846,
+                0.0006195786864931846,
+                0.0006195786864931846
+            ]
+        },
+        {
+            "begin": 2302,
+            "end": 2329,
+            "text": "Memorandum of Understanding",
+            "concept": 21,
+            "candidates": [
+                "Memorandum_of_understanding",
+                "Memorandum_of_understanding_between_Argentina_and_Iran",
+                "European_Union_Monitoring_Mission_in_Aceh",
+                "Proposed_sale_of_NB_Power"
+            ],
+            "scores": [
+                0.9918604651162791,
+                0.005813953488372093,
+                0.0011627906976744186,
+                0.0011627906976744186
+            ]
+        },
+        {
+            "begin": 2349,
+            "end": 2356,
+            "text": "Russian",
+            "concept": 14
+        },
+        {
+            "begin": 2357,
+            "end": 2369,
+            "text": "energy giant",
+            "concept": 22
+        },
+        {
+            "begin": 2370,
+            "end": 2377,
+            "text": "Gazprom",
+            "concept": 23,
+            "candidates": [
+                "Gazprom",
+                "Gazprom_Space_Systems",
+                "Gazprom-Ugra_Surgut",
+                "Gazprom_Armenia"
+            ],
+            "scores": [
+                0.9961880559085133,
+                0.0012706480304955528,
+                0.0012706480304955528,
+                0.0012706480304955528
+            ]
+        },
+        {
+            "begin": 2386,
+            "end": 2394,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 2452,
+            "end": 2459,
+            "text": "Pacific",
+            "concept": 24,
+            "candidates": [
+                "Pacific_Ocean",
+                "Pacific_War",
+                "Pacific_Racing",
+                "Pacific_Time_Zone",
+                "University_of_the_Pacific_(United_States)",
+                "Pacific_Tigers_men's_basketball",
+                "Pacific_Tigers",
+                "Pacific_Islands",
+                "Pacific_Ocean_theater_of_World_War_II",
+                "Pacific_Tigers_football",
+                "Pacific_County,_Washington",
+                "Pacific_Plate",
+                "Asiatic-Pacific_Theater",
+                "Oceania",
+                "4-6-2",
+                "Pacific_League"
+            ],
+            "scores": [
+                0.6720068659705335,
+                0.031469031612072665,
+                0.024889143184093836,
+                0.022743527392361608,
+                0.02059791160062938,
+                0.0185953368616793,
+                0.016592762122729223,
+                0.01501931054212559,
+                0.012730653697611215,
+                0.011872407380918324,
+                0.011872407380918324,
+                0.01115720211700758,
+                0.011014161064225432,
+                0.009011586325275354,
+                0.008010298955800315,
+                0.007152052639107424
+            ]
+        },
+        {
+            "begin": 2468,
+            "end": 2479,
+            "text": "Vladivostok",
+            "concept": 25,
+            "candidates": [
+                "Vladivostok",
+                "Vladivostok_International_Airport",
+                "Vladivostok_railway_station",
+                "Project_21900_icebreaker",
+                "Admiral_Vladivostok",
+                "ENS_Gamal_Abdel_Nasser",
+                "Vladivostok_Fortress",
+                "Far_Eastern_Federal_University",
+                "Russian_Open_(badminton)",
+                "Provisional_Siberian_Government_(Vladivostok)",
+                "FC_Luch_Vladivostok",
+                "Soviet_cruiser_Admiral_Fokin"
+            ],
+            "scores": [
+                0.9914011127971675,
+                0.0025290844714213456,
+                0.0010116337885685382,
+                0.0010116337885685382,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691
+            ]
+        },
+        {
+            "begin": 2481,
+            "end": 2488,
+            "text": "Gazprom",
+            "concept": 23,
+            "candidates": [
+                "Gazprom",
+                "Gazprom_Space_Systems",
+                "Gazprom-Ugra_Surgut",
+                "Gazprom_Armenia"
+            ],
+            "scores": [
+                0.9961880559085133,
+                0.0012706480304955528,
+                0.0012706480304955528,
+                0.0012706480304955528
+            ]
+        },
+        {
+            "begin": 2489,
+            "end": 2492,
+            "text": "CEO",
+            "concept": 26
+        },
+        {
+            "begin": 2493,
+            "end": 2506,
+            "text": "Alexei Miller",
+            "concept": 5,
+            "candidates": [
+                "Alexey_Miller"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2525,
+            "end": 2530,
+            "text": "Tokyo",
+            "concept": 15,
+            "candidates": [
+                "Tokyo",
+                "Pan_Pacific_Open",
+                "Japan_Open_(tennis)",
+                "Special_wards_of_Tokyo",
+                "Tokyo_Station",
+                "Tokyo!",
+                "Tokyo_Prefecture",
+                "Tokyo_Indoor",
+                "Greater_Tokyo_Area",
+                "Tokyo_at-large_district",
+                "Chichibunomiya_Rugby_Stadium",
+                "National_Stadium_(Tokyo)",
+                "Nichirei_International_Championships",
+                "Tokyo_City",
+                "FC_Tokyo",
+                "Tokyo_Racecourse"
+            ],
+            "scores": [
+                0.9470961281708945,
+                0.01054739652870494,
+                0.004906542056074766,
+                0.0025700934579439253,
+                0.0022363150867823764,
+                0.0013351134846461949,
+                0.0011682242990654205,
+                0.0011014686248331108,
+                0.0011014686248331108,
+                0.0010013351134846463,
+                0.0010013351134846463,
+                0.0009012016021361815,
+                0.0007676902536715621,
+                0.0007343124165554072,
+                0.0006675567423230974,
+                0.0006675567423230974
+            ]
+        },
+        {
+            "begin": 2568,
+            "end": 2576,
+            "text": "Sakhalin",
+            "concept": 27
+        },
+        {
+            "begin": 2587,
+            "end": 2598,
+            "text": "Vladivostok",
+            "concept": 25,
+            "candidates": [
+                "Vladivostok",
+                "Vladivostok_International_Airport",
+                "Vladivostok_railway_station",
+                "Project_21900_icebreaker",
+                "Admiral_Vladivostok",
+                "ENS_Gamal_Abdel_Nasser",
+                "Vladivostok_Fortress",
+                "Far_Eastern_Federal_University",
+                "Russian_Open_(badminton)",
+                "Provisional_Siberian_Government_(Vladivostok)",
+                "FC_Luch_Vladivostok",
+                "Soviet_cruiser_Admiral_Fokin"
+            ],
+            "scores": [
+                0.9914011127971675,
+                0.0025290844714213456,
+                0.0010116337885685382,
+                0.0010116337885685382,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691,
+                0.0005058168942842691
+            ]
+        },
+        {
+            "begin": 2629,
+            "end": 2633,
+            "text": "2011",
+            "concept": 28
+        },
+        {
+            "begin": 2695,
+            "end": 2699,
+            "text": "Asia",
+            "concept": 29,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 2700,
+            "end": 2707,
+            "text": "Pacific",
+            "concept": 24,
+            "candidates": [
+                "Pacific_Ocean",
+                "Pacific_War",
+                "Pacific_Racing",
+                "Pacific_Time_Zone",
+                "University_of_the_Pacific_(United_States)",
+                "Pacific_Tigers_men's_basketball",
+                "Pacific_Tigers",
+                "Pacific_Islands",
+                "Pacific_Ocean_theater_of_World_War_II",
+                "Pacific_Tigers_football",
+                "Pacific_County,_Washington",
+                "Pacific_Plate",
+                "Asiatic-Pacific_Theater",
+                "Oceania",
+                "4-6-2",
+                "Pacific_League"
+            ],
+            "scores": [
+                0.6720068659705335,
+                0.031469031612072665,
+                0.024889143184093836,
+                0.022743527392361608,
+                0.02059791160062938,
+                0.0185953368616793,
+                0.016592762122729223,
+                0.01501931054212559,
+                0.012730653697611215,
+                0.011872407380918324,
+                0.011872407380918324,
+                0.01115720211700758,
+                0.011014161064225432,
+                0.009011586325275354,
+                0.008010298955800315,
+                0.007152052639107424
+            ]
+        },
+        {
+            "begin": 2734,
+            "end": 2739,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 2741,
+            "end": 2754,
+            "text": "Energy expert",
+            "concept": 30
+        },
+        {
+            "begin": 2755,
+            "end": 2761,
+            "text": "Vi\u00ebtor",
+            "concept": 6,
+            "candidates": [
+                "Tommy_Vietor"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2816,
+            "end": 2821,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 2861,
+            "end": 2875,
+            "text": "Middle Eastern",
+            "concept": 31
+        },
+        {
+            "begin": 2898,
+            "end": 2906,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 2946,
+            "end": 2957,
+            "text": "Middle East",
+            "concept": 32,
+            "candidates": [
+                "Middle_East",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Middle_Eastern_theatre_of_World_War_I",
+                "Middle_East_Command",
+                "Middle_Eastern_cuisine",
+                "The_Middle_East_(nightclub)",
+                "History_of_the_Middle_East",
+                "Boomerang_(Middle_East_and_Africa)",
+                "Western_Asia",
+                "RAF_Middle_East_Command",
+                "Middle_East,_Baltimore",
+                "Ancient_Near_East",
+                "Arab_Colombians",
+                "Syria\u2013Lebanon_Campaign",
+                "Bangladeshis_in_the_Middle_East",
+                "Middle_Eastern_studies"
+            ],
+            "scores": [
+                0.9700509967547519,
+                0.009643022716736208,
+                0.004914232730644413,
+                0.002132591562355123,
+                0.002039870190078813,
+                0.0010199350950394065,
+                0.0008344923504867872,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0003708854891052388,
+                0.0003708854891052388,
+                0.0002781641168289291,
+                0.0002781641168289291,
+                0.0002781641168289291
+            ]
+        },
+        {
+            "begin": 3098,
+            "end": 3109,
+            "text": "Middle East",
+            "concept": 32,
+            "candidates": [
+                "Middle_East",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Middle_Eastern_theatre_of_World_War_I",
+                "Middle_East_Command",
+                "Middle_Eastern_cuisine",
+                "The_Middle_East_(nightclub)",
+                "History_of_the_Middle_East",
+                "Boomerang_(Middle_East_and_Africa)",
+                "Western_Asia",
+                "RAF_Middle_East_Command",
+                "Middle_East,_Baltimore",
+                "Ancient_Near_East",
+                "Arab_Colombians",
+                "Syria\u2013Lebanon_Campaign",
+                "Bangladeshis_in_the_Middle_East",
+                "Middle_Eastern_studies"
+            ],
+            "scores": [
+                0.9700509967547519,
+                0.009643022716736208,
+                0.004914232730644413,
+                0.002132591562355123,
+                0.002039870190078813,
+                0.0010199350950394065,
+                0.0008344923504867872,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0003708854891052388,
+                0.0003708854891052388,
+                0.0002781641168289291,
+                0.0002781641168289291,
+                0.0002781641168289291
+            ]
+        },
+        {
+            "begin": 3131,
+            "end": 3139,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 3256,
+            "end": 3262,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 3275,
+            "end": 3280,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 3299,
+            "end": 3307,
+            "text": "Japanese",
+            "concept": 10
+        },
+        {
+            "begin": 3334,
+            "end": 3342,
+            "text": "February",
+            "concept": 33
+        },
+        {
+            "begin": 3343,
+            "end": 3349,
+            "text": "Russia",
+            "concept": 7,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 3367,
+            "end": 3388,
+            "text": "Liquefied Natural Gas",
+            "concept": 0,
+            "candidates": [
+                "Liquefied_natural_gas",
+                "Liquid_Niugini_LNG",
+                "Natural_gas",
+                "LNG_carrier"
+            ],
+            "scores": [
+                0.992822966507177,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0023923444976076554
+            ]
+        },
+        {
+            "begin": 3392,
+            "end": 3395,
+            "text": "LNG",
+            "concept": 0,
+            "candidates": [
+                "Liquefied_natural_gas",
+                "Busch_200_(Langley)",
+                "Lange_(musician)",
+                "Longleat",
+                "List_of_LNG_terminals",
+                "Lombardic_language",
+                "LNG_carrier"
+            ],
+            "scores": [
+                0.8360655737704918,
+                0.1448087431693989,
+                0.00546448087431694,
+                0.00546448087431694,
+                0.00273224043715847,
+                0.00273224043715847,
+                0.00273224043715847
+            ]
+        },
+        {
+            "begin": 3409,
+            "end": 3416,
+            "text": "Pacific",
+            "concept": 24,
+            "candidates": [
+                "Pacific_Ocean",
+                "Pacific_War",
+                "Pacific_Racing",
+                "Pacific_Time_Zone",
+                "University_of_the_Pacific_(United_States)",
+                "Pacific_Tigers_men's_basketball",
+                "Pacific_Tigers",
+                "Pacific_Islands",
+                "Pacific_Ocean_theater_of_World_War_II",
+                "Pacific_Tigers_football",
+                "Pacific_County,_Washington",
+                "Pacific_Plate",
+                "Asiatic-Pacific_Theater",
+                "Oceania",
+                "4-6-2",
+                "Pacific_League"
+            ],
+            "scores": [
+                0.6720068659705335,
+                0.031469031612072665,
+                0.024889143184093836,
+                0.022743527392361608,
+                0.02059791160062938,
+                0.0185953368616793,
+                0.016592762122729223,
+                0.01501931054212559,
+                0.012730653697611215,
+                0.011872407380918324,
+                0.011872407380918324,
+                0.01115720211700758,
+                0.011014161064225432,
+                0.009011586325275354,
+                0.008010298955800315,
+                0.007152052639107424
+            ]
+        },
+        {
+            "begin": 3443,
+            "end": 3448,
+            "text": "Japan",
+            "concept": 8,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 3495,
+            "end": 3536,
+            "text": "Author: Disha Uppal Editor: Grahame Lucas",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Liquefied Natural Gas",
+            "keyword": false,
+            "count": 2,
+            "link": "Liquefied_natural_gas",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Northern Territories",
+            "keyword": true,
+            "count": 2,
+            "link": "Kuril_Islands",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Vladimir Putin",
+            "keyword": true,
+            "count": 3,
+            "link": "Vladimir_Putin",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Taro Aso",
+            "keyword": true,
+            "count": 2,
+            "link": "Tar\u014d_As\u014d",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Nobuo Shimotomai",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "slot::keyword",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Alexei Miller",
+            "keyword": true,
+            "count": 1,
+            "link": "Alexey_Miller",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Marcel Vi\u00ebtor",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Russia",
+            "keyword": false,
+            "count": 9,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Japan",
+            "keyword": false,
+            "count": 10,
+            "link": "Japan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Japanese",
+            "keyword": false,
+            "count": 9,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Russians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Soviet",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "World War II",
+            "keyword": false,
+            "count": 1,
+            "link": "World_War_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::war"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Russian",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Tokyo",
+            "keyword": false,
+            "count": 3,
+            "link": "Tokyo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Professor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Hosei University",
+            "keyword": false,
+            "count": 1,
+            "link": "Hosei_University",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "German Council of Foreign Relations",
+            "keyword": false,
+            "count": 1,
+            "link": "German_Council_on_Foreign_Relations",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Siberia",
+            "keyword": false,
+            "count": 1,
+            "link": "Siberia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Memorandum of Understanding",
+            "keyword": false,
+            "count": 1,
+            "link": "Memorandum_of_understanding",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "energy giant",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Gazprom",
+            "keyword": false,
+            "count": 2,
+            "link": "Gazprom",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Pacific",
+            "keyword": false,
+            "count": 3,
+            "link": "Pacific_Ocean",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Vladivostok",
+            "keyword": false,
+            "count": 2,
+            "link": "Vladivostok",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "CEO",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Sakhalin",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Asia",
+            "keyword": false,
+            "count": 1,
+            "link": "Asia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Energy expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Middle Eastern",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Middle East",
+            "keyword": false,
+            "count": 2,
+            "link": "Middle_East",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "February",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Author: Disha Uppal Editor: Grahame Lucas",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Soviet_Union",
+            "tags": []
+        },
+        {
+            "concept": 36,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 11
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov-x",
+            "o": 10
+        },
+        {
+            "s": 3,
+            "p": "is_meeting",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 17
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 23
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 23
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 36
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 7
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 17,
+            "p": "based_in2",
+            "o": 15
+        },
+        {
+            "s": 18,
+            "p": "based_in0",
+            "o": 36
+        },
+        {
+            "s": 18,
+            "p": "based_in2",
+            "o": 19
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 36
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 11
+        },
+        {
+            "s": 20,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 21,
+            "p": "signed_by",
+            "o": 23
+        },
+        {
+            "s": 23,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 23,
+            "p": "based_in0-x",
+            "o": 11
+        },
+        {
+            "s": 23,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 25,
+            "p": "in0-x",
+            "o": 11
+        },
+        {
+            "s": 25,
+            "p": "in0-x",
+            "o": 14
+        }
+    ],
+    "frames": [
+        {
+            "type": "meet",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 2
+                },
+                {
+                    "name": "entity",
+                    "value": 3
+                },
+                {
+                    "name": "place",
+                    "value": 15
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "11000000",
+        "20000209",
+        "20000256",
+        "20000265",
+        "20000638",
+        "20000639"
+    ]
+}

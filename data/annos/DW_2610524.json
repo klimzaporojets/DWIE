@@ -1,0 +1,915 @@
+{
+    "id": "DW_2610524",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 12,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 64,
+            "end": 80,
+            "text": "Roger M. Buergel",
+            "concept": 2,
+            "candidates": [
+                "Roger_M._Buergel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 103,
+            "end": 115,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 122,
+            "end": 133,
+            "text": "DW-WORLD.DE",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 274,
+            "end": 285,
+            "text": "DW-WORLD.DE",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 335,
+            "end": 347,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 501,
+            "end": 517,
+            "text": "Roger M. Buergel",
+            "concept": 2,
+            "candidates": [
+                "Roger_M._Buergel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 805,
+            "end": 814,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 827,
+            "end": 836,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 973,
+            "end": 982,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 1723,
+            "end": 1732,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 2184,
+            "end": 2190,
+            "text": "Venice",
+            "concept": 4,
+            "candidates": [
+                "Venice",
+                "Republic_of_Venice",
+                "Venice,_Los_Angeles",
+                "Venice,_Florida",
+                "Venice_Film_Festival",
+                "Province_of_Venice",
+                "Venice,_Louisiana",
+                "Venezia_Santa_Lucia_railway_station",
+                "Venice_(band)",
+                "Venice,_New_York",
+                "Metropolitan_City_of_Venice",
+                "Timeline_of_Venice",
+                "Venice,_Illinois",
+                "Venice_(musical)",
+                "ATP_Venice",
+                "Venice_Biennale"
+            ],
+            "scores": [
+                0.8749266001174398,
+                0.04982803456085899,
+                0.021306937337471687,
+                0.014176663031624863,
+                0.007549702206190756,
+                0.004865363643989598,
+                0.0026843385622011577,
+                0.0021810250817884407,
+                0.0017615971814445098,
+                0.0015099404412381512,
+                0.0015099404412381512,
+                0.0013421692811005788,
+                0.001006626960825434,
+                0.0009227413807566479,
+                0.0009227413807566479,
+                0.0008388558006878617
+            ]
+        },
+        {
+            "begin": 2192,
+            "end": 2197,
+            "text": "Basel",
+            "concept": 5,
+            "candidates": [
+                "Basel",
+                "FC_Basel",
+                "Swiss_Indoors",
+                "Basel_SBB_railway_station",
+                "University_of_Basel",
+                "Prince-Bishopric_of_Basel",
+                "Canton_of_Basel",
+                "Roman_Catholic_Diocese_of_Basel",
+                "Basel_Badischer_Bahnhof",
+                "EuroAirport_Basel_Mulhouse_Freiburg",
+                "Canton_of_Basel-Stadt",
+                "Trams_in_Basel",
+                "2008_Davidoff_Swiss_Indoors",
+                "Council_of_Florence",
+                "Peace_of_Basel",
+                "Timeline_of_Basel"
+            ],
+            "scores": [
+                0.7402994194928201,
+                0.16376413076688054,
+                0.027039413382218148,
+                0.01435991445157348,
+                0.013748854262144821,
+                0.007332722273143905,
+                0.006263366941643752,
+                0.005499541704857928,
+                0.003513596089214788,
+                0.0021387106630003055,
+                0.001374885426214482,
+                0.0007638252367858234,
+                0.0006110601894286587,
+                0.0006110601894286587,
+                0.0006110601894286587,
+                0.00045829514207149406
+            ]
+        },
+        {
+            "begin": 2201,
+            "end": 2206,
+            "text": "Miami",
+            "concept": 6,
+            "candidates": [
+                "Miami",
+                "Miami_Heat",
+                "Miami_Open_(tennis)",
+                "Miami_Hurricanes_football",
+                "Miami_RedHawks_men's_ice_hockey",
+                "University_of_Miami",
+                "Miami_people",
+                "Miami_Dolphins",
+                "Miami_Hurricanes_men's_basketball",
+                "Miami_Sol",
+                "2015\u201316_Miami_Heat_season",
+                "Miami_International_Airport",
+                "2017\u201318_Miami_Heat_season",
+                "2016\u201317_Miami_Heat_season",
+                "Miami_County,_Ohio",
+                "Miami,_Oklahoma"
+            ],
+            "scores": [
+                0.5814611073980772,
+                0.046732815793532466,
+                0.03881548506503522,
+                0.025757030486864427,
+                0.0233921135160146,
+                0.012647164670196906,
+                0.012184463523726286,
+                0.007814508251503779,
+                0.007043339674052748,
+                0.0061693486196082465,
+                0.006066526142614776,
+                0.00601511490411804,
+                0.004781245180196391,
+                0.00457560022620945,
+                0.004369955272222508,
+                0.004267132795229037
+            ]
+        },
+        {
+            "begin": 2502,
+            "end": 2511,
+            "text": "Documents",
+            "concept": 0,
+            "candidates": [
+                "Document",
+                "Dismissal_of_U.S._attorneys_controversy_documents",
+                "Documents_(magazine)",
+                "Electronic_document",
+                "My_Documents",
+                "False_document",
+                "Document_file_format",
+                "Document_classification",
+                "Documents:_A_Magazine_of_Contemporary_Art_and_Visual_Culture",
+                "Deed",
+                "Records_management",
+                "Questioned_document_examination",
+                "PDF",
+                "Document-oriented_database",
+                "Global_surveillance_disclosures_(2013\u2013present)",
+                "Language_documentation"
+            ],
+            "scores": [
+                0.7203065134099617,
+                0.08045977011494253,
+                0.05747126436781609,
+                0.02681992337164751,
+                0.019157088122605363,
+                0.007662835249042145,
+                0.007662835249042145,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726,
+                0.0038314176245210726
+            ]
+        },
+        {
+            "begin": 2885,
+            "end": 2892,
+            "text": "Persian",
+            "concept": 7
+        },
+        {
+            "begin": 2909,
+            "end": 2921,
+            "text": "14th century",
+            "concept": 8
+        },
+        {
+            "begin": 2965,
+            "end": 2972,
+            "text": "Persian",
+            "concept": 7
+        },
+        {
+            "begin": 2988,
+            "end": 2995,
+            "text": "Chinese",
+            "concept": 9
+        },
+        {
+            "begin": 3048,
+            "end": 3056,
+            "text": "Persians",
+            "concept": 10
+        },
+        {
+            "begin": 3076,
+            "end": 3083,
+            "text": "Chinese",
+            "concept": 9
+        },
+        {
+            "begin": 3298,
+            "end": 3307,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 3412,
+            "end": 3418,
+            "text": "Kassel",
+            "concept": 11,
+            "candidates": [
+                "Kassel",
+                "Kassel_Hauptbahnhof",
+                "Kassel_(district)",
+                "Kassel-Wilhelmsh\u00f6he_station",
+                "Kassel_(region)",
+                "Bombing_of_Kassel_in_World_War_II",
+                "University_of_Kassel",
+                "KSV_Hessen_Kassel",
+                "Cassel,_Nord",
+                "Battle_of_Kassel_(1945)",
+                "Trams_in_Kassel",
+                "Fieseler",
+                "Kassel_University_Library",
+                "Matt_Kassel",
+                "Komarivka",
+                "Kassel_Airport"
+            ],
+            "scores": [
+                0.9379947229551451,
+                0.014951627088830254,
+                0.014951627088830254,
+                0.014072119613016711,
+                0.004837291116974494,
+                0.003518029903254178,
+                0.002638522427440633,
+                0.0013192612137203166,
+                0.0008795074758135445,
+                0.0008795074758135445,
+                0.0008795074758135445,
+                0.00043975373790677223,
+                0.00043975373790677223,
+                0.00043975373790677223,
+                0.00043975373790677223,
+                0.00043975373790677223
+            ]
+        },
+        {
+            "begin": 3942,
+            "end": 3946,
+            "text": "book",
+            "concept": 12
+        },
+        {
+            "begin": 3948,
+            "end": 3989,
+            "text": "Homo Sacer: Sovereign Power and Bare Life",
+            "concept": 13,
+            "candidates": [
+                "Homo_Sacer:_Sovereign_Power_and_Bare_Life"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3994,
+            "end": 4009,
+            "text": "Giorgio Agamben",
+            "concept": 14,
+            "candidates": [
+                "Giorgio_Agamben"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4183,
+            "end": 4195,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 4521,
+            "end": 4530,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 4685,
+            "end": 4695,
+            "text": "Documentas",
+            "concept": 0,
+            "candidates": [
+                "Documenta"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4773,
+            "end": 4785,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 4906,
+            "end": 4915,
+            "text": "Documenta",
+            "concept": 0,
+            "candidates": [
+                "Documenta",
+                "Documenta_(13)",
+                "Documenta_9",
+                "Documenta_1"
+            ],
+            "scores": [
+                0.9906103286384976,
+                0.004694835680751174,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 4926,
+            "end": 4939,
+            "text": "Gloria Cinema",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5308,
+            "end": 5320,
+            "text": "Documenta 12",
+            "concept": 1,
+            "candidates": [
+                "Documenta",
+                "Documenta_12"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.26666666666666666
+            ]
+        },
+        {
+            "begin": 5342,
+            "end": 5349,
+            "text": "June 16",
+            "concept": 16
+        },
+        {
+            "begin": 5365,
+            "end": 5373,
+            "text": "Sept. 23",
+            "concept": 17
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Documentas",
+            "keyword": false,
+            "count": 9,
+            "link": "Documenta",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20001135",
+                "topic::culture",
+                "type::entity",
+                "type::exhibition_title",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Documenta 12",
+            "keyword": true,
+            "count": 6,
+            "link": "Documenta_12",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20001135",
+                "slot::keyword",
+                "topic::culture",
+                "type::entity",
+                "type::exhibition_title",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Roger M. Buergel",
+            "keyword": true,
+            "count": 3,
+            "link": "Roger_M._Buergel",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::culture",
+                "type::culture_per",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "DW-WORLD.DE",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Venice",
+            "keyword": false,
+            "count": 1,
+            "link": "Venice",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Basel",
+            "keyword": false,
+            "count": 1,
+            "link": "Basel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Miami",
+            "keyword": false,
+            "count": 1,
+            "link": "Miami",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Persian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "14th century",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Chinese",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Persians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Kassel",
+            "keyword": false,
+            "count": 1,
+            "link": "Kassel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "book",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Homo Sacer: Sovereign Power and Bare Life",
+            "keyword": false,
+            "count": 1,
+            "link": "Homo_Sacer:_Sovereign_Power_and_Bare_Life",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::book_title",
+                "type::entity",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Giorgio Agamben",
+            "keyword": false,
+            "count": 1,
+            "link": "Giorgio_Agamben",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Gloria Cinema",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "June 16",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Sept. 23",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "China",
+            "tags": []
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "Switzerland",
+            "tags": []
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 22,
+            "keyword": false,
+            "count": 0,
+            "link": "Italy",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 20
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 13,
+            "p": "created_by",
+            "o": 14
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 21
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 2
+                },
+                {
+                    "name": "media",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "01000000",
+        "20000002",
+        "20001135"
+    ]
+}

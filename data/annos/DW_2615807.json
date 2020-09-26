@@ -1,0 +1,1388 @@
+{
+    "id": "DW_2615807",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 10,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 49,
+            "end": 55,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 76,
+            "end": 83,
+            "text": "Tuesday",
+            "concept": 6
+        },
+        {
+            "begin": 148,
+            "end": 154,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 155,
+            "end": 171,
+            "text": "low-cost carrier",
+            "concept": 7
+        },
+        {
+            "begin": 172,
+            "end": 182,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 288,
+            "end": 313,
+            "text": "financial sector watchdog",
+            "concept": 8
+        },
+        {
+            "begin": 314,
+            "end": 319,
+            "text": "BaFin",
+            "concept": 9,
+            "candidates": [
+                "Federal_Financial_Supervisory_Authority"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 359,
+            "end": 365,
+            "text": "Berlin",
+            "concept": 10,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 367,
+            "end": 376,
+            "text": "Stuttgart",
+            "concept": 11,
+            "candidates": [
+                "Stuttgart",
+                "VfB_Stuttgart",
+                "Stuttgart_Hauptbahnhof",
+                "Eurocard_Open",
+                "Stuttgart_Open",
+                "Stuttgart,_Arkansas",
+                "Women's_Stuttgart_Open",
+                "Stuttgart_Airport",
+                "2014_Porsche_Tennis_Grand_Prix",
+                "2013_Porsche_Tennis_Grand_Prix",
+                "2015_Porsche_Tennis_Grand_Prix",
+                "University_of_Stuttgart",
+                "Stuttgart_(region)",
+                "2008_Mercedes_Cup",
+                "2016_Porsche_Tennis_Grand_Prix",
+                "HTC\u2013Highroad"
+            ],
+            "scores": [
+                0.8587419514611193,
+                0.05973254086181278,
+                0.022783556215948488,
+                0.009113422486379396,
+                0.008122833085685984,
+                0.005745418524021793,
+                0.004952947003467063,
+                0.0016840019811788015,
+                0.0015849430411094601,
+                0.0014858841010401188,
+                0.0014858841010401188,
+                0.0013868251609707777,
+                0.0012877662209014363,
+                0.0010896483407627539,
+                0.0009905894006934125,
+                0.0008915304606240713
+            ]
+        },
+        {
+            "begin": 378,
+            "end": 384,
+            "text": "Munich",
+            "concept": 12,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 386,
+            "end": 396,
+            "text": "D\u00fcsseldorf",
+            "concept": 13,
+            "candidates": [
+                "D\u00fcsseldorf",
+                "D\u00fcsseldorf_Hauptbahnhof",
+                "D\u00fcsseldorf_Airport",
+                "D\u00fcsseldorf-Bilk_Observatory",
+                "D\u00fcsseldorf_(region)",
+                "D\u00fcsseldorf_Grand_Prix",
+                "PSD_Bank_Meeting",
+                "University_of_D\u00fcsseldorf",
+                "Timeline_of_D\u00fcsseldorf",
+                "D\u00fcsseldorf_(album)",
+                "Fortuna_D\u00fcsseldorf",
+                "Kunstakademie_D\u00fcsseldorf",
+                "D\u00fcsseldorfer_EG",
+                "Merkur_Spiel-Arena",
+                "TuRU_D\u00fcsseldorf",
+                "Gau_D\u00fcsseldorf"
+            ],
+            "scores": [
+                0.9396267837541163,
+                0.0319899639328838,
+                0.007683863885839737,
+                0.003606711619883958,
+                0.003449898071193351,
+                0.0028226438764309236,
+                0.0020385761329778894,
+                0.0015681354869060686,
+                0.0010976948408342481,
+                0.0010976948408342481,
+                0.0007840677434530343,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.00031362709738121374,
+                0.00031362709738121374
+            ]
+        },
+        {
+            "begin": 401,
+            "end": 411,
+            "text": "Langenfeld",
+            "concept": 14,
+            "candidates": [
+                "Langenfeld,_Rhineland",
+                "L\u00e4ngenfeld",
+                "Langenfeld_(Rheinland)_station",
+                "Langenfeld,_Bavaria",
+                "Langenfeld,_Mayen-Koblenz",
+                "D\u0142ugoszyn",
+                "Langenfeld"
+            ],
+            "scores": [
+                0.5,
+                0.22857142857142856,
+                0.14285714285714285,
+                0.07142857142857142,
+                0.02857142857142857,
+                0.014285714285714285,
+                0.014285714285714285
+            ]
+        },
+        {
+            "begin": 415,
+            "end": 422,
+            "text": "Tuesday",
+            "concept": 6
+        },
+        {
+            "begin": 457,
+            "end": 466,
+            "text": "Stuttgart",
+            "concept": 11,
+            "candidates": [
+                "Stuttgart",
+                "VfB_Stuttgart",
+                "Stuttgart_Hauptbahnhof",
+                "Eurocard_Open",
+                "Stuttgart_Open",
+                "Stuttgart,_Arkansas",
+                "Women's_Stuttgart_Open",
+                "Stuttgart_Airport",
+                "2014_Porsche_Tennis_Grand_Prix",
+                "2013_Porsche_Tennis_Grand_Prix",
+                "2015_Porsche_Tennis_Grand_Prix",
+                "University_of_Stuttgart",
+                "Stuttgart_(region)",
+                "2008_Mercedes_Cup",
+                "2016_Porsche_Tennis_Grand_Prix",
+                "HTC\u2013Highroad"
+            ],
+            "scores": [
+                0.8587419514611193,
+                0.05973254086181278,
+                0.022783556215948488,
+                0.009113422486379396,
+                0.008122833085685984,
+                0.005745418524021793,
+                0.004952947003467063,
+                0.0016840019811788015,
+                0.0015849430411094601,
+                0.0014858841010401188,
+                0.0014858841010401188,
+                0.0013868251609707777,
+                0.0012877662209014363,
+                0.0010896483407627539,
+                0.0009905894006934125,
+                0.0008915304606240713
+            ]
+        },
+        {
+            "begin": 572,
+            "end": 587,
+            "text": "chief executive",
+            "concept": 15
+        },
+        {
+            "begin": 588,
+            "end": 602,
+            "text": "Joachim Hunold",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 626,
+            "end": 630,
+            "text": "head",
+            "concept": 16
+        },
+        {
+            "begin": 631,
+            "end": 649,
+            "text": "Johannes Zurnieden",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 714,
+            "end": 724,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 745,
+            "end": 752,
+            "text": "airline",
+            "concept": 17
+        },
+        {
+            "begin": 753,
+            "end": 756,
+            "text": "DBA",
+            "concept": 1,
+            "candidates": [
+                "Trade_name",
+                "Doctor_of_Business_Administration",
+                "A-weighting",
+                "DBA_(airline)",
+                "Decibel",
+                "FC_Dinamo_Batumi",
+                "Database_administrator",
+                "Sound_pressure",
+                "Laboratory_mouse",
+                "Super_Nova_Racing",
+                "Dead_by_April",
+                "Bangime_language",
+                "DBA"
+            ],
+            "scores": [
+                0.5086206896551724,
+                0.2629310344827586,
+                0.07758620689655173,
+                0.05172413793103448,
+                0.02586206896551724,
+                0.021551724137931036,
+                0.021551724137931036,
+                0.008620689655172414,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207
+            ]
+        },
+        {
+            "begin": 868,
+            "end": 874,
+            "text": "Munich",
+            "concept": 12,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 894,
+            "end": 900,
+            "text": "Berlin",
+            "concept": 10,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1044,
+            "end": 1061,
+            "text": "1.5 million euros",
+            "concept": 18
+        },
+        {
+            "begin": 1063,
+            "end": 1075,
+            "text": "$2.0 million",
+            "concept": 19
+        },
+        {
+            "begin": 1080,
+            "end": 1090,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1101,
+            "end": 1110,
+            "text": "June 2006",
+            "concept": 20
+        },
+        {
+            "begin": 1206,
+            "end": 1212,
+            "text": "Hunold",
+            "concept": 2,
+            "candidates": [
+                "Christian_Friedrich_Hunold"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1217,
+            "end": 1226,
+            "text": "Zurnieden",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1258,
+            "end": 1276,
+            "text": "1.47 million euros",
+            "concept": 21
+        },
+        {
+            "begin": 1322,
+            "end": 1328,
+            "text": "Hunold",
+            "concept": 2,
+            "candidates": [
+                "Christian_Friedrich_Hunold"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1558,
+            "end": 1568,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1653,
+            "end": 1662,
+            "text": "June 2006",
+            "concept": 20
+        },
+        {
+            "begin": 1852,
+            "end": 1862,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1863,
+            "end": 1872,
+            "text": "spokesman",
+            "concept": 22
+        },
+        {
+            "begin": 1873,
+            "end": 1889,
+            "text": "Peter Hauptvogel",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1936,
+            "end": 1946,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1962,
+            "end": 1965,
+            "text": "DBA",
+            "concept": 1,
+            "candidates": [
+                "Trade_name",
+                "Doctor_of_Business_Administration",
+                "A-weighting",
+                "DBA_(airline)",
+                "Decibel",
+                "FC_Dinamo_Batumi",
+                "Database_administrator",
+                "Sound_pressure",
+                "Laboratory_mouse",
+                "Super_Nova_Racing",
+                "Dead_by_April",
+                "Bangime_language",
+                "DBA"
+            ],
+            "scores": [
+                0.5086206896551724,
+                0.2629310344827586,
+                0.07758620689655173,
+                0.05172413793103448,
+                0.02586206896551724,
+                0.021551724137931036,
+                0.021551724137931036,
+                0.008620689655172414,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207
+            ]
+        },
+        {
+            "begin": 1988,
+            "end": 1994,
+            "text": "Berlin",
+            "concept": 10,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1988,
+            "end": 2002,
+            "text": "Berlin airline",
+            "concept": 23
+        },
+        {
+            "begin": 2021,
+            "end": 2031,
+            "text": "Hauptvogel",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2188,
+            "end": 2198,
+            "text": "Air Berlin",
+            "concept": 0,
+            "candidates": [
+                "Air_Berlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2200,
+            "end": 2207,
+            "text": "Germany",
+            "concept": 24,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2239,
+            "end": 2248,
+            "text": "Lufthansa",
+            "concept": 25,
+            "candidates": [
+                "Lufthansa",
+                "Deutsche_Luft_Hansa",
+                "Lufthansa_Flight_005",
+                "Lufthansa_Flight_Training",
+                "Deutsche_Lufthansa_(East_Germany)"
+            ],
+            "scores": [
+                0.9827868852459016,
+                0.014754098360655738,
+                0.000819672131147541,
+                0.000819672131147541,
+                0.000819672131147541
+            ]
+        },
+        {
+            "begin": 2259,
+            "end": 2262,
+            "text": "DBA",
+            "concept": 1,
+            "candidates": [
+                "Trade_name",
+                "Doctor_of_Business_Administration",
+                "A-weighting",
+                "DBA_(airline)",
+                "Decibel",
+                "FC_Dinamo_Batumi",
+                "Database_administrator",
+                "Sound_pressure",
+                "Laboratory_mouse",
+                "Super_Nova_Racing",
+                "Dead_by_April",
+                "Bangime_language",
+                "DBA"
+            ],
+            "scores": [
+                0.5086206896551724,
+                0.2629310344827586,
+                0.07758620689655173,
+                0.05172413793103448,
+                0.02586206896551724,
+                0.021551724137931036,
+                0.021551724137931036,
+                0.008620689655172414,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207,
+                0.004310344827586207
+            ]
+        },
+        {
+            "begin": 2266,
+            "end": 2277,
+            "text": "August 2006",
+            "concept": 26
+        },
+        {
+            "begin": 2298,
+            "end": 2310,
+            "text": "flag carrier",
+            "concept": 27
+        },
+        {
+            "begin": 2311,
+            "end": 2320,
+            "text": "Lufthansa",
+            "concept": 25,
+            "candidates": [
+                "Lufthansa",
+                "Deutsche_Luft_Hansa",
+                "Lufthansa_Flight_005",
+                "Lufthansa_Flight_Training",
+                "Deutsche_Lufthansa_(East_Germany)"
+            ],
+            "scores": [
+                0.9827868852459016,
+                0.014754098360655738,
+                0.000819672131147541,
+                0.000819672131147541,
+                0.000819672131147541
+            ]
+        },
+        {
+            "begin": 2376,
+            "end": 2383,
+            "text": "Germany",
+            "concept": 24,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Air Berlin",
+            "keyword": true,
+            "count": 8,
+            "link": "Air_Berlin",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "DBA",
+            "keyword": true,
+            "count": 3,
+            "link": "DBA_(airline)",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Joachim Hunold",
+            "keyword": true,
+            "count": 6,
+            "link": "wikidata:Q126024",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "topic::justice",
+                "type::entity",
+                "type::manager",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Johannes Zurnieden",
+            "keyword": true,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "topic::justice",
+                "type::entity",
+                "type::manager",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Peter Hauptvogel",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::employee",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "low-cost carrier",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "financial sector watchdog",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "BaFin",
+            "keyword": false,
+            "count": 1,
+            "link": "Federal_Financial_Supervisory_Authority",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 3,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Stuttgart",
+            "keyword": false,
+            "count": 2,
+            "link": "Stuttgart",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Munich",
+            "keyword": false,
+            "count": 2,
+            "link": "Munich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "D\u00fcsseldorf",
+            "keyword": false,
+            "count": 1,
+            "link": "D\u00fcsseldorf",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Langenfeld",
+            "keyword": false,
+            "count": 1,
+            "link": "Langenfeld,_Rhineland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "chief executive",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "head",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "airline",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "1.5 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "$2.0 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "June 2006",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "1.47 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Berlin airline",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Lufthansa",
+            "keyword": false,
+            "count": 2,
+            "link": "Lufthansa",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "August 2006",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "flag carrier",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 24
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 24
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "part_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "agency_of",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 11,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 24
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 24
+        },
+        {
+            "s": 25,
+            "p": "based_in0-x",
+            "o": 5
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000106",
+        "20000118"
+    ]
+}

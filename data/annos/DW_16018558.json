@@ -1,0 +1,1219 @@
+{
+    "id": "DW_16018558",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 54,
+            "end": 60,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 198,
+            "end": 203,
+            "text": "daily",
+            "concept": 6
+        },
+        {
+            "begin": 204,
+            "end": 234,
+            "text": "Frankfurter Allgemeine Zeitung",
+            "concept": 1,
+            "candidates": [
+                "Frankfurter_Allgemeine_Zeitung"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 236,
+            "end": 239,
+            "text": "FAZ",
+            "concept": 1,
+            "candidates": [
+                "Frankfurter_Allgemeine_Zeitung",
+                "Football_Association_of_Zambia",
+                "Faz,_Iran",
+                "Armed_Forces_of_the_Democratic_Republic_of_the_Congo",
+                "Northwestern_Fars_language"
+            ],
+            "scores": [
+                0.7468354430379747,
+                0.21518987341772153,
+                0.012658227848101266,
+                0.012658227848101266,
+                0.012658227848101266
+            ]
+        },
+        {
+            "begin": 264,
+            "end": 271,
+            "text": "utility",
+            "concept": 7
+        },
+        {
+            "begin": 273,
+            "end": 277,
+            "text": "E.ON",
+            "concept": 2,
+            "candidates": [
+                "E.ON",
+                "Eon_(geology)",
+                "Eon_(comics)",
+                "Eon_(novel)",
+                "E.ON_UK",
+                "Eon_Productions",
+                "Eon_(musician)",
+                "Hyundai_Eon",
+                "Geologic_time_scale",
+                "Geologic_eon",
+                "Aeon",
+                "Eon_(album)",
+                "EOn",
+                "Eon_of_Axum",
+                "Eon_Digital_Entertainment",
+                "Eon_(role-playing_game)"
+            ],
+            "scores": [
+                0.6198704103671706,
+                0.0734341252699784,
+                0.05183585313174946,
+                0.04319654427645788,
+                0.038876889848812095,
+                0.038876889848812095,
+                0.02159827213822894,
+                0.019438444924406047,
+                0.017278617710583154,
+                0.01511879049676026,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 300,
+            "end": 315,
+            "text": "8 billion euros",
+            "concept": 8
+        },
+        {
+            "begin": 317,
+            "end": 328,
+            "text": "$10 billion",
+            "concept": 9
+        },
+        {
+            "begin": 427,
+            "end": 437,
+            "text": "Dusseldorf",
+            "concept": 10,
+            "candidates": [
+                "D\u00fcsseldorf",
+                "D\u00fcsseldorf_Hauptbahnhof",
+                "D\u00fcsseldorf_Airport",
+                "D\u00fcsseldorf-Bilk_Observatory",
+                "D\u00fcsseldorf_(region)",
+                "D\u00fcsseldorf_Grand_Prix",
+                "PSD_Bank_Meeting",
+                "University_of_D\u00fcsseldorf",
+                "Timeline_of_D\u00fcsseldorf",
+                "D\u00fcsseldorf_(album)",
+                "Fortuna_D\u00fcsseldorf",
+                "Kunstakademie_D\u00fcsseldorf",
+                "D\u00fcsseldorfer_EG",
+                "Merkur_Spiel-Arena",
+                "TuRU_D\u00fcsseldorf",
+                "Gau_D\u00fcsseldorf"
+            ],
+            "scores": [
+                0.9396267837541163,
+                0.0319899639328838,
+                0.007683863885839737,
+                0.003606711619883958,
+                0.003449898071193351,
+                0.0028226438764309236,
+                0.0020385761329778894,
+                0.0015681354869060686,
+                0.0010976948408342481,
+                0.0010976948408342481,
+                0.0007840677434530343,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.0004704406460718206,
+                0.00031362709738121374,
+                0.00031362709738121374
+            ]
+        },
+        {
+            "begin": 477,
+            "end": 493,
+            "text": "15 billion euros",
+            "concept": 11
+        },
+        {
+            "begin": 495,
+            "end": 508,
+            "text": "$18.7 billion",
+            "concept": 12
+        },
+        {
+            "begin": 531,
+            "end": 534,
+            "text": "FAZ",
+            "concept": 1,
+            "candidates": [
+                "Frankfurter_Allgemeine_Zeitung",
+                "Football_Association_of_Zambia",
+                "Faz,_Iran",
+                "Armed_Forces_of_the_Democratic_Republic_of_the_Congo",
+                "Northwestern_Fars_language"
+            ],
+            "scores": [
+                0.7468354430379747,
+                0.21518987341772153,
+                0.012658227848101266,
+                0.012658227848101266,
+                0.012658227848101266
+            ]
+        },
+        {
+            "begin": 545,
+            "end": 573,
+            "text": "Federal Constitutional Court",
+            "concept": 4,
+            "candidates": [
+                "Federal_Constitutional_Court"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 577,
+            "end": 586,
+            "text": "Karlsruhe",
+            "concept": 13,
+            "candidates": [
+                "Karlsruhe",
+                "Karlsruhe_Hauptbahnhof",
+                "Karlsruher_SC",
+                "Karlsruhe_(district)",
+                "Karlsruhe_Institute_of_Technology",
+                "German_cruiser_Karlsruhe",
+                "Weltklasse_in_Karlsruhe",
+                "Europahalle",
+                "Karlsruhe_(region)",
+                "Baden_Open",
+                "German_frigate_Karlsruhe_(F212)",
+                "Karlsruhe,_North_Dakota",
+                "Dm-Arena",
+                "SMS_Karlsruhe",
+                "Maschinenbau-Gesellschaft_Karlsruhe",
+                "K\u00f6ln-class_frigate"
+            ],
+            "scores": [
+                0.8489347966429954,
+                0.07101355713363461,
+                0.027437056165267915,
+                0.011620400258231117,
+                0.0071013557133634605,
+                0.006132989025177534,
+                0.005164622336991607,
+                0.004196255648805681,
+                0.003873466752743706,
+                0.0032278889606197547,
+                0.0025823111684958036,
+                0.0025823111684958036,
+                0.0012911555842479018,
+                0.0012911555842479018,
+                0.0006455777921239509,
+                0.0006455777921239509
+            ]
+        },
+        {
+            "begin": 685,
+            "end": 689,
+            "text": "2013",
+            "concept": 14
+        },
+        {
+            "begin": 697,
+            "end": 704,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 817,
+            "end": 823,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 880,
+            "end": 890,
+            "text": "Greenpeace",
+            "concept": 15,
+            "candidates": [
+                "Greenpeace",
+                "Greenpeace_Aotearoa_New_Zealand",
+                "Greenpeace_Nordic",
+                "Greenpeace_Australia_Pacific",
+                "MV_Greenpeace",
+                "Anchor_Me_(The_Mutton_Birds_song)",
+                "Greenpeace_\u2013_The_Album"
+            ],
+            "scores": [
+                0.9923349056603774,
+                0.0047169811320754715,
+                0.0005896226415094339,
+                0.0005896226415094339,
+                0.0005896226415094339,
+                0.0005896226415094339,
+                0.0005896226415094339
+            ]
+        },
+        {
+            "begin": 899,
+            "end": 928,
+            "text": "Federation of German Industry",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 930,
+            "end": 933,
+            "text": "BDI",
+            "concept": 3,
+            "candidates": [
+                "Belief\u2013desire\u2013intention_software_model",
+                "Democratic_Union_for_Integration",
+                "B\u00ecnh_\u0110\u1ecbnh_F.C.",
+                "Burundi",
+                "Baltic_Dry_Index",
+                "BDi_Music",
+                "Burun_language",
+                "BDI"
+            ],
+            "scores": [
+                0.4,
+                0.24,
+                0.08,
+                0.08,
+                0.08,
+                0.04,
+                0.04,
+                0.04
+            ]
+        },
+        {
+            "begin": 986,
+            "end": 993,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1102,
+            "end": 1106,
+            "text": "E.ON",
+            "concept": 2,
+            "candidates": [
+                "E.ON",
+                "Eon_(geology)",
+                "Eon_(comics)",
+                "Eon_(novel)",
+                "E.ON_UK",
+                "Eon_Productions",
+                "Eon_(musician)",
+                "Hyundai_Eon",
+                "Geologic_time_scale",
+                "Geologic_eon",
+                "Aeon",
+                "Eon_(album)",
+                "EOn",
+                "Eon_of_Axum",
+                "Eon_Digital_Entertainment",
+                "Eon_(role-playing_game)"
+            ],
+            "scores": [
+                0.6198704103671706,
+                0.0734341252699784,
+                0.05183585313174946,
+                0.04319654427645788,
+                0.038876889848812095,
+                0.038876889848812095,
+                0.02159827213822894,
+                0.019438444924406047,
+                0.017278617710583154,
+                0.01511879049676026,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 1128,
+            "end": 1133,
+            "text": "rival",
+            "concept": 16
+        },
+        {
+            "begin": 1135,
+            "end": 1138,
+            "text": "RWE",
+            "concept": 17,
+            "candidates": [
+                "RWE",
+                "Innogy",
+                "Rot-Weiss_Essen",
+                "Npower_(United_Kingdom)",
+                "FC_Rot-Wei\u00df_Erfurt"
+            ],
+            "scores": [
+                0.981042654028436,
+                0.004739336492890996,
+                0.004739336492890996,
+                0.004739336492890996,
+                0.004739336492890996
+            ]
+        },
+        {
+            "begin": 1206,
+            "end": 1213,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1344,
+            "end": 1348,
+            "text": "2022",
+            "concept": 18
+        },
+        {
+            "begin": 1425,
+            "end": 1429,
+            "text": "E.ON",
+            "concept": 2,
+            "candidates": [
+                "E.ON",
+                "Eon_(geology)",
+                "Eon_(comics)",
+                "Eon_(novel)",
+                "E.ON_UK",
+                "Eon_Productions",
+                "Eon_(musician)",
+                "Hyundai_Eon",
+                "Geologic_time_scale",
+                "Geologic_eon",
+                "Aeon",
+                "Eon_(album)",
+                "EOn",
+                "Eon_of_Axum",
+                "Eon_Digital_Entertainment",
+                "Eon_(role-playing_game)"
+            ],
+            "scores": [
+                0.6198704103671706,
+                0.0734341252699784,
+                0.05183585313174946,
+                0.04319654427645788,
+                0.038876889848812095,
+                0.038876889848812095,
+                0.02159827213822894,
+                0.019438444924406047,
+                0.017278617710583154,
+                0.01511879049676026,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 1467,
+            "end": 1474,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1549,
+            "end": 1556,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1684,
+            "end": 1691,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1803,
+            "end": 1808,
+            "text": "Japan",
+            "concept": 19,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 1834,
+            "end": 1843,
+            "text": "Fukushima",
+            "concept": 20,
+            "candidates": [
+                "Fukushima_Prefecture",
+                "Fukushima_(city)",
+                "Fukushima_Daiichi_nuclear_disaster",
+                "Fukushima_Station_(Fukushima)",
+                "Fukushima_FC",
+                "Fukushima,_Hokkaido",
+                "Fukushima_Daiichi_Nuclear_Power_Plant",
+                "Fukushima-ku,_Osaka",
+                "Timeline_of_the_Fukushima_Daiichi_nuclear_disaster",
+                "Fukushima_at-large_district",
+                "Fukushima,_Nagasaki",
+                "Kawauchi,_Fukushima",
+                "Fukushima_Domain",
+                "Fukushima_Station_(Osaka)",
+                "Shinta_Fukushima",
+                "Japanese_reaction_to_Fukushima_Daiichi_nuclear_disaster"
+            ],
+            "scores": [
+                0.43661971830985913,
+                0.3492957746478873,
+                0.07464788732394366,
+                0.022535211267605635,
+                0.018309859154929577,
+                0.016901408450704224,
+                0.016901408450704224,
+                0.01267605633802817,
+                0.01267605633802817,
+                0.011267605633802818,
+                0.008450704225352112,
+                0.004225352112676056,
+                0.004225352112676056,
+                0.0028169014084507044,
+                0.0014084507042253522,
+                0.0014084507042253522
+            ]
+        },
+        {
+            "begin": 1851,
+            "end": 1857,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 1939,
+            "end": 1946,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2004,
+            "end": 2025,
+            "text": "tj/ipj (AFP, Reuters)",
+            "concept": 21
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germany",
+            "keyword": true,
+            "count": 7,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Frankfurter Allgemeine Zeitung",
+            "keyword": true,
+            "count": 3,
+            "link": "Frankfurter_Allgemeine_Zeitung",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "E.ON",
+            "keyword": true,
+            "count": 3,
+            "link": "E.ON",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000260",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Federation of German Industry",
+            "keyword": true,
+            "count": 2,
+            "link": "Bundesverband_der_Deutschen_Industrie",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Federal Constitutional Court",
+            "keyword": true,
+            "count": 1,
+            "link": "Federal_Constitutional_Court",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "daily",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "utility",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "8 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "$10 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Dusseldorf",
+            "keyword": false,
+            "count": 1,
+            "link": "D\u00fcsseldorf",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "15 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "$18.7 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Karlsruhe",
+            "keyword": false,
+            "count": 1,
+            "link": "Karlsruhe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "2013",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Greenpeace",
+            "keyword": false,
+            "count": 1,
+            "link": "Greenpeace",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::ngo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "rival",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "RWE",
+            "keyword": false,
+            "count": 1,
+            "link": "RWE",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000260",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "2022",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Japan",
+            "keyword": false,
+            "count": 1,
+            "link": "Japan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Fukushima",
+            "keyword": false,
+            "count": 1,
+            "link": "Fukushima_(city)",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "tj/ipj (AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "based_in2",
+            "o": 13
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 19
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "11000000",
+        "20000209",
+        "20000256",
+        "20000265",
+        "20000621",
+        "20000635"
+    ]
+}

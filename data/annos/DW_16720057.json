@@ -1,0 +1,2377 @@
+{
+    "id": "DW_16720057",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 8,
+            "end": 19,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 49,
+            "end": 56,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 84,
+            "end": 94,
+            "text": "Gaza Strip",
+            "concept": 1,
+            "candidates": [
+                "Gaza_Strip",
+                "All-Palestine_Protectorate",
+                "Governance_of_the_Gaza_Strip",
+                "Gaza_Strip_(film)",
+                "Occupation_of_the_Gaza_Strip_by_Egypt",
+                "LGBT_rights_in_the_State_of_Palestine",
+                "Blockade_of_the_Gaza_Strip",
+                "Geography_of_the_Gaza_Strip",
+                "Rail_transport_in_Palestine"
+            ],
+            "scores": [
+                0.9901315789473685,
+                0.0024671052631578946,
+                0.002055921052631579,
+                0.001644736842105263,
+                0.001644736842105263,
+                0.0008223684210526315,
+                0.00041118421052631577,
+                0.00041118421052631577,
+                0.00041118421052631577
+            ]
+        },
+        {
+            "begin": 120,
+            "end": 128,
+            "text": "November",
+            "concept": 11
+        },
+        {
+            "begin": 167,
+            "end": 178,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 208,
+            "end": 213,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 297,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 306,
+            "end": 316,
+            "text": "Gaza Strip",
+            "concept": 1,
+            "candidates": [
+                "Gaza_Strip",
+                "All-Palestine_Protectorate",
+                "Governance_of_the_Gaza_Strip",
+                "Gaza_Strip_(film)",
+                "Occupation_of_the_Gaza_Strip_by_Egypt",
+                "LGBT_rights_in_the_State_of_Palestine",
+                "Blockade_of_the_Gaza_Strip",
+                "Geography_of_the_Gaza_Strip",
+                "Rail_transport_in_Palestine"
+            ],
+            "scores": [
+                0.9901315789473685,
+                0.0024671052631578946,
+                0.002055921052631579,
+                0.001644736842105263,
+                0.001644736842105263,
+                0.0008223684210526315,
+                0.00041118421052631577,
+                0.00041118421052631577,
+                0.00041118421052631577
+            ]
+        },
+        {
+            "begin": 363,
+            "end": 370,
+            "text": "Tuesday",
+            "concept": 13
+        },
+        {
+            "begin": 431,
+            "end": 444,
+            "text": "November 2012",
+            "concept": 14
+        },
+        {
+            "begin": 450,
+            "end": 467,
+            "text": "Israeli Air Force",
+            "concept": 2,
+            "candidates": [
+                "Israeli_Air_Force"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 490,
+            "end": 500,
+            "text": "Gaza Strip",
+            "concept": 1,
+            "candidates": [
+                "Gaza_Strip",
+                "All-Palestine_Protectorate",
+                "Governance_of_the_Gaza_Strip",
+                "Gaza_Strip_(film)",
+                "Occupation_of_the_Gaza_Strip_by_Egypt",
+                "LGBT_rights_in_the_State_of_Palestine",
+                "Blockade_of_the_Gaza_Strip",
+                "Geography_of_the_Gaza_Strip",
+                "Rail_transport_in_Palestine"
+            ],
+            "scores": [
+                0.9901315789473685,
+                0.0024671052631578946,
+                0.002055921052631579,
+                0.001644736842105263,
+                0.001644736842105263,
+                0.0008223684210526315,
+                0.00041118421052631577,
+                0.00041118421052631577,
+                0.00041118421052631577
+            ]
+        },
+        {
+            "begin": 525,
+            "end": 536,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 562,
+            "end": 569,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 582,
+            "end": 591,
+            "text": "Wednesday",
+            "concept": 15
+        },
+        {
+            "begin": 617,
+            "end": 628,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 650,
+            "end": 656,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 743,
+            "end": 748,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 753,
+            "end": 759,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 765,
+            "end": 773,
+            "text": "November",
+            "concept": 11
+        },
+        {
+            "begin": 779,
+            "end": 787,
+            "text": "Israelis",
+            "concept": 16
+        },
+        {
+            "begin": 796,
+            "end": 808,
+            "text": "Palestinians",
+            "concept": 17
+        },
+        {
+            "begin": 935,
+            "end": 941,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 948,
+            "end": 964,
+            "text": "Defense Minister",
+            "concept": 18
+        },
+        {
+            "begin": 965,
+            "end": 977,
+            "text": "Moshe Yaalon",
+            "concept": 3,
+            "candidates": [
+                "Moshe_Ya'alon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 980,
+            "end": 986,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 1026,
+            "end": 1031,
+            "text": "Syria",
+            "concept": 19,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1039,
+            "end": 1046,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 1113,
+            "end": 1119,
+            "text": "Yaalon",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1129,
+            "end": 1140,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 1141,
+            "end": 1149,
+            "text": "Salafist",
+            "concept": 0
+        },
+        {
+            "begin": 1252,
+            "end": 1259,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 1297,
+            "end": 1302,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1376,
+            "end": 1378,
+            "text": "US",
+            "concept": 20,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1379,
+            "end": 1388,
+            "text": "President",
+            "concept": 21
+        },
+        {
+            "begin": 1389,
+            "end": 1401,
+            "text": "Barack Obama",
+            "concept": 22,
+            "candidates": [
+                "Barack_Obama",
+                "Presidency_of_Barack_Obama",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_in_comics",
+                "Barack_Obama_presidential_campaign,_2012",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "President_Barack_Obama_(painting)",
+                "Efforts_to_impeach_Barack_Obama"
+            ],
+            "scores": [
+                0.9983731334611585,
+                0.0005810237638719423,
+                0.0005229213874847481,
+                0.00023240950554877696,
+                0.00011620475277438848,
+                5.810237638719424e-05,
+                5.810237638719424e-05,
+                5.810237638719424e-05
+            ]
+        },
+        {
+            "begin": 1410,
+            "end": 1416,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 1448,
+            "end": 1457,
+            "text": "Salafists",
+            "concept": 0
+        },
+        {
+            "begin": 1509,
+            "end": 1516,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 1525,
+            "end": 1531,
+            "text": "Sderot",
+            "concept": 23,
+            "candidates": [
+                "Sderot",
+                "Sderot_railway_station"
+            ],
+            "scores": [
+                0.9851190476190477,
+                0.01488095238095238
+            ]
+        },
+        {
+            "begin": 1533,
+            "end": 1538,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1590,
+            "end": 1595,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1616,
+            "end": 1627,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 1628,
+            "end": 1638,
+            "text": "journalist",
+            "concept": 24
+        },
+        {
+            "begin": 1639,
+            "end": 1650,
+            "text": "Anis Muhsin",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1658,
+            "end": 1689,
+            "text": "Institute for Palestine Studies",
+            "concept": 25,
+            "candidates": [
+                "Institute_for_Palestine_Studies"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1693,
+            "end": 1699,
+            "text": "Beirut",
+            "concept": 26,
+            "candidates": [
+                "Beirut",
+                "Beirut_(band)",
+                "Beirut_(film)",
+                "Beirut\u2013Rafic_Hariri_International_Airport",
+                "Beirut_Governorate",
+                "Beirut_Vilayet",
+                "Maronite_Catholic_Archeparchy_of_Beirut",
+                "Lordship_of_Beirut",
+                "1983_Beirut_barracks_bombings",
+                "Battle_of_Beirut_(1941)",
+                "Beirut_Sanjak",
+                "Battle_of_Beirut_(1912)",
+                "Apostolic_Vicariate_of_Beirut",
+                "Port_of_Beirut",
+                "Roman_Catholic_Diocese_of_Beirut",
+                "Patriarchate_of_Cilicia"
+            ],
+            "scores": [
+                0.9618155619596542,
+                0.026512968299711816,
+                0.003170028818443804,
+                0.0011527377521613833,
+                0.0011527377521613833,
+                0.0005763688760806917,
+                0.0005763688760806917,
+                0.0005763688760806917,
+                0.0004322766570605187,
+                0.0004322766570605187,
+                0.0004322766570605187,
+                0.0004322766570605187,
+                0.00028818443804034583,
+                0.00028818443804034583,
+                0.00014409221902017292,
+                0.00014409221902017292
+            ]
+        },
+        {
+            "begin": 1712,
+            "end": 1717,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1808,
+            "end": 1818,
+            "text": "Gaza Strip",
+            "concept": 1,
+            "candidates": [
+                "Gaza_Strip",
+                "All-Palestine_Protectorate",
+                "Governance_of_the_Gaza_Strip",
+                "Gaza_Strip_(film)",
+                "Occupation_of_the_Gaza_Strip_by_Egypt",
+                "LGBT_rights_in_the_State_of_Palestine",
+                "Blockade_of_the_Gaza_Strip",
+                "Geography_of_the_Gaza_Strip",
+                "Rail_transport_in_Palestine"
+            ],
+            "scores": [
+                0.9901315789473685,
+                0.0024671052631578946,
+                0.002055921052631579,
+                0.001644736842105263,
+                0.001644736842105263,
+                0.0008223684210526315,
+                0.00041118421052631577,
+                0.00041118421052631577,
+                0.00041118421052631577
+            ]
+        },
+        {
+            "begin": 1870,
+            "end": 1876,
+            "text": "Muhsin",
+            "concept": 6,
+            "candidates": [
+                "Muhsin_ibn_Ali"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1882,
+            "end": 1884,
+            "text": "DW",
+            "concept": 27,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 1886,
+            "end": 1891,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1969,
+            "end": 1975,
+            "text": "Muhsin",
+            "concept": 6,
+            "candidates": [
+                "Muhsin_ibn_Ali"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2081,
+            "end": 2089,
+            "text": "al Qaeda",
+            "concept": 4,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 2194,
+            "end": 2199,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 2270,
+            "end": 2276,
+            "text": "Muhsin",
+            "concept": 6,
+            "candidates": [
+                "Muhsin_ibn_Ali"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2347,
+            "end": 2358,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 2371,
+            "end": 2377,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 2383,
+            "end": 2391,
+            "text": "Salafist",
+            "concept": 0
+        },
+        {
+            "begin": 2499,
+            "end": 2510,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 2532,
+            "end": 2539,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 2590,
+            "end": 2598,
+            "text": "prisoner",
+            "concept": 28
+        },
+        {
+            "begin": 2600,
+            "end": 2620,
+            "text": "Maysara Abu Hamdiyeh",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2659,
+            "end": 2666,
+            "text": "Tuesday",
+            "concept": 13
+        },
+        {
+            "begin": 2683,
+            "end": 2694,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 2738,
+            "end": 2744,
+            "text": "Muhsin",
+            "concept": 6,
+            "candidates": [
+                "Muhsin_ibn_Ali"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2760,
+            "end": 2767,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 2824,
+            "end": 2835,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 2890,
+            "end": 2898,
+            "text": "Hamdiyeh",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2931,
+            "end": 2938,
+            "text": "Israeli",
+            "concept": 9
+        },
+        {
+            "begin": 2939,
+            "end": 2958,
+            "text": "political scientist",
+            "concept": 29
+        },
+        {
+            "begin": 2959,
+            "end": 2972,
+            "text": "Yithak Reiter",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2998,
+            "end": 3009,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 3022,
+            "end": 3027,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 3066,
+            "end": 3072,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 3156,
+            "end": 3164,
+            "text": "November",
+            "concept": 11
+        },
+        {
+            "begin": 3166,
+            "end": 3172,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 3177,
+            "end": 3182,
+            "text": "Hamas",
+            "concept": 5,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 3201,
+            "end": 3209,
+            "text": "Islamist",
+            "concept": 30
+        },
+        {
+            "begin": 3210,
+            "end": 3221,
+            "text": "Palestinian",
+            "concept": 10
+        },
+        {
+            "begin": 3329,
+            "end": 3335,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 3396,
+            "end": 3402,
+            "text": "Reiter",
+            "concept": 7,
+            "candidates": [
+                "Reiter_Engineering",
+                "Reiter",
+                "Thomas_Reiter",
+                "Philipp_Reiter",
+                "Reiter_(surname)",
+                "Markus_Reiter",
+                "Reiter_(disambiguation)",
+                "Miles_Reiter",
+                "Dan_Reiter",
+                "Jim_Reiter",
+                "Raymond_Reiter"
+            ],
+            "scores": [
+                0.6276595744680851,
+                0.3191489361702128,
+                0.010638297872340425,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213
+            ]
+        },
+        {
+            "begin": 3462,
+            "end": 3467,
+            "text": "Cairo",
+            "concept": 31,
+            "candidates": [
+                "Cairo",
+                "Cairo,_Illinois",
+                "Cairo_(graphics)",
+                "Cairo_Governorate",
+                "Cairo,_Georgia",
+                "Cairo,_New_York",
+                "Egyptian_Open_(tennis)",
+                "Cairo_(1942_film)",
+                "Cairo_International_Airport",
+                "Cairo_(1963_film)",
+                "Cairo_(CDP),_New_York",
+                "Cairo_(operating_system)",
+                "Cairo_Conference",
+                "Palm_Hills_International_Tennis_Challenger",
+                "Cairo,_Missouri",
+                "Cairo,_West_Virginia"
+            ],
+            "scores": [
+                0.942062765337551,
+                0.010571880462831931,
+                0.007158911179555481,
+                0.005161075501539998,
+                0.005077832348289353,
+                0.00324648297677516,
+                0.0021643219845167735,
+                0.0020810788312661285,
+                0.001831349371514193,
+                0.0016648630650129028,
+                0.001248647298759677,
+                0.001248647298759677,
+                0.0010821609922583868,
+                0.0008324315325064514,
+                0.0008324315325064514,
+                0.0008324315325064514
+            ]
+        },
+        {
+            "begin": 3644,
+            "end": 3650,
+            "text": "Reiter",
+            "concept": 7,
+            "candidates": [
+                "Reiter_Engineering",
+                "Reiter",
+                "Thomas_Reiter",
+                "Philipp_Reiter",
+                "Reiter_(surname)",
+                "Markus_Reiter",
+                "Reiter_(disambiguation)",
+                "Miles_Reiter",
+                "Dan_Reiter",
+                "Jim_Reiter",
+                "Raymond_Reiter"
+            ],
+            "scores": [
+                0.6276595744680851,
+                0.3191489361702128,
+                0.010638297872340425,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213
+            ]
+        },
+        {
+            "begin": 3701,
+            "end": 3703,
+            "text": "US",
+            "concept": 20,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3704,
+            "end": 3722,
+            "text": "Secretary of State",
+            "concept": 32
+        },
+        {
+            "begin": 3723,
+            "end": 3733,
+            "text": "John Kerry",
+            "concept": 33,
+            "candidates": [
+                "John_Kerry",
+                "John_Kerry_presidential_campaign,_2004",
+                "John_Kerry_(MP)",
+                "Military_career_of_John_Kerry"
+            ],
+            "scores": [
+                0.9962632940500143,
+                0.002874389192296637,
+                0.0005748778384593274,
+                0.0002874389192296637
+            ]
+        },
+        {
+            "begin": 3736,
+            "end": 3747,
+            "text": "Middle East",
+            "concept": 34,
+            "candidates": [
+                "Middle_East",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Middle_Eastern_theatre_of_World_War_I",
+                "Middle_East_Command",
+                "Middle_Eastern_cuisine",
+                "The_Middle_East_(nightclub)",
+                "History_of_the_Middle_East",
+                "Boomerang_(Middle_East_and_Africa)",
+                "Western_Asia",
+                "RAF_Middle_East_Command",
+                "Middle_East,_Baltimore",
+                "Ancient_Near_East",
+                "Arab_Colombians",
+                "Syria\u2013Lebanon_Campaign",
+                "Bangladeshis_in_the_Middle_East",
+                "Middle_Eastern_studies"
+            ],
+            "scores": [
+                0.9700509967547519,
+                0.009643022716736208,
+                0.004914232730644413,
+                0.002132591562355123,
+                0.002039870190078813,
+                0.0010199350950394065,
+                0.0008344923504867872,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0003708854891052388,
+                0.0003708854891052388,
+                0.0002781641168289291,
+                0.0002781641168289291,
+                0.0002781641168289291
+            ]
+        },
+        {
+            "begin": 3789,
+            "end": 3795,
+            "text": "Israel",
+            "concept": 12,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 3800,
+            "end": 3809,
+            "text": "Palestine",
+            "concept": 35,
+            "candidates": [
+                "Palestine_(region)",
+                "State_of_Palestine",
+                "Mandatory_Palestine",
+                "Palestine,_Texas",
+                "Palestine_national_football_team",
+                "Palestinian_territories",
+                "Sinai_and_Palestine_Campaign",
+                "Palestine_(horse)",
+                "Palestinian_National_Authority",
+                "Mutasarrifate_of_Jerusalem",
+                "Jund_Filastin",
+                "Palestinian_Football_Association",
+                "Syria_Palaestina",
+                "Palestine,_Illinois",
+                "Palestine_(comics)",
+                "Football_in_the_State_of_Palestine"
+            ],
+            "scores": [
+                0.5398120672601385,
+                0.20264589515331355,
+                0.11374876360039565,
+                0.02373887240356083,
+                0.022873392680514342,
+                0.0195351137487636,
+                0.0087784371909001,
+                0.0066765578635014835,
+                0.0056874381800197825,
+                0.0038328387734915927,
+                0.0033382789317507417,
+                0.003214638971315529,
+                0.0030909990108803167,
+                0.0028437190900098912,
+                0.0021018793273986152,
+                0.00185459940652819
+            ]
+        },
+        {
+            "begin": 3901,
+            "end": 3907,
+            "text": "Reiter",
+            "concept": 7,
+            "candidates": [
+                "Reiter_Engineering",
+                "Reiter",
+                "Thomas_Reiter",
+                "Philipp_Reiter",
+                "Reiter_(surname)",
+                "Markus_Reiter",
+                "Reiter_(disambiguation)",
+                "Miles_Reiter",
+                "Dan_Reiter",
+                "Jim_Reiter",
+                "Raymond_Reiter"
+            ],
+            "scores": [
+                0.6276595744680851,
+                0.3191489361702128,
+                0.010638297872340425,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213,
+                0.005319148936170213
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Salafists",
+            "keyword": false,
+            "count": 3,
+            "link": "Salafi_movement",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Gaza Strip",
+            "keyword": true,
+            "count": 4,
+            "link": "Gaza_Strip",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Israeli Air Force",
+            "keyword": true,
+            "count": 1,
+            "link": "Israeli_Air_Force",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Moshe Yaalon",
+            "keyword": true,
+            "count": 2,
+            "link": "Moshe_Ya'alon",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::defense",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "al Qaeda",
+            "keyword": true,
+            "count": 1,
+            "link": "Al-Qaeda",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Hamas",
+            "keyword": true,
+            "count": 10,
+            "link": "Hamas",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Anis Muhsin",
+            "keyword": false,
+            "count": 5,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Yithak Reiter",
+            "keyword": false,
+            "count": 4,
+            "link": "Yitzhak_Reiter",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Maysara Abu Hamdiyeh",
+            "keyword": false,
+            "count": 2,
+            "link": "Maysara_Abu_Hamdiya",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Israeli",
+            "keyword": false,
+            "count": 9,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Palestinian",
+            "keyword": false,
+            "count": 12,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "November",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Israel",
+            "keyword": false,
+            "count": 11,
+            "link": "Israel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "November 2012",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Israelis",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Palestinians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Defense Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Syria",
+            "keyword": false,
+            "count": 1,
+            "link": "Syria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Barack Obama",
+            "keyword": false,
+            "count": 1,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Sderot",
+            "keyword": false,
+            "count": 1,
+            "link": "Sderot",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "journalist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Institute for Palestine Studies",
+            "keyword": false,
+            "count": 1,
+            "link": "Institute_for_Palestine_Studies",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Beirut",
+            "keyword": false,
+            "count": 1,
+            "link": "Beirut",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "prisoner",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "political scientist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Cairo",
+            "keyword": false,
+            "count": 1,
+            "link": "Cairo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Secretary of State",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "John Kerry",
+            "keyword": false,
+            "count": 1,
+            "link": "John_Kerry",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Middle East",
+            "keyword": false,
+            "count": 1,
+            "link": "Middle_East",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Palestine",
+            "keyword": false,
+            "count": 1,
+            "link": "State_of_Palestine",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 36,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 37,
+            "keyword": false,
+            "count": 0,
+            "link": "Lebanon",
+            "tags": []
+        },
+        {
+            "concept": 38,
+            "keyword": false,
+            "count": 0,
+            "link": "Egypt",
+            "tags": []
+        },
+        {
+            "concept": 39,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "agency_of",
+            "o": 12
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "agency_of-x",
+            "o": 16
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 3,
+            "p": "minister_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "minister_of-x",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "minister_of-x",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 35
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 17
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 35
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 25
+        },
+        {
+            "s": 7,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 8,
+            "p": "citizen_of",
+            "o": 35
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 35
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 35
+        },
+        {
+            "s": 22,
+            "p": "agent_of",
+            "o": 20
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 22,
+            "p": "head_of_state",
+            "o": 20
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 9
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 37
+        },
+        {
+            "s": 25,
+            "p": "based_in2",
+            "o": 26
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 37
+        },
+        {
+            "s": 27,
+            "p": "based_in0",
+            "o": 39
+        },
+        {
+            "s": 31,
+            "p": "in0",
+            "o": 38
+        },
+        {
+            "s": 33,
+            "p": "agent_of",
+            "o": 20
+        },
+        {
+            "s": 33,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 33,
+            "p": "minister_of",
+            "o": 20
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "target",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000053",
+        "20000055",
+        "20000056",
+        "20000062"
+    ]
+}

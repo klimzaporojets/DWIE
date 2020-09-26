@@ -1,0 +1,927 @@
+{
+    "id": "DW_1095032",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 44,
+            "end": 52,
+            "text": "Al Qaeda",
+            "concept": 1,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 88,
+            "end": 105,
+            "text": "Abdelghani Mzoudi",
+            "concept": 2,
+            "candidates": [
+                "Abdelghani_Mzoudi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 126,
+            "end": 133,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 171,
+            "end": 179,
+            "text": "Sept. 11",
+            "concept": 3
+        },
+        {
+            "begin": 207,
+            "end": 215,
+            "text": "Thursday",
+            "concept": 4
+        },
+        {
+            "begin": 262,
+            "end": 268,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 300,
+            "end": 307,
+            "text": "Dec. 11",
+            "concept": 5
+        },
+        {
+            "begin": 387,
+            "end": 394,
+            "text": "Hamburg",
+            "concept": 6,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 446,
+            "end": 454,
+            "text": "Thursday",
+            "concept": 4
+        },
+        {
+            "begin": 620,
+            "end": 627,
+            "text": "Iranian",
+            "concept": 7
+        },
+        {
+            "begin": 661,
+            "end": 667,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 782,
+            "end": 788,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 839,
+            "end": 846,
+            "text": "Hamburg",
+            "concept": 6,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 869,
+            "end": 877,
+            "text": "Sept. 11",
+            "concept": 3
+        },
+        {
+            "begin": 878,
+            "end": 886,
+            "text": "hijacker",
+            "concept": 8
+        },
+        {
+            "begin": 887,
+            "end": 900,
+            "text": "Mohammed Atta",
+            "concept": 9,
+            "candidates": [
+                "Mohamed_Atta",
+                "Atta_Muhammad_Nur"
+            ],
+            "scores": [
+                0.8888888888888888,
+                0.1111111111111111
+            ]
+        },
+        {
+            "begin": 997,
+            "end": 1004,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1133,
+            "end": 1141,
+            "text": "al Qaeda",
+            "concept": 1,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 1180,
+            "end": 1186,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1224,
+            "end": 1231,
+            "text": "Iranian",
+            "concept": 7
+        },
+        {
+            "begin": 1290,
+            "end": 1296,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1378,
+            "end": 1382,
+            "text": "U.S.",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1433,
+            "end": 1441,
+            "text": "Sept. 11",
+            "concept": 3
+        },
+        {
+            "begin": 1542,
+            "end": 1550,
+            "text": "Thursday",
+            "concept": 4
+        },
+        {
+            "begin": 1690,
+            "end": 1696,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1759,
+            "end": 1766,
+            "text": "Dec. 11",
+            "concept": 5
+        },
+        {
+            "begin": 1860,
+            "end": 1868,
+            "text": "Sept. 11",
+            "concept": 3
+        },
+        {
+            "begin": 1878,
+            "end": 1894,
+            "text": "Ramzi Binalshibh",
+            "concept": 11,
+            "candidates": [
+                "Ramzi_bin_al-Shibh"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1944,
+            "end": 1948,
+            "text": "U.S.",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2201,
+            "end": 2207,
+            "text": "German",
+            "concept": 12
+        },
+        {
+            "begin": 2250,
+            "end": 2256,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2280,
+            "end": 2287,
+            "text": "Morocco",
+            "concept": 13,
+            "candidates": [
+                "Morocco",
+                "Morocco_national_football_team",
+                "Royal_Moroccan_Football_Federation",
+                "Morocco_(film)",
+                "Morocco_national_rugby_union_team",
+                "French_protectorate_in_Morocco",
+                "Morocco_national_rugby_league_team",
+                "Morocco_Davis_Cup_team",
+                "Morocco,_Indiana",
+                "Morocco_national_basketball_team",
+                "Spanish_protectorate_in_Morocco",
+                "History_of_Morocco",
+                "Morocco_Fed_Cup_team",
+                "Football_in_Morocco",
+                "Morocco_women's_national_football_team",
+                "Morocco_national_under-20_football_team"
+            ],
+            "scores": [
+                0.8945013979496738,
+                0.043616029822926373,
+                0.008263435849642746,
+                0.006088847468157813,
+                0.0028580304442373406,
+                0.0027958993476234857,
+                0.0019260639950295123,
+                0.0018018018018018018,
+                0.0016154085119602362,
+                0.0014911463187325257,
+                0.0014290152221186703,
+                0.0013668841255048152,
+                0.00130475302889096,
+                0.0011804908356632495,
+                0.0011183597390493941,
+                0.0009940975458216839
+            ]
+        },
+        {
+            "begin": 2313,
+            "end": 2319,
+            "text": "Mzoudi",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2347,
+            "end": 2354,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2397,
+            "end": 2404,
+            "text": "Morocco",
+            "concept": 13,
+            "candidates": [
+                "Morocco",
+                "Morocco_national_football_team",
+                "Royal_Moroccan_Football_Federation",
+                "Morocco_(film)",
+                "Morocco_national_rugby_union_team",
+                "French_protectorate_in_Morocco",
+                "Morocco_national_rugby_league_team",
+                "Morocco_Davis_Cup_team",
+                "Morocco,_Indiana",
+                "Morocco_national_basketball_team",
+                "Spanish_protectorate_in_Morocco",
+                "History_of_Morocco",
+                "Morocco_Fed_Cup_team",
+                "Football_in_Morocco",
+                "Morocco_women's_national_football_team",
+                "Morocco_national_under-20_football_team"
+            ],
+            "scores": [
+                0.8945013979496738,
+                0.043616029822926373,
+                0.008263435849642746,
+                0.006088847468157813,
+                0.0028580304442373406,
+                0.0027958993476234857,
+                0.0019260639950295123,
+                0.0018018018018018018,
+                0.0016154085119602362,
+                0.0014911463187325257,
+                0.0014290152221186703,
+                0.0013668841255048152,
+                0.00130475302889096,
+                0.0011804908356632495,
+                0.0011183597390493941,
+                0.0009940975458216839
+            ]
+        },
+        {
+            "begin": 2434,
+            "end": 2438,
+            "text": "U.S.",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germany",
+            "keyword": true,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Al Qaeda",
+            "keyword": true,
+            "count": 2,
+            "link": "Al-Qaeda",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Abdelghani Mzoudi",
+            "keyword": true,
+            "count": 10,
+            "link": "Abdelghani_Mzoudi",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Sept. 11",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Dec. 11",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Hamburg",
+            "keyword": false,
+            "count": 2,
+            "link": "Hamburg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Iranian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "hijacker",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Mohammed Atta",
+            "keyword": false,
+            "count": 1,
+            "link": "Mohamed_Atta",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "meta::redo",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "U.S.",
+            "keyword": false,
+            "count": 3,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Ramzi Binalshibh",
+            "keyword": false,
+            "count": 1,
+            "link": "Ramzi_bin_al-Shibh",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "meta::redo",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Morocco",
+            "keyword": false,
+            "count": 2,
+            "link": "Morocco",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "keyword": false,
+            "count": 0,
+            "link": "Iran",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 13
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 12
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "trial-hearing",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 2
+                },
+                {
+                    "name": "place",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 4
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "16000000",
+        "20000053",
+        "20000106",
+        "20000107",
+        "20000111"
+    ]
+}

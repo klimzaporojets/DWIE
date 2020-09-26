@@ -1,0 +1,1978 @@
+{
+    "id": "DW_41943844",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Britain",
+            "concept": 3,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 10,
+            "end": 16,
+            "text": "Prince",
+            "concept": 4
+        },
+        {
+            "begin": 17,
+            "end": 22,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 58,
+            "end": 60,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 61,
+            "end": 70,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 71,
+            "end": 76,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 124,
+            "end": 131,
+            "text": "January",
+            "concept": 8
+        },
+        {
+            "begin": 133,
+            "end": 138,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 261,
+            "end": 264,
+            "text": "BBC",
+            "concept": 9,
+            "candidates": [
+                "BBC",
+                "Brown,_Boveri_&_Cie",
+                "Brisbane_Boys'_College",
+                "BBC_Television",
+                "BBC_News",
+                "BBC_Sport",
+                "BBC_Radio",
+                "BBC_World_Service",
+                "BBC_One",
+                "British_Broadcasting_Company",
+                "Banahaw_Broadcasting_Corporation",
+                "BBC_Music",
+                "BBC_Radio_1",
+                "Biwako_Broadcasting",
+                "BBC_Online",
+                "BBC_Records"
+            ],
+            "scores": [
+                0.9724627837210619,
+                0.004811229976792891,
+                0.004018792098262297,
+                0.0034527650421690157,
+                0.003198052866927039,
+                0.002235806871568461,
+                0.0012169581706005547,
+                0.0007358351729212656,
+                0.0007075338201166016,
+                0.0007075338201166016,
+                0.0005377257032886172,
+                0.00042452029206996094,
+                0.00042452029206996094,
+                0.0003962189392652969,
+                0.00033961623365596876,
+                0.00028301352804664063
+            ]
+        },
+        {
+            "begin": 288,
+            "end": 297,
+            "text": "Wednesday",
+            "concept": 10
+        },
+        {
+            "begin": 306,
+            "end": 308,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 309,
+            "end": 318,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 319,
+            "end": 331,
+            "text": "Barack Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Presidency_of_Barack_Obama",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_in_comics",
+                "Barack_Obama_presidential_campaign,_2012",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "President_Barack_Obama_(painting)",
+                "Efforts_to_impeach_Barack_Obama"
+            ],
+            "scores": [
+                0.9983731334611585,
+                0.0005810237638719423,
+                0.0005229213874847481,
+                0.00023240950554877696,
+                0.00011620475277438848,
+                5.810237638719424e-05,
+                5.810237638719424e-05,
+                5.810237638719424e-05
+            ]
+        },
+        {
+            "begin": 337,
+            "end": 344,
+            "text": "Britain",
+            "concept": 3,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 347,
+            "end": 353,
+            "text": "Prince",
+            "concept": 4
+        },
+        {
+            "begin": 354,
+            "end": 359,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 423,
+            "end": 434,
+            "text": "White House",
+            "concept": 11,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 438,
+            "end": 445,
+            "text": "January",
+            "concept": 8
+        },
+        {
+            "begin": 602,
+            "end": 607,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 675,
+            "end": 683,
+            "text": "Michelle",
+            "concept": 12,
+            "candidates": [
+                "Michelle_(song)",
+                "Michel'le",
+                "Michelle_Obama",
+                "Michelle_(German_singer)",
+                "Michel'le_(album)",
+                "Hurricane_Michelle",
+                "Michelle_Richardson",
+                "Michelle_Connor",
+                "Michelle_Scully",
+                "Michelle_Courtens",
+                "Michelle_Fowler",
+                "Michelle_(name)",
+                "Michelle_of_Valois",
+                "Michelle_(Skins_series_1)",
+                "Michelle_(album)",
+                "Michelle_Tanner"
+            ],
+            "scores": [
+                0.37258687258687256,
+                0.222007722007722,
+                0.07915057915057915,
+                0.052123552123552123,
+                0.025096525096525095,
+                0.025096525096525095,
+                0.023166023166023165,
+                0.023166023166023165,
+                0.019305019305019305,
+                0.019305019305019305,
+                0.019305019305019305,
+                0.013513513513513514,
+                0.013513513513513514,
+                0.009652509652509652,
+                0.007722007722007722,
+                0.007722007722007722
+            ]
+        },
+        {
+            "begin": 738,
+            "end": 743,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 775,
+            "end": 786,
+            "text": "White House",
+            "concept": 11,
+            "candidates": [
+                "White_House",
+                "Executive_Office_of_the_President_of_the_United_States",
+                "White_House_Office",
+                "White_House_(Moscow)",
+                "White_House,_Tennessee",
+                "White_House_(film)",
+                "White_House,_Virginia",
+                "White_House_(plantation)",
+                "White_House,_Bishkek",
+                "Presidency_of_George_W._Bush",
+                "Presidency_of_Barack_Obama",
+                "White_House_station",
+                "President_of_the_United_States",
+                "White_House_Press_Secretary",
+                "Whitehouse,_New_Jersey",
+                "White_House,_Jamaica"
+            ],
+            "scores": [
+                0.9705775517617145,
+                0.005569681559510837,
+                0.004116721152681923,
+                0.003390240949267466,
+                0.003148080881462647,
+                0.0020583605763409615,
+                0.001695120474633733,
+                0.000968640271219276,
+                0.000968640271219276,
+                0.0008475602373168665,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.0006054001695120475,
+                0.000484320135609638,
+                0.000484320135609638,
+                0.0003632401017072285
+            ]
+        },
+        {
+            "begin": 844,
+            "end": 853,
+            "text": "Obamacare",
+            "concept": 13,
+            "candidates": [
+                "Patient_Protection_and_Affordable_Care_Act",
+                "HealthCare.gov",
+                "America's_Affordable_Health_Choices_Act_of_2009",
+                "Barack_Obama"
+            ],
+            "scores": [
+                0.9833333333333333,
+                0.005555555555555556,
+                0.005555555555555556,
+                0.005555555555555556
+            ]
+        },
+        {
+            "begin": 916,
+            "end": 921,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 933,
+            "end": 938,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 995,
+            "end": 1006,
+            "text": "BBC Radio 4",
+            "concept": 14,
+            "candidates": [
+                "BBC_Radio_4"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1052,
+            "end": 1058,
+            "text": "Canada",
+            "concept": 15,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1062,
+            "end": 1071,
+            "text": "September",
+            "concept": 16
+        },
+        {
+            "begin": 1098,
+            "end": 1103,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1130,
+            "end": 1141,
+            "text": "Oval Office",
+            "concept": 17,
+            "candidates": [
+                "Oval_Office",
+                "Oval_Office_(NASCAR)"
+            ],
+            "scores": [
+                0.9917184265010351,
+                0.008281573498964804
+            ]
+        },
+        {
+            "begin": 1201,
+            "end": 1210,
+            "text": "successor",
+            "concept": 18
+        },
+        {
+            "begin": 1212,
+            "end": 1224,
+            "text": "Donald Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 1399,
+            "end": 1412,
+            "text": "Balkanization",
+            "concept": 19
+        },
+        {
+            "begin": 1531,
+            "end": 1536,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1730,
+            "end": 1735,
+            "text": "Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1749,
+            "end": 1754,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1890,
+            "end": 1895,
+            "text": "Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1913,
+            "end": 1920,
+            "text": "Twitter",
+            "concept": 20,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 1944,
+            "end": 1950,
+            "text": "Prince",
+            "concept": 4
+        },
+        {
+            "begin": 1951,
+            "end": 1956,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1958,
+            "end": 1963,
+            "text": "Obama",
+            "concept": 0,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2250,
+            "end": 2262,
+            "text": "guest editor",
+            "concept": 21
+        },
+        {
+            "begin": 2263,
+            "end": 2268,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 2407,
+            "end": 2410,
+            "text": "BBC",
+            "concept": 9,
+            "candidates": [
+                "BBC",
+                "Brown,_Boveri_&_Cie",
+                "Brisbane_Boys'_College",
+                "BBC_Television",
+                "BBC_News",
+                "BBC_Sport",
+                "BBC_Radio",
+                "BBC_World_Service",
+                "BBC_One",
+                "British_Broadcasting_Company",
+                "Banahaw_Broadcasting_Corporation",
+                "BBC_Music",
+                "BBC_Radio_1",
+                "Biwako_Broadcasting",
+                "BBC_Online",
+                "BBC_Records"
+            ],
+            "scores": [
+                0.9724627837210619,
+                0.004811229976792891,
+                0.004018792098262297,
+                0.0034527650421690157,
+                0.003198052866927039,
+                0.002235806871568461,
+                0.0012169581706005547,
+                0.0007358351729212656,
+                0.0007075338201166016,
+                0.0007075338201166016,
+                0.0005377257032886172,
+                0.00042452029206996094,
+                0.00042452029206996094,
+                0.0003962189392652969,
+                0.00033961623365596876,
+                0.00028301352804664063
+            ]
+        },
+        {
+            "begin": 2423,
+            "end": 2429,
+            "text": "Obamas",
+            "concept": 22,
+            "candidates": [
+                "Barack_Obama",
+                "Family_of_Barack_Obama",
+                "Presidency_of_Barack_Obama"
+            ],
+            "scores": [
+                0.6,
+                0.3333333333333333,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 2467,
+            "end": 2469,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2470,
+            "end": 2477,
+            "text": "actress",
+            "concept": 23
+        },
+        {
+            "begin": 2478,
+            "end": 2491,
+            "text": "Meghan Markle",
+            "concept": 24,
+            "candidates": [
+                "Meghan,_Duchess_of_Sussex"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2530,
+            "end": 2535,
+            "text": "Harry",
+            "concept": 5,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 2697,
+            "end": 2714,
+            "text": "tabloid newspaper",
+            "concept": 25
+        },
+        {
+            "begin": 2715,
+            "end": 2718,
+            "text": "Sun",
+            "concept": 26,
+            "candidates": [
+                "Sun",
+                "Sun_Microsystems",
+                "Sunderland_A.F.C.",
+                "Sun_(astrology)",
+                "The_Sun_(United_Kingdom)",
+                "Sun_Records",
+                "Sunday",
+                "Sun-Hwa_Kwon",
+                "Solar_deity",
+                "Sun_(surname)",
+                "Sun_(Middle-earth)",
+                "Sun_(R&B_band)",
+                "Cun_(unit)",
+                "Surya",
+                "Sun_(heraldry)",
+                "Ra"
+            ],
+            "scores": [
+                0.849527665317139,
+                0.03333333333333333,
+                0.015384615384615385,
+                0.014035087719298246,
+                0.008367071524966262,
+                0.005263157894736842,
+                0.0031039136302294197,
+                0.002834008097165992,
+                0.002834008097165992,
+                0.002564102564102564,
+                0.0024291497975708503,
+                0.0021592442645074223,
+                0.0021592442645074223,
+                0.0020242914979757085,
+                0.0018893387314439945,
+                0.0018893387314439945
+            ]
+        },
+        {
+            "begin": 2728,
+            "end": 2735,
+            "text": "Tuesday",
+            "concept": 27
+        },
+        {
+            "begin": 2741,
+            "end": 2748,
+            "text": "British",
+            "concept": 28
+        },
+        {
+            "begin": 2809,
+            "end": 2815,
+            "text": "Obamas",
+            "concept": 22,
+            "candidates": [
+                "Barack_Obama",
+                "Family_of_Barack_Obama",
+                "Presidency_of_Barack_Obama"
+            ],
+            "scores": [
+                0.6,
+                0.3333333333333333,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 2852,
+            "end": 2857,
+            "text": "Trump",
+            "concept": 1,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 2859,
+            "end": 2879,
+            "text": "bik/tj (AP, Reuters)",
+            "concept": 29
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Barack Obama",
+            "keyword": true,
+            "count": 10,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Donald Trump",
+            "keyword": false,
+            "count": 4,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "text": "Britain",
+            "keyword": false,
+            "count": 2,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Prince",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Harry",
+            "keyword": false,
+            "count": 6,
+            "link": "Prince_Harry,_Duke_of_Sussex",
+            "tags": [
+                "gender::male",
+                "iptc::08000000",
+                "slot::interviewer",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "US",
+            "keyword": false,
+            "count": 3,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "January",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "BBC",
+            "keyword": false,
+            "count": 2,
+            "link": "BBC",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "White House",
+            "keyword": false,
+            "count": 2,
+            "link": "White_House",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Michelle",
+            "keyword": false,
+            "count": 1,
+            "link": "Michelle_Obama",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Obamacare",
+            "keyword": false,
+            "count": 1,
+            "link": "Patient_Protection_and_Affordable_Care_Act",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "BBC Radio 4",
+            "keyword": false,
+            "count": 1,
+            "link": "BBC_Radio_4",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Canada",
+            "keyword": false,
+            "count": 1,
+            "link": "Canada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "September",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Oval Office",
+            "keyword": false,
+            "count": 1,
+            "link": "Oval_Office",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "successor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Balkanization",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "guest editor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Obamas",
+            "keyword": false,
+            "count": 2,
+            "link": "Family_of_Barack_Obama",
+            "tags": [
+                "iptc::11000000",
+                "meta::redo",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "actress",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Meghan Markle",
+            "keyword": false,
+            "count": 1,
+            "link": "Meghan,_Duchess_of_Sussex",
+            "tags": [
+                "gender::female",
+                "iptc::01000000",
+                "topic::culture",
+                "type::actor",
+                "type::artist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "tabloid newspaper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Sun",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Sun_(United_Kingdom)",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "bik/tj (AP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "spouse_of",
+            "o": 12
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 28
+        },
+        {
+            "s": 5,
+            "p": "spouse_of",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 28
+        },
+        {
+            "s": 11,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "spouse_of",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 28
+        },
+        {
+            "s": 17,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "spouse_of",
+            "o": 5
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "based_in0-x",
+            "o": 28
+        },
+        {
+            "s": 28,
+            "p": "gpe0",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 0
+                },
+                {
+                    "name": "interviewer",
+                    "value": 5
+                },
+                {
+                    "name": "media",
+                    "value": 9
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "08000000",
+        "20000502",
+        "20000504",
+        "20000506"
+    ]
+}

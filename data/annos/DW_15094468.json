@@ -1,0 +1,1349 @@
+{
+    "id": "DW_15094468",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 4,
+            "end": 12,
+            "text": "European",
+            "concept": 6
+        },
+        {
+            "begin": 52,
+            "end": 59,
+            "text": "Belarus",
+            "concept": 7,
+            "candidates": [
+                "Belarus",
+                "Belarus_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Belarus",
+                "Football_Federation_of_Belarus",
+                "Belarus_women's_national_football_team",
+                "Belarus_men's_national_ice_hockey_team",
+                "Belarus_national_under-21_football_team",
+                "Byelorussian_Soviet_Socialist_Republic",
+                "Belarus_Fed_Cup_team",
+                "Belarus_Davis_Cup_team",
+                "Belarus_national_handball_team",
+                "Football_in_Belarus",
+                "Belarus_national_under-19_football_team",
+                "Belarus_national_basketball_team",
+                "Armed_Forces_of_Belarus",
+                "Belarus_women's_national_basketball_team"
+            ],
+            "scores": [
+                0.8601912519922083,
+                0.03258367274659111,
+                0.013369930936780591,
+                0.010182397733309721,
+                0.0059323534620152295,
+                0.005224012750132814,
+                0.0047812998052063045,
+                0.003630246148397379,
+                0.0033646183814414732,
+                0.0028333628475296618,
+                0.002567735080573756,
+                0.0021250221356472463,
+                0.0018593943686913406,
+                0.0014166814237648309,
+                0.0014166814237648309,
+                0.001328138834779529
+            ]
+        },
+        {
+            "begin": 64,
+            "end": 72,
+            "text": "European",
+            "concept": 6
+        },
+        {
+            "begin": 119,
+            "end": 129,
+            "text": "Belarusian",
+            "concept": 8
+        },
+        {
+            "begin": 130,
+            "end": 139,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 140,
+            "end": 160,
+            "text": "Alexander Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 260,
+            "end": 266,
+            "text": "Poland",
+            "concept": 10,
+            "candidates": [
+                "Poland",
+                "Poland_national_football_team",
+                "Second_Polish_Republic",
+                "Polish_People's_Republic",
+                "ISU_Junior_Grand_Prix_in_Poland",
+                "Polish_Football_Association",
+                "Poland_national_speedway_team",
+                "Polish\u2013Lithuanian_Commonwealth",
+                "List_of_non-marine_molluscs_of_Poland",
+                "Recognition_of_same-sex_unions_in_Poland",
+                "Kingdom_of_Poland_(1025\u20131385)",
+                "Poland_women's_national_football_team",
+                "Congress_Poland",
+                "Poland_national_under-21_football_team",
+                "Poland_men's_national_volleyball_team",
+                "Poland_national_handball_team"
+            ],
+            "scores": [
+                0.8540980765898458,
+                0.03132039507884249,
+                0.01999220239126668,
+                0.008014208975914053,
+                0.006974527811471148,
+                0.004570265118696933,
+                0.004028764512216254,
+                0.0036172240512909373,
+                0.0027508230809218507,
+                0.002404262692774216,
+                0.002014382256108127,
+                0.0017544619649974007,
+                0.001646161843701265,
+                0.0014945416738866748,
+                0.0014512216253682205,
+                0.0013645815283313118
+            ]
+        },
+        {
+            "begin": 268,
+            "end": 275,
+            "text": "Germany",
+            "concept": 11,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 280,
+            "end": 286,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 306,
+            "end": 320,
+            "text": "European Union",
+            "concept": 2,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 349,
+            "end": 359,
+            "text": "Belarusian",
+            "concept": 8
+        },
+        {
+            "begin": 360,
+            "end": 369,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 370,
+            "end": 390,
+            "text": "Alexander Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 485,
+            "end": 493,
+            "text": "Brussels",
+            "concept": 0,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 565,
+            "end": 574,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 575,
+            "end": 585,
+            "text": "Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko",
+                "Viktor_Lukashenko"
+            ],
+            "scores": [
+                0.9047619047619048,
+                0.09523809523809523
+            ]
+        },
+        {
+            "begin": 702,
+            "end": 708,
+            "text": "Polish",
+            "concept": 13
+        },
+        {
+            "begin": 709,
+            "end": 725,
+            "text": "Foreign Minister",
+            "concept": 14
+        },
+        {
+            "begin": 726,
+            "end": 743,
+            "text": "Radoslaw Sikorski",
+            "concept": 15,
+            "candidates": [
+                "Rados\u0142aw_Sikorski"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 779,
+            "end": 786,
+            "text": "Belarus",
+            "concept": 7,
+            "candidates": [
+                "Belarus",
+                "Belarus_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Belarus",
+                "Football_Federation_of_Belarus",
+                "Belarus_women's_national_football_team",
+                "Belarus_men's_national_ice_hockey_team",
+                "Belarus_national_under-21_football_team",
+                "Byelorussian_Soviet_Socialist_Republic",
+                "Belarus_Fed_Cup_team",
+                "Belarus_Davis_Cup_team",
+                "Belarus_national_handball_team",
+                "Football_in_Belarus",
+                "Belarus_national_under-19_football_team",
+                "Belarus_national_basketball_team",
+                "Armed_Forces_of_Belarus",
+                "Belarus_women's_national_basketball_team"
+            ],
+            "scores": [
+                0.8601912519922083,
+                0.03258367274659111,
+                0.013369930936780591,
+                0.010182397733309721,
+                0.0059323534620152295,
+                0.005224012750132814,
+                0.0047812998052063045,
+                0.003630246148397379,
+                0.0033646183814414732,
+                0.0028333628475296618,
+                0.002567735080573756,
+                0.0021250221356472463,
+                0.0018593943686913406,
+                0.0014166814237648309,
+                0.0014166814237648309,
+                0.001328138834779529
+            ]
+        },
+        {
+            "begin": 839,
+            "end": 845,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 846,
+            "end": 862,
+            "text": "Foreign Minister",
+            "concept": 14
+        },
+        {
+            "begin": 863,
+            "end": 880,
+            "text": "Guido Westerwelle",
+            "concept": 3,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1013,
+            "end": 1024,
+            "text": "Westerwelle",
+            "concept": 3,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1031,
+            "end": 1037,
+            "text": "French",
+            "concept": 17
+        },
+        {
+            "begin": 1038,
+            "end": 1054,
+            "text": "Foreign Minister",
+            "concept": 14
+        },
+        {
+            "begin": 1055,
+            "end": 1067,
+            "text": "Alaine Juppe",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1118,
+            "end": 1120,
+            "text": "EU",
+            "concept": 2,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1163,
+            "end": 1170,
+            "text": "Belarus",
+            "concept": 7,
+            "candidates": [
+                "Belarus",
+                "Belarus_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Belarus",
+                "Football_Federation_of_Belarus",
+                "Belarus_women's_national_football_team",
+                "Belarus_men's_national_ice_hockey_team",
+                "Belarus_national_under-21_football_team",
+                "Byelorussian_Soviet_Socialist_Republic",
+                "Belarus_Fed_Cup_team",
+                "Belarus_Davis_Cup_team",
+                "Belarus_national_handball_team",
+                "Football_in_Belarus",
+                "Belarus_national_under-19_football_team",
+                "Belarus_national_basketball_team",
+                "Armed_Forces_of_Belarus",
+                "Belarus_women's_national_basketball_team"
+            ],
+            "scores": [
+                0.8601912519922083,
+                0.03258367274659111,
+                0.013369930936780591,
+                0.010182397733309721,
+                0.0059323534620152295,
+                0.005224012750132814,
+                0.0047812998052063045,
+                0.003630246148397379,
+                0.0033646183814414732,
+                0.0028333628475296618,
+                0.002567735080573756,
+                0.0021250221356472463,
+                0.0018593943686913406,
+                0.0014166814237648309,
+                0.0014166814237648309,
+                0.001328138834779529
+            ]
+        },
+        {
+            "begin": 1189,
+            "end": 1197,
+            "text": "Brussels",
+            "concept": 0,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 1201,
+            "end": 1207,
+            "text": "Monday",
+            "concept": 19
+        },
+        {
+            "begin": 1225,
+            "end": 1235,
+            "text": "Belarusian",
+            "concept": 8
+        },
+        {
+            "begin": 1311,
+            "end": 1320,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 1321,
+            "end": 1331,
+            "text": "Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko",
+                "Viktor_Lukashenko"
+            ],
+            "scores": [
+                0.9047619047619048,
+                0.09523809523809523
+            ]
+        },
+        {
+            "begin": 1353,
+            "end": 1361,
+            "text": "December",
+            "concept": 20
+        },
+        {
+            "begin": 1363,
+            "end": 1381,
+            "text": "Vladimir Neklyayev",
+            "concept": 4,
+            "candidates": [
+                "Uladzimir_Nyaklyayew"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1386,
+            "end": 1404,
+            "text": "Vitaly Rymashevsky",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1529,
+            "end": 1538,
+            "text": "Neklyayev",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1648,
+            "end": 1650,
+            "text": "US",
+            "concept": 21,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1659,
+            "end": 1673,
+            "text": "European Union",
+            "concept": 2,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 1898,
+            "end": 1908,
+            "text": "Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko",
+                "Viktor_Lukashenko"
+            ],
+            "scores": [
+                0.9047619047619048,
+                0.09523809523809523
+            ]
+        },
+        {
+            "begin": 1936,
+            "end": 1944,
+            "text": "December",
+            "concept": 20
+        },
+        {
+            "begin": 1956,
+            "end": 1971,
+            "text": "Andrei Sannikov",
+            "concept": 22,
+            "candidates": [
+                "Andrei_Sannikov"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2045,
+            "end": 2055,
+            "text": "Lukashenko",
+            "concept": 1,
+            "candidates": [
+                "Alexander_Lukashenko",
+                "Viktor_Lukashenko"
+            ],
+            "scores": [
+                0.9047619047619048,
+                0.09523809523809523
+            ]
+        },
+        {
+            "begin": 2132,
+            "end": 2140,
+            "text": "December",
+            "concept": 20
+        },
+        {
+            "begin": 2158,
+            "end": 2162,
+            "text": "West",
+            "concept": 23,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 2304,
+            "end": 2363,
+            "text": "Author: Spencer Kimball (Reuters, AFP) Editor: Toma Tasovac",
+            "concept": 24
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 2,
+            "link": "Brussels",
+            "tags": [
+                "meta::redo",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Alexander Lukashenko",
+            "keyword": true,
+            "count": 6,
+            "link": "Alexander_Lukashenko",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "European Union",
+            "keyword": true,
+            "count": 3,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Guido Westerwelle",
+            "keyword": true,
+            "count": 2,
+            "link": "Guido_Westerwelle",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Vladimir Neklyayev",
+            "keyword": true,
+            "count": 2,
+            "link": "Uladzimir_Nyaklyayew",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Vitaly Rymashevsky",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "European",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Belarus",
+            "keyword": false,
+            "count": 3,
+            "link": "Belarus",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Belarusian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "President",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Poland",
+            "keyword": false,
+            "count": 1,
+            "link": "Poland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Polish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Radoslaw Sikorski",
+            "keyword": false,
+            "count": 1,
+            "link": "Rados\u0142aw_Sikorski",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Alaine Juppe",
+            "keyword": false,
+            "count": 1,
+            "link": "Alain_Jupp\u00e9",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "December",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Andrei Sannikov",
+            "keyword": false,
+            "count": 1,
+            "link": "Andrei_Sannikov",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "West",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Author: Spencer Kimball (Reuters, AFP) Editor: Toma Tasovac",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 25,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 25
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 11
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 11
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 3,
+            "p": "minister_of",
+            "o": 11
+        },
+        {
+            "s": 3,
+            "p": "minister_of-x",
+            "o": 16
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 7
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 10
+        },
+        {
+            "s": 15,
+            "p": "agent_of",
+            "o": 10
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 10
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 15,
+            "p": "minister_of",
+            "o": 10
+        },
+        {
+            "s": 15,
+            "p": "minister_of-x",
+            "o": 13
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 11
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 18,
+            "p": "minister_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "minister_of-x",
+            "o": 17
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 8
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000638",
+        "20000642"
+    ]
+}

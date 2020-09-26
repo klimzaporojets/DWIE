@@ -1,0 +1,1800 @@
+{
+    "id": "DW_18192538",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 32,
+            "end": 38,
+            "text": "Muslim",
+            "concept": 3
+        },
+        {
+            "begin": 65,
+            "end": 78,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 101,
+            "end": 114,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 148,
+            "end": 154,
+            "text": "Muslim",
+            "concept": 3
+        },
+        {
+            "begin": 286,
+            "end": 294,
+            "text": "Muhammad",
+            "concept": 4,
+            "candidates": [
+                "Muhammad",
+                "Muhammad_in_Islam",
+                "Muhammad_(name)",
+                "Muhammad_of_Ghazni",
+                "Shabazz_Muhammad",
+                "Muhammad_ibn_Ja'far",
+                "Muhammad:_The_Messenger_of_God_(film)",
+                "Muhammad_ibn_Ahmad_al-Shaybani",
+                "Muhammad_ibn_Marwan",
+                "Muhammad_(book)",
+                "Muhammad_(surah)",
+                "Muhammad_II_ibn_Mahmud",
+                "Muhammad_ibn_al-Qasim",
+                "Muhammad_(Bavandid_ruler)",
+                "Muhammad_ibn_Abu_Bakr",
+                "Muhammad_of_Negeri_Sembilan"
+            ],
+            "scores": [
+                0.9414829659318638,
+                0.023847695390781562,
+                0.004408817635270541,
+                0.002404809619238477,
+                0.0014028056112224449,
+                0.0012024048096192384,
+                0.0012024048096192384,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.0008016032064128256,
+                0.0008016032064128256,
+                0.0006012024048096192,
+                0.0006012024048096192,
+                0.0006012024048096192,
+                0.0006012024048096192
+            ]
+        },
+        {
+            "begin": 311,
+            "end": 315,
+            "text": "Arab",
+            "concept": 5,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 397,
+            "end": 403,
+            "text": "French",
+            "concept": 6
+        },
+        {
+            "begin": 404,
+            "end": 412,
+            "text": "magazine",
+            "concept": 7
+        },
+        {
+            "begin": 413,
+            "end": 426,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 487,
+            "end": 492,
+            "text": "Paris",
+            "concept": 8,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 571,
+            "end": 576,
+            "text": "Islam",
+            "concept": 1,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 603,
+            "end": 607,
+            "text": "Arab",
+            "concept": 5,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 705,
+            "end": 712,
+            "text": "Algeria",
+            "concept": 9,
+            "candidates": [
+                "Algeria",
+                "Algeria_national_football_team",
+                "French_Algeria",
+                "Algerian_Football_Federation",
+                "Algerian_War",
+                "Algeria_national_handball_team",
+                "Football_in_Algeria",
+                "Algeria_Davis_Cup_team",
+                "Algeria_women's_national_football_team",
+                "Ottoman_Algeria",
+                "Algeria_women's_national_handball_team",
+                "Algeria_national_rugby_union_team",
+                "List_of_Algerian_films",
+                "Algerian_wine",
+                "History_of_the_Jews_in_Algeria",
+                "Algeria_national_basketball_team"
+            ],
+            "scores": [
+                0.8974470239386707,
+                0.043176394011716204,
+                0.012077818760396326,
+                0.009329572575395965,
+                0.0031821797931583136,
+                0.0023143125768424096,
+                0.0017357344326318074,
+                0.0015187676285528314,
+                0.0015187676285528314,
+                0.0014464453605265062,
+                0.0013741230925001808,
+                0.0013741230925001808,
+                0.0011571562884212048,
+                0.0010125117523685542,
+                0.0010125117523685542,
+                0.000940189484342229
+            ]
+        },
+        {
+            "begin": 714,
+            "end": 719,
+            "text": "Egypt",
+            "concept": 10,
+            "candidates": [
+                "Egypt",
+                "Egypt_national_football_team",
+                "Ancient_Egypt",
+                "Egypt_(Roman_province)",
+                "Kingdom_of_Egypt",
+                "Egypt_Eyalet",
+                "Egypt_in_the_Middle_Ages",
+                "Egyptian_Football_Association",
+                "Ptolemaic_Kingdom",
+                "Egypt_national_basketball_team",
+                "Khedivate_of_Egypt",
+                "History_of_ancient_Egypt",
+                "Egypt_national_handball_team",
+                "Egypt_Fed_Cup_team",
+                "Egypt_women's_national_squash_team",
+                "Egyptian_revolution_of_2011"
+            ],
+            "scores": [
+                0.8557138744962579,
+                0.025115141047783535,
+                0.02284830166954519,
+                0.008491652274035694,
+                0.007052389176741509,
+                0.0054332181922855495,
+                0.005289291882556131,
+                0.00395797351755901,
+                0.0034542314335060447,
+                0.00295048934945308,
+                0.002662636729994243,
+                0.0018350604490500863,
+                0.0017990788716177317,
+                0.0017271157167530224,
+                0.0016911341393206678,
+                0.0015112262521588947
+            ]
+        },
+        {
+            "begin": 725,
+            "end": 737,
+            "text": "Saudi Arabia",
+            "concept": 11,
+            "candidates": [
+                "Saudi_Arabia",
+                "Saudi_Arabia_national_football_team",
+                "Saudi_Arabian_Football_Federation",
+                "Saudi_Arabia_national_cricket_team",
+                "Football_in_Saudi_Arabia",
+                "Armed_forces_of_Saudi_Arabia",
+                "Saudi_Arabia_national_under-23_football_team",
+                "Saudi_Arabia_national_under-17_football_team",
+                "Saudi_Aramco_Residential_Camp_in_Dhahran",
+                "Energy_in_Saudi_Arabia",
+                "Saudi_Professional_League",
+                "Saudi_Arabia_national_under-20_football_team",
+                "Saudi_Arabia_national_handball_team",
+                "LGBT_rights_in_Saudi_Arabia",
+                "Flag_of_Saudi_Arabia",
+                "Saudi_Arabia_at_the_Olympics"
+            ],
+            "scores": [
+                0.8983499848622465,
+                0.06441114138661823,
+                0.0065849227974568575,
+                0.002497729336966394,
+                0.00174084165909779,
+                0.0016651528913109294,
+                0.001589464123524069,
+                0.001589464123524069,
+                0.0014380865879503482,
+                0.0009839539812291857,
+                0.0009839539812291857,
+                0.0009082652134423251,
+                0.0009082652134423251,
+                0.0007568876778686043,
+                0.0006811989100817438,
+                0.0006055101422948834
+            ]
+        },
+        {
+            "begin": 990,
+            "end": 998,
+            "text": "Tunisian",
+            "concept": 12
+        },
+        {
+            "begin": 999,
+            "end": 1004,
+            "text": "paper",
+            "concept": 13
+        },
+        {
+            "begin": 1005,
+            "end": 1012,
+            "text": "Al Fair",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1179,
+            "end": 1187,
+            "text": "Islamist",
+            "concept": 15
+        },
+        {
+            "begin": 1259,
+            "end": 1267,
+            "text": "Algerian",
+            "concept": 16
+        },
+        {
+            "begin": 1268,
+            "end": 1273,
+            "text": "paper",
+            "concept": 13
+        },
+        {
+            "begin": 1274,
+            "end": 1287,
+            "text": "Al Joumhouria",
+            "concept": 17,
+            "candidates": [
+                "Al_Joumhouria"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1359,
+            "end": 1362,
+            "text": "Jew",
+            "concept": 0
+        },
+        {
+            "begin": 1378,
+            "end": 1384,
+            "text": "Muslim",
+            "concept": 3
+        },
+        {
+            "begin": 1455,
+            "end": 1467,
+            "text": "anti-Semitic",
+            "concept": 18
+        },
+        {
+            "begin": 1496,
+            "end": 1503,
+            "text": "Germany",
+            "concept": 19,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1514,
+            "end": 1519,
+            "text": "Nazis",
+            "concept": 20,
+            "candidates": [
+                "Nazism",
+                "Nazi_Party",
+                "Nazi_Germany",
+                "Neo-Nazism",
+                "Nazi_plunder",
+                "Nazi_architecture",
+                "Occupation_of_Poland_(1939\u20131945)",
+                "Netherlands_in_World_War_II",
+                "The_Holocaust_in_Poland",
+                "Religious_aspects_of_Nazism",
+                "Germans",
+                "Louis_and_the_Nazis",
+                "Austria_under_National_Socialism",
+                "National_Alliance_(United_States)",
+                "Austrian_National_Socialism",
+                "Government_of_Nazi_Germany"
+            ],
+            "scores": [
+                0.8279675595969526,
+                0.09093143278446793,
+                0.07446547063160482,
+                0.0009830425165888424,
+                0.0004915212582944212,
+                0.0004915212582944212,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106,
+                0.0002457606291472106
+            ]
+        },
+        {
+            "begin": 1582,
+            "end": 1590,
+            "text": "Algerian",
+            "concept": 16
+        },
+        {
+            "begin": 1677,
+            "end": 1681,
+            "text": "Jews",
+            "concept": 0
+        },
+        {
+            "begin": 1726,
+            "end": 1735,
+            "text": "newspaper",
+            "concept": 21
+        },
+        {
+            "begin": 1736,
+            "end": 1754,
+            "text": "Al Arabi al-Jadeed",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1758,
+            "end": 1764,
+            "text": "London",
+            "concept": 23,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 1832,
+            "end": 1843,
+            "text": "Commentator",
+            "concept": 24
+        },
+        {
+            "begin": 1844,
+            "end": 1856,
+            "text": "Azmi Bishara",
+            "concept": 25,
+            "candidates": [
+                "Azmi_Bishara"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2424,
+            "end": 2431,
+            "text": "Twitter",
+            "concept": 26,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 2489,
+            "end": 2502,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 2520,
+            "end": 2527,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        },
+        {
+            "begin": 2567,
+            "end": 2573,
+            "text": "leader",
+            "concept": 27
+        },
+        {
+            "begin": 2574,
+            "end": 2582,
+            "text": "Muhammad",
+            "concept": 4,
+            "candidates": [
+                "Muhammad",
+                "Muhammad_in_Islam",
+                "Muhammad_(name)",
+                "Muhammad_of_Ghazni",
+                "Shabazz_Muhammad",
+                "Muhammad_ibn_Ja'far",
+                "Muhammad:_The_Messenger_of_God_(film)",
+                "Muhammad_ibn_Ahmad_al-Shaybani",
+                "Muhammad_ibn_Marwan",
+                "Muhammad_(book)",
+                "Muhammad_(surah)",
+                "Muhammad_II_ibn_Mahmud",
+                "Muhammad_ibn_al-Qasim",
+                "Muhammad_(Bavandid_ruler)",
+                "Muhammad_ibn_Abu_Bakr",
+                "Muhammad_of_Negeri_Sembilan"
+            ],
+            "scores": [
+                0.9414829659318638,
+                0.023847695390781562,
+                0.004408817635270541,
+                0.002404809619238477,
+                0.0014028056112224449,
+                0.0012024048096192384,
+                0.0012024048096192384,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.0008016032064128256,
+                0.0008016032064128256,
+                0.0006012024048096192,
+                0.0006012024048096192,
+                0.0006012024048096192,
+                0.0006012024048096192
+            ]
+        },
+        {
+            "begin": 2618,
+            "end": 2627,
+            "text": "East Asia",
+            "concept": 28,
+            "candidates": [
+                "East_Asia",
+                "East_Asian_Football_Federation",
+                "East_Asian_cultural_sphere",
+                "History_of_East_Asia",
+                "Music_of_Asia",
+                "East_Asian_Buddhism",
+                "East_Asian_cinema",
+                "East_Asia_(album)",
+                "East_Asian_cuisine",
+                "Northern_Asia-Pacific_Division_of_Seventh-day_Adventists",
+                "Haplogroup_D-M174",
+                "Southeast_Asia",
+                "Bah\u00e1'\u00ed_Faith_in_Asia",
+                "East",
+                "Far_East",
+                "East_Asian_studies"
+            ],
+            "scores": [
+                0.9724170172978027,
+                0.0065451145395044414,
+                0.0032725572697522207,
+                0.0023375409069658717,
+                0.0023375409069658717,
+                0.0018700327255726976,
+                0.001402524544179523,
+                0.001402524544179523,
+                0.001402524544179523,
+                0.0009350163627863488,
+                0.0009350163627863488,
+                0.0004675081813931744,
+                0.0004675081813931744,
+                0.0004675081813931744,
+                0.0004675081813931744,
+                0.0004675081813931744
+            ]
+        },
+        {
+            "begin": 2704,
+            "end": 2714,
+            "text": "Al Jazeera",
+            "concept": 29,
+            "candidates": [
+                "Al_Jazeera",
+                "Al-Jazeera_Club_(Jordan)",
+                "Al_Jazeera_English",
+                "Al-Jazeera_SC_(Syria)",
+                "Al_Jazeera_SC",
+                "Al_Jazeera_Media_Network",
+                "Aljazeera_SC",
+                "Upper_Mesopotamia",
+                "Al-Jazira_Province",
+                "Al_Jazeera_America",
+                "BeIN_Sports_(Middle_East_TV_network)",
+                "Aljazeera_Publishing"
+            ],
+            "scores": [
+                0.8936376881981545,
+                0.07139388052452647,
+                0.016027197668771247,
+                0.008742107819329771,
+                0.0029140359397765905,
+                0.0029140359397765905,
+                0.0014570179698882952,
+                0.0009713453132588635,
+                0.00048567265662943174,
+                0.00048567265662943174,
+                0.00048567265662943174,
+                0.00048567265662943174
+            ]
+        },
+        {
+            "begin": 2751,
+            "end": 2764,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 2946,
+            "end": 2951,
+            "text": "Islam",
+            "concept": 1,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 3169,
+            "end": 3175,
+            "text": "Muslim",
+            "concept": 3
+        },
+        {
+            "begin": 3350,
+            "end": 3357,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        },
+        {
+            "begin": 3364,
+            "end": 3372,
+            "text": "Egyptian",
+            "concept": 30
+        },
+        {
+            "begin": 3390,
+            "end": 3402,
+            "text": "Dar al-Iftaa",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3408,
+            "end": 3416,
+            "text": "Egyptian",
+            "concept": 30
+        },
+        {
+            "begin": 3486,
+            "end": 3499,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 3577,
+            "end": 3584,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        },
+        {
+            "begin": 3607,
+            "end": 3619,
+            "text": "Dar al-Iftaa",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3629,
+            "end": 3642,
+            "text": "Charlie Hebdo",
+            "concept": 2,
+            "candidates": [
+                "Charlie_Hebdo",
+                "Charlie_Hebdo_shooting"
+            ],
+            "scores": [
+                0.9612676056338029,
+                0.03873239436619718
+            ]
+        },
+        {
+            "begin": 3696,
+            "end": 3702,
+            "text": "French",
+            "concept": 6
+        },
+        {
+            "begin": 3716,
+            "end": 3722,
+            "text": "Muslim",
+            "concept": 3
+        },
+        {
+            "begin": 3792,
+            "end": 3799,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        },
+        {
+            "begin": 3878,
+            "end": 3890,
+            "text": "Dar al-Iftaa",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3932,
+            "end": 3937,
+            "text": "Paris",
+            "concept": 8,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 4294,
+            "end": 4301,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        },
+        {
+            "begin": 4310,
+            "end": 4317,
+            "text": "Muslims",
+            "concept": 1,
+            "candidates": [
+                "Muslim",
+                "Islam",
+                "Muslims_(ethnicity)",
+                "Islam_in_India",
+                "Muslims_cricket_team",
+                "Islam_in_Lebanon",
+                "Bosniaks",
+                "Islam_in_China",
+                "Sri_Lankan_Moors",
+                "B\u00f6sz\u00f6rm\u00e9ny",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_Philippines",
+                "Islam_in_Ethiopia",
+                "Al-Andalus",
+                "Umayyad_Caliphate",
+                "Islam_in_Nigeria"
+            ],
+            "scores": [
+                0.8373009076896729,
+                0.05017982531255352,
+                0.04332933721527659,
+                0.006850488097276931,
+                0.005480390477821544,
+                0.0053091282753896215,
+                0.003939030655934235,
+                0.002740195238910772,
+                0.001883884226751156,
+                0.0017126220243192328,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.0015413598218873095,
+                0.001370097619455386,
+                0.001198835417023463,
+                0.001198835417023463
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Jews",
+            "keyword": false,
+            "count": 2,
+            "link": "Jews",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 8,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::other",
+                "type::religion",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Charlie Hebdo",
+            "keyword": true,
+            "count": 7,
+            "link": "Charlie_Hebdo",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Muslim",
+            "keyword": true,
+            "count": 5,
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Muhammad",
+            "keyword": false,
+            "count": 2,
+            "link": "Muhammad",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::deity",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Arab",
+            "keyword": false,
+            "count": 2,
+            "link": "Arabs",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "French",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "magazine",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Paris",
+            "keyword": false,
+            "count": 2,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Algeria",
+            "keyword": false,
+            "count": 1,
+            "link": "Algeria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Egypt",
+            "keyword": false,
+            "count": 1,
+            "link": "Egypt",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Saudi Arabia",
+            "keyword": false,
+            "count": 1,
+            "link": "Saudi_Arabia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Tunisian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "paper",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Al Fair",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Algerian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Al Joumhouria",
+            "keyword": false,
+            "count": 1,
+            "link": "Al_Joumhouria",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "anti-Semitic",
+            "keyword": false,
+            "count": 1,
+            "link": "Antisemitism",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Nazis",
+            "keyword": false,
+            "count": 1,
+            "link": "Nazism",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "newspaper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Al Arabi al-Jadeed",
+            "keyword": false,
+            "count": 1,
+            "link": "The_New_Arab",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Commentator",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Azmi Bishara",
+            "keyword": false,
+            "count": 1,
+            "link": "Azmi_Bishara",
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "East Asia",
+            "keyword": false,
+            "count": 1,
+            "link": "East_Asia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Al Jazeera",
+            "keyword": false,
+            "count": 1,
+            "link": "Al_Jazeera",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Egyptian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Dar al-Iftaa",
+            "keyword": false,
+            "count": 3,
+            "link": "Dar_al-Ifta_al-Misriyyah",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 32,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "Tunisia",
+            "tags": []
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 34
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 34
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 34
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 33
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 33
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 12
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 9
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 19
+        },
+        {
+            "s": 22,
+            "p": "based_in0",
+            "o": 35
+        },
+        {
+            "s": 22,
+            "p": "based_in2",
+            "o": 23
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 35
+        },
+        {
+            "s": 25,
+            "p": "member_of",
+            "o": 22
+        },
+        {
+            "s": 30,
+            "p": "gpe0",
+            "o": 10
+        },
+        {
+            "s": 31,
+            "p": "agency_of",
+            "o": 10
+        },
+        {
+            "s": 31,
+            "p": "agency_of-x",
+            "o": 30
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 10
+        },
+        {
+            "s": 31,
+            "p": "based_in0-x",
+            "o": 30
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000587",
+        "20000591"
+    ]
+}

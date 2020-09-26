@@ -1,0 +1,329 @@
+{
+    "id": "DW_18492176",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 37,
+            "end": 40,
+            "text": "May",
+            "concept": 2
+        },
+        {
+            "begin": 220,
+            "end": 241,
+            "text": "European Central Bank",
+            "concept": 1,
+            "candidates": [
+                "European_Central_Bank",
+                "List_of_Presidents_of_the_European_Central_Bank"
+            ],
+            "scores": [
+                0.9987228607918263,
+                0.001277139208173691
+            ]
+        },
+        {
+            "begin": 317,
+            "end": 320,
+            "text": "May",
+            "concept": 2
+        },
+        {
+            "begin": 388,
+            "end": 395,
+            "text": "Tuesday",
+            "concept": 3
+        },
+        {
+            "begin": 397,
+            "end": 402,
+            "text": "April",
+            "concept": 4
+        },
+        {
+            "begin": 526,
+            "end": 539,
+            "text": "Howard Archer",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 541,
+            "end": 565,
+            "text": "chief European Economist",
+            "concept": 5
+        },
+        {
+            "begin": 569,
+            "end": 587,
+            "text": "IHS Global Insight",
+            "concept": 6,
+            "candidates": [
+                "Global_Insight"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 598,
+            "end": 601,
+            "text": "AFP",
+            "concept": 7,
+            "candidates": [
+                "Associa\u00e7\u00e3o_Fonogr\u00e1fica_Portuguesa",
+                "Agence_France-Presse",
+                "Australia_First_Party",
+                "Armed_Forces_of_the_Philippines",
+                "Apple_Filing_Protocol",
+                "Australian_Federal_Police",
+                "Alpha-fetoprotein",
+                "Advanced_Function_Presentation",
+                "AFP_(TV_series)",
+                "Alliance_of_the_Forces_of_Progress_(Senegal)",
+                "Philippine_Army",
+                "Americans_for_Prosperity",
+                "American_Free_Press",
+                "Marinef\u00e4hrprahm",
+                "Tapei_language",
+                "AFP"
+            ],
+            "scores": [
+                0.4733009708737864,
+                0.2961165048543689,
+                0.0691747572815534,
+                0.05339805825242718,
+                0.0412621359223301,
+                0.021844660194174758,
+                0.01820388349514563,
+                0.009708737864077669,
+                0.006067961165048544,
+                0.0024271844660194173,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086
+            ]
+        },
+        {
+            "begin": 835,
+            "end": 841,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 904,
+            "end": 907,
+            "text": "May",
+            "concept": 2
+        },
+        {
+            "begin": 1264,
+            "end": 1267,
+            "text": "May",
+            "concept": 2
+        },
+        {
+            "begin": 1432,
+            "end": 1453,
+            "text": "European Central Bank",
+            "concept": 1,
+            "candidates": [
+                "European_Central_Bank",
+                "List_of_Presidents_of_the_European_Central_Bank"
+            ],
+            "scores": [
+                0.9987228607918263,
+                0.001277139208173691
+            ]
+        },
+        {
+            "begin": 1477,
+            "end": 1502,
+            "text": "ng/uhe (AFP, Reuters, AP)",
+            "concept": 9
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Howard Archer",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "European Central Bank",
+            "keyword": true,
+            "count": 2,
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "May",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "April",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "chief European Economist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "IHS Global Insight",
+            "keyword": false,
+            "count": 1,
+            "link": "Global_Insight",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000271",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "AFP",
+            "keyword": false,
+            "count": 1,
+            "link": "Agence_France-Presse",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "ng/uhe (AFP, Reuters, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Central_Bank",
+            "tags": []
+        },
+        {
+            "concept": 11,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 12,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 6
+        },
+        {
+            "s": 7,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 11
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000370"
+    ]
+}

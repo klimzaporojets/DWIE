@@ -1,0 +1,3176 @@
+{
+    "id": "DW_17443501",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 9,
+            "end": 15,
+            "text": "Mexico",
+            "concept": 8,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 53,
+            "end": 62,
+            "text": "Venezuela",
+            "concept": 9,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 67,
+            "end": 74,
+            "text": "Ukraine",
+            "concept": 10,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 75,
+            "end": 77,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 78,
+            "end": 87,
+            "text": "President",
+            "concept": 11
+        },
+        {
+            "begin": 88,
+            "end": 100,
+            "text": "Barack Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Presidency_of_Barack_Obama",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_in_comics",
+                "Barack_Obama_presidential_campaign,_2012",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "President_Barack_Obama_(painting)",
+                "Efforts_to_impeach_Barack_Obama"
+            ],
+            "scores": [
+                0.9983731334611585,
+                0.0005810237638719423,
+                0.0005229213874847481,
+                0.00023240950554877696,
+                0.00011620475277438848,
+                5.810237638719424e-05,
+                5.810237638719424e-05,
+                5.810237638719424e-05
+            ]
+        },
+        {
+            "begin": 104,
+            "end": 110,
+            "text": "Toluca",
+            "concept": 4,
+            "candidates": [
+                "Deportivo_Toluca_F.C.",
+                "Toluca",
+                "Toluca_International_Airport",
+                "Deportivo_Toluca_F.C._(Women)",
+                "Deportivo_Toluca_F.C._Premier",
+                "Toluca,_North_Carolina",
+                "Toluca,_Illinois",
+                "Greater_Toluca",
+                "Roman_Catholic_Diocese_of_Toluca",
+                "Toluca_Valley",
+                "North_Hollywood,_Los_Angeles",
+                "Club_Atlas",
+                "Monterrey_Institute_of_Technology_and_Higher_Education,_Toluca"
+            ],
+            "scores": [
+                0.528835690968444,
+                0.4314472252448313,
+                0.014145810663764961,
+                0.006528835690968444,
+                0.00544069640914037,
+                0.00544069640914037,
+                0.003808487486398259,
+                0.001088139281828074,
+                0.001088139281828074,
+                0.000544069640914037,
+                0.000544069640914037,
+                0.000544069640914037,
+                0.000544069640914037
+            ]
+        },
+        {
+            "begin": 132,
+            "end": 138,
+            "text": "Mexico",
+            "concept": 8,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 143,
+            "end": 149,
+            "text": "Canada",
+            "concept": 12,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 200,
+            "end": 208,
+            "text": "Americas",
+            "concept": 13,
+            "candidates": [
+                "Americas",
+                "United_States",
+                "ICC_Americas",
+                "Spanish_colonization_of_the_Americas",
+                "FIBA_Americas",
+                "America_(band)",
+                "America's_Party_(political_party)",
+                "Netball_in_the_Americas",
+                "Americas_under-19_cricket_team",
+                "North_America",
+                "New_World",
+                "History_of_the_Americas",
+                "2019_Rugby_World_Cup_\u2013_Americas_qualification",
+                "Badminton_Pan_Am",
+                "Indigenous_peoples_of_the_Americas",
+                "2014_Motorcycle_Grand_Prix_of_the_Americas"
+            ],
+            "scores": [
+                0.935644799201796,
+                0.015465203292591668,
+                0.005986530306809678,
+                0.0037415814417560487,
+                0.0022449488650536295,
+                0.0022449488650536295,
+                0.0022449488650536295,
+                0.001746071339486156,
+                0.0014966325767024195,
+                0.0014966325767024195,
+                0.0014966325767024195,
+                0.001247193813918683,
+                0.0009977550511349464,
+                0.0009977550511349464,
+                0.0009977550511349464,
+                0.0007483162883512097
+            ]
+        },
+        {
+            "begin": 214,
+            "end": 218,
+            "text": "Asia",
+            "concept": 14,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 220,
+            "end": 225,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 258,
+            "end": 267,
+            "text": "Venezuela",
+            "concept": 9,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 272,
+            "end": 279,
+            "text": "Ukraine",
+            "concept": 10,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 281,
+            "end": 286,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 312,
+            "end": 314,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 327,
+            "end": 334,
+            "text": "Mexican",
+            "concept": 15
+        },
+        {
+            "begin": 335,
+            "end": 344,
+            "text": "President",
+            "concept": 11
+        },
+        {
+            "begin": 345,
+            "end": 363,
+            "text": "Enrique Pena Nieto",
+            "concept": 2,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 368,
+            "end": 376,
+            "text": "Canadian",
+            "concept": 16
+        },
+        {
+            "begin": 377,
+            "end": 391,
+            "text": "Prime Minister",
+            "concept": 17
+        },
+        {
+            "begin": 392,
+            "end": 406,
+            "text": "Stephen Harper",
+            "concept": 5,
+            "candidates": [
+                "Stephen_Harper",
+                "Premiership_of_Stephen_Harper",
+                "Stephen_Harper_(designer)"
+            ],
+            "scores": [
+                0.9989674754775426,
+                0.0005162622612287042,
+                0.0005162622612287042
+            ]
+        },
+        {
+            "begin": 452,
+            "end": 477,
+            "text": "Trans-Pacific Partnership",
+            "concept": 6,
+            "candidates": [
+                "Trans-Pacific_Partnership",
+                "Comprehensive_and_Progressive_Agreement_for_Trans-Pacific_Partnership",
+                "Trans-Pacific_Strategic_Economic_Partnership_Agreement"
+            ],
+            "scores": [
+                0.9935897435897436,
+                0.003205128205128205,
+                0.003205128205128205
+            ]
+        },
+        {
+            "begin": 479,
+            "end": 482,
+            "text": "TPP",
+            "concept": 6,
+            "candidates": [
+                "National_Resurrection_Party",
+                "Trans-Pacific_Partnership",
+                "Thiamine_pyrophosphate",
+                "Trans-Pacific_Strategic_Economic_Partnership_Agreement",
+                "Tehrik-i-Taliban_Pakistan",
+                "Two-party-preferred_vote",
+                "Party_of_National_Progress",
+                "TPP_riboswitch",
+                "Porphyrin",
+                "Pisaflores_Tepehua",
+                "Tayo_(political_party)"
+            ],
+            "scores": [
+                0.34615384615384615,
+                0.2692307692307692,
+                0.07692307692307693,
+                0.07692307692307693,
+                0.057692307692307696,
+                0.057692307692307696,
+                0.038461538461538464,
+                0.019230769230769232,
+                0.019230769230769232,
+                0.019230769230769232,
+                0.019230769230769232
+            ]
+        },
+        {
+            "begin": 518,
+            "end": 526,
+            "text": "Americas",
+            "concept": 13,
+            "candidates": [
+                "Americas",
+                "United_States",
+                "ICC_Americas",
+                "Spanish_colonization_of_the_Americas",
+                "FIBA_Americas",
+                "America_(band)",
+                "America's_Party_(political_party)",
+                "Netball_in_the_Americas",
+                "Americas_under-19_cricket_team",
+                "North_America",
+                "New_World",
+                "History_of_the_Americas",
+                "2019_Rugby_World_Cup_\u2013_Americas_qualification",
+                "Badminton_Pan_Am",
+                "Indigenous_peoples_of_the_Americas",
+                "2014_Motorcycle_Grand_Prix_of_the_Americas"
+            ],
+            "scores": [
+                0.935644799201796,
+                0.015465203292591668,
+                0.005986530306809678,
+                0.0037415814417560487,
+                0.0022449488650536295,
+                0.0022449488650536295,
+                0.0022449488650536295,
+                0.001746071339486156,
+                0.0014966325767024195,
+                0.0014966325767024195,
+                0.0014966325767024195,
+                0.001247193813918683,
+                0.0009977550511349464,
+                0.0009977550511349464,
+                0.0009977550511349464,
+                0.0007483162883512097
+            ]
+        },
+        {
+            "begin": 528,
+            "end": 532,
+            "text": "Asia",
+            "concept": 14,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 541,
+            "end": 548,
+            "text": "Pacific",
+            "concept": 18,
+            "candidates": [
+                "Pacific_Ocean",
+                "Pacific_War",
+                "Pacific_Racing",
+                "Pacific_Time_Zone",
+                "University_of_the_Pacific_(United_States)",
+                "Pacific_Tigers_men's_basketball",
+                "Pacific_Tigers",
+                "Pacific_Islands",
+                "Pacific_Ocean_theater_of_World_War_II",
+                "Pacific_Tigers_football",
+                "Pacific_County,_Washington",
+                "Pacific_Plate",
+                "Asiatic-Pacific_Theater",
+                "Oceania",
+                "4-6-2",
+                "Pacific_League"
+            ],
+            "scores": [
+                0.6720068659705335,
+                0.031469031612072665,
+                0.024889143184093836,
+                0.022743527392361608,
+                0.02059791160062938,
+                0.0185953368616793,
+                0.016592762122729223,
+                0.01501931054212559,
+                0.012730653697611215,
+                0.011872407380918324,
+                0.011872407380918324,
+                0.01115720211700758,
+                0.011014161064225432,
+                0.009011586325275354,
+                0.008010298955800315,
+                0.007152052639107424
+            ]
+        },
+        {
+            "begin": 619,
+            "end": 644,
+            "text": "Trans-Pacific Partnership",
+            "concept": 6,
+            "candidates": [
+                "Trans-Pacific_Partnership",
+                "Comprehensive_and_Progressive_Agreement_for_Trans-Pacific_Partnership",
+                "Trans-Pacific_Strategic_Economic_Partnership_Agreement"
+            ],
+            "scores": [
+                0.9935897435897436,
+                0.003205128205128205,
+                0.003205128205128205
+            ]
+        },
+        {
+            "begin": 701,
+            "end": 707,
+            "text": "Harper",
+            "concept": 5,
+            "candidates": [
+                "Stephen_Harper",
+                "Joe_Harper",
+                "Harper_(publisher)",
+                "Harper_(film)",
+                "National_Register_of_Historic_Places_listings_in_Harper_County,_Oklahoma",
+                "Harper_County,_Kansas",
+                "Harper_County,_Oklahoma",
+                "Harper,_Liberia",
+                "Ron_Harper",
+                "Steve_Harper_(footballer,_born_1969)",
+                "Luke_Harper",
+                "Harper,_Texas",
+                "Harp",
+                "Harper,_Kansas",
+                "HarperCollins",
+                "Kevin_Harper"
+            ],
+            "scores": [
+                0.22530329289428075,
+                0.13084922010398614,
+                0.1048526863084922,
+                0.06932409012131716,
+                0.06759098786828423,
+                0.053726169844020795,
+                0.047660311958405546,
+                0.033795493934142114,
+                0.029462738301559793,
+                0.021663778162911613,
+                0.01733102253032929,
+                0.014731369150779897,
+                0.014731369150779897,
+                0.01386481802426343,
+                0.012998266897746967,
+                0.012131715771230503
+            ]
+        },
+        {
+            "begin": 714,
+            "end": 719,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 729,
+            "end": 743,
+            "text": "North American",
+            "concept": 19
+        },
+        {
+            "begin": 850,
+            "end": 854,
+            "text": "Asia",
+            "concept": 14,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 855,
+            "end": 862,
+            "text": "Pacific",
+            "concept": 18,
+            "candidates": [
+                "Pacific_Ocean",
+                "Pacific_War",
+                "Pacific_Racing",
+                "Pacific_Time_Zone",
+                "University_of_the_Pacific_(United_States)",
+                "Pacific_Tigers_men's_basketball",
+                "Pacific_Tigers",
+                "Pacific_Islands",
+                "Pacific_Ocean_theater_of_World_War_II",
+                "Pacific_Tigers_football",
+                "Pacific_County,_Washington",
+                "Pacific_Plate",
+                "Asiatic-Pacific_Theater",
+                "Oceania",
+                "4-6-2",
+                "Pacific_League"
+            ],
+            "scores": [
+                0.6720068659705335,
+                0.031469031612072665,
+                0.024889143184093836,
+                0.022743527392361608,
+                0.02059791160062938,
+                0.0185953368616793,
+                0.016592762122729223,
+                0.01501931054212559,
+                0.012730653697611215,
+                0.011872407380918324,
+                0.011872407380918324,
+                0.01115720211700758,
+                0.011014161064225432,
+                0.009011586325275354,
+                0.008010298955800315,
+                0.007152052639107424
+            ]
+        },
+        {
+            "begin": 871,
+            "end": 876,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 929,
+            "end": 932,
+            "text": "TPP",
+            "concept": 6,
+            "candidates": [
+                "National_Resurrection_Party",
+                "Trans-Pacific_Partnership",
+                "Thiamine_pyrophosphate",
+                "Trans-Pacific_Strategic_Economic_Partnership_Agreement",
+                "Tehrik-i-Taliban_Pakistan",
+                "Two-party-preferred_vote",
+                "Party_of_National_Progress",
+                "TPP_riboswitch",
+                "Porphyrin",
+                "Pisaflores_Tepehua",
+                "Tayo_(political_party)"
+            ],
+            "scores": [
+                0.34615384615384615,
+                0.2692307692307692,
+                0.07692307692307693,
+                0.07692307692307693,
+                0.057692307692307696,
+                0.057692307692307696,
+                0.038461538461538464,
+                0.019230769230769232,
+                0.019230769230769232,
+                0.019230769230769232,
+                0.019230769230769232
+            ]
+        },
+        {
+            "begin": 1020,
+            "end": 1022,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1027,
+            "end": 1033,
+            "text": "Canada",
+            "concept": 12,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1048,
+            "end": 1050,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1065,
+            "end": 1076,
+            "text": "Keystone XL",
+            "concept": 20,
+            "candidates": [
+                "Keystone_XL",
+                "Keystone_Pipeline"
+            ],
+            "scores": [
+                0.7195121951219512,
+                0.2804878048780488
+            ]
+        },
+        {
+            "begin": 1135,
+            "end": 1141,
+            "text": "Canada",
+            "concept": 12,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1167,
+            "end": 1175,
+            "text": "Nebraska",
+            "concept": 21,
+            "candidates": [
+                "Nebraska",
+                "Nebraska_Cornhuskers_football",
+                "University_of_Nebraska\u2013Lincoln",
+                "Nebraska_Cornhuskers_men's_basketball",
+                "Nebraska_(film)",
+                "Nebraska_Cornhuskers",
+                "List_of_United_States_Senators_from_Nebraska",
+                "List_of_United_States_Representatives_from_Nebraska",
+                "Nebraska_Cornhuskers_baseball",
+                "Miss_Nebraska_USA",
+                "Nebraska_(album)",
+                "Miss_Nebraska",
+                "Nebraska_Cornhuskers_women's_basketball",
+                "2010_Nebraska_Cornhuskers_football_team",
+                "Nebraska_Cornhuskers_women's_volleyball",
+                "Nebraska_Territory"
+            ],
+            "scores": [
+                0.6202218557937341,
+                0.07472642782191576,
+                0.047294258731824315,
+                0.020686553740068954,
+                0.01866286913506221,
+                0.013940938390046469,
+                0.013491230700044972,
+                0.008019787138360065,
+                0.006745615350022486,
+                0.00599610253335332,
+                0.005921151251686404,
+                0.004796882026682657,
+                0.0044970769000149905,
+                0.004272223055014241,
+                0.003972417928346575,
+                0.0036726128016789086
+            ]
+        },
+        {
+            "begin": 1250,
+            "end": 1255,
+            "text": "Texas",
+            "concept": 22,
+            "candidates": [
+                "Texas",
+                "Texas_Longhorns_football",
+                "University_of_Texas_at_Austin",
+                "Texas_Longhorns_men's_basketball",
+                "Texas_(band)",
+                "Texas_Longhorns_baseball",
+                "Texas_Longhorns",
+                "List_of_United_States_Senators_from_Texas",
+                "List_of_United_States_Representatives_from_Texas",
+                "Miss_Texas_USA",
+                "Texas_(TV_series)",
+                "Texas_Motor_Speedway",
+                "Miss_Texas",
+                "Texas_Longhorns_swimming_and_diving",
+                "Texas_Longhorns_women's_basketball",
+                "2009_Texas_Longhorns_football_team"
+            ],
+            "scores": [
+                0.8336650611042554,
+                0.019625014927749693,
+                0.012758250069662832,
+                0.012240754747024402,
+                0.0072847418494486685,
+                0.006030810875363242,
+                0.005214760558894948,
+                0.004159866247362764,
+                0.0036423709247243342,
+                0.0032044902671072013,
+                0.0027467059432347437,
+                0.002667091278213447,
+                0.0024481509494048803,
+                0.002149595955575017,
+                0.002050077624298396,
+                0.001731618964213208
+            ]
+        },
+        {
+            "begin": 1256,
+            "end": 1266,
+            "text": "Gulf Coast",
+            "concept": 23,
+            "candidates": [
+                "Gulf_Coast_of_the_United_States",
+                "Gulf_of_Mexico",
+                "Gulf_Coast_(magazine)",
+                "Gulf_Coast_Athletic_Conference",
+                "Gulf_Coast_of_Mexico",
+                "Gulf_Coast_League",
+                "Mississippi_Gulf_Coast",
+                "Gulf_Coast_Athletic_Conference_(1958\u20131965)",
+                "Gulf_Coast_Conference",
+                "Mississippi_Gulf_Coast_Community_College",
+                "Gulf_Coast_State_College",
+                "West_Florida",
+                "Continental_Championship_Wrestling",
+                "Western_Gulf_coastal_grasslands",
+                "Gulf_of_California",
+                "Gulf_of_Thailand"
+            ],
+            "scores": [
+                0.8579591836734693,
+                0.06775510204081632,
+                0.019591836734693877,
+                0.013877551020408163,
+                0.011428571428571429,
+                0.006530612244897959,
+                0.004897959183673469,
+                0.004081632653061225,
+                0.004081632653061225,
+                0.0024489795918367346,
+                0.0016326530612244899,
+                0.0016326530612244899,
+                0.0008163265306122449,
+                0.0008163265306122449,
+                0.0008163265306122449,
+                0.0008163265306122449
+            ]
+        },
+        {
+            "begin": 1310,
+            "end": 1315,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1391,
+            "end": 1397,
+            "text": "Mexico",
+            "concept": 8,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 1430,
+            "end": 1432,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1454,
+            "end": 1459,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1528,
+            "end": 1538,
+            "text": "Republican",
+            "concept": 24,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Republican_Party_of_Wisconsin",
+                "Republican_Party_of_Minnesota",
+                "Ohio_Republican_Party",
+                "Republicanism",
+                "Irish_republicanism",
+                "California_Republican_Party",
+                "North_Dakota_Republican_Party",
+                "Maine_Republican_Party",
+                "Republican_Party_of_Iowa",
+                "Second_Spanish_Republic",
+                "Republic",
+                "Democratic-Republican_Party",
+                "Oregon_Republican_Party",
+                "Vermont_Republican_Party",
+                "Oklahoma_Republican_Party"
+            ],
+            "scores": [
+                0.8884245987399382,
+                0.010770451711125147,
+                0.010414136015418752,
+                0.009895858639845812,
+                0.007676983625674165,
+                0.006219328506875273,
+                0.006105955330968693,
+                0.006008778323048767,
+                0.004696888716129764,
+                0.0037737071408904654,
+                0.003725118636930502,
+                0.0034011952771974153,
+                0.003223037429344217,
+                0.0031420565894109452,
+                0.002186482678198338,
+                0.0018301669824919424
+            ]
+        },
+        {
+            "begin": 1553,
+            "end": 1561,
+            "text": "Congress",
+            "concept": 25,
+            "candidates": [
+                "United_States_Congress",
+                "Indian_National_Congress",
+                "Congress_of_the_Philippines",
+                "Congress",
+                "United_States_House_of_Representatives",
+                "Congress_of_the_Union",
+                "Congress_of_the_Republic_of_Peru",
+                "Congress_of_Colombia",
+                "Congress_of_Guatemala",
+                "National_Congress_of_Argentina",
+                "Congress_of_Deputies",
+                "National_Congress_of_Chile",
+                "Congress_of_Paraguay",
+                "Congress_of_the_Federated_States_of_Micronesia",
+                "Congress_of_the_Confederation",
+                "National_Congress_of_Brazil"
+            ],
+            "scores": [
+                0.5593434343434344,
+                0.21616161616161617,
+                0.029924242424242423,
+                0.027525252525252526,
+                0.019823232323232323,
+                0.01755050505050505,
+                0.010101010101010102,
+                0.010101010101010102,
+                0.008333333333333333,
+                0.008207070707070708,
+                0.0073232323232323236,
+                0.0046717171717171714,
+                0.004545454545454545,
+                0.004166666666666667,
+                0.003914141414141414,
+                0.003787878787878788
+            ]
+        },
+        {
+            "begin": 1620,
+            "end": 1649,
+            "text": "North America Leaders' Summit",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1671,
+            "end": 1683,
+            "text": "Three Amigos",
+            "concept": 7,
+            "candidates": [
+                "Three_Amigos",
+                "Suplex"
+            ],
+            "scores": [
+                0.990990990990991,
+                0.009009009009009009
+            ]
+        },
+        {
+            "begin": 1731,
+            "end": 1766,
+            "text": "North American Free Trade Agreement",
+            "concept": 1,
+            "candidates": [
+                "North_American_Free_Trade_Agreement"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1768,
+            "end": 1773,
+            "text": "NAFTA",
+            "concept": 1,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 1813,
+            "end": 1815,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1830,
+            "end": 1836,
+            "text": "Mexico",
+            "concept": 8,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 1841,
+            "end": 1847,
+            "text": "Canada",
+            "concept": 12,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1890,
+            "end": 1892,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1899,
+            "end": 1901,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1921,
+            "end": 1926,
+            "text": "NAFTA",
+            "concept": 1,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 1958,
+            "end": 1960,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2014,
+            "end": 2024,
+            "text": "Pena Nieto",
+            "concept": 2,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2071,
+            "end": 2076,
+            "text": "NAFTA",
+            "concept": 1,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 2188,
+            "end": 2197,
+            "text": "Venezuela",
+            "concept": 9,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 2202,
+            "end": 2209,
+            "text": "Ukraine",
+            "concept": 10,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 2235,
+            "end": 2244,
+            "text": "Venezuela",
+            "concept": 9,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 2249,
+            "end": 2256,
+            "text": "Ukraine",
+            "concept": 10,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 2258,
+            "end": 2263,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2334,
+            "end": 2347,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 2368,
+            "end": 2373,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2384,
+            "end": 2393,
+            "text": "Venezuela",
+            "concept": 9,
+            "candidates": [
+                "Venezuela",
+                "Venezuela_national_football_team",
+                "Venezuelan_Football_Federation",
+                "Venezuela_national_baseball_team",
+                "Venezuela_national_basketball_team",
+                "United_States_of_Venezuela",
+                "Venezuela_national_under-20_football_team",
+                "Miss_Venezuela",
+                "Acceleration_Team_Venezuela",
+                "Liga_Profesional_de_Baloncesto",
+                "List_of_non-marine_molluscs_of_Venezuela",
+                "Venezuela_national_cerebral_palsy_football_team",
+                "Football_in_Venezuela",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Elections_in_Venezuela",
+                "Venezuela_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9235450933051658,
+                0.024143654745737136,
+                0.005080227352748856,
+                0.0031185554046577134,
+                0.002816759720335999,
+                0.002716161158895428,
+                0.0024143654745737136,
+                0.0017604748252099994,
+                0.0016598762637694282,
+                0.001508978421608571,
+                0.0014083798601679995,
+                0.001156883456566571,
+                0.0010562848951259998,
+                0.001005985614405714,
+                0.001005985614405714,
+                0.0009556863336854283
+            ]
+        },
+        {
+            "begin": 2543,
+            "end": 2574,
+            "text": "Organization of American States",
+            "concept": 26,
+            "candidates": [
+                "Organization_of_American_States"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2590,
+            "end": 2600,
+            "text": "Venezuelan",
+            "concept": 27
+        },
+        {
+            "begin": 2683,
+            "end": 2689,
+            "text": "Sunday",
+            "concept": 28
+        },
+        {
+            "begin": 2701,
+            "end": 2710,
+            "text": "President",
+            "concept": 11
+        },
+        {
+            "begin": 2711,
+            "end": 2725,
+            "text": "Nicolas Maduro",
+            "concept": 29,
+            "candidates": [
+                "Nicol\u00e1s_Maduro"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2757,
+            "end": 2759,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2855,
+            "end": 2862,
+            "text": "Ukraine",
+            "concept": 10,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 2864,
+            "end": 2869,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 2954,
+            "end": 2963,
+            "text": "Wednesday",
+            "concept": 30
+        },
+        {
+            "begin": 3228,
+            "end": 3237,
+            "text": "Ukrainian",
+            "concept": 31
+        },
+        {
+            "begin": 3325,
+            "end": 3330,
+            "text": "Obama",
+            "concept": 3,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 3337,
+            "end": 3355,
+            "text": "jm / crh (AFP, AP)",
+            "concept": 32
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 11,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "North American Free Trade Agreement",
+            "keyword": true,
+            "count": 4,
+            "link": "North_American_Free_Trade_Agreement",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Enrique Pena Nieto",
+            "keyword": true,
+            "count": 2,
+            "link": "Enrique_Pe\u00f1a_Nieto",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Barack Obama",
+            "keyword": true,
+            "count": 12,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Toluca",
+            "keyword": true,
+            "count": 1,
+            "link": "Toluca",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Stephen Harper",
+            "keyword": true,
+            "count": 2,
+            "link": "Stephen_Harper",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Trans-Pacific Partnership",
+            "keyword": true,
+            "count": 4,
+            "link": "Trans-Pacific_Partnership",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "North America Leaders' Summit",
+            "keyword": false,
+            "count": 2,
+            "link": "North_American_Leaders'_Summit",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Mexico",
+            "keyword": false,
+            "count": 4,
+            "link": "Mexico",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Venezuela",
+            "keyword": false,
+            "count": 5,
+            "link": "Venezuela",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Ukraine",
+            "keyword": false,
+            "count": 5,
+            "link": "Ukraine",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "President",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Canada",
+            "keyword": false,
+            "count": 4,
+            "link": "Canada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Americas",
+            "keyword": false,
+            "count": 2,
+            "link": "Americas",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Asia",
+            "keyword": false,
+            "count": 3,
+            "link": "Asia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Mexican",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Canadian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Pacific",
+            "keyword": false,
+            "count": 2,
+            "link": "Pacific_Ocean",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "North American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Keystone XL",
+            "keyword": false,
+            "count": 1,
+            "link": "Keystone_Pipeline",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::project"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Nebraska",
+            "keyword": false,
+            "count": 1,
+            "link": "Nebraska",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Texas",
+            "keyword": false,
+            "count": 1,
+            "link": "Texas",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Gulf Coast",
+            "keyword": false,
+            "count": 1,
+            "link": "Gulf_Coast_of_the_United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Republican",
+            "keyword": false,
+            "count": 1,
+            "link": "Republican_Party_(United_States)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Congress",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States_Congress",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Organization of American States",
+            "keyword": false,
+            "count": 1,
+            "link": "Organization_of_American_States",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Venezuelan",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Nicolas Maduro",
+            "keyword": false,
+            "count": 1,
+            "link": "Nicol\u00e1s_Maduro",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Ukrainian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "jm / crh (AFP, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 15
+        },
+        {
+            "s": 2,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "is_meeting",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "is_meeting",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "is_meeting",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "in0-x",
+            "o": 15
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov-x",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "is_meeting",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 21,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 22,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 27,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 29,
+            "p": "agent_of",
+            "o": 9
+        },
+        {
+            "s": 29,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 29,
+            "p": "citizen_of-x",
+            "o": 27
+        },
+        {
+            "s": 29,
+            "p": "head_of_state",
+            "o": 9
+        },
+        {
+            "s": 29,
+            "p": "head_of_state-x",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "gpe0",
+            "o": 10
+        }
+    ],
+    "frames": [
+        {
+            "type": "meet",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 3
+                },
+                {
+                    "name": "entity",
+                    "value": 2
+                },
+                {
+                    "name": "entity",
+                    "value": 5
+                },
+                {
+                    "name": "place",
+                    "value": 4
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000373",
+        "20000374"
+    ]
+}

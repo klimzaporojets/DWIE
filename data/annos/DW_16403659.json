@@ -1,0 +1,3358 @@
+{
+    "id": "DW_16403659",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Bayern",
+            "concept": 1,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 21,
+            "end": 28,
+            "text": "Schalke",
+            "concept": 0,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 34,
+            "end": 47,
+            "text": "Bayern Munich",
+            "concept": 1,
+            "candidates": [
+                "FC_Bayern_Munich",
+                "FC_Bayern_Munich_(basketball)",
+                "FC_Bayern_Munich_(women)",
+                "FC_Bayern_Munich_Junior_Team",
+                "FC_Bayern_Munich_II",
+                "1975\u201376_FC_Bayern_Munich_season"
+            ],
+            "scores": [
+                0.8923263048738334,
+                0.059108192188040094,
+                0.04459039059799516,
+                0.00276529554096094,
+                0.0010369858278603526,
+                0.00017283097131005876
+            ]
+        },
+        {
+            "begin": 81,
+            "end": 91,
+            "text": "Bundesliga",
+            "concept": 2,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 95,
+            "end": 103,
+            "text": "Saturday",
+            "concept": 12
+        },
+        {
+            "begin": 137,
+            "end": 145,
+            "text": "Hannover",
+            "concept": 3,
+            "candidates": [
+                "Hanover",
+                "Hannover_96",
+                "Hannover_Hauptbahnhof",
+                "Hannoversche_Waggonfabrik",
+                "Kingdom_of_Hanover",
+                "TSV_Hannover-Burgdorf",
+                "University_of_Hanover",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Hanomag",
+                "Hannover_Airport",
+                "Hanover_(region)",
+                "Hannover_Marathon",
+                "Province_of_Hanover",
+                "Hannover,_North_Dakota",
+                "SMS_Hannover",
+                "Hanover_Region"
+            ],
+            "scores": [
+                0.8494117647058823,
+                0.05647058823529412,
+                0.04823529411764706,
+                0.015294117647058824,
+                0.00411764705882353,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.002352941176470588,
+                0.002352941176470588,
+                0.0017647058823529412,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.000588235294117647,
+                0.000588235294117647
+            ]
+        },
+        {
+            "begin": 180,
+            "end": 187,
+            "text": "Schalke",
+            "concept": 0,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 205,
+            "end": 214,
+            "text": "Frankfurt",
+            "concept": 4,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "1._FFC_Frankfurt",
+                "Frankfurt_Airport",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_(Oder)",
+                "Goethe_University_Frankfurt",
+                "Frankfurt_Cup",
+                "Eintracht_Frankfurt",
+                "Grand_Duchy_of_Frankfurt",
+                "Opern-_und_Schauspielhaus_Frankfurt",
+                "Frankfurt_Grand_Prix_(tennis)",
+                "Frankfurt_Stock_Exchange",
+                "International_Motor_Show_Germany",
+                "Frankfurt_Marathon",
+                "Frankfurt_Galaxy"
+            ],
+            "scores": [
+                0.89258114374034,
+                0.025281519099138883,
+                0.022742327224552883,
+                0.016559947008169575,
+                0.009825568558180614,
+                0.006403179509825568,
+                0.005188783395893133,
+                0.0017663943475380878,
+                0.0014351954073746965,
+                0.0014351954073746965,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0012143961139324355,
+                0.0007727975270479134,
+                0.0007727975270479134
+            ]
+        },
+        {
+            "begin": 273,
+            "end": 279,
+            "text": "Bayern",
+            "concept": 1,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 313,
+            "end": 323,
+            "text": "Bundesliga",
+            "concept": 2,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 422,
+            "end": 440,
+            "text": "Saturday afternoon",
+            "concept": 13
+        },
+        {
+            "begin": 471,
+            "end": 478,
+            "text": "Schalke",
+            "concept": 0,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 496,
+            "end": 505,
+            "text": "Frankfurt",
+            "concept": 4,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "1._FFC_Frankfurt",
+                "Frankfurt_Airport",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_(Oder)",
+                "Goethe_University_Frankfurt",
+                "Frankfurt_Cup",
+                "Eintracht_Frankfurt",
+                "Grand_Duchy_of_Frankfurt",
+                "Opern-_und_Schauspielhaus_Frankfurt",
+                "Frankfurt_Grand_Prix_(tennis)",
+                "Frankfurt_Stock_Exchange",
+                "International_Motor_Show_Germany",
+                "Frankfurt_Marathon",
+                "Frankfurt_Galaxy"
+            ],
+            "scores": [
+                0.89258114374034,
+                0.025281519099138883,
+                0.022742327224552883,
+                0.016559947008169575,
+                0.009825568558180614,
+                0.006403179509825568,
+                0.005188783395893133,
+                0.0017663943475380878,
+                0.0014351954073746965,
+                0.0014351954073746965,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0012143961139324355,
+                0.0007727975270479134,
+                0.0007727975270479134
+            ]
+        },
+        {
+            "begin": 572,
+            "end": 579,
+            "text": "Schalke",
+            "concept": 0,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 622,
+            "end": 631,
+            "text": "Frankfurt",
+            "concept": 4,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "1._FFC_Frankfurt",
+                "Frankfurt_Airport",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_(Oder)",
+                "Goethe_University_Frankfurt",
+                "Frankfurt_Cup",
+                "Eintracht_Frankfurt",
+                "Grand_Duchy_of_Frankfurt",
+                "Opern-_und_Schauspielhaus_Frankfurt",
+                "Frankfurt_Grand_Prix_(tennis)",
+                "Frankfurt_Stock_Exchange",
+                "International_Motor_Show_Germany",
+                "Frankfurt_Marathon",
+                "Frankfurt_Galaxy"
+            ],
+            "scores": [
+                0.89258114374034,
+                0.025281519099138883,
+                0.022742327224552883,
+                0.016559947008169575,
+                0.009825568558180614,
+                0.006403179509825568,
+                0.005188783395893133,
+                0.0017663943475380878,
+                0.0014351954073746965,
+                0.0014351954073746965,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0013247957606535659,
+                0.0012143961139324355,
+                0.0007727975270479134,
+                0.0007727975270479134
+            ]
+        },
+        {
+            "begin": 634,
+            "end": 647,
+            "text": "Stefan Aigner",
+            "concept": 5,
+            "candidates": [
+                "Stefan_Aigner"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 682,
+            "end": 694,
+            "text": "Lewis Holtby",
+            "concept": 14,
+            "candidates": [
+                "Lewis_Holtby"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 704,
+            "end": 723,
+            "text": "Klaas-Jan Huntelaar",
+            "concept": 15,
+            "candidates": [
+                "Klaas-Jan_Huntelaar"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 747,
+            "end": 755,
+            "text": "Dutchman",
+            "concept": 16
+        },
+        {
+            "begin": 771,
+            "end": 781,
+            "text": "Bundesliga",
+            "concept": 2,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 788,
+            "end": 797,
+            "text": "September",
+            "concept": 17
+        },
+        {
+            "begin": 815,
+            "end": 821,
+            "text": "Aigner",
+            "concept": 5,
+            "candidates": [
+                "Johannes_Aigner",
+                "Stefan_Aigner",
+                "Aigner",
+                "Hannes_Aigner",
+                "Etienne_Aigner"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.23809523809523808,
+                0.19047619047619047,
+                0.14285714285714285,
+                0.09523809523809523
+            ]
+        },
+        {
+            "begin": 890,
+            "end": 901,
+            "text": "Royal Blues",
+            "concept": 0,
+            "candidates": [
+                "Royal_Blues_F.C."
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 938,
+            "end": 948,
+            "text": "goalkeeper",
+            "concept": 18
+        },
+        {
+            "begin": 949,
+            "end": 964,
+            "text": "Lars Unnerstall",
+            "concept": 19,
+            "candidates": [
+                "Lars_Unnerstall"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1051,
+            "end": 1059,
+            "text": "Dortmund",
+            "concept": 20,
+            "candidates": [
+                "Dortmund",
+                "Dortmund_Hauptbahnhof",
+                "Borussia_Dortmund",
+                "Dortmund_(horse)",
+                "Dortmund_Airport",
+                "Dortmund_Sparkassen_Chess_Meeting",
+                "Timeline_of_Dortmund",
+                "Theater_Dortmund",
+                "Technical_University_of_Dortmund",
+                "2011_Internationaler_Apano_Cup",
+                "Dortmunder_Philharmoniker",
+                "Internationaler_Apano_Cup",
+                "Dortmund_Stadtbahn"
+            ],
+            "scores": [
+                0.8722843976300197,
+                0.09249506254114549,
+                0.012179065174456879,
+                0.007241606319947334,
+                0.004279131007241606,
+                0.004279131007241606,
+                0.002304147465437788,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 1108,
+            "end": 1114,
+            "text": "Bayern",
+            "concept": 1,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 1152,
+            "end": 1165,
+            "text": "Bayern Munich",
+            "concept": 1,
+            "candidates": [
+                "FC_Bayern_Munich",
+                "FC_Bayern_Munich_(basketball)",
+                "FC_Bayern_Munich_(women)",
+                "FC_Bayern_Munich_Junior_Team",
+                "FC_Bayern_Munich_II",
+                "1975\u201376_FC_Bayern_Munich_season"
+            ],
+            "scores": [
+                0.8923263048738334,
+                0.059108192188040094,
+                0.04459039059799516,
+                0.00276529554096094,
+                0.0010369858278603526,
+                0.00017283097131005876
+            ]
+        },
+        {
+            "begin": 1236,
+            "end": 1245,
+            "text": "Nuremberg",
+            "concept": 21,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 1293,
+            "end": 1301,
+            "text": "Hannover",
+            "concept": 3,
+            "candidates": [
+                "Hanover",
+                "Hannover_96",
+                "Hannover_Hauptbahnhof",
+                "Hannoversche_Waggonfabrik",
+                "Kingdom_of_Hanover",
+                "TSV_Hannover-Burgdorf",
+                "University_of_Hanover",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Hanomag",
+                "Hannover_Airport",
+                "Hanover_(region)",
+                "Hannover_Marathon",
+                "Province_of_Hanover",
+                "Hannover,_North_Dakota",
+                "SMS_Hannover",
+                "Hanover_Region"
+            ],
+            "scores": [
+                0.8494117647058823,
+                0.05647058823529412,
+                0.04823529411764706,
+                0.015294117647058824,
+                0.00411764705882353,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.002352941176470588,
+                0.002352941176470588,
+                0.0017647058823529412,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.000588235294117647,
+                0.000588235294117647
+            ]
+        },
+        {
+            "begin": 1307,
+            "end": 1316,
+            "text": "Bavarians",
+            "concept": 22
+        },
+        {
+            "begin": 1410,
+            "end": 1423,
+            "text": "Javi Martinez",
+            "concept": 8,
+            "candidates": [
+                "Javi_Mart\u00ednez",
+                "Francisco_Javier_Mart\u00ednez_Rodr\u00edguez",
+                "Javier_Mart\u00ednez_Benito"
+            ],
+            "scores": [
+                0.9230769230769231,
+                0.06153846153846154,
+                0.015384615384615385
+            ]
+        },
+        {
+            "begin": 1446,
+            "end": 1456,
+            "text": "Toni Kroos",
+            "concept": 6,
+            "candidates": [
+                "Toni_Kroos"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1461,
+            "end": 1474,
+            "text": "Franck Ribery",
+            "concept": 23,
+            "candidates": [
+                "Franck_Rib\u00e9ry"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1505,
+            "end": 1513,
+            "text": "Hannover",
+            "concept": 3,
+            "candidates": [
+                "Hanover",
+                "Hannover_96",
+                "Hannover_Hauptbahnhof",
+                "Hannoversche_Waggonfabrik",
+                "Kingdom_of_Hanover",
+                "TSV_Hannover-Burgdorf",
+                "University_of_Hanover",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Hanomag",
+                "Hannover_Airport",
+                "Hanover_(region)",
+                "Hannover_Marathon",
+                "Province_of_Hanover",
+                "Hannover,_North_Dakota",
+                "SMS_Hannover",
+                "Hanover_Region"
+            ],
+            "scores": [
+                0.8494117647058823,
+                0.05647058823529412,
+                0.04823529411764706,
+                0.015294117647058824,
+                0.00411764705882353,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.0035294117647058825,
+                0.002352941176470588,
+                0.002352941176470588,
+                0.0017647058823529412,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.001176470588235294,
+                0.000588235294117647,
+                0.000588235294117647
+            ]
+        },
+        {
+            "begin": 1588,
+            "end": 1603,
+            "text": "40-million-euro",
+            "concept": 24
+        },
+        {
+            "begin": 1605,
+            "end": 1616,
+            "text": "$52-million",
+            "concept": 25
+        },
+        {
+            "begin": 1626,
+            "end": 1634,
+            "text": "Martinez",
+            "concept": 8,
+            "candidates": [
+                "Martinez,_California",
+                "Pedro_Mart\u00ednez",
+                "Martinez,_Georgia",
+                "Dennis_Mart\u00ednez",
+                "Mart\u00ednez,_Buenos_Aires",
+                "Conchita_Mart\u00ednez",
+                "Carlos_Mart\u00ednez_(pitcher,_born_1991)",
+                "Sebasti\u00e1n_Mart\u00ednez_(Austrian_footballer)",
+                "Mart\u00ednez_(surname)",
+                "Roberto_Mart\u00ednez",
+                "Caesar_Martinez_(The_Walking_Dead)",
+                "Javi_Mart\u00ednez",
+                "Lu\u00eds_Fernando_Martinez",
+                "Martinez_station",
+                "Jackson_Mart\u00ednez",
+                "Eulogio_Mart\u00ednez"
+            ],
+            "scores": [
+                0.32167832167832167,
+                0.12937062937062938,
+                0.08391608391608392,
+                0.04895104895104895,
+                0.038461538461538464,
+                0.03671328671328671,
+                0.033216783216783216,
+                0.027972027972027972,
+                0.026223776223776224,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.013986013986013986,
+                0.013986013986013986,
+                0.012237762237762238,
+                0.01048951048951049,
+                0.01048951048951049
+            ]
+        },
+        {
+            "begin": 1663,
+            "end": 1671,
+            "text": "defender",
+            "concept": 26
+        },
+        {
+            "begin": 1672,
+            "end": 1677,
+            "text": "Dante",
+            "concept": 27,
+            "candidates": [
+                "Dante_Alighieri",
+                "Dante_(footballer)",
+                "Dante_(horse)",
+                "Dante_(Devil_May_Cry)",
+                "Dante_(TV_series)",
+                "DANTE",
+                "Dante_Amaral",
+                "Dante_(networking)",
+                "Dante_Falconeri",
+                "Dante_Spinetta",
+                "Dante_(comedian)",
+                "Dante_(typeface)",
+                "Dante_(crater)",
+                "Dante,_Virginia",
+                "Dante_Maggio",
+                "Harry_August_Jansen"
+            ],
+            "scores": [
+                0.7739221871713985,
+                0.054153522607781286,
+                0.04258675078864353,
+                0.03995793901156677,
+                0.01840168243953733,
+                0.00946372239747634,
+                0.007886435331230283,
+                0.0057833859095688745,
+                0.005257623554153523,
+                0.00473186119873817,
+                0.00473186119873817,
+                0.00473186119873817,
+                0.0026288117770767614,
+                0.0026288117770767614,
+                0.002103049421661409,
+                0.002103049421661409
+            ]
+        },
+        {
+            "begin": 1739,
+            "end": 1744,
+            "text": "Kroos",
+            "concept": 6,
+            "candidates": [
+                "Toni_Kroos",
+                "Felix_Kroos"
+            ],
+            "scores": [
+                0.875,
+                0.125
+            ]
+        },
+        {
+            "begin": 1821,
+            "end": 1832,
+            "text": "Mario Gomez",
+            "concept": 28,
+            "candidates": [
+                "Mario_G\u00f3mez",
+                "Roberto_Carlos_Mario_G\u00f3mez",
+                "Mario_G\u00f3mez_(athlete)",
+                "Mario_Arnaldo_G\u00f3mez",
+                "M\u00e1rio_Efra\u00edn_G\u00f3mez_Espejero",
+                "Mario_G\u00f3mez_(Peruvian_footballer)"
+            ],
+            "scores": [
+                0.8458904109589042,
+                0.11643835616438356,
+                0.0136986301369863,
+                0.010273972602739725,
+                0.00684931506849315,
+                0.00684931506849315
+            ]
+        },
+        {
+            "begin": 1848,
+            "end": 1858,
+            "text": "Bundesliga",
+            "concept": 2,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 1967,
+            "end": 1982,
+            "text": "Mario Mandzukic",
+            "concept": 29,
+            "candidates": [
+                "Mario_Mand\u017euki\u0107"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1984,
+            "end": 1992,
+            "text": "Dortmund",
+            "concept": 20,
+            "candidates": [
+                "Dortmund",
+                "Dortmund_Hauptbahnhof",
+                "Borussia_Dortmund",
+                "Dortmund_(horse)",
+                "Dortmund_Airport",
+                "Dortmund_Sparkassen_Chess_Meeting",
+                "Timeline_of_Dortmund",
+                "Theater_Dortmund",
+                "Technical_University_of_Dortmund",
+                "2011_Internationaler_Apano_Cup",
+                "Dortmunder_Philharmoniker",
+                "Internationaler_Apano_Cup",
+                "Dortmund_Stadtbahn"
+            ],
+            "scores": [
+                0.8722843976300197,
+                0.09249506254114549,
+                0.012179065174456879,
+                0.007241606319947334,
+                0.004279131007241606,
+                0.004279131007241606,
+                0.002304147465437788,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 2011,
+            "end": 2019,
+            "text": "Dortmund",
+            "concept": 20,
+            "candidates": [
+                "Dortmund",
+                "Dortmund_Hauptbahnhof",
+                "Borussia_Dortmund",
+                "Dortmund_(horse)",
+                "Dortmund_Airport",
+                "Dortmund_Sparkassen_Chess_Meeting",
+                "Timeline_of_Dortmund",
+                "Theater_Dortmund",
+                "Technical_University_of_Dortmund",
+                "2011_Internationaler_Apano_Cup",
+                "Dortmunder_Philharmoniker",
+                "Internationaler_Apano_Cup",
+                "Dortmund_Stadtbahn"
+            ],
+            "scores": [
+                0.8722843976300197,
+                0.09249506254114549,
+                0.012179065174456879,
+                0.007241606319947334,
+                0.004279131007241606,
+                0.004279131007241606,
+                0.002304147465437788,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 2061,
+            "end": 2067,
+            "text": "Bayern",
+            "concept": 1,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 2082,
+            "end": 2087,
+            "text": "Mainz",
+            "concept": 30,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 2152,
+            "end": 2164,
+            "text": "J\u00fcrgen Klopp",
+            "concept": 31,
+            "candidates": [
+                "J\u00fcrgen_Klopp"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2196,
+            "end": 2201,
+            "text": "Mainz",
+            "concept": 30,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 2253,
+            "end": 2263,
+            "text": "Elkin Soto",
+            "concept": 32,
+            "candidates": [
+                "Elkin_Soto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2302,
+            "end": 2317,
+            "text": "Marco Caligiuri",
+            "concept": 11,
+            "candidates": [
+                "Marco_Caligiuri"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2375,
+            "end": 2383,
+            "text": "Dortmund",
+            "concept": 20,
+            "candidates": [
+                "Dortmund",
+                "Dortmund_Hauptbahnhof",
+                "Borussia_Dortmund",
+                "Dortmund_(horse)",
+                "Dortmund_Airport",
+                "Dortmund_Sparkassen_Chess_Meeting",
+                "Timeline_of_Dortmund",
+                "Theater_Dortmund",
+                "Technical_University_of_Dortmund",
+                "2011_Internationaler_Apano_Cup",
+                "Dortmunder_Philharmoniker",
+                "Internationaler_Apano_Cup",
+                "Dortmund_Stadtbahn"
+            ],
+            "scores": [
+                0.8722843976300197,
+                0.09249506254114549,
+                0.012179065174456879,
+                0.007241606319947334,
+                0.004279131007241606,
+                0.004279131007241606,
+                0.002304147465437788,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 2395,
+            "end": 2400,
+            "text": "Marco",
+            "concept": 7,
+            "candidates": [
+                "Marco_(Animorphs)",
+                "F.C._Marco",
+                "Marco_Borsato",
+                "Marco_Andretti",
+                "Marco_(actor)",
+                "Mars_Cube_One",
+                "Marco_(Better_Call_Saul)",
+                "Marco_Alessi",
+                "Marco_(album)",
+                "MARCO",
+                "Marco,_Indiana",
+                "Tropical_Storm_Marco_(1990)",
+                "Marco_Island,_Florida",
+                "3000_Leagues_in_Search_of_Mother",
+                "Marco_Antonio_Pogioli",
+                "Marco,_New_Zealand"
+            ],
+            "scores": [
+                0.2776203966005666,
+                0.11898016997167139,
+                0.0764872521246459,
+                0.059490084985835696,
+                0.05099150141643059,
+                0.031161473087818695,
+                0.028328611898016998,
+                0.019830028328611898,
+                0.019830028328611898,
+                0.019830028328611898,
+                0.019830028328611898,
+                0.0169971671388102,
+                0.0169971671388102,
+                0.014164305949008499,
+                0.0113314447592068,
+                0.0113314447592068
+            ]
+        },
+        {
+            "begin": 2403,
+            "end": 2423,
+            "text": "national team player",
+            "concept": 33
+        },
+        {
+            "begin": 2424,
+            "end": 2434,
+            "text": "Marco Reus",
+            "concept": 7,
+            "candidates": [
+                "Marco_Reus"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2482,
+            "end": 2486,
+            "text": "Reus",
+            "concept": 7,
+            "candidates": [
+                "Reus",
+                "CF_Reus_Deportiu",
+                "Reus_Airport",
+                "Reus_Deportiu",
+                "Marco_Reus",
+                "Reus_(video_game)",
+                "Principality_of_Reuss-Greiz"
+            ],
+            "scores": [
+                0.6749116607773852,
+                0.22084805653710246,
+                0.038869257950530034,
+                0.030035335689045935,
+                0.0176678445229682,
+                0.015901060070671377,
+                0.0017667844522968198
+            ]
+        },
+        {
+            "begin": 2616,
+            "end": 2624,
+            "text": "Dortmund",
+            "concept": 20,
+            "candidates": [
+                "Dortmund",
+                "Dortmund_Hauptbahnhof",
+                "Borussia_Dortmund",
+                "Dortmund_(horse)",
+                "Dortmund_Airport",
+                "Dortmund_Sparkassen_Chess_Meeting",
+                "Timeline_of_Dortmund",
+                "Theater_Dortmund",
+                "Technical_University_of_Dortmund",
+                "2011_Internationaler_Apano_Cup",
+                "Dortmunder_Philharmoniker",
+                "Internationaler_Apano_Cup",
+                "Dortmund_Stadtbahn"
+            ],
+            "scores": [
+                0.8722843976300197,
+                0.09249506254114549,
+                0.012179065174456879,
+                0.007241606319947334,
+                0.004279131007241606,
+                0.004279131007241606,
+                0.002304147465437788,
+                0.0013166556945358788,
+                0.0013166556945358788,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0006583278472679394,
+                0.0003291639236339697
+            ]
+        },
+        {
+            "begin": 2716,
+            "end": 2721,
+            "text": "Mainz",
+            "concept": 30,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 2763,
+            "end": 2769,
+            "text": "Polish",
+            "concept": 34
+        },
+        {
+            "begin": 2770,
+            "end": 2778,
+            "text": "predator",
+            "concept": 35
+        },
+        {
+            "begin": 2779,
+            "end": 2797,
+            "text": "Robert Lewandowski",
+            "concept": 36,
+            "candidates": [
+                "Robert_Lewandowski"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2874,
+            "end": 2890,
+            "text": "Christian Wetklo",
+            "concept": 37,
+            "candidates": [
+                "Christian_Wetklo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2900,
+            "end": 2906,
+            "text": "Allofs",
+            "concept": 10,
+            "candidates": [
+                "Klaus_Allofs"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2919,
+            "end": 2925,
+            "text": "Bremen",
+            "concept": 38,
+            "candidates": [
+                "Bremen",
+                "Bremen_(state)",
+                "Archbishopric_of_Bremen",
+                "Bremen_Hauptbahnhof",
+                "Bremen,_Georgia",
+                "Bremen_(aircraft)",
+                "Bremen,_Indiana",
+                "Bremen,_Maine",
+                "SS_Bremen_(1928)",
+                "Bremen_Airport",
+                "Bremen,_Alabama",
+                "SV_Werder_Bremen",
+                "Bremen-Verden",
+                "Bremen,_Ohio",
+                "Bremen_High_School_(Bremen,_Indiana)",
+                "Bremen_Township,_Cook_County,_Illinois"
+            ],
+            "scores": [
+                0.8561356707317073,
+                0.046684451219512195,
+                0.016577743902439025,
+                0.014672256097560975,
+                0.010670731707317074,
+                0.007240853658536586,
+                0.006669207317073171,
+                0.006097560975609756,
+                0.004573170731707317,
+                0.0026676829268292685,
+                0.002096036585365854,
+                0.0019054878048780487,
+                0.001714939024390244,
+                0.001714939024390244,
+                0.001524390243902439,
+                0.001524390243902439
+            ]
+        },
+        {
+            "begin": 2940,
+            "end": 2949,
+            "text": "Wolfsburg",
+            "concept": 39,
+            "candidates": [
+                "Wolfsburg",
+                "VfL_Wolfsburg",
+                "VfL_Wolfsburg_(women)",
+                "Volkswagen_Challenger",
+                "Wolfsburg_Hauptbahnhof",
+                "Wolfsburg_(film)",
+                "Grizzlys_Wolfsburg",
+                "Volkswagen_Arena",
+                "Wolfsburg_Volkswagen_Plant",
+                "VfL_Wolfsburg_II",
+                "Wolfsburg_Castle",
+                "Hanover\u2013Berlin_high-speed_railway",
+                "2011_Volkswagen_Challenger_\u2013_Doubles",
+                "Volkswagen",
+                "2012_Volkswagen_Challenger",
+                "2009_Volkswagen_Challenger"
+            ],
+            "scores": [
+                0.43106312292358806,
+                0.35299003322259137,
+                0.14119601328903655,
+                0.027408637873754152,
+                0.018272425249169437,
+                0.009136212624584718,
+                0.006644518272425249,
+                0.0033222591362126247,
+                0.0024916943521594683,
+                0.0016611295681063123,
+                0.0016611295681063123,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562
+            ]
+        },
+        {
+            "begin": 2987,
+            "end": 2996,
+            "text": "Wolfsburg",
+            "concept": 39,
+            "candidates": [
+                "Wolfsburg",
+                "VfL_Wolfsburg",
+                "VfL_Wolfsburg_(women)",
+                "Volkswagen_Challenger",
+                "Wolfsburg_Hauptbahnhof",
+                "Wolfsburg_(film)",
+                "Grizzlys_Wolfsburg",
+                "Volkswagen_Arena",
+                "Wolfsburg_Volkswagen_Plant",
+                "VfL_Wolfsburg_II",
+                "Wolfsburg_Castle",
+                "Hanover\u2013Berlin_high-speed_railway",
+                "2011_Volkswagen_Challenger_\u2013_Doubles",
+                "Volkswagen",
+                "2012_Volkswagen_Challenger",
+                "2009_Volkswagen_Challenger"
+            ],
+            "scores": [
+                0.43106312292358806,
+                0.35299003322259137,
+                0.14119601328903655,
+                0.027408637873754152,
+                0.018272425249169437,
+                0.009136212624584718,
+                0.006644518272425249,
+                0.0033222591362126247,
+                0.0024916943521594683,
+                0.0016611295681063123,
+                0.0016611295681063123,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562
+            ]
+        },
+        {
+            "begin": 3012,
+            "end": 3029,
+            "text": "sporting director",
+            "concept": 40
+        },
+        {
+            "begin": 3030,
+            "end": 3042,
+            "text": "Klaus Allofs",
+            "concept": 10,
+            "candidates": [
+                "Klaus_Allofs"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3152,
+            "end": 3158,
+            "text": "Bremen",
+            "concept": 38,
+            "candidates": [
+                "Bremen",
+                "Bremen_(state)",
+                "Archbishopric_of_Bremen",
+                "Bremen_Hauptbahnhof",
+                "Bremen,_Georgia",
+                "Bremen_(aircraft)",
+                "Bremen,_Indiana",
+                "Bremen,_Maine",
+                "SS_Bremen_(1928)",
+                "Bremen_Airport",
+                "Bremen,_Alabama",
+                "SV_Werder_Bremen",
+                "Bremen-Verden",
+                "Bremen,_Ohio",
+                "Bremen_High_School_(Bremen,_Indiana)",
+                "Bremen_Township,_Cook_County,_Illinois"
+            ],
+            "scores": [
+                0.8561356707317073,
+                0.046684451219512195,
+                0.016577743902439025,
+                0.014672256097560975,
+                0.010670731707317074,
+                0.007240853658536586,
+                0.006669207317073171,
+                0.006097560975609756,
+                0.004573170731707317,
+                0.0026676829268292685,
+                0.002096036585365854,
+                0.0019054878048780487,
+                0.001714939024390244,
+                0.001714939024390244,
+                0.001524390243902439,
+                0.001524390243902439
+            ]
+        },
+        {
+            "begin": 3197,
+            "end": 3206,
+            "text": "Wolfsburg",
+            "concept": 39,
+            "candidates": [
+                "Wolfsburg",
+                "VfL_Wolfsburg",
+                "VfL_Wolfsburg_(women)",
+                "Volkswagen_Challenger",
+                "Wolfsburg_Hauptbahnhof",
+                "Wolfsburg_(film)",
+                "Grizzlys_Wolfsburg",
+                "Volkswagen_Arena",
+                "Wolfsburg_Volkswagen_Plant",
+                "VfL_Wolfsburg_II",
+                "Wolfsburg_Castle",
+                "Hanover\u2013Berlin_high-speed_railway",
+                "2011_Volkswagen_Challenger_\u2013_Doubles",
+                "Volkswagen",
+                "2012_Volkswagen_Challenger",
+                "2009_Volkswagen_Challenger"
+            ],
+            "scores": [
+                0.43106312292358806,
+                0.35299003322259137,
+                0.14119601328903655,
+                0.027408637873754152,
+                0.018272425249169437,
+                0.009136212624584718,
+                0.006644518272425249,
+                0.0033222591362126247,
+                0.0024916943521594683,
+                0.0016611295681063123,
+                0.0016611295681063123,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562
+            ]
+        },
+        {
+            "begin": 3287,
+            "end": 3296,
+            "text": "Wolfsburg",
+            "concept": 39,
+            "candidates": [
+                "Wolfsburg",
+                "VfL_Wolfsburg",
+                "VfL_Wolfsburg_(women)",
+                "Volkswagen_Challenger",
+                "Wolfsburg_Hauptbahnhof",
+                "Wolfsburg_(film)",
+                "Grizzlys_Wolfsburg",
+                "Volkswagen_Arena",
+                "Wolfsburg_Volkswagen_Plant",
+                "VfL_Wolfsburg_II",
+                "Wolfsburg_Castle",
+                "Hanover\u2013Berlin_high-speed_railway",
+                "2011_Volkswagen_Challenger_\u2013_Doubles",
+                "Volkswagen",
+                "2012_Volkswagen_Challenger",
+                "2009_Volkswagen_Challenger"
+            ],
+            "scores": [
+                0.43106312292358806,
+                0.35299003322259137,
+                0.14119601328903655,
+                0.027408637873754152,
+                0.018272425249169437,
+                0.009136212624584718,
+                0.006644518272425249,
+                0.0033222591362126247,
+                0.0024916943521594683,
+                0.0016611295681063123,
+                0.0016611295681063123,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562
+            ]
+        },
+        {
+            "begin": 3321,
+            "end": 3337,
+            "text": "Marko Arnautovic",
+            "concept": 41,
+            "candidates": [
+                "Marko_Arnautovi\u0107"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3369,
+            "end": 3380,
+            "text": "Eljero Elia",
+            "concept": 42,
+            "candidates": [
+                "Eljero_Elia"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3435,
+            "end": 3443,
+            "text": "Austrian",
+            "concept": 43
+        },
+        {
+            "begin": 3459,
+            "end": 3468,
+            "text": "Wolfsburg",
+            "concept": 39,
+            "candidates": [
+                "Wolfsburg",
+                "VfL_Wolfsburg",
+                "VfL_Wolfsburg_(women)",
+                "Volkswagen_Challenger",
+                "Wolfsburg_Hauptbahnhof",
+                "Wolfsburg_(film)",
+                "Grizzlys_Wolfsburg",
+                "Volkswagen_Arena",
+                "Wolfsburg_Volkswagen_Plant",
+                "VfL_Wolfsburg_II",
+                "Wolfsburg_Castle",
+                "Hanover\u2013Berlin_high-speed_railway",
+                "2011_Volkswagen_Challenger_\u2013_Doubles",
+                "Volkswagen",
+                "2012_Volkswagen_Challenger",
+                "2009_Volkswagen_Challenger"
+            ],
+            "scores": [
+                0.43106312292358806,
+                0.35299003322259137,
+                0.14119601328903655,
+                0.027408637873754152,
+                0.018272425249169437,
+                0.009136212624584718,
+                0.006644518272425249,
+                0.0033222591362126247,
+                0.0024916943521594683,
+                0.0016611295681063123,
+                0.0016611295681063123,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562,
+                0.0008305647840531562
+            ]
+        },
+        {
+            "begin": 3528,
+            "end": 3534,
+            "text": "Bremen",
+            "concept": 38,
+            "candidates": [
+                "Bremen",
+                "Bremen_(state)",
+                "Archbishopric_of_Bremen",
+                "Bremen_Hauptbahnhof",
+                "Bremen,_Georgia",
+                "Bremen_(aircraft)",
+                "Bremen,_Indiana",
+                "Bremen,_Maine",
+                "SS_Bremen_(1928)",
+                "Bremen_Airport",
+                "Bremen,_Alabama",
+                "SV_Werder_Bremen",
+                "Bremen-Verden",
+                "Bremen,_Ohio",
+                "Bremen_High_School_(Bremen,_Indiana)",
+                "Bremen_Township,_Cook_County,_Illinois"
+            ],
+            "scores": [
+                0.8561356707317073,
+                0.046684451219512195,
+                0.016577743902439025,
+                0.014672256097560975,
+                0.010670731707317074,
+                0.007240853658536586,
+                0.006669207317073171,
+                0.006097560975609756,
+                0.004573170731707317,
+                0.0026676829268292685,
+                0.002096036585365854,
+                0.0019054878048780487,
+                0.001714939024390244,
+                0.001714939024390244,
+                0.001524390243902439,
+                0.001524390243902439
+            ]
+        },
+        {
+            "begin": 3564,
+            "end": 3577,
+            "text": "Lukas Schmitz",
+            "concept": 44,
+            "candidates": [
+                "Lukas_Schmitz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3628,
+            "end": 3645,
+            "text": "Adelino Vieirinha",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3671,
+            "end": 3679,
+            "text": "Bas Dost",
+            "concept": 45,
+            "candidates": [
+                "Bas_Dost"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3793,
+            "end": 3802,
+            "text": "Vieirinha",
+            "concept": 9,
+            "candidates": [
+                "Vieirinha",
+                "Manuel_Alberto_Vieira"
+            ],
+            "scores": [
+                0.9651162790697675,
+                0.03488372093023256
+            ]
+        },
+        {
+            "begin": 3820,
+            "end": 3830,
+            "text": "Franconian",
+            "concept": 46
+        },
+        {
+            "begin": 3845,
+            "end": 3859,
+            "text": "Greuther F\u00fcrth",
+            "concept": 47,
+            "candidates": [
+                "SpVgg_Greuther_F\u00fcrth"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3864,
+            "end": 3873,
+            "text": "Nuremberg",
+            "concept": 21,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 3991,
+            "end": 4000,
+            "text": "Nuremberg",
+            "concept": 21,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 4003,
+            "end": 4017,
+            "text": "Markus Feulner",
+            "concept": 48,
+            "candidates": [
+                "Markus_Feulner"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4049,
+            "end": 4065,
+            "text": "Stephan F\u00fcrstner",
+            "concept": 49,
+            "candidates": [
+                "Stephan_F\u00fcrstner"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4125,
+            "end": 4139,
+            "text": "Sercan Sararer",
+            "concept": 50,
+            "candidates": [
+                "Sercan_Sararer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4200,
+            "end": 4213,
+            "text": "Javier Pinola",
+            "concept": 51,
+            "candidates": [
+                "Javier_Pinola"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Royal Blues",
+            "keyword": true,
+            "count": 5,
+            "link": "FC_Schalke_04",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Bayern Munich",
+            "keyword": true,
+            "count": 6,
+            "link": "FC_Bayern_Munich",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Bundesliga",
+            "keyword": true,
+            "count": 4,
+            "link": "Bundesliga",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Hannover",
+            "keyword": true,
+            "count": 3,
+            "link": "Hannover_96",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Frankfurt",
+            "keyword": true,
+            "count": 3,
+            "link": "Eintracht_Frankfurt",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Stefan Aigner",
+            "keyword": false,
+            "count": 2,
+            "link": "Stefan_Aigner",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Toni Kroos",
+            "keyword": false,
+            "count": 2,
+            "link": "Toni_Kroos",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Marco Reus",
+            "keyword": false,
+            "count": 3,
+            "link": "Marco_Reus",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Javi Martinez",
+            "keyword": false,
+            "count": 2,
+            "link": "Javi_Mart\u00ednez",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Adelino Vieirinha",
+            "keyword": false,
+            "count": 2,
+            "link": "Vieirinha",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Klaus Allofs",
+            "keyword": false,
+            "count": 2,
+            "link": "Klaus_Allofs",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_head"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Marco Caligiuri",
+            "keyword": false,
+            "count": 1,
+            "link": "Marco_Caligiuri",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Saturday afternoon",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Lewis Holtby",
+            "keyword": false,
+            "count": 1,
+            "link": "Lewis_Holtby",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Klaas-Jan Huntelaar",
+            "keyword": false,
+            "count": 1,
+            "link": "Klaas-Jan_Huntelaar",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Dutchman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "September",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "goalkeeper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Lars Unnerstall",
+            "keyword": false,
+            "count": 1,
+            "link": "Lars_Unnerstall",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Dortmund",
+            "keyword": false,
+            "count": 5,
+            "link": "Borussia_Dortmund",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Nuremberg",
+            "keyword": false,
+            "count": 3,
+            "link": "1._FC_N\u00fcrnberg",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Bavarians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe1-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Franck Ribery",
+            "keyword": false,
+            "count": 1,
+            "link": "Franck_Rib\u00e9ry",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "40-million-euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "$52-million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "defender",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Dante",
+            "keyword": false,
+            "count": 1,
+            "link": "Dante_(footballer)",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Mario Gomez",
+            "keyword": false,
+            "count": 1,
+            "link": "Mario_G\u00f3mez",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Mario Mandzukic",
+            "keyword": false,
+            "count": 1,
+            "link": "Mario_Mand\u017euki\u0107",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Mainz",
+            "keyword": false,
+            "count": 3,
+            "link": "1._FSV_Mainz_05",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "J\u00fcrgen Klopp",
+            "keyword": false,
+            "count": 1,
+            "link": "J\u00fcrgen_Klopp",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Elkin Soto",
+            "keyword": false,
+            "count": 1,
+            "link": "Elkin_Soto",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "national team player",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Polish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "predator",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Robert Lewandowski",
+            "keyword": false,
+            "count": 1,
+            "link": "Robert_Lewandowski",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Christian Wetklo",
+            "keyword": false,
+            "count": 1,
+            "link": "Christian_Wetklo",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Bremen",
+            "keyword": false,
+            "count": 3,
+            "link": "SV_Werder_Bremen",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Wolfsburg",
+            "keyword": false,
+            "count": 5,
+            "link": "VfL_Wolfsburg",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "sporting director",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "Marko Arnautovic",
+            "keyword": false,
+            "count": 1,
+            "link": "Marko_Arnautovi\u0107",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Eljero Elia",
+            "keyword": false,
+            "count": 1,
+            "link": "Eljero_Elia",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "Austrian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 44,
+            "text": "Lukas Schmitz",
+            "keyword": false,
+            "count": 1,
+            "link": "Lukas_Schmitz",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 45,
+            "text": "Bas Dost",
+            "keyword": false,
+            "count": 1,
+            "link": "Bas_Dost",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 46,
+            "text": "Franconian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 47,
+            "text": "Greuther F\u00fcrth",
+            "keyword": false,
+            "count": 1,
+            "link": "SpVgg_Greuther_F\u00fcrth",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 48,
+            "text": "Markus Feulner",
+            "keyword": false,
+            "count": 1,
+            "link": "Markus_Feulner",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 49,
+            "text": "Stephan F\u00fcrstner",
+            "keyword": false,
+            "count": 1,
+            "link": "Stephan_F\u00fcrstner",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 50,
+            "text": "Sercan Sararer",
+            "keyword": false,
+            "count": 1,
+            "link": "Sercan_Sararer",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 51,
+            "text": "Javier Pinola",
+            "keyword": false,
+            "count": 1,
+            "link": "Javier_Pinola",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 52,
+            "keyword": false,
+            "count": 0,
+            "link": "Austria",
+            "tags": []
+        },
+        {
+            "concept": 53,
+            "keyword": false,
+            "count": 0,
+            "link": "Poland",
+            "tags": []
+        },
+        {
+            "concept": 54,
+            "keyword": false,
+            "count": 0,
+            "link": "Netherlands",
+            "tags": []
+        },
+        {
+            "concept": 55,
+            "keyword": false,
+            "count": 0,
+            "link": "Bavaria",
+            "tags": []
+        },
+        {
+            "concept": 56,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "appears_in",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 0,
+            "p": "vs",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 1,
+            "p": "vs",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "vs",
+            "o": 21
+        },
+        {
+            "s": 1,
+            "p": "won_vs",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "event_in0",
+            "o": 56
+        },
+        {
+            "s": 3,
+            "p": "appears_in",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 3,
+            "p": "vs",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "appears_in",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 4,
+            "p": "vs",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "player_of",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 20
+        },
+        {
+            "s": 7,
+            "p": "player_of",
+            "o": 20
+        },
+        {
+            "s": 8,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "member_of",
+            "o": 39
+        },
+        {
+            "s": 9,
+            "p": "player_of",
+            "o": 39
+        },
+        {
+            "s": 10,
+            "p": "head_of",
+            "o": 39
+        },
+        {
+            "s": 10,
+            "p": "member_of",
+            "o": 39
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 30
+        },
+        {
+            "s": 11,
+            "p": "player_of",
+            "o": 30
+        },
+        {
+            "s": 14,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 15,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 15,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 54
+        },
+        {
+            "s": 19,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 19,
+            "p": "player_of",
+            "o": 0
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 20,
+            "p": "vs",
+            "o": 30
+        },
+        {
+            "s": 21,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 21,
+            "p": "vs",
+            "o": 1
+        },
+        {
+            "s": 21,
+            "p": "vs",
+            "o": 47
+        },
+        {
+            "s": 22,
+            "p": "gpe1",
+            "o": 55
+        },
+        {
+            "s": 23,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 23,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 27,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 27,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 28,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 28,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 29,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 29,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 30,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 30,
+            "p": "vs",
+            "o": 20
+        },
+        {
+            "s": 31,
+            "p": "coach_of",
+            "o": 20
+        },
+        {
+            "s": 31,
+            "p": "coach_of",
+            "o": 30
+        },
+        {
+            "s": 31,
+            "p": "member_of",
+            "o": 20
+        },
+        {
+            "s": 31,
+            "p": "member_of",
+            "o": 30
+        },
+        {
+            "s": 32,
+            "p": "member_of",
+            "o": 30
+        },
+        {
+            "s": 32,
+            "p": "player_of",
+            "o": 30
+        },
+        {
+            "s": 34,
+            "p": "gpe0",
+            "o": 53
+        },
+        {
+            "s": 36,
+            "p": "citizen_of",
+            "o": 53
+        },
+        {
+            "s": 36,
+            "p": "citizen_of-x",
+            "o": 34
+        },
+        {
+            "s": 36,
+            "p": "member_of",
+            "o": 20
+        },
+        {
+            "s": 36,
+            "p": "player_of",
+            "o": 20
+        },
+        {
+            "s": 37,
+            "p": "member_of",
+            "o": 30
+        },
+        {
+            "s": 37,
+            "p": "player_of",
+            "o": 30
+        },
+        {
+            "s": 38,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 38,
+            "p": "vs",
+            "o": 39
+        },
+        {
+            "s": 39,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 39,
+            "p": "vs",
+            "o": 38
+        },
+        {
+            "s": 41,
+            "p": "member_of",
+            "o": 38
+        },
+        {
+            "s": 41,
+            "p": "player_of",
+            "o": 38
+        },
+        {
+            "s": 42,
+            "p": "member_of",
+            "o": 38
+        },
+        {
+            "s": 42,
+            "p": "player_of",
+            "o": 38
+        },
+        {
+            "s": 43,
+            "p": "gpe0",
+            "o": 52
+        },
+        {
+            "s": 44,
+            "p": "member_of",
+            "o": 38
+        },
+        {
+            "s": 44,
+            "p": "player_of",
+            "o": 38
+        },
+        {
+            "s": 45,
+            "p": "member_of",
+            "o": 39
+        },
+        {
+            "s": 45,
+            "p": "player_of",
+            "o": 39
+        },
+        {
+            "s": 47,
+            "p": "based_in0",
+            "o": 56
+        },
+        {
+            "s": 47,
+            "p": "vs",
+            "o": 21
+        },
+        {
+            "s": 48,
+            "p": "member_of",
+            "o": 21
+        },
+        {
+            "s": 48,
+            "p": "player_of",
+            "o": 21
+        },
+        {
+            "s": 49,
+            "p": "member_of",
+            "o": 47
+        },
+        {
+            "s": 49,
+            "p": "player_of",
+            "o": 47
+        },
+        {
+            "s": 50,
+            "p": "member_of",
+            "o": 47
+        },
+        {
+            "s": 50,
+            "p": "player_of",
+            "o": 47
+        },
+        {
+            "s": 51,
+            "p": "member_of",
+            "o": 21
+        },
+        {
+            "s": 51,
+            "p": "player_of",
+            "o": 21
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-game",
+            "slots": [
+                {
+                    "name": "winner",
+                    "value": 1
+                },
+                {
+                    "name": "loser",
+                    "value": 3
+                },
+                {
+                    "name": "time",
+                    "value": 12
+                },
+                {
+                    "name": "competition",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20001065"
+    ]
+}

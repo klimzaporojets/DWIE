@@ -1,0 +1,1723 @@
+{
+    "id": "DW_18391860",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 8,
+            "text": "Mercedes",
+            "concept": 5,
+            "candidates": [
+                "Mercedes_AMG_High_Performance_Powertrains",
+                "Mercedes-Benz_in_Formula_One",
+                "Mercedes-Benz",
+                "Mercedes-Benz_in_motorsport",
+                "Mercedes_(marque)",
+                "Mercedes-AMG",
+                "Mercedes,_Uruguay",
+                "Mercedes,_Buenos_Aires",
+                "Mercedes_Jones",
+                "Mercedes,_Texas",
+                "Mercedes,_Corrientes",
+                "Mercedes_(singer)",
+                "Mercedes_McQueen",
+                "Mercedes,_Camarines_Norte",
+                "Roman_Catholic_Diocese_of_Mercedes",
+                "Mercedes,_Eastern_Samar"
+            ],
+            "scores": [
+                0.4783783783783784,
+                0.2759330759330759,
+                0.0945945945945946,
+                0.07657657657657657,
+                0.023809523809523808,
+                0.007850707850707852,
+                0.007464607464607464,
+                0.006177606177606178,
+                0.005405405405405406,
+                0.004375804375804376,
+                0.003732303732303732,
+                0.003732303732303732,
+                0.002187902187902188,
+                0.0011583011583011582,
+                0.0009009009009009009,
+                0.0006435006435006435
+            ]
+        },
+        {
+            "begin": 10,
+            "end": 18,
+            "text": "Hamilton",
+            "concept": 2,
+            "candidates": [
+                "Hamilton,_Ontario",
+                "Hamilton,_New_Zealand",
+                "Hamilton_(musical)",
+                "Hamilton,_South_Lanarkshire",
+                "Hamilton,_Bermuda",
+                "Hamilton_Academical_F.C.",
+                "Hamilton_County,_New_York",
+                "Hamilton,_Ohio",
+                "Hamilton_County,_Ohio",
+                "Hamilton,_Victoria",
+                "George_Hamilton_(footballer)",
+                "Seddon_Park",
+                "Hamilton_County,_Texas",
+                "Hamilton_County,_Florida",
+                "Hamilton_(UK_Parliament_constituency)",
+                "Hamilton,_Queensland"
+            ],
+            "scores": [
+                0.23425100421279513,
+                0.16841383364357793,
+                0.059273047908298224,
+                0.056333888507886745,
+                0.039972567845596156,
+                0.034780052904869206,
+                0.03242872538454002,
+                0.022631527383168412,
+                0.0219457235230724,
+                0.01694915254237288,
+                0.011952581561673361,
+                0.010091113941412756,
+                0.009699226021357891,
+                0.009209366121289312,
+                0.009209366121289312,
+                0.009111394141275595
+            ]
+        },
+        {
+            "begin": 36,
+            "end": 54,
+            "text": "Bahrain Grand Prix",
+            "concept": 4,
+            "candidates": [
+                "Bahrain_Grand_Prix",
+                "2016_Bahrain_Grand_Prix",
+                "2014_Bahrain_Grand_Prix",
+                "2012_Bahrain_Grand_Prix",
+                "2010_Bahrain_Grand_Prix",
+                "2015_Bahrain_Grand_Prix",
+                "2017_Bahrain_Grand_Prix",
+                "2011_Bahrain_Grand_Prix",
+                "2006_Bahrain_Grand_Prix",
+                "2009_Bahrain_Grand_Prix",
+                "2018_Bahrain_Grand_Prix",
+                "2013_Bahrain_Grand_Prix",
+                "2008_Bahrain_Grand_Prix",
+                "2007_Bahrain_Grand_Prix",
+                "2005_Bahrain_Grand_Prix",
+                "2004_Bahrain_Grand_Prix"
+            ],
+            "scores": [
+                0.43,
+                0.085,
+                0.075,
+                0.075,
+                0.05,
+                0.045,
+                0.04,
+                0.035,
+                0.035,
+                0.03,
+                0.03,
+                0.025,
+                0.015,
+                0.015,
+                0.01,
+                0.005
+            ]
+        },
+        {
+            "begin": 65,
+            "end": 76,
+            "text": "Formula One",
+            "concept": 1,
+            "candidates": [
+                "Formula_One",
+                "2011_Formula_One_World_Championship",
+                "2007_Formula_One_World_Championship",
+                "2010_Formula_One_World_Championship",
+                "2012_Formula_One_World_Championship",
+                "2009_Formula_One_World_Championship",
+                "2008_Formula_One_World_Championship",
+                "2006_Formula_One_World_Championship",
+                "2016_Formula_One_World_Championship",
+                "2015_Formula_One_World_Championship",
+                "2013_Formula_One_World_Championship",
+                "2014_Formula_One_World_Championship",
+                "Formula_One_car",
+                "2005_Formula_One_World_Championship",
+                "2018_Formula_One_World_Championship",
+                "2017_Formula_One_World_Championship"
+            ],
+            "scores": [
+                0.882620958993274,
+                0.00954653937947494,
+                0.007702321544803645,
+                0.007485354740724669,
+                0.007268387936645694,
+                0.0065090041223692776,
+                0.0062920373182903016,
+                0.0055326535040138855,
+                0.0053156866999349095,
+                0.0053156866999349095,
+                0.005098719895855934,
+                0.004990236493816446,
+                0.004556302885658494,
+                0.004013885875461054,
+                0.0039054024734215664,
+                0.0039054024734215664
+            ]
+        },
+        {
+            "begin": 77,
+            "end": 91,
+            "text": "world champion",
+            "concept": 6
+        },
+        {
+            "begin": 92,
+            "end": 106,
+            "text": "Lewis Hamilton",
+            "concept": 2,
+            "candidates": [
+                "Lewis_Hamilton",
+                "Lewis_Hamilton_(Cars)"
+            ],
+            "scores": [
+                0.9996237772761475,
+                0.0003762227238525207
+            ]
+        },
+        {
+            "begin": 163,
+            "end": 170,
+            "text": "Bahrain",
+            "concept": 3,
+            "candidates": [
+                "Bahrain",
+                "Bahrain_national_football_team",
+                "Bahrain_Football_Association",
+                "State_of_Bahrain",
+                "Bahrain_International_Circuit",
+                "Bahrain_SC",
+                "Bahrain_national_cricket_team",
+                "2013_Bahrain_Grand_Prix",
+                "Football_in_Bahrain",
+                "2007_Bahrain_Grand_Prix",
+                "2006_Bahrain_Grand_Prix",
+                "2010_Bahrain_Grand_Prix",
+                "2015_Bahrain_Grand_Prix",
+                "2016_Bahrain_Grand_Prix",
+                "Bahrain_Grand_Prix",
+                "2012_Bahrain_Grand_Prix"
+            ],
+            "scores": [
+                0.7871975287454951,
+                0.07877123734340141,
+                0.0197357130598936,
+                0.009610434185687317,
+                0.009267204393341342,
+                0.004461987300497683,
+                0.004461987300497683,
+                0.003432297923459756,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.002917453234940793,
+                0.002745838338767805,
+                0.002745838338767805,
+                0.002574223442594817,
+                0.002574223442594817
+            ]
+        },
+        {
+            "begin": 172,
+            "end": 180,
+            "text": "Mercedes",
+            "concept": 5,
+            "candidates": [
+                "Mercedes_AMG_High_Performance_Powertrains",
+                "Mercedes-Benz_in_Formula_One",
+                "Mercedes-Benz",
+                "Mercedes-Benz_in_motorsport",
+                "Mercedes_(marque)",
+                "Mercedes-AMG",
+                "Mercedes,_Uruguay",
+                "Mercedes,_Buenos_Aires",
+                "Mercedes_Jones",
+                "Mercedes,_Texas",
+                "Mercedes,_Corrientes",
+                "Mercedes_(singer)",
+                "Mercedes_McQueen",
+                "Mercedes,_Camarines_Norte",
+                "Roman_Catholic_Diocese_of_Mercedes",
+                "Mercedes,_Eastern_Samar"
+            ],
+            "scores": [
+                0.4783783783783784,
+                0.2759330759330759,
+                0.0945945945945946,
+                0.07657657657657657,
+                0.023809523809523808,
+                0.007850707850707852,
+                0.007464607464607464,
+                0.006177606177606178,
+                0.005405405405405406,
+                0.004375804375804376,
+                0.003732303732303732,
+                0.003732303732303732,
+                0.002187902187902188,
+                0.0011583011583011582,
+                0.0009009009009009009,
+                0.0006435006435006435
+            ]
+        },
+        {
+            "begin": 181,
+            "end": 189,
+            "text": "teammate",
+            "concept": 7
+        },
+        {
+            "begin": 190,
+            "end": 202,
+            "text": "Nico Rosberg",
+            "concept": 0,
+            "candidates": [
+                "Nico_Rosberg"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 221,
+            "end": 228,
+            "text": "Ferrari",
+            "concept": 8,
+            "candidates": [
+                "Scuderia_Ferrari",
+                "Ferrari",
+                "Ferrari_126C",
+                "Ferrari_312T",
+                "Matteo_Ferrari",
+                "Ferrari_(film)",
+                "Ferrari_641",
+                "Ferrari_640",
+                "Ferrari_F310",
+                "Ferrari_F1/87",
+                "Ferrari_412_T1",
+                "Ferrari_312B",
+                "Ferrari_F2002",
+                "Ferrari_F93A",
+                "Ferrari_156/85",
+                "Mar\u00eda_Paz_Ferrari"
+            ],
+            "scores": [
+                0.6811832374691865,
+                0.3066087568963493,
+                0.0010564620260593966,
+                0.0010564620260593966,
+                0.0007043080173729311,
+                0.0005869233478107759,
+                0.0005869233478107759,
+                0.0005869233478107759,
+                0.0004695386782486207,
+                0.0004695386782486207,
+                0.0004108463434675431,
+                0.0004108463434675431,
+                0.00035215400868646553,
+                0.00035215400868646553,
+                0.00035215400868646553,
+                0.00029346167390538794
+            ]
+        },
+        {
+            "begin": 231,
+            "end": 247,
+            "text": "Sebastian Vettel",
+            "concept": 9,
+            "candidates": [
+                "Sebastian_Vettel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 249,
+            "end": 257,
+            "text": "Hamilton",
+            "concept": 2,
+            "candidates": [
+                "Hamilton,_Ontario",
+                "Hamilton,_New_Zealand",
+                "Hamilton_(musical)",
+                "Hamilton,_South_Lanarkshire",
+                "Hamilton,_Bermuda",
+                "Hamilton_Academical_F.C.",
+                "Hamilton_County,_New_York",
+                "Hamilton,_Ohio",
+                "Hamilton_County,_Ohio",
+                "Hamilton,_Victoria",
+                "George_Hamilton_(footballer)",
+                "Seddon_Park",
+                "Hamilton_County,_Texas",
+                "Hamilton_County,_Florida",
+                "Hamilton_(UK_Parliament_constituency)",
+                "Hamilton,_Queensland"
+            ],
+            "scores": [
+                0.23425100421279513,
+                0.16841383364357793,
+                0.059273047908298224,
+                0.056333888507886745,
+                0.039972567845596156,
+                0.034780052904869206,
+                0.03242872538454002,
+                0.022631527383168412,
+                0.0219457235230724,
+                0.01694915254237288,
+                0.011952581561673361,
+                0.010091113941412756,
+                0.009699226021357891,
+                0.009209366121289312,
+                0.009209366121289312,
+                0.009111394141275595
+            ]
+        },
+        {
+            "begin": 297,
+            "end": 304,
+            "text": "Bahrain",
+            "concept": 3,
+            "candidates": [
+                "Bahrain",
+                "Bahrain_national_football_team",
+                "Bahrain_Football_Association",
+                "State_of_Bahrain",
+                "Bahrain_International_Circuit",
+                "Bahrain_SC",
+                "Bahrain_national_cricket_team",
+                "2013_Bahrain_Grand_Prix",
+                "Football_in_Bahrain",
+                "2007_Bahrain_Grand_Prix",
+                "2006_Bahrain_Grand_Prix",
+                "2010_Bahrain_Grand_Prix",
+                "2015_Bahrain_Grand_Prix",
+                "2016_Bahrain_Grand_Prix",
+                "Bahrain_Grand_Prix",
+                "2012_Bahrain_Grand_Prix"
+            ],
+            "scores": [
+                0.7871975287454951,
+                0.07877123734340141,
+                0.0197357130598936,
+                0.009610434185687317,
+                0.009267204393341342,
+                0.004461987300497683,
+                0.004461987300497683,
+                0.003432297923459756,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.002917453234940793,
+                0.002745838338767805,
+                0.002745838338767805,
+                0.002574223442594817,
+                0.002574223442594817
+            ]
+        },
+        {
+            "begin": 370,
+            "end": 376,
+            "text": "Sunday",
+            "concept": 10
+        },
+        {
+            "begin": 379,
+            "end": 397,
+            "text": "Bahrain Grand Prix",
+            "concept": 4,
+            "candidates": [
+                "Bahrain_Grand_Prix",
+                "2016_Bahrain_Grand_Prix",
+                "2014_Bahrain_Grand_Prix",
+                "2012_Bahrain_Grand_Prix",
+                "2010_Bahrain_Grand_Prix",
+                "2015_Bahrain_Grand_Prix",
+                "2017_Bahrain_Grand_Prix",
+                "2011_Bahrain_Grand_Prix",
+                "2006_Bahrain_Grand_Prix",
+                "2009_Bahrain_Grand_Prix",
+                "2018_Bahrain_Grand_Prix",
+                "2013_Bahrain_Grand_Prix",
+                "2008_Bahrain_Grand_Prix",
+                "2007_Bahrain_Grand_Prix",
+                "2005_Bahrain_Grand_Prix",
+                "2004_Bahrain_Grand_Prix"
+            ],
+            "scores": [
+                0.43,
+                0.085,
+                0.075,
+                0.075,
+                0.05,
+                0.045,
+                0.04,
+                0.035,
+                0.035,
+                0.03,
+                0.03,
+                0.025,
+                0.015,
+                0.015,
+                0.01,
+                0.005
+            ]
+        },
+        {
+            "begin": 403,
+            "end": 410,
+            "text": "British",
+            "concept": 11
+        },
+        {
+            "begin": 500,
+            "end": 506,
+            "text": "German",
+            "concept": 12
+        },
+        {
+            "begin": 507,
+            "end": 523,
+            "text": "Sebastian Vettel",
+            "concept": 9,
+            "candidates": [
+                "Sebastian_Vettel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 559,
+            "end": 567,
+            "text": "teammate",
+            "concept": 7
+        },
+        {
+            "begin": 568,
+            "end": 575,
+            "text": "Rosberg",
+            "concept": 0,
+            "candidates": [
+                "Nico_Rosberg",
+                "Keke_Rosberg"
+            ],
+            "scores": [
+                0.75,
+                0.25
+            ]
+        },
+        {
+            "begin": 587,
+            "end": 594,
+            "text": "Germany",
+            "concept": 13,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 596,
+            "end": 604,
+            "text": "Hamilton",
+            "concept": 2,
+            "candidates": [
+                "Hamilton,_Ontario",
+                "Hamilton,_New_Zealand",
+                "Hamilton_(musical)",
+                "Hamilton,_South_Lanarkshire",
+                "Hamilton,_Bermuda",
+                "Hamilton_Academical_F.C.",
+                "Hamilton_County,_New_York",
+                "Hamilton,_Ohio",
+                "Hamilton_County,_Ohio",
+                "Hamilton,_Victoria",
+                "George_Hamilton_(footballer)",
+                "Seddon_Park",
+                "Hamilton_County,_Texas",
+                "Hamilton_County,_Florida",
+                "Hamilton_(UK_Parliament_constituency)",
+                "Hamilton,_Queensland"
+            ],
+            "scores": [
+                0.23425100421279513,
+                0.16841383364357793,
+                0.059273047908298224,
+                0.056333888507886745,
+                0.039972567845596156,
+                0.034780052904869206,
+                0.03242872538454002,
+                0.022631527383168412,
+                0.0219457235230724,
+                0.01694915254237288,
+                0.011952581561673361,
+                0.010091113941412756,
+                0.009699226021357891,
+                0.009209366121289312,
+                0.009209366121289312,
+                0.009111394141275595
+            ]
+        },
+        {
+            "begin": 666,
+            "end": 673,
+            "text": "Bahrain",
+            "concept": 3,
+            "candidates": [
+                "Bahrain",
+                "Bahrain_national_football_team",
+                "Bahrain_Football_Association",
+                "State_of_Bahrain",
+                "Bahrain_International_Circuit",
+                "Bahrain_SC",
+                "Bahrain_national_cricket_team",
+                "2013_Bahrain_Grand_Prix",
+                "Football_in_Bahrain",
+                "2007_Bahrain_Grand_Prix",
+                "2006_Bahrain_Grand_Prix",
+                "2010_Bahrain_Grand_Prix",
+                "2015_Bahrain_Grand_Prix",
+                "2016_Bahrain_Grand_Prix",
+                "Bahrain_Grand_Prix",
+                "2012_Bahrain_Grand_Prix"
+            ],
+            "scores": [
+                0.7871975287454951,
+                0.07877123734340141,
+                0.0197357130598936,
+                0.009610434185687317,
+                0.009267204393341342,
+                0.004461987300497683,
+                0.004461987300497683,
+                0.003432297923459756,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.003089068131113781,
+                0.002917453234940793,
+                0.002745838338767805,
+                0.002745838338767805,
+                0.002574223442594817,
+                0.002574223442594817
+            ]
+        },
+        {
+            "begin": 830,
+            "end": 834,
+            "text": "Finn",
+            "concept": 14
+        },
+        {
+            "begin": 835,
+            "end": 849,
+            "text": "Kimi Raikkonen",
+            "concept": 15,
+            "candidates": [
+                "Kimi_R\u00e4ikk\u00f6nen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 879,
+            "end": 886,
+            "text": "Ferrari",
+            "concept": 8,
+            "candidates": [
+                "Scuderia_Ferrari",
+                "Ferrari",
+                "Ferrari_126C",
+                "Ferrari_312T",
+                "Matteo_Ferrari",
+                "Ferrari_(film)",
+                "Ferrari_641",
+                "Ferrari_640",
+                "Ferrari_F310",
+                "Ferrari_F1/87",
+                "Ferrari_412_T1",
+                "Ferrari_312B",
+                "Ferrari_F2002",
+                "Ferrari_F93A",
+                "Ferrari_156/85",
+                "Mar\u00eda_Paz_Ferrari"
+            ],
+            "scores": [
+                0.6811832374691865,
+                0.3066087568963493,
+                0.0010564620260593966,
+                0.0010564620260593966,
+                0.0007043080173729311,
+                0.0005869233478107759,
+                0.0005869233478107759,
+                0.0005869233478107759,
+                0.0004695386782486207,
+                0.0004695386782486207,
+                0.0004108463434675431,
+                0.0004108463434675431,
+                0.00035215400868646553,
+                0.00035215400868646553,
+                0.00035215400868646553,
+                0.00029346167390538794
+            ]
+        },
+        {
+            "begin": 911,
+            "end": 926,
+            "text": "Valtteri Bottas",
+            "concept": 16,
+            "candidates": [
+                "Valtteri_Bottas"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 931,
+            "end": 940,
+            "text": "Brazilian",
+            "concept": 17
+        },
+        {
+            "begin": 941,
+            "end": 953,
+            "text": "Felipe Massa",
+            "concept": 18,
+            "candidates": [
+                "Felipe_Massa"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 958,
+            "end": 966,
+            "text": "Williams",
+            "concept": 19,
+            "candidates": [
+                "Williams_Grand_Prix_Engineering",
+                "WMS_Industries",
+                "Williams_Ephs",
+                "Williams_College",
+                "Frank_Williams_Racing_Cars",
+                "Williams_County,_North_Dakota",
+                "Stan_Williams_(footballer,_born_1919)",
+                "Williams,_Arizona",
+                "Courtney_M._Williams",
+                "Kelly_Williams",
+                "Deron_Williams",
+                "Williams_County,_Ohio",
+                "Elizabeth_Williams_(basketball)",
+                "Williams,_Western_Australia",
+                "Woody_Williams",
+                "Ty_Williams"
+            ],
+            "scores": [
+                0.6520108625371783,
+                0.015776542092331567,
+                0.013836803310487521,
+                0.013060907797749903,
+                0.011379800853485065,
+                0.010215957584378637,
+                0.00995732574679943,
+                0.009698693909220225,
+                0.009310746152851416,
+                0.00905211431527221,
+                0.00905211431527221,
+                0.008793482477693003,
+                0.007371007371007371,
+                0.006853743695848959,
+                0.00646579593948015,
+                0.006077848183111341
+            ]
+        },
+        {
+            "begin": 1028,
+            "end": 1036,
+            "text": "Hamilton",
+            "concept": 2,
+            "candidates": [
+                "Hamilton,_Ontario",
+                "Hamilton,_New_Zealand",
+                "Hamilton_(musical)",
+                "Hamilton,_South_Lanarkshire",
+                "Hamilton,_Bermuda",
+                "Hamilton_Academical_F.C.",
+                "Hamilton_County,_New_York",
+                "Hamilton,_Ohio",
+                "Hamilton_County,_Ohio",
+                "Hamilton,_Victoria",
+                "George_Hamilton_(footballer)",
+                "Seddon_Park",
+                "Hamilton_County,_Texas",
+                "Hamilton_County,_Florida",
+                "Hamilton_(UK_Parliament_constituency)",
+                "Hamilton,_Queensland"
+            ],
+            "scores": [
+                0.23425100421279513,
+                0.16841383364357793,
+                0.059273047908298224,
+                0.056333888507886745,
+                0.039972567845596156,
+                0.034780052904869206,
+                0.03242872538454002,
+                0.022631527383168412,
+                0.0219457235230724,
+                0.01694915254237288,
+                0.011952581561673361,
+                0.010091113941412756,
+                0.009699226021357891,
+                0.009209366121289312,
+                0.009209366121289312,
+                0.009111394141275595
+            ]
+        },
+        {
+            "begin": 1279,
+            "end": 1287,
+            "text": "Saturday",
+            "concept": 20
+        },
+        {
+            "begin": 1343,
+            "end": 1351,
+            "text": "Red Bull",
+            "concept": 21,
+            "candidates": [
+                "Red_Bull_Racing",
+                "Red_Bull",
+                "Barako_Bull_Energy_Boosters",
+                "Red_Bull_GmbH",
+                "Red_Bull_Records",
+                "Red_Bull_Theatre",
+                "Red_Bull_Racing_Team",
+                "Red_Bull_Ring",
+                "Red_Bull_Brasil",
+                "FC_Red_Bull_Salzburg",
+                "Red_Bull_Junior_Team",
+                "New_York_Red_Bulls",
+                "Barako_Bull_Energy",
+                "Red_Bull_(disambiguation)"
+            ],
+            "scores": [
+                0.49767261442979055,
+                0.36501163692785105,
+                0.0899922420480993,
+                0.02094647013188518,
+                0.01008533747090768,
+                0.005430566330488751,
+                0.0031031807602792862,
+                0.001939487975174554,
+                0.001939487975174554,
+                0.0011636927851047323,
+                0.0011636927851047323,
+                0.0007757951900698216,
+                0.0003878975950349108,
+                0.0003878975950349108
+            ]
+        },
+        {
+            "begin": 1354,
+            "end": 1370,
+            "text": "Daniel Ricciardo",
+            "concept": 22,
+            "candidates": [
+                "Daniel_Ricciardo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1372,
+            "end": 1388,
+            "text": "Nico Huelkenberg",
+            "concept": 23,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1394,
+            "end": 1405,
+            "text": "Force India",
+            "concept": 24,
+            "candidates": [
+                "Force_India",
+                "Racing_Point_Force_India"
+            ],
+            "scores": [
+                0.975,
+                0.025
+            ]
+        },
+        {
+            "begin": 1407,
+            "end": 1423,
+            "text": "Carlos Sainz Jr.",
+            "concept": 25,
+            "candidates": [
+                "Carlos_Sainz_Jr."
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1429,
+            "end": 1439,
+            "text": "Toro Rosso",
+            "concept": 26,
+            "candidates": [
+                "Scuderia_Toro_Rosso",
+                "Toro_Rosso_STR5"
+            ],
+            "scores": [
+                0.9991889699918897,
+                0.0008110300081103001
+            ]
+        },
+        {
+            "begin": 1444,
+            "end": 1459,
+            "text": "Romain Grosjean",
+            "concept": 27,
+            "candidates": [
+                "Romain_Grosjean"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1465,
+            "end": 1470,
+            "text": "Lotus",
+            "concept": 28,
+            "candidates": [
+                "Team_Lotus",
+                "Lotus_Cars",
+                "Lotus_F1",
+                "Nelumbo_nucifera",
+                "Team_Lotus_(2010\u201311)",
+                "List_of_plants_known_as_lotus",
+                "ByKolles_Racing",
+                "Motopark_Academy",
+                "Lotus_(genus)",
+                "Lotus_(Christina_Aguilera_album)",
+                "Charouz_Racing_System",
+                "Lotus_(American_band)",
+                "Lotus_Software",
+                "Nelumbo",
+                "Padma_(attribute)",
+                "Lotus_(Elisa_album)"
+            ],
+            "scores": [
+                0.6138662117704399,
+                0.12099427318143048,
+                0.06080175459973194,
+                0.03082734251248934,
+                0.027537468015109052,
+                0.018398927744608263,
+                0.014012428414767882,
+                0.013403192396734495,
+                0.01145363713902766,
+                0.011088095528207628,
+                0.010235165102960887,
+                0.008041915438040698,
+                0.006823443401973925,
+                0.0049957353478737665,
+                0.004508346533447057,
+                0.0024369440721335447
+            ]
+        },
+        {
+            "begin": 1497,
+            "end": 1503,
+            "text": "Sunday",
+            "concept": 10
+        },
+        {
+            "begin": 1518,
+            "end": 1547,
+            "text": "Bahrain International Circuit",
+            "concept": 29,
+            "candidates": [
+                "Bahrain_International_Circuit"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1549,
+            "end": 1566,
+            "text": "tj/kms (dpa, AFP)",
+            "concept": 30
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Nico Rosberg",
+            "keyword": false,
+            "count": 2,
+            "link": "Nico_Rosberg",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Formula One",
+            "keyword": true,
+            "count": 1,
+            "link": "Formula_One",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000994",
+                "sport_event::20001121",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Lewis Hamilton",
+            "keyword": true,
+            "count": 5,
+            "link": "Lewis_Hamilton",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Bahrain",
+            "keyword": true,
+            "count": 4,
+            "link": "Bahrain",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Bahrain Grand Prix",
+            "keyword": true,
+            "count": 2,
+            "link": "Bahrain_Grand_Prix",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20000994",
+                "sport_event::20001121",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Mercedes",
+            "keyword": false,
+            "count": 2,
+            "link": "Mercedes-Benz_in_Formula_One",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "world champion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "teammate",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Ferrari",
+            "keyword": false,
+            "count": 2,
+            "link": "Scuderia_Ferrari",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sebastian Vettel",
+            "keyword": false,
+            "count": 2,
+            "link": "Sebastian_Vettel",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Finn",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Kimi Raikkonen",
+            "keyword": false,
+            "count": 1,
+            "link": "Kimi_R\u00e4ikk\u00f6nen",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Valtteri Bottas",
+            "keyword": false,
+            "count": 1,
+            "link": "Valtteri_Bottas",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Brazilian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Felipe Massa",
+            "keyword": false,
+            "count": 1,
+            "link": "Felipe_Massa",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Williams",
+            "keyword": false,
+            "count": 1,
+            "link": "Williams_Grand_Prix_Engineering",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Red Bull",
+            "keyword": false,
+            "count": 1,
+            "link": "Red_Bull_Racing",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Daniel Ricciardo",
+            "keyword": false,
+            "count": 1,
+            "link": "Daniel_Ricciardo",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Nico Huelkenberg",
+            "keyword": false,
+            "count": 1,
+            "link": "Nico_H\u00fclkenberg",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Force India",
+            "keyword": false,
+            "count": 1,
+            "link": "Force_India",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Carlos Sainz Jr.",
+            "keyword": false,
+            "count": 1,
+            "link": "Carlos_Sainz_Jr.",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Toro Rosso",
+            "keyword": false,
+            "count": 1,
+            "link": "Scuderia_Toro_Rosso",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Romain Grosjean",
+            "keyword": false,
+            "count": 1,
+            "link": "Romain_Grosjean",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Lotus",
+            "keyword": false,
+            "count": 1,
+            "link": "Lotus_F1",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000994",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Bahrain International Circuit",
+            "keyword": false,
+            "count": 1,
+            "link": "Bahrain_International_Circuit",
+            "tags": [
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::sport_facility"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "tj/kms (dpa, AFP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 31,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 32,
+            "keyword": false,
+            "count": 0,
+            "link": "Brazil",
+            "tags": []
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "Finland",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "player_of",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "player_of",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "event_in0",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 13
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 9,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 9,
+            "p": "player_of",
+            "o": 8
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 31
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 13
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 33
+        },
+        {
+            "s": 15,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 33
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 15,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "player_of",
+            "o": 8
+        },
+        {
+            "s": 16,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 16,
+            "p": "player_of",
+            "o": 19
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 32
+        },
+        {
+            "s": 18,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 32
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 18,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "player_of",
+            "o": 19
+        },
+        {
+            "s": 22,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 22,
+            "p": "member_of",
+            "o": 21
+        },
+        {
+            "s": 22,
+            "p": "player_of",
+            "o": 21
+        },
+        {
+            "s": 23,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 23,
+            "p": "member_of",
+            "o": 24
+        },
+        {
+            "s": 23,
+            "p": "player_of",
+            "o": 24
+        },
+        {
+            "s": 25,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 25,
+            "p": "member_of",
+            "o": 26
+        },
+        {
+            "s": 25,
+            "p": "player_of",
+            "o": 26
+        },
+        {
+            "s": 27,
+            "p": "appears_in",
+            "o": 1
+        },
+        {
+            "s": 27,
+            "p": "member_of",
+            "o": 28
+        },
+        {
+            "s": 27,
+            "p": "player_of",
+            "o": 28
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-game",
+            "slots": [
+                {
+                    "name": "winner",
+                    "value": 2
+                },
+                {
+                    "name": "competition",
+                    "value": 4
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20000991",
+        "20000994"
+    ]
+}

@@ -1,0 +1,1427 @@
+{
+    "id": "DW_18126319",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "British",
+            "concept": 4
+        },
+        {
+            "begin": 70,
+            "end": 76,
+            "text": "London",
+            "concept": 5,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 164,
+            "end": 171,
+            "text": "England",
+            "concept": 3,
+            "candidates": [
+                "England",
+                "England_national_football_team",
+                "England_cricket_team",
+                "England_national_rugby_union_team",
+                "England_national_rugby_league_team",
+                "Kingdom_of_England",
+                "Rugby_Football_Union",
+                "England_women's_national_football_team",
+                "The_Football_Association",
+                "England_women's_cricket_team",
+                "Football_in_England",
+                "England_women's_national_rugby_union_team",
+                "Great_Britain_national_speedway_team",
+                "England_national_under-21_football_team",
+                "England_national_under-20_rugby_union_team",
+                "England_men's_national_hockey_team"
+            ],
+            "scores": [
+                0.7545582341956736,
+                0.06902918528776149,
+                0.046652399236272846,
+                0.035542686892847404,
+                0.019722624367931853,
+                0.011025786282285307,
+                0.006766538679423428,
+                0.005759425945741801,
+                0.004196303057006777,
+                0.004101886238224124,
+                0.0026961247141268543,
+                0.001835882587440465,
+                0.0017939195568703972,
+                0.0017309750110152955,
+                0.001479196827594889,
+                0.0014477245546673382
+            ]
+        },
+        {
+            "begin": 247,
+            "end": 275,
+            "text": "National Air Traffic Service",
+            "concept": 1,
+            "candidates": [
+                "NATS_Holdings"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 278,
+            "end": 282,
+            "text": "NATS",
+            "concept": 1,
+            "candidates": [
+                "Nat_(spirit)",
+                "NATS_Holdings",
+                "Nat_(unit)",
+                "Network_address_translation",
+                "National_Association_of_Teachers_of_Singing",
+                "NATS_Messaging",
+                "Naval_Air_Transport_Service",
+                "Too_Much_Media",
+                "Nat_caste",
+                "Washington_Nationals",
+                "Wild_Cards",
+                "Nucleic_acid_test"
+            ],
+            "scores": [
+                0.4621212121212121,
+                0.19696969696969696,
+                0.16666666666666666,
+                0.06060606060606061,
+                0.030303030303030304,
+                0.022727272727272728,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576
+            ]
+        },
+        {
+            "begin": 297,
+            "end": 303,
+            "text": "Friday",
+            "concept": 6
+        },
+        {
+            "begin": 401,
+            "end": 408,
+            "text": "British",
+            "concept": 4
+        },
+        {
+            "begin": 470,
+            "end": 474,
+            "text": "NATS",
+            "concept": 1,
+            "candidates": [
+                "Nat_(spirit)",
+                "NATS_Holdings",
+                "Nat_(unit)",
+                "Network_address_translation",
+                "National_Association_of_Teachers_of_Singing",
+                "NATS_Messaging",
+                "Naval_Air_Transport_Service",
+                "Too_Much_Media",
+                "Nat_caste",
+                "Washington_Nationals",
+                "Wild_Cards",
+                "Nucleic_acid_test"
+            ],
+            "scores": [
+                0.4621212121212121,
+                0.19696969696969696,
+                0.16666666666666666,
+                0.06060606060606061,
+                0.030303030303030304,
+                0.022727272727272728,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576
+            ]
+        },
+        {
+            "begin": 572,
+            "end": 580,
+            "text": "Swanwick",
+            "concept": 2,
+            "candidates": [
+                "Swanwick,_Hampshire",
+                "Swanwick,_Derbyshire",
+                "Swanwick_railway_station",
+                "Swanwick,_Illinois",
+                "Frederick_ffoulkes_Swanwick",
+                "Sussex_County,_Delaware",
+                "Swanwick,_Missouri"
+            ],
+            "scores": [
+                0.4358974358974359,
+                0.4230769230769231,
+                0.07692307692307693,
+                0.02564102564102564,
+                0.01282051282051282,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 597,
+            "end": 604,
+            "text": "England",
+            "concept": 3,
+            "candidates": [
+                "England",
+                "England_national_football_team",
+                "England_cricket_team",
+                "England_national_rugby_union_team",
+                "England_national_rugby_league_team",
+                "Kingdom_of_England",
+                "Rugby_Football_Union",
+                "England_women's_national_football_team",
+                "The_Football_Association",
+                "England_women's_cricket_team",
+                "Football_in_England",
+                "England_women's_national_rugby_union_team",
+                "Great_Britain_national_speedway_team",
+                "England_national_under-21_football_team",
+                "England_national_under-20_rugby_union_team",
+                "England_men's_national_hockey_team"
+            ],
+            "scores": [
+                0.7545582341956736,
+                0.06902918528776149,
+                0.046652399236272846,
+                0.035542686892847404,
+                0.019722624367931853,
+                0.011025786282285307,
+                0.006766538679423428,
+                0.005759425945741801,
+                0.004196303057006777,
+                0.004101886238224124,
+                0.0026961247141268543,
+                0.001835882587440465,
+                0.0017939195568703972,
+                0.0017309750110152955,
+                0.001479196827594889,
+                0.0014477245546673382
+            ]
+        },
+        {
+            "begin": 723,
+            "end": 727,
+            "text": "NATS",
+            "concept": 1,
+            "candidates": [
+                "Nat_(spirit)",
+                "NATS_Holdings",
+                "Nat_(unit)",
+                "Network_address_translation",
+                "National_Association_of_Teachers_of_Singing",
+                "NATS_Messaging",
+                "Naval_Air_Transport_Service",
+                "Too_Much_Media",
+                "Nat_caste",
+                "Washington_Nationals",
+                "Wild_Cards",
+                "Nucleic_acid_test"
+            ],
+            "scores": [
+                0.4621212121212121,
+                0.19696969696969696,
+                0.16666666666666666,
+                0.06060606060606061,
+                0.030303030303030304,
+                0.022727272727272728,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576,
+                0.007575757575757576
+            ]
+        },
+        {
+            "begin": 798,
+            "end": 804,
+            "text": "London",
+            "concept": 5,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 808,
+            "end": 814,
+            "text": "Friday",
+            "concept": 6
+        },
+        {
+            "begin": 919,
+            "end": 935,
+            "text": "Heathrow Airport",
+            "concept": 0,
+            "candidates": [
+                "Heathrow_Airport",
+                "Heathrow_Central_bus_station",
+                "Heathrow_Central_railway_station",
+                "Heathrow_Terminal_4_railway_station",
+                "Heathrow_Airport_Holdings",
+                "Heathrow_(hamlet)",
+                "Heathrow_Terminals_2_&_3_tube_station",
+                "London"
+            ],
+            "scores": [
+                0.9706927175843695,
+                0.015985790408525755,
+                0.007104795737122558,
+                0.0026642984014209592,
+                0.0008880994671403197,
+                0.0008880994671403197,
+                0.0008880994671403197,
+                0.0008880994671403197
+            ]
+        },
+        {
+            "begin": 946,
+            "end": 952,
+            "text": "Europe",
+            "concept": 7,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1095,
+            "end": 1101,
+            "text": "London",
+            "concept": 5,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 1128,
+            "end": 1151,
+            "text": "flight-tracking service",
+            "concept": 8
+        },
+        {
+            "begin": 1152,
+            "end": 1163,
+            "text": "FlightAware",
+            "concept": 9,
+            "candidates": [
+                "FlightAware"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1230,
+            "end": 1238,
+            "text": "Heathrow",
+            "concept": 0,
+            "candidates": [
+                "Heathrow_Airport",
+                "Heathrow_(hamlet)",
+                "Heathrow,_Florida",
+                "Heathrow_Terminals_2_&_3_tube_station",
+                "Heathrow_Central_bus_station",
+                "Heathrow_Terminal_4_railway_station",
+                "Expansion_of_Heathrow_Airport",
+                "Heathrow_Airtrack"
+            ],
+            "scores": [
+                0.8868778280542986,
+                0.05203619909502263,
+                0.027149321266968326,
+                0.02262443438914027,
+                0.004524886877828055,
+                0.0022624434389140274,
+                0.0022624434389140274,
+                0.0022624434389140274
+            ]
+        },
+        {
+            "begin": 1278,
+            "end": 1284,
+            "text": "London",
+            "concept": 5,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 1298,
+            "end": 1306,
+            "text": "airports",
+            "concept": 10
+        },
+        {
+            "begin": 1308,
+            "end": 1315,
+            "text": "Gatwick",
+            "concept": 11,
+            "candidates": [
+                "Gatwick_Airport",
+                "Gatwick_Racecourse",
+                "Gatwick_Airport_railway_station",
+                "Shackleford",
+                "British_Rail_Class_488"
+            ],
+            "scores": [
+                0.9604743083003953,
+                0.015810276679841896,
+                0.011857707509881422,
+                0.007905138339920948,
+                0.003952569169960474
+            ]
+        },
+        {
+            "begin": 1317,
+            "end": 1325,
+            "text": "Stansted",
+            "concept": 12,
+            "candidates": [
+                "London_Stansted_Airport",
+                "Stansted_F.C.",
+                "Stansted_Mountfitchet",
+                "Stansted,_Kent",
+                "Stansted_Park",
+                "Stansted,_Hampshire"
+            ],
+            "scores": [
+                0.5968379446640316,
+                0.2845849802371542,
+                0.05928853754940711,
+                0.05138339920948617,
+                0.003952569169960474,
+                0.003952569169960474
+            ]
+        },
+        {
+            "begin": 1327,
+            "end": 1338,
+            "text": "London City",
+            "concept": 13,
+            "candidates": [
+                "London_City_Soccer_Club",
+                "London_City_Airport",
+                "City_of_London",
+                "London_(electoral_district)"
+            ],
+            "scores": [
+                0.6995884773662552,
+                0.2716049382716049,
+                0.0205761316872428,
+                0.00823045267489712
+            ]
+        },
+        {
+            "begin": 1343,
+            "end": 1348,
+            "text": "Luton",
+            "concept": 14,
+            "candidates": [
+                "Luton",
+                "Luton_(UK_Parliament_constituency)",
+                "Luton_Airport",
+                "Luton_Town_F.C.",
+                "Luton_railway_station",
+                "Luton_Rugby_Club",
+                "Chatham,_Kent",
+                "Luton,_Devon",
+                "Luton_Bute_Street_railway_station",
+                "IBC_Vehicles",
+                "Luton,_Iowa",
+                "Luton_Borough_Council",
+                "Luton_by-election,_1886",
+                "Luton_body",
+                "Luton_Aircraft",
+                "Fort_Luton"
+            ],
+            "scores": [
+                0.7768969422423556,
+                0.057757644394110984,
+                0.050396375990939976,
+                0.035107587768969425,
+                0.035107587768969425,
+                0.020385050962627407,
+                0.003963759909399773,
+                0.0028312570781426952,
+                0.0016987542468856172,
+                0.0016987542468856172,
+                0.0016987542468856172,
+                0.0011325028312570782,
+                0.0011325028312570782,
+                0.0011325028312570782,
+                0.0011325028312570782,
+                0.0011325028312570782
+            ]
+        },
+        {
+            "begin": 1366,
+            "end": 1380,
+            "text": "Greater London",
+            "concept": 15,
+            "candidates": [
+                "Greater_London",
+                "London",
+                "Lord-Lieutenant_of_Greater_London",
+                "List_of_London_boroughs",
+                "Mayor_of_London",
+                "List_of_King_George_V_Playing_Fields_in_London",
+                "Kent",
+                "Metro-land",
+                "London_boroughs",
+                "Greater_London_Built-up_Area",
+                "Greater_London_Authority"
+            ],
+            "scores": [
+                0.9920907840440165,
+                0.004470426409903714,
+                0.000687757909215956,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978,
+                0.000343878954607978
+            ]
+        },
+        {
+            "begin": 1423,
+            "end": 1433,
+            "text": "Manchester",
+            "concept": 16,
+            "candidates": [
+                "Manchester",
+                "Manchester,_New_Hampshire",
+                "Manchester_Rugby_Club",
+                "Manchester,_Connecticut",
+                "Manchester_Airport",
+                "University_of_Manchester",
+                "Old_Trafford_Cricket_Ground",
+                "Manchester,_Tennessee",
+                "Manchester,_Vermont",
+                "Manchester_Piccadilly_station",
+                "Manchester,_Richmond,_Virginia",
+                "Manchester_Parish",
+                "Manchester,_New_York",
+                "Manchester_(UK_Parliament_constituency)",
+                "Manchester,_Kentucky",
+                "Manchester_Velodrome"
+            ],
+            "scores": [
+                0.8395790069850859,
+                0.04120256749103266,
+                0.009816877477817633,
+                0.008448178214083444,
+                0.008259392108740797,
+                0.006135548423636021,
+                0.005380404002265434,
+                0.005238814423258448,
+                0.004106097791202567,
+                0.0039645082121955826,
+                0.0030677742118180103,
+                0.002973381159146687,
+                0.0023598263167830848,
+                0.002171040211440438,
+                0.002123843685104776,
+                0.0019350575797621296
+            ]
+        },
+        {
+            "begin": 1438,
+            "end": 1448,
+            "text": "Birmingham",
+            "concept": 17,
+            "candidates": [
+                "Birmingham",
+                "Birmingham,_Alabama",
+                "Birmingham_City_F.C.",
+                "Arena_Birmingham",
+                "University_of_Birmingham",
+                "Birmingham_Airport",
+                "Birmingham,_Michigan",
+                "Birmingham_Classic_(tennis)",
+                "Edgbaston_Cricket_Ground",
+                "Birmingham_New_Street_railway_station",
+                "British_Grand_Prix_(athletics)",
+                "Birmingham_(UK_Parliament_constituency)",
+                "Roman_Catholic_Archdiocese_of_Birmingham",
+                "Alexander_Stadium",
+                "Birmingham_City_Council",
+                "ATP_Birmingham"
+            ],
+            "scores": [
+                0.7342953755298376,
+                0.13449540410534838,
+                0.05276944325379816,
+                0.0070962518455017385,
+                0.006191360670571987,
+                0.0059056055626994335,
+                0.005762728008763157,
+                0.005429347049578512,
+                0.005334095346954327,
+                0.005048340239081774,
+                0.001857408201171596,
+                0.0016669047959232272,
+                0.0013335238367385817,
+                0.001190646282802305,
+                0.001190646282802305,
+                0.0010477687288660284
+            ]
+        },
+        {
+            "begin": 1624,
+            "end": 1631,
+            "text": "Reuters",
+            "concept": 18,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1662,
+            "end": 1669,
+            "text": "British",
+            "concept": 4
+        },
+        {
+            "begin": 1751,
+            "end": 1759,
+            "text": "Swanwick",
+            "concept": 2,
+            "candidates": [
+                "Swanwick,_Hampshire",
+                "Swanwick,_Derbyshire",
+                "Swanwick_railway_station",
+                "Swanwick,_Illinois",
+                "Frederick_ffoulkes_Swanwick",
+                "Sussex_County,_Delaware",
+                "Swanwick,_Missouri"
+            ],
+            "scores": [
+                0.4358974358974359,
+                0.4230769230769231,
+                0.07692307692307693,
+                0.02564102564102564,
+                0.01282051282051282,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 1797,
+            "end": 1805,
+            "text": "Swanwick",
+            "concept": 2,
+            "candidates": [
+                "Swanwick,_Hampshire",
+                "Swanwick,_Derbyshire",
+                "Swanwick_railway_station",
+                "Swanwick,_Illinois",
+                "Frederick_ffoulkes_Swanwick",
+                "Sussex_County,_Delaware",
+                "Swanwick,_Missouri"
+            ],
+            "scores": [
+                0.4358974358974359,
+                0.4230769230769231,
+                0.07692307692307693,
+                0.02564102564102564,
+                0.01282051282051282,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 1876,
+            "end": 1884,
+            "text": "December",
+            "concept": 19
+        },
+        {
+            "begin": 1916,
+            "end": 1924,
+            "text": "Swanwick",
+            "concept": 2,
+            "candidates": [
+                "Swanwick,_Hampshire",
+                "Swanwick,_Derbyshire",
+                "Swanwick_railway_station",
+                "Swanwick,_Illinois",
+                "Frederick_ffoulkes_Swanwick",
+                "Sussex_County,_Delaware",
+                "Swanwick,_Missouri"
+            ],
+            "scores": [
+                0.4358974358974359,
+                0.4230769230769231,
+                0.07692307692307693,
+                0.02564102564102564,
+                0.01282051282051282,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 2042,
+            "end": 2050,
+            "text": "Swanwick",
+            "concept": 2,
+            "candidates": [
+                "Swanwick,_Hampshire",
+                "Swanwick,_Derbyshire",
+                "Swanwick_railway_station",
+                "Swanwick,_Illinois",
+                "Frederick_ffoulkes_Swanwick",
+                "Sussex_County,_Delaware",
+                "Swanwick,_Missouri"
+            ],
+            "scores": [
+                0.4358974358974359,
+                0.4230769230769231,
+                0.07692307692307693,
+                0.02564102564102564,
+                0.01282051282051282,
+                0.01282051282051282,
+                0.01282051282051282
+            ]
+        },
+        {
+            "begin": 2148,
+            "end": 2152,
+            "text": "2004",
+            "concept": 20
+        },
+        {
+            "begin": 2157,
+            "end": 2161,
+            "text": "2008",
+            "concept": 21
+        },
+        {
+            "begin": 2202,
+            "end": 2209,
+            "text": "British",
+            "concept": 4
+        },
+        {
+            "begin": 2210,
+            "end": 2229,
+            "text": "Transport Secretary",
+            "concept": 22
+        },
+        {
+            "begin": 2230,
+            "end": 2248,
+            "text": "Patrick McLoughlin",
+            "concept": 23,
+            "candidates": [
+                "Patrick_McLoughlin",
+                "Patrick_McLoughlin_(set_decorator)",
+                "Patrick_McLoughlin_(editor)"
+            ],
+            "scores": [
+                0.9044117647058824,
+                0.051470588235294115,
+                0.04411764705882353
+            ]
+        },
+        {
+            "begin": 2609,
+            "end": 2635,
+            "text": "pfd/sms (Reuters, AP, dpa)",
+            "concept": 24
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Heathrow Airport",
+            "keyword": false,
+            "count": 2,
+            "link": "Heathrow_Airport",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "National Air Traffic Service",
+            "keyword": true,
+            "count": 4,
+            "link": "NATS_Holdings",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Swanwick",
+            "keyword": false,
+            "count": 5,
+            "link": "Swanwick,_Hampshire",
+            "tags": [
+                "iptc::20000170",
+                "meta::redo",
+                "topic::business",
+                "topic::none",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "England",
+            "keyword": true,
+            "count": 2,
+            "link": "United_Kingdom",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "British",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "London",
+            "keyword": false,
+            "count": 4,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Friday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "flight-tracking service",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "FlightAware",
+            "keyword": false,
+            "count": 1,
+            "link": "FlightAware",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "airports",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Gatwick",
+            "keyword": false,
+            "count": 1,
+            "link": "Gatwick_Airport",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Stansted",
+            "keyword": false,
+            "count": 1,
+            "link": "London_Stansted_Airport",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "London City",
+            "keyword": false,
+            "count": 1,
+            "link": "London_City_Airport",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Luton",
+            "keyword": false,
+            "count": 1,
+            "link": "Luton_Airport",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Greater London",
+            "keyword": false,
+            "count": 1,
+            "link": "Greater_London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Manchester",
+            "keyword": false,
+            "count": 1,
+            "link": "Manchester_Airport",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Birmingham",
+            "keyword": false,
+            "count": 1,
+            "link": "Birmingham_Airport",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "December",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Transport Secretary",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Patrick McLoughlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Patrick_McLoughlin",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::transport",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "pfd/sms (Reuters, AP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "in2",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "in2",
+            "o": 5
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "in2",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "in2",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "in2",
+            "o": 5
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 23,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 23,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 23,
+            "p": "minister_of",
+            "o": 3
+        },
+        {
+            "s": 23,
+            "p": "minister_of-x",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000337",
+        "20000338"
+    ]
+}

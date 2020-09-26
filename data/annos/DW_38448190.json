@@ -1,0 +1,870 @@
+{
+    "id": "DW_38448190",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 16,
+            "end": 22,
+            "text": "Syrian",
+            "concept": 3
+        },
+        {
+            "begin": 137,
+            "end": 143,
+            "text": "Syrian",
+            "concept": 3
+        },
+        {
+            "begin": 311,
+            "end": 319,
+            "text": "Saturday",
+            "concept": 4
+        },
+        {
+            "begin": 337,
+            "end": 342,
+            "text": "Syria",
+            "concept": 0,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 464,
+            "end": 468,
+            "text": "Fuaa",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 473,
+            "end": 480,
+            "text": "Kafraya",
+            "concept": 6,
+            "candidates": [
+                "Kafriya"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 529,
+            "end": 537,
+            "text": "Rashidin",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 547,
+            "end": 553,
+            "text": "Aleppo",
+            "concept": 7,
+            "candidates": [
+                "Aleppo",
+                "Aleppo_Governorate",
+                "Aleppo_Eyalet",
+                "State_of_Aleppo",
+                "Battle_of_Aleppo_(1918)",
+                "Aleppo_Vilayet",
+                "Maronite_Catholic_Archeparchy_of_Aleppo",
+                "Emirate_of_Aleppo",
+                "Timeline_of_Aleppo",
+                "Pursuit_to_Haritan",
+                "Aleppo_Township,_Allegheny_County,_Pennsylvania",
+                "Battle_of_Aleppo_(2012\u20132016)",
+                "Ancient_City_of_Aleppo",
+                "Aleppo_pepper",
+                "Pinus_halepensis",
+                "Aleppo_International_Airport"
+            ],
+            "scores": [
+                0.9350333940497875,
+                0.03551912568306011,
+                0.006071645415907711,
+                0.0036429872495446266,
+                0.00273224043715847,
+                0.0018214936247723133,
+                0.0015179113539769277,
+                0.0015179113539769277,
+                0.0012143290831815423,
+                0.0012143290831815423,
+                0.0012143290831815423,
+                0.0009107468123861566,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711
+            ]
+        },
+        {
+            "begin": 612,
+            "end": 619,
+            "text": "British",
+            "concept": 8
+        },
+        {
+            "begin": 648,
+            "end": 683,
+            "text": "Syrian Observatory for Human Rights",
+            "concept": 1,
+            "candidates": [
+                "Syrian_Observatory_for_Human_Rights"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 756,
+            "end": 762,
+            "text": "Syrian",
+            "concept": 3
+        },
+        {
+            "begin": 1205,
+            "end": 1211,
+            "text": "Sunday",
+            "concept": 9
+        },
+        {
+            "begin": 1608,
+            "end": 1621,
+            "text": "Ahrar al-Sham",
+            "concept": 10,
+            "candidates": [
+                "Ahrar_al-Sham"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1758,
+            "end": 1769,
+            "text": "Observatory",
+            "concept": 1,
+            "candidates": [
+                "Observatory",
+                "Observatory,_Cape_Town",
+                "Observatory_(horse)",
+                "Observatory,_Gauteng",
+                "Durham_University_Observatory",
+                "Clifton_Observatory",
+                "Observatory_of_Strasbourg",
+                "Paris_Observatory",
+                "Hong_Kong_Observatory",
+                "Melbourne_Observatory",
+                "Zagreb_Observatory",
+                "Old_University_of_Alabama_Observatory",
+                "Stonyhurst_Observatory",
+                "Lowell_Observatory",
+                "Observatory_Ridge,_Johannesburg",
+                "Public_observatory"
+            ],
+            "scores": [
+                0.864406779661017,
+                0.02408563782337199,
+                0.019625334522747548,
+                0.007136485280999108,
+                0.0053523639607493305,
+                0.0044603033006244425,
+                0.0026761819803746653,
+                0.0026761819803746653,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777,
+                0.001784121320249777
+            ]
+        },
+        {
+            "begin": 1815,
+            "end": 1820,
+            "text": "Syria",
+            "concept": 0,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2013,
+            "end": 2032,
+            "text": "Syrian Red Crescent",
+            "concept": 11,
+            "candidates": [
+                "Syrian_Arab_Red_Crescent"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2083,
+            "end": 2097,
+            "text": "Maysa al-Aswad",
+            "concept": 12,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2126,
+            "end": 2133,
+            "text": "Kafraya",
+            "concept": 6,
+            "candidates": [
+                "Kafriya"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2140,
+            "end": 2151,
+            "text": "news agency",
+            "concept": 13
+        },
+        {
+            "begin": 2152,
+            "end": 2155,
+            "text": "AFP",
+            "concept": 14,
+            "candidates": [
+                "Associa\u00e7\u00e3o_Fonogr\u00e1fica_Portuguesa",
+                "Agence_France-Presse",
+                "Australia_First_Party",
+                "Armed_Forces_of_the_Philippines",
+                "Apple_Filing_Protocol",
+                "Australian_Federal_Police",
+                "Alpha-fetoprotein",
+                "Advanced_Function_Presentation",
+                "AFP_(TV_series)",
+                "Alliance_of_the_Forces_of_Progress_(Senegal)",
+                "Philippine_Army",
+                "Americans_for_Prosperity",
+                "American_Free_Press",
+                "Marinef\u00e4hrprahm",
+                "Tapei_language",
+                "AFP"
+            ],
+            "scores": [
+                0.4733009708737864,
+                0.2961165048543689,
+                0.0691747572815534,
+                0.05339805825242718,
+                0.0412621359223301,
+                0.021844660194174758,
+                0.01820388349514563,
+                0.009708737864077669,
+                0.006067961165048544,
+                0.0024271844660194173,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086
+            ]
+        },
+        {
+            "begin": 2211,
+            "end": 2214,
+            "text": "son",
+            "concept": 15
+        },
+        {
+            "begin": 2215,
+            "end": 2219,
+            "text": "Hadi",
+            "concept": 16,
+            "candidates": [
+                "Abdrabbuh_Mansur_Hadi",
+                "Hadi",
+                "Hadi_Fayyadh",
+                "Hadi_station",
+                "Abdul_Hadi_Abdul_Hamid",
+                "Hadi,_Iran",
+                "April_Hadi",
+                "Hadi_Ahmed",
+                "Hadi_Mahdavikia"
+            ],
+            "scores": [
+                0.5365853658536586,
+                0.17073170731707318,
+                0.07317073170731707,
+                0.07317073170731707,
+                0.04878048780487805,
+                0.024390243902439025,
+                0.024390243902439025,
+                0.024390243902439025,
+                0.024390243902439025
+            ]
+        },
+        {
+            "begin": 2236,
+            "end": 2244,
+            "text": "daughter",
+            "concept": 17
+        },
+        {
+            "begin": 2245,
+            "end": 2251,
+            "text": "Narjis",
+            "concept": 18,
+            "candidates": [
+                "Narjis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2293,
+            "end": 2297,
+            "text": "Hadi",
+            "concept": 16,
+            "candidates": [
+                "Abdrabbuh_Mansur_Hadi",
+                "Hadi",
+                "Hadi_Fayyadh",
+                "Hadi_station",
+                "Abdul_Hadi_Abdul_Hamid",
+                "Hadi,_Iran",
+                "April_Hadi",
+                "Hadi_Ahmed",
+                "Hadi_Mahdavikia"
+            ],
+            "scores": [
+                0.5365853658536586,
+                0.17073170731707318,
+                0.07317073170731707,
+                0.07317073170731707,
+                0.04878048780487805,
+                0.024390243902439025,
+                0.024390243902439025,
+                0.024390243902439025,
+                0.024390243902439025
+            ]
+        },
+        {
+            "begin": 2316,
+            "end": 2322,
+            "text": "Narjis",
+            "concept": 18,
+            "candidates": [
+                "Narjis"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2665,
+            "end": 2695,
+            "text": "bik/rs (AFP, AP, dpa, Reuters)",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Syria",
+            "keyword": true,
+            "count": 2,
+            "link": "Syria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Syrian Observatory for Human Rights",
+            "keyword": true,
+            "count": 2,
+            "link": "Syrian_Observatory_for_Human_Rights",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::ngo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Rashidin",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Fuaa",
+            "keyword": false,
+            "count": 1,
+            "link": "Al-Fu'ah",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Kafraya",
+            "keyword": false,
+            "count": 2,
+            "link": "Kafriya",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Aleppo",
+            "keyword": false,
+            "count": 1,
+            "link": "Aleppo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Ahrar al-Sham",
+            "keyword": false,
+            "count": 1,
+            "link": "Ahrar_al-Sham",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Syrian Red Crescent",
+            "keyword": false,
+            "count": 1,
+            "link": "Syrian_Arab_Red_Crescent",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Maysa al-Aswad",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "news agency",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "AFP",
+            "keyword": false,
+            "count": 1,
+            "link": "Agence_France-Presse",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "son",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Hadi",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "daughter",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Narjis",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "bik/rs (AFP, AP, dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 20
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "agency_of-x",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "spouse_of",
+            "o": 16
+        },
+        {
+            "s": 12,
+            "p": "spouse_of",
+            "o": 18
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 16,
+            "p": "spouse_of",
+            "o": 12
+        },
+        {
+            "s": 18,
+            "p": "spouse_of",
+            "o": 12
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 4
+                }
+            ]
+        },
+        {
+            "type": "die",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

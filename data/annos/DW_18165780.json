@@ -1,0 +1,828 @@
+{
+    "id": "DW_18165780",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Italy",
+            "concept": 3,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 8,
+            "end": 17,
+            "text": "president",
+            "concept": 5
+        },
+        {
+            "begin": 18,
+            "end": 28,
+            "text": "Napolitano",
+            "concept": 1,
+            "candidates": [
+                "Napolitano",
+                "Mario_Napolitano",
+                "Giorgio_Napolitano",
+                "Naples",
+                "Anthony_Napolitano",
+                "Janet_Napolitano"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 85,
+            "end": 90,
+            "text": "Italy",
+            "concept": 3,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 93,
+            "end": 102,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 103,
+            "end": 121,
+            "text": "Giorgio Napolitano",
+            "concept": 1,
+            "candidates": [
+                "Giorgio_Napolitano"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 270,
+            "end": 279,
+            "text": "President",
+            "concept": 6
+        },
+        {
+            "begin": 280,
+            "end": 298,
+            "text": "Giorgio Napolitano",
+            "concept": 1,
+            "candidates": [
+                "Giorgio_Napolitano"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 353,
+            "end": 362,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 692,
+            "end": 702,
+            "text": "January 13",
+            "concept": 8
+        },
+        {
+            "begin": 708,
+            "end": 715,
+            "text": "Italian",
+            "concept": 9
+        },
+        {
+            "begin": 716,
+            "end": 730,
+            "text": "Prime Minister",
+            "concept": 10
+        },
+        {
+            "begin": 731,
+            "end": 743,
+            "text": "Matteo Renzi",
+            "concept": 2,
+            "candidates": [
+                "Matteo_Renzi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 813,
+            "end": 820,
+            "text": "Council",
+            "concept": 4,
+            "candidates": [
+                "Council_of_the_European_Union",
+                "Council",
+                "City_council",
+                "European_Council",
+                "Council,_Idaho",
+                "County_council",
+                "United_Nations_Security_Council",
+                "Council,_Alaska",
+                "Council_of_the_District_of_Columbia",
+                "University_council",
+                "Town_council",
+                "Synod",
+                "Committee",
+                "Local_government",
+                "Queensland_Legislative_Council",
+                "Council_house"
+            ],
+            "scores": [
+                0.12389380530973451,
+                0.10226155358898721,
+                0.063913470993117,
+                0.04523107177974434,
+                0.024582104228121928,
+                0.02064896755162242,
+                0.018682399213372666,
+                0.018682399213372666,
+                0.017699115044247787,
+                0.01671583087512291,
+                0.014749262536873156,
+                0.014749262536873156,
+                0.012782694198623401,
+                0.011799410029498525,
+                0.010816125860373648,
+                0.010816125860373648
+            ]
+        },
+        {
+            "begin": 828,
+            "end": 842,
+            "text": "European Union",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 844,
+            "end": 849,
+            "text": "Renzi",
+            "concept": 2,
+            "candidates": [
+                "Renzi_Cabinet",
+                "Matteo_Renzi"
+            ],
+            "scores": [
+                0.7948717948717948,
+                0.20512820512820512
+            ]
+        },
+        {
+            "begin": 910,
+            "end": 920,
+            "text": "Napolitano",
+            "concept": 1,
+            "candidates": [
+                "Napolitano",
+                "Mario_Napolitano",
+                "Giorgio_Napolitano",
+                "Naples",
+                "Anthony_Napolitano",
+                "Janet_Napolitano"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 932,
+            "end": 939,
+            "text": "Italian",
+            "concept": 9
+        },
+        {
+            "begin": 950,
+            "end": 961,
+            "text": "King George",
+            "concept": 1,
+            "candidates": [
+                "George_III_of_the_United_Kingdom",
+                "King_George_County,_Virginia",
+                "George_V",
+                "George_I_of_Great_Britain",
+                "King_George,_Virginia",
+                "King_George_station",
+                "George_I_of_Greece",
+                "George_II_of_Great_Britain",
+                "King_George_VI_Chase",
+                "Hired_armed_cutter_King_George",
+                "King_George_VI_and_Queen_Elizabeth_Stakes",
+                "King_George_(1785_ship)",
+                "George_VI",
+                "King_George,_Saskatoon",
+                "George_II_of_Greece",
+                "George_King_(basketball,_born_1994)"
+            ],
+            "scores": [
+                0.1951219512195122,
+                0.17073170731707318,
+                0.0975609756097561,
+                0.0975609756097561,
+                0.06097560975609756,
+                0.057926829268292686,
+                0.036585365853658534,
+                0.03353658536585366,
+                0.027439024390243903,
+                0.027439024390243903,
+                0.024390243902439025,
+                0.024390243902439025,
+                0.021341463414634148,
+                0.01524390243902439,
+                0.01524390243902439,
+                0.01524390243902439
+            ]
+        },
+        {
+            "begin": 1115,
+            "end": 1125,
+            "text": "Napolitano",
+            "concept": 1,
+            "candidates": [
+                "Napolitano",
+                "Mario_Napolitano",
+                "Giorgio_Napolitano",
+                "Naples",
+                "Anthony_Napolitano",
+                "Janet_Napolitano"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 1159,
+            "end": 1165,
+            "text": "Europe",
+            "concept": 0,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1170,
+            "end": 1180,
+            "text": "Washington",
+            "concept": 11,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1197,
+            "end": 1201,
+            "text": "2006",
+            "concept": 12
+        },
+        {
+            "begin": 1243,
+            "end": 1247,
+            "text": "2013",
+            "concept": 13
+        },
+        {
+            "begin": 1402,
+            "end": 1407,
+            "text": "Italy",
+            "concept": 3,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 1613,
+            "end": 1634,
+            "text": "se/cmk (dpa, Reuters)",
+            "concept": 14
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Union",
+            "keyword": true,
+            "count": 2,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Giorgio Napolitano",
+            "keyword": true,
+            "count": 6,
+            "link": "Giorgio_Napolitano",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Matteo Renzi",
+            "keyword": true,
+            "count": 2,
+            "link": "Matteo_Renzi",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Italy",
+            "keyword": true,
+            "count": 3,
+            "link": "Italy",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Council",
+            "keyword": true,
+            "count": 1,
+            "link": "Council_of_the_European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "January 13",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Italian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "meta::redo",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "2006",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "2013",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "se/cmk (dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 9
+        },
+        {
+            "s": 4,
+            "p": "institution_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "part_of",
+            "o": 0
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 15
+        }
+    ],
+    "frames": [
+        {
+            "type": "end-position",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 1
+                },
+                {
+                    "name": "entity",
+                    "value": 3
+                },
+                {
+                    "name": "position",
+                    "value": 5
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "08000000",
+        "11000000",
+        "20000502",
+        "20000504"
+    ]
+}

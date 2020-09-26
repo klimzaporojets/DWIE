@@ -1,0 +1,942 @@
+{
+    "id": "DW_1586437",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 148,
+            "end": 159,
+            "text": "Jan de Cock",
+            "concept": 0,
+            "candidates": [
+                "Jan_De_Cock"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 259,
+            "end": 266,
+            "text": "African",
+            "concept": 2
+        },
+        {
+            "begin": 313,
+            "end": 320,
+            "text": "de Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 407,
+            "end": 414,
+            "text": "Belgian",
+            "concept": 3
+        },
+        {
+            "begin": 795,
+            "end": 802,
+            "text": "de Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 1225,
+            "end": 1231,
+            "text": "Kigali",
+            "concept": 4,
+            "candidates": [
+                "Kigali",
+                "Kigali_International_Airport",
+                "Roman_Catholic_Archdiocese_of_Kigali",
+                "Tarlac_City",
+                "Kigali_Genocide_Memorial_Centre",
+                "A.S._Kigali"
+            ],
+            "scores": [
+                0.9860205032618826,
+                0.0065237651444548,
+                0.004659832246039142,
+                0.0009319664492078285,
+                0.0009319664492078285,
+                0.0009319664492078285
+            ]
+        },
+        {
+            "begin": 1235,
+            "end": 1242,
+            "text": "Ruwanda",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1622,
+            "end": 1627,
+            "text": "Benin",
+            "concept": 6,
+            "candidates": [
+                "Benin",
+                "Benin_national_football_team",
+                "Benin_Football_Federation",
+                "Benin_City",
+                "Kingdom_of_Benin",
+                "People's_Republic_of_Benin",
+                "Elections_in_Benin",
+                "Benin_Armed_Forces",
+                "Benin_Davis_Cup_team",
+                "LGBT_rights_in_Benin",
+                "Football_in_Benin",
+                "Music_of_Benin",
+                "Benin_Bronzes",
+                "Edo_people",
+                "Human_trafficking_in_Benin",
+                "Benin_women's_national_football_team"
+            ],
+            "scores": [
+                0.8878264925373134,
+                0.03264925373134328,
+                0.014925373134328358,
+                0.012126865671641791,
+                0.010494402985074628,
+                0.008861940298507462,
+                0.002798507462686567,
+                0.0023320895522388058,
+                0.0020988805970149254,
+                0.0013992537313432835,
+                0.0013992537313432835,
+                0.0013992537313432835,
+                0.0011660447761194029,
+                0.0009328358208955224,
+                0.0009328358208955224,
+                0.0009328358208955224
+            ]
+        },
+        {
+            "begin": 1633,
+            "end": 1635,
+            "text": "US",
+            "concept": 7,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1636,
+            "end": 1643,
+            "text": "De Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 1967,
+            "end": 1969,
+            "text": "US",
+            "concept": 7,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2019,
+            "end": 2024,
+            "text": "Benin",
+            "concept": 6,
+            "candidates": [
+                "Benin",
+                "Benin_national_football_team",
+                "Benin_Football_Federation",
+                "Benin_City",
+                "Kingdom_of_Benin",
+                "People's_Republic_of_Benin",
+                "Elections_in_Benin",
+                "Benin_Armed_Forces",
+                "Benin_Davis_Cup_team",
+                "LGBT_rights_in_Benin",
+                "Football_in_Benin",
+                "Music_of_Benin",
+                "Benin_Bronzes",
+                "Edo_people",
+                "Human_trafficking_in_Benin",
+                "Benin_women's_national_football_team"
+            ],
+            "scores": [
+                0.8878264925373134,
+                0.03264925373134328,
+                0.014925373134328358,
+                0.012126865671641791,
+                0.010494402985074628,
+                0.008861940298507462,
+                0.002798507462686567,
+                0.0023320895522388058,
+                0.0020988805970149254,
+                0.0013992537313432835,
+                0.0013992537313432835,
+                0.0013992537313432835,
+                0.0011660447761194029,
+                0.0009328358208955224,
+                0.0009328358208955224,
+                0.0009328358208955224
+            ]
+        },
+        {
+            "begin": 2028,
+            "end": 2036,
+            "text": "Coutonou",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2306,
+            "end": 2313,
+            "text": "de Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 2332,
+            "end": 2337,
+            "text": "Japan",
+            "concept": 9,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 2503,
+            "end": 2515,
+            "text": "Scandinavian",
+            "concept": 10
+        },
+        {
+            "begin": 2603,
+            "end": 2616,
+            "text": "Latin America",
+            "concept": 11,
+            "candidates": [
+                "Latin_America",
+                "Senior_League_World_Series_(Latin_America_Region)",
+                "Little_League_World_Series_in_Latin_America",
+                "Maunabo,_Puerto_Rico",
+                "Big_League_World_Series_(Latin_America_Region)",
+                "Junior_League_World_Series_(Latin_America_Region)",
+                "Latin_American_literature",
+                "United_Nations_geoscheme_for_the_Americas",
+                "Boomerang_(Latin_America)",
+                "Music_of_Latin_America",
+                "History_of_the_Jews_in_Latin_America_and_the_Caribbean",
+                "Intermediate_League_World_Series_(Latin_America_Region)",
+                "Latin_American_poetry",
+                "Mexicali",
+                "Monterrey",
+                "Latin_American_cuisine"
+            ],
+            "scores": [
+                0.9514010507880911,
+                0.008464681844716871,
+                0.004524226503210741,
+                0.0035026269702276708,
+                0.003356684179801518,
+                0.003356684179801518,
+                0.0024810274372446,
+                0.0018972562755399883,
+                0.0013134851138353765,
+                0.0011675423234092236,
+                0.0011675423234092236,
+                0.0010215995329830706,
+                0.0010215995329830706,
+                0.0008756567425569177,
+                0.0008756567425569177,
+                0.0008756567425569177
+            ]
+        },
+        {
+            "begin": 2618,
+            "end": 2625,
+            "text": "de Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 2918,
+            "end": 2922,
+            "text": "Peru",
+            "concept": 12,
+            "candidates": [
+                "Peru",
+                "Peru_national_football_team",
+                "Peruvian_Football_Federation",
+                "Peru,_Indiana",
+                "Peru,_Illinois",
+                "Viceroyalty_of_Peru",
+                "Peruvian_literature",
+                "Peru,_New_York",
+                "List_of_non-marine_molluscs_of_Peru",
+                "Peru,_Massachusetts",
+                "Miss_Peru",
+                "List_of_mammals_of_Peru",
+                "Peru_Davis_Cup_team",
+                "LGBT_rights_in_Peru",
+                "Peru,_Nebraska",
+                "Peru,_Vermont"
+            ],
+            "scores": [
+                0.9338175650763219,
+                0.025145638227269375,
+                0.004166359413022638,
+                0.0037607846029053906,
+                0.002580930609837033,
+                0.0023597079861367156,
+                0.0017697809896025367,
+                0.0017329105523191505,
+                0.0013273357422019026,
+                0.001032372243934813,
+                0.0009586313693680408,
+                0.0007005383083843374,
+                0.0006636678711009513,
+                0.0006636678711009513,
+                0.0005899269965341789,
+                0.0005899269965341789
+            ]
+        },
+        {
+            "begin": 2924,
+            "end": 2928,
+            "text": "Lima",
+            "concept": 13,
+            "candidates": [
+                "Lima",
+                "Lima,_Ohio",
+                "Lima_Region",
+                "Lima_(footballer)",
+                "Lima_Province",
+                "Lima,_New_York",
+                "Lima_Locomotive_Works",
+                "Lima_(village),_New_York",
+                "Lima_(models)",
+                "Jorge_Ch\u00e1vez_International_Airport",
+                "Lima,_Pennsylvania",
+                "Ant\u00f4nio_Lima_dos_Santos",
+                "Roman_Catholic_Archdiocese_of_Lima",
+                "Lima,_Oklahoma",
+                "Lima_river",
+                "Lima,_Montana"
+            ],
+            "scores": [
+                0.852156862745098,
+                0.04091503267973856,
+                0.023529411764705882,
+                0.009411764705882352,
+                0.007058823529411765,
+                0.005490196078431373,
+                0.004836601307189542,
+                0.004313725490196078,
+                0.0037908496732026145,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0030065359477124184,
+                0.002352941176470588,
+                0.002352941176470588,
+                0.0016993464052287581,
+                0.0016993464052287581
+            ]
+        },
+        {
+            "begin": 3111,
+            "end": 3118,
+            "text": "De Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 3549,
+            "end": 3556,
+            "text": "de Cock",
+            "concept": 0,
+            "candidates": [
+                "De_Cock",
+                "Olivier_De_Cock",
+                "De-cock"
+            ],
+            "scores": [
+                0.4,
+                0.4,
+                0.2
+            ]
+        },
+        {
+            "begin": 3571,
+            "end": 3575,
+            "text": "book",
+            "concept": 14
+        },
+        {
+            "begin": 3578,
+            "end": 3590,
+            "text": "Hotel Prison",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3690,
+            "end": 3704,
+            "text": "Guantanamo Bay",
+            "concept": 15,
+            "candidates": [
+                "Guant\u00e1namo_Bay",
+                "Guantanamo_Bay_Naval_Base",
+                "Guantanamo_Bay_detention_camp",
+                "Battle_of_Guant\u00e1namo_Bay",
+                "Camp_X-Ray_(Guantanamo)",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Guantanamo_Bay_files_leak"
+            ],
+            "scores": [
+                0.5889531149646756,
+                0.22864482980089917,
+                0.17597944765574824,
+                0.002569043031470777,
+                0.002569043031470777,
+                0.0006422607578676942,
+                0.0006422607578676942
+            ]
+        },
+        {
+            "begin": 3728,
+            "end": 3732,
+            "text": "Iraq",
+            "concept": 16,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3735,
+            "end": 3745,
+            "text": "Abu Ghraib",
+            "concept": 17,
+            "candidates": [
+                "Abu_Ghraib",
+                "Abu_Ghraib_torture_and_prisoner_abuse",
+                "Abu_Ghraib_prison",
+                "Abu_Ghraib_District"
+            ],
+            "scores": [
+                0.7551020408163265,
+                0.14285714285714285,
+                0.09183673469387756,
+                0.01020408163265306
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Jan de Cock",
+            "keyword": true,
+            "count": 8,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "slot::keyword",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Hotel Prison",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000013",
+                "slot::keyword",
+                "topic::culture",
+                "type::book_title",
+                "type::entity",
+                "type::misc",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "African",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Belgian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Kigali",
+            "keyword": false,
+            "count": 1,
+            "link": "Kigali",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Ruwanda",
+            "keyword": false,
+            "count": 1,
+            "link": "Rwanda",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Benin",
+            "keyword": false,
+            "count": 2,
+            "link": "Benin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Coutonou",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Japan",
+            "keyword": false,
+            "count": 1,
+            "link": "Japan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Scandinavian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Latin America",
+            "keyword": false,
+            "count": 1,
+            "link": "Latin_America",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Peru",
+            "keyword": false,
+            "count": 1,
+            "link": "Peru",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Lima",
+            "keyword": false,
+            "count": 1,
+            "link": "Lima",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "book",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Guantanamo Bay",
+            "keyword": false,
+            "count": 1,
+            "link": "Guantanamo_Bay_detention_camp",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Abu Ghraib",
+            "keyword": false,
+            "count": 1,
+            "link": "Abu_Ghraib_prison",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "Cuba",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "created_by",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 16
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000129",
+        "20000134",
+        "20000137"
+    ]
+}

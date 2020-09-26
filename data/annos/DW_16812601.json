@@ -1,0 +1,865 @@
+{
+    "id": "DW_16812601",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Nigeria",
+            "concept": 2,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 36,
+            "end": 44,
+            "text": "Nigerian",
+            "concept": 3
+        },
+        {
+            "begin": 45,
+            "end": 54,
+            "text": "President",
+            "concept": 4
+        },
+        {
+            "begin": 55,
+            "end": 72,
+            "text": "Goodluck Jonathan",
+            "concept": 0,
+            "candidates": [
+                "Goodluck_Jonathan"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 219,
+            "end": 226,
+            "text": "Nigeria",
+            "concept": 2,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 255,
+            "end": 260,
+            "text": "Borno",
+            "concept": 5,
+            "candidates": [
+                "Borno_State",
+                "Borno,_Lombardy",
+                "Kanem\u2013Bornu_Empire",
+                "Borno_Emirate",
+                "Nigerian_National_Assembly_delegation_from_Borno",
+                "Sayfawa_dynasty"
+            ],
+            "scores": [
+                0.7543859649122807,
+                0.09941520467836257,
+                0.09941520467836257,
+                0.029239766081871343,
+                0.011695906432748537,
+                0.005847953216374269
+            ]
+        },
+        {
+            "begin": 262,
+            "end": 266,
+            "text": "Yobe",
+            "concept": 6,
+            "candidates": [
+                "Yobe_State",
+                "Yobe_language",
+                "Yobe_River",
+                "Nigerian_National_Assembly_delegation_from_Yobe"
+            ],
+            "scores": [
+                0.7,
+                0.2625,
+                0.025,
+                0.0125
+            ]
+        },
+        {
+            "begin": 271,
+            "end": 278,
+            "text": "Adamawa",
+            "concept": 7,
+            "candidates": [
+                "Adamawa_State",
+                "Adamawa_languages",
+                "Adamawa_Region",
+                "Adamawa_Emirate",
+                "Adamawa_Plateau",
+                "Nigerian_National_Assembly_delegation_from_Adamawa",
+                "Fula_language",
+                "Adamawa_cattle"
+            ],
+            "scores": [
+                0.47586206896551725,
+                0.18620689655172415,
+                0.1724137931034483,
+                0.11724137931034483,
+                0.020689655172413793,
+                0.013793103448275862,
+                0.006896551724137931,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 354,
+            "end": 362,
+            "text": "Islamist",
+            "concept": 8
+        },
+        {
+            "begin": 363,
+            "end": 378,
+            "text": "insurgent group",
+            "concept": 9
+        },
+        {
+            "begin": 379,
+            "end": 389,
+            "text": "Boko Haram",
+            "concept": 1,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 512,
+            "end": 520,
+            "text": "Nigerian",
+            "concept": 3
+        },
+        {
+            "begin": 575,
+            "end": 584,
+            "text": "President",
+            "concept": 4
+        },
+        {
+            "begin": 585,
+            "end": 593,
+            "text": "Jonathan",
+            "concept": 0,
+            "candidates": [
+                "Jonathan_(1_Samuel)",
+                "Jonathan_Moreira",
+                "Jonathan_Apphus",
+                "Jonathan_(apple)",
+                "Jonathan_Levinson",
+                "David_and_Jonathan",
+                "Jonathan_(name)",
+                "Jonathan_Zongo",
+                "Jonathan_Scott_(TV_personality)",
+                "Jonathan_(tortoise)",
+                "Jonathan_Oliveira_Guimar\u00e3es",
+                "Jonathan_Borl\u00e9e",
+                "Jonathan_(Buffy_comic)",
+                "Jonathan_(2016_film)",
+                "Jonathan_and_Martha_Kent",
+                "Jonathan_(1970_film)"
+            ],
+            "scores": [
+                0.11982570806100218,
+                0.0718954248366013,
+                0.05228758169934641,
+                0.0457516339869281,
+                0.04357298474945534,
+                0.04139433551198257,
+                0.0392156862745098,
+                0.023965141612200435,
+                0.02178649237472767,
+                0.0196078431372549,
+                0.017429193899782137,
+                0.017429193899782137,
+                0.017429193899782137,
+                0.015250544662309368,
+                0.015250544662309368,
+                0.015250544662309368
+            ]
+        },
+        {
+            "begin": 614,
+            "end": 627,
+            "text": "Tuesday night",
+            "concept": 10
+        },
+        {
+            "begin": 750,
+            "end": 757,
+            "text": "Nigeria",
+            "concept": 2,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 831,
+            "end": 839,
+            "text": "Jonathan",
+            "concept": 0,
+            "candidates": [
+                "Jonathan_(1_Samuel)",
+                "Jonathan_Moreira",
+                "Jonathan_Apphus",
+                "Jonathan_(apple)",
+                "Jonathan_Levinson",
+                "David_and_Jonathan",
+                "Jonathan_(name)",
+                "Jonathan_Zongo",
+                "Jonathan_Scott_(TV_personality)",
+                "Jonathan_(tortoise)",
+                "Jonathan_Oliveira_Guimar\u00e3es",
+                "Jonathan_Borl\u00e9e",
+                "Jonathan_(Buffy_comic)",
+                "Jonathan_(2016_film)",
+                "Jonathan_and_Martha_Kent",
+                "Jonathan_(1970_film)"
+            ],
+            "scores": [
+                0.11982570806100218,
+                0.0718954248366013,
+                0.05228758169934641,
+                0.0457516339869281,
+                0.04357298474945534,
+                0.04139433551198257,
+                0.0392156862745098,
+                0.023965141612200435,
+                0.02178649237472767,
+                0.0196078431372549,
+                0.017429193899782137,
+                0.017429193899782137,
+                0.017429193899782137,
+                0.015250544662309368,
+                0.015250544662309368,
+                0.015250544662309368
+            ]
+        },
+        {
+            "begin": 971,
+            "end": 981,
+            "text": "Boko Haram",
+            "concept": 1,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1100,
+            "end": 1110,
+            "text": "Boko Haram",
+            "concept": 1,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1131,
+            "end": 1138,
+            "text": "Western",
+            "concept": 11
+        },
+        {
+            "begin": 1171,
+            "end": 1176,
+            "text": "Hausa",
+            "concept": 12,
+            "candidates": [
+                "Hausa_language",
+                "Hausa_people",
+                "Hausa_Kingdoms",
+                "Hausa_music",
+                "Hausa\u2013Fulani"
+            ],
+            "scores": [
+                0.4988558352402746,
+                0.4702517162471396,
+                0.02517162471395881,
+                0.003432494279176201,
+                0.002288329519450801
+            ]
+        },
+        {
+            "begin": 1240,
+            "end": 1247,
+            "text": "Nigeria",
+            "concept": 2,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1249,
+            "end": 1256,
+            "text": "Muslims",
+            "concept": 13
+        },
+        {
+            "begin": 1280,
+            "end": 1287,
+            "text": "Nigeria",
+            "concept": 2,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1354,
+            "end": 1363,
+            "text": "Christian",
+            "concept": 14
+        },
+        {
+            "begin": 1432,
+            "end": 1436,
+            "text": "2010",
+            "concept": 15
+        },
+        {
+            "begin": 1438,
+            "end": 1448,
+            "text": "Boko Haram",
+            "concept": 1,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1689,
+            "end": 1694,
+            "text": "Borno",
+            "concept": 5,
+            "candidates": [
+                "Borno_State",
+                "Borno,_Lombardy",
+                "Kanem\u2013Bornu_Empire",
+                "Borno_Emirate",
+                "Nigerian_National_Assembly_delegation_from_Borno",
+                "Sayfawa_dynasty"
+            ],
+            "scores": [
+                0.7543859649122807,
+                0.09941520467836257,
+                0.09941520467836257,
+                0.029239766081871343,
+                0.011695906432748537,
+                0.005847953216374269
+            ]
+        },
+        {
+            "begin": 1765,
+            "end": 1796,
+            "text": "kms/msh (AP, AFP, Reuters, dpa)",
+            "concept": 16
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Goodluck Jonathan",
+            "keyword": true,
+            "count": 3,
+            "link": "Goodluck_Jonathan",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Boko Haram",
+            "keyword": true,
+            "count": 4,
+            "link": "Boko_Haram",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Nigeria",
+            "keyword": true,
+            "count": 5,
+            "link": "Nigeria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Nigerian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Borno",
+            "keyword": false,
+            "count": 2,
+            "link": "Borno_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Yobe",
+            "keyword": false,
+            "count": 1,
+            "link": "Yobe_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Adamawa",
+            "keyword": false,
+            "count": 1,
+            "link": "Adamawa_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "insurgent group",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Tuesday night",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Western",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Hausa",
+            "keyword": false,
+            "count": 1,
+            "link": "Hausa_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Christian",
+            "keyword": false,
+            "count": 1,
+            "link": "Christianity",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "2010",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "kms/msh (AP, AFP, Reuters, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "head_of_state-x",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

@@ -1,0 +1,995 @@
+{
+    "id": "DW_16069323",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Oracle",
+            "concept": 1,
+            "candidates": [
+                "Oracle_Corporation",
+                "Oracle_Database",
+                "Oracle",
+                "Barbara_Gordon",
+                "Oracle_machine",
+                "ORACLE_(teletext)",
+                "Oracle,_Arizona",
+                "Pythia",
+                "The_Oracle_(The_Matrix)",
+                "Oracle_(comics)",
+                "Oracle_(Kittie_album)",
+                "Oracle_(Marvel_Comics)",
+                "Oracle_(EP)",
+                "ORACLE_(computer)",
+                "Oracle_(Michael_Hedges_album)",
+                "Oracle_Cloud"
+            ],
+            "scores": [
+                0.4113775270333804,
+                0.21062529384109074,
+                0.19605077574047955,
+                0.05500705218617771,
+                0.021626704278326282,
+                0.019746121297602257,
+                0.014104372355430184,
+                0.011283497884344146,
+                0.009402914903620122,
+                0.006582040432534086,
+                0.005641748942172073,
+                0.005171603196991067,
+                0.003291020216267043,
+                0.003291020216267043,
+                0.0028208744710860366,
+                0.0023507287259050304
+            ]
+        },
+        {
+            "begin": 54,
+            "end": 68,
+            "text": "European court",
+            "concept": 0,
+            "candidates": [
+                "European_Court_of_Justice",
+                "European_Court_of_Human_Rights"
+            ],
+            "scores": [
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "begin": 187,
+            "end": 195,
+            "text": "Internet",
+            "concept": 4,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 213,
+            "end": 219,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 250,
+            "end": 252,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 259,
+            "end": 265,
+            "text": "Oracle",
+            "concept": 1,
+            "candidates": [
+                "Oracle_Corporation",
+                "Oracle_Database",
+                "Oracle",
+                "Barbara_Gordon",
+                "Oracle_machine",
+                "ORACLE_(teletext)",
+                "Oracle,_Arizona",
+                "Pythia",
+                "The_Oracle_(The_Matrix)",
+                "Oracle_(comics)",
+                "Oracle_(Kittie_album)",
+                "Oracle_(Marvel_Comics)",
+                "Oracle_(EP)",
+                "ORACLE_(computer)",
+                "Oracle_(Michael_Hedges_album)",
+                "Oracle_Cloud"
+            ],
+            "scores": [
+                0.4113775270333804,
+                0.21062529384109074,
+                0.19605077574047955,
+                0.05500705218617771,
+                0.021626704278326282,
+                0.019746121297602257,
+                0.014104372355430184,
+                0.011283497884344146,
+                0.009402914903620122,
+                0.006582040432534086,
+                0.005641748942172073,
+                0.005171603196991067,
+                0.003291020216267043,
+                0.003291020216267043,
+                0.0028208744710860366,
+                0.0023507287259050304
+            ]
+        },
+        {
+            "begin": 271,
+            "end": 296,
+            "text": "European Court of Justice",
+            "concept": 0,
+            "candidates": [
+                "European_Court_of_Justice",
+                "Court_of_Justice_of_the_European_Union",
+                "List_of_members_of_the_European_Court_of_Justice",
+                "List_of_Presidents_of_the_European_Court_of_Justice"
+            ],
+            "scores": [
+                0.9915611814345991,
+                0.006329113924050633,
+                0.0010548523206751054,
+                0.0010548523206751054
+            ]
+        },
+        {
+            "begin": 300,
+            "end": 307,
+            "text": "Tuesday",
+            "concept": 7
+        },
+        {
+            "begin": 399,
+            "end": 409,
+            "text": "Luxembourg",
+            "concept": 8,
+            "candidates": [
+                "Luxembourg",
+                "Luxembourg_City",
+                "Luxembourg_national_football_team",
+                "Luxembourg_(Belgium)",
+                "Same-sex_marriage_in_Luxembourg",
+                "Luxembourg_(canton)",
+                "House_of_Luxembourg",
+                "Luxembourg_Football_Federation",
+                "Luxembourg_national_under-21_football_team",
+                "Luxembourg_District",
+                "Luxembourg_railway_station",
+                "Luxembourg_in_the_Eurovision_Song_Contest",
+                "Luxembourg_Open",
+                "Luxembourg_Fed_Cup_team",
+                "Luxembourg_women's_national_football_team",
+                "Luxembourg_Davis_Cup_team"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.06408125577100646,
+                0.05854108956602031,
+                0.020313942751615882,
+                0.012003693444136657,
+                0.011265004616805172,
+                0.010156971375807941,
+                0.007017543859649123,
+                0.004801477377654663,
+                0.003970452446906741,
+                0.003785780240073869,
+                0.003601108033240997,
+                0.003601108033240997,
+                0.0028624192059095105,
+                0.0023084025854108957,
+                0.00221606648199446
+            ]
+        },
+        {
+            "begin": 442,
+            "end": 448,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 449,
+            "end": 453,
+            "text": "firm",
+            "concept": 9
+        },
+        {
+            "begin": 454,
+            "end": 462,
+            "text": "UsedSoft",
+            "concept": 2,
+            "candidates": [
+                "UsedSoft"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 497,
+            "end": 499,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 500,
+            "end": 514,
+            "text": "software giant",
+            "concept": 10
+        },
+        {
+            "begin": 515,
+            "end": 521,
+            "text": "Oracle",
+            "concept": 1,
+            "candidates": [
+                "Oracle_Corporation",
+                "Oracle_Database",
+                "Oracle",
+                "Barbara_Gordon",
+                "Oracle_machine",
+                "ORACLE_(teletext)",
+                "Oracle,_Arizona",
+                "Pythia",
+                "The_Oracle_(The_Matrix)",
+                "Oracle_(comics)",
+                "Oracle_(Kittie_album)",
+                "Oracle_(Marvel_Comics)",
+                "Oracle_(EP)",
+                "ORACLE_(computer)",
+                "Oracle_(Michael_Hedges_album)",
+                "Oracle_Cloud"
+            ],
+            "scores": [
+                0.4113775270333804,
+                0.21062529384109074,
+                0.19605077574047955,
+                0.05500705218617771,
+                0.021626704278326282,
+                0.019746121297602257,
+                0.014104372355430184,
+                0.011283497884344146,
+                0.009402914903620122,
+                0.006582040432534086,
+                0.005641748942172073,
+                0.005171603196991067,
+                0.003291020216267043,
+                0.003291020216267043,
+                0.0028208744710860366,
+                0.0023507287259050304
+            ]
+        },
+        {
+            "begin": 665,
+            "end": 667,
+            "text": "CD",
+            "concept": 11,
+            "candidates": [
+                "Compact_disc",
+                "Canadian_Forces_Decoration",
+                "CD_single",
+                "Compulsory_dance",
+                "Compact_Disc_Digital_Audio",
+                "Cadmium",
+                "Candela",
+                "CD-ROM",
+                "Order_of_Distinction",
+                "\u010cesk\u00e9_dr\u00e1hy",
+                "Democratic_Centre_(France)",
+                "Democratic_Centre_(Italy)",
+                "Constitutional_Democratic_Party_of_Japan",
+                "Drag_coefficient",
+                "Cd_(command)",
+                "Cardinal_(train)"
+            ],
+            "scores": [
+                0.926760177274181,
+                0.014483483346278614,
+                0.013386942020377393,
+                0.010143007264586284,
+                0.007584410837483437,
+                0.002695664092840499,
+                0.0026042856490153974,
+                0.002147393429889889,
+                0.0017818796545894823,
+                0.0016905012107643806,
+                0.0014163658792890757,
+                0.0011879197697263215,
+                0.0010051628820761183,
+                0.0009594736601635674,
+                0.0008224059944259149,
+                0.0007310275506008133
+            ]
+        },
+        {
+            "begin": 671,
+            "end": 674,
+            "text": "DVD",
+            "concept": 12,
+            "candidates": [
+                "DVD",
+                "Miscellaneous_right",
+                "DVD-Video",
+                "DVD_single",
+                "DVD_player",
+                "Miscellaneous_left",
+                "Family_Values_Tour_'98_(DVD)",
+                "Full_Moon_in_St._Petersburg",
+                "Au_c\u0153ur_du_stade_(video)",
+                "Oricon",
+                "Music_video",
+                "DVD-Audio",
+                "Nature's_Best_DVD",
+                "Pulse_(1995_film)",
+                "Interactive_movie",
+                "Stargate_SG-1_DVD"
+            ],
+            "scores": [
+                0.9510791366906475,
+                0.034782608695652174,
+                0.008007507037847982,
+                0.0011886143259305598,
+                0.0005004691898654989,
+                0.00037535189239912417,
+                0.00025023459493274944,
+                0.00018767594619956208,
+                0.00018767594619956208,
+                0.00012511729746637472,
+                0.00012511729746637472,
+                0.00012511729746637472,
+                0.00012511729746637472,
+                0.00012511729746637472,
+                0.00012511729746637472,
+                0.00012511729746637472
+            ]
+        },
+        {
+            "begin": 719,
+            "end": 727,
+            "text": "Internet",
+            "concept": 4,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 729,
+            "end": 737,
+            "text": "UsedSoft",
+            "concept": 2,
+            "candidates": [
+                "UsedSoft"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 978,
+            "end": 986,
+            "text": "Internet",
+            "concept": 4,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 1061,
+            "end": 1067,
+            "text": "Oracle",
+            "concept": 1,
+            "candidates": [
+                "Oracle_Corporation",
+                "Oracle_Database",
+                "Oracle",
+                "Barbara_Gordon",
+                "Oracle_machine",
+                "ORACLE_(teletext)",
+                "Oracle,_Arizona",
+                "Pythia",
+                "The_Oracle_(The_Matrix)",
+                "Oracle_(comics)",
+                "Oracle_(Kittie_album)",
+                "Oracle_(Marvel_Comics)",
+                "Oracle_(EP)",
+                "ORACLE_(computer)",
+                "Oracle_(Michael_Hedges_album)",
+                "Oracle_Cloud"
+            ],
+            "scores": [
+                0.4113775270333804,
+                0.21062529384109074,
+                0.19605077574047955,
+                0.05500705218617771,
+                0.021626704278326282,
+                0.019746121297602257,
+                0.014104372355430184,
+                0.011283497884344146,
+                0.009402914903620122,
+                0.006582040432534086,
+                0.005641748942172073,
+                0.005171603196991067,
+                0.003291020216267043,
+                0.003291020216267043,
+                0.0028208744710860366,
+                0.0023507287259050304
+            ]
+        },
+        {
+            "begin": 1077,
+            "end": 1085,
+            "text": "UsedSoft",
+            "concept": 2,
+            "candidates": [
+                "UsedSoft"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1203,
+            "end": 1217,
+            "text": "European court",
+            "concept": 0,
+            "candidates": [
+                "European_Court_of_Justice",
+                "European_Court_of_Human_Rights"
+            ],
+            "scores": [
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "begin": 1524,
+            "end": 1538,
+            "text": "European Union",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 1541,
+            "end": 1549,
+            "text": "UsedSoft",
+            "concept": 2,
+            "candidates": [
+                "UsedSoft"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1632,
+            "end": 1642,
+            "text": "Luxembourg",
+            "concept": 8,
+            "candidates": [
+                "Luxembourg",
+                "Luxembourg_City",
+                "Luxembourg_national_football_team",
+                "Luxembourg_(Belgium)",
+                "Same-sex_marriage_in_Luxembourg",
+                "Luxembourg_(canton)",
+                "House_of_Luxembourg",
+                "Luxembourg_Football_Federation",
+                "Luxembourg_national_under-21_football_team",
+                "Luxembourg_District",
+                "Luxembourg_railway_station",
+                "Luxembourg_in_the_Eurovision_Song_Contest",
+                "Luxembourg_Open",
+                "Luxembourg_Fed_Cup_team",
+                "Luxembourg_women's_national_football_team",
+                "Luxembourg_Davis_Cup_team"
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.06408125577100646,
+                0.05854108956602031,
+                0.020313942751615882,
+                0.012003693444136657,
+                0.011265004616805172,
+                0.010156971375807941,
+                0.007017543859649123,
+                0.004801477377654663,
+                0.003970452446906741,
+                0.003785780240073869,
+                0.003601108033240997,
+                0.003601108033240997,
+                0.0028624192059095105,
+                0.0023084025854108957,
+                0.00221606648199446
+            ]
+        },
+        {
+            "begin": 1848,
+            "end": 1864,
+            "text": "hg/mz (AFP, dpa)",
+            "concept": 13
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Court of Justice",
+            "keyword": true,
+            "count": 3,
+            "link": "European_Court_of_Justice",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Oracle",
+            "keyword": true,
+            "count": 4,
+            "link": "Oracle_Corporation",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000231",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "UsedSoft",
+            "keyword": true,
+            "count": 4,
+            "link": "UsedSoft",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000231",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "European Union",
+            "keyword": true,
+            "count": 1,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::in",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Internet",
+            "keyword": false,
+            "count": 3,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Luxembourg",
+            "keyword": false,
+            "count": 2,
+            "link": "Luxembourg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "firm",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "software giant",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "CD",
+            "keyword": false,
+            "count": 1,
+            "link": "Compact_disc",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "DVD",
+            "keyword": false,
+            "count": 1,
+            "link": "DVD",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "hg/mz (AFP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "institution_of",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "part_of",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 14
+        }
+    ],
+    "frames": [
+        {
+            "type": "convict",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 1
+                },
+                {
+                    "name": "adjudicator",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 7
+                },
+                {
+                    "name": "place",
+                    "value": 8
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "04000000",
+        "20000106",
+        "20000107",
+        "20000111",
+        "20000170",
+        "20000192",
+        "20000202"
+    ]
+}

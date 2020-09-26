@@ -1,0 +1,1919 @@
+{
+    "id": "DW_2763240",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 37,
+            "end": 45,
+            "text": "European",
+            "concept": 6
+        },
+        {
+            "begin": 59,
+            "end": 65,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 66,
+            "end": 75,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 76,
+            "end": 83,
+            "text": "Sarkozy",
+            "concept": 2,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 126,
+            "end": 131,
+            "text": "Paris",
+            "concept": 8,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 138,
+            "end": 142,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 170,
+            "end": 183,
+            "text": "Gaz de France",
+            "concept": 1,
+            "candidates": [
+                "Gaz_de_France"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 205,
+            "end": 211,
+            "text": "Monday",
+            "concept": 9
+        },
+        {
+            "begin": 213,
+            "end": 221,
+            "text": "GDF-Suez",
+            "concept": 3,
+            "candidates": [
+                "Engie",
+                "2014_Open_GDF_Suez_\u2013_Singles"
+            ],
+            "scores": [
+                0.9931506849315068,
+                0.00684931506849315
+            ]
+        },
+        {
+            "begin": 241,
+            "end": 247,
+            "text": "Europe",
+            "concept": 10,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 280,
+            "end": 286,
+            "text": "French",
+            "concept": 5
+        },
+        {
+            "begin": 287,
+            "end": 296,
+            "text": "President",
+            "concept": 7
+        },
+        {
+            "begin": 297,
+            "end": 312,
+            "text": "Nicolas Sarkozy",
+            "concept": 2,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 384,
+            "end": 390,
+            "text": "Sunday",
+            "concept": 11
+        },
+        {
+            "begin": 416,
+            "end": 424,
+            "text": "GDF-Suez",
+            "concept": 3,
+            "candidates": [
+                "Engie",
+                "2014_Open_GDF_Suez_\u2013_Singles"
+            ],
+            "scores": [
+                0.9931506849315068,
+                0.00684931506849315
+            ]
+        },
+        {
+            "begin": 445,
+            "end": 451,
+            "text": "Europe",
+            "concept": 10,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 494,
+            "end": 500,
+            "text": "Russia",
+            "concept": 12,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 513,
+            "end": 520,
+            "text": "Gazprom",
+            "concept": 13,
+            "candidates": [
+                "Gazprom",
+                "Gazprom_Space_Systems",
+                "Gazprom-Ugra_Surgut",
+                "Gazprom_Armenia"
+            ],
+            "scores": [
+                0.9961880559085133,
+                0.0012706480304955528,
+                0.0012706480304955528,
+                0.0012706480304955528
+            ]
+        },
+        {
+            "begin": 522,
+            "end": 543,
+            "text": "Electricite de France",
+            "concept": 14,
+            "candidates": [
+                "\u00c9lectricit\u00e9_de_France",
+                "EDF_Energy"
+            ],
+            "scores": [
+                0.9957446808510638,
+                0.00425531914893617
+            ]
+        },
+        {
+            "begin": 548,
+            "end": 555,
+            "text": "Germany",
+            "concept": 15,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 558,
+            "end": 561,
+            "text": "EON",
+            "concept": 16,
+            "candidates": [
+                "E.ON",
+                "Eon_(geology)",
+                "Eon_(comics)",
+                "Eon_(novel)",
+                "E.ON_UK",
+                "Eon_Productions",
+                "Eon_(musician)",
+                "Hyundai_Eon",
+                "Geologic_time_scale",
+                "Geologic_eon",
+                "Aeon",
+                "Eon_(album)",
+                "EOn",
+                "Eon_of_Axum",
+                "Eon_Digital_Entertainment",
+                "Eon_(role-playing_game)"
+            ],
+            "scores": [
+                0.6198704103671706,
+                0.0734341252699784,
+                0.05183585313174946,
+                0.04319654427645788,
+                0.038876889848812095,
+                0.038876889848812095,
+                0.02159827213822894,
+                0.019438444924406047,
+                0.017278617710583154,
+                0.01511879049676026,
+                0.01079913606911447,
+                0.008639308855291577,
+                0.008639308855291577,
+                0.0064794816414686825,
+                0.0064794816414686825,
+                0.004319654427645789
+            ]
+        },
+        {
+            "begin": 613,
+            "end": 629,
+            "text": "90 billion euros",
+            "concept": 17
+        },
+        {
+            "begin": 631,
+            "end": 645,
+            "text": "$122.8 billion",
+            "concept": 18
+        },
+        {
+            "begin": 656,
+            "end": 660,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 731,
+            "end": 750,
+            "text": "18-20 billion euros",
+            "concept": 19
+        },
+        {
+            "begin": 800,
+            "end": 813,
+            "text": "18 months ago",
+            "concept": 20
+        },
+        {
+            "begin": 954,
+            "end": 967,
+            "text": "Gaz de France",
+            "concept": 1,
+            "candidates": [
+                "Gaz_de_France"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 982,
+            "end": 986,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1033,
+            "end": 1040,
+            "text": "Sarkozy",
+            "concept": 2,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1061,
+            "end": 1064,
+            "text": "May",
+            "concept": 21
+        },
+        {
+            "begin": 1110,
+            "end": 1114,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1223,
+            "end": 1227,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1305,
+            "end": 1309,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1481,
+            "end": 1488,
+            "text": "Sarkozy",
+            "concept": 2,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1544,
+            "end": 1548,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1567,
+            "end": 1580,
+            "text": "Gaz de France",
+            "concept": 1,
+            "candidates": [
+                "Gaz_de_France"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1664,
+            "end": 1678,
+            "text": "Prime Minister",
+            "concept": 22
+        },
+        {
+            "begin": 1679,
+            "end": 1700,
+            "text": "Dominique de Villepin",
+            "concept": 23,
+            "candidates": [
+                "Dominique_de_Villepin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1710,
+            "end": 1714,
+            "text": "2006",
+            "concept": 24
+        },
+        {
+            "begin": 1726,
+            "end": 1730,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 1759,
+            "end": 1764,
+            "text": "Italy",
+            "concept": 25,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 1767,
+            "end": 1771,
+            "text": "Enel",
+            "concept": 26,
+            "candidates": [
+                "Enel",
+                "Awakening_of_the_Elves"
+            ],
+            "scores": [
+                0.989247311827957,
+                0.010752688172043012
+            ]
+        },
+        {
+            "begin": 1773,
+            "end": 1779,
+            "text": "France",
+            "concept": 27,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1797,
+            "end": 1807,
+            "text": "Socialists",
+            "concept": 28,
+            "candidates": [
+                "Socialism",
+                "Italian_Socialist_Party",
+                "Socialist_Party_(France)",
+                "Party_of_European_Socialists",
+                "Socialist_Party_of_America",
+                "Spanish_Socialist_Workers'_Party",
+                "Victorian_Socialists",
+                "Social_Democratic_Party_of_Austria",
+                "Socialist_Party_of_Chile",
+                "Socialist_Party_USA",
+                "Social_Democratic_Party_of_Germany",
+                "French_Section_of_the_Workers'_International",
+                "Belgian_Socialist_Party",
+                "Bulgarian_Socialist_Party",
+                "French_Left",
+                "Socialist_Party_(Argentina)"
+            ],
+            "scores": [
+                0.6422651933701657,
+                0.07320441988950276,
+                0.04143646408839779,
+                0.019337016574585635,
+                0.019337016574585635,
+                0.013812154696132596,
+                0.011049723756906077,
+                0.011049723756906077,
+                0.009668508287292817,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.006906077348066298,
+                0.006906077348066298,
+                0.0055248618784530384
+            ]
+        },
+        {
+            "begin": 1886,
+            "end": 1899,
+            "text": "Gaz de France",
+            "concept": 1,
+            "candidates": [
+                "Gaz_de_France"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1935,
+            "end": 1948,
+            "text": "Gaz de France",
+            "concept": 1,
+            "candidates": [
+                "Gaz_de_France"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1950,
+            "end": 1957,
+            "text": "Finance",
+            "concept": 29,
+            "candidates": [
+                "Finance",
+                "United_States_Senate_Committee_on_Finance",
+                "Ministry_of_Finance_(Netherlands)",
+                "Federal_Department_of_Finance",
+                "Finance_(constituency)",
+                "Ministry_of_Finance_(Serbia)",
+                "Minister_for_Finance_(Ireland)",
+                "Financial_services",
+                "Minister_of_Finance_(Japan)",
+                "Department_of_Finance_(Ireland)",
+                "Minister_of_Finance_(Canada)",
+                "Ministry_of_Finance_(India)",
+                "Ministry_of_Public_Finance_(Romania)",
+                "Ministry_of_Finance_(Taiwan)",
+                "Federal_Ministry_of_Finance_(Germany)",
+                "Finance_minister"
+            ],
+            "scores": [
+                0.7548845470692718,
+                0.047602131438721135,
+                0.03197158081705151,
+                0.012078152753108348,
+                0.009236234458259326,
+                0.006394316163410302,
+                0.006394316163410302,
+                0.006394316163410302,
+                0.005683836589698046,
+                0.005683836589698046,
+                0.0053285968028419185,
+                0.004262877442273535,
+                0.004262877442273535,
+                0.004262877442273535,
+                0.004262877442273535,
+                0.003552397868561279
+            ]
+        },
+        {
+            "begin": 1958,
+            "end": 1966,
+            "text": "Minister",
+            "concept": 30
+        },
+        {
+            "begin": 1967,
+            "end": 1984,
+            "text": "Christine Lagarde",
+            "concept": 31,
+            "candidates": [
+                "Christine_Lagarde"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2108,
+            "end": 2112,
+            "text": "Suez",
+            "concept": 0,
+            "candidates": [
+                "Suez",
+                "Suez_(company)",
+                "Suez_(film)",
+                "Suez_Governorate",
+                "Suez_Canal",
+                "Suez_Crisis",
+                "Suez_SC",
+                "Suez_Port",
+                "Suez_Environnement",
+                "Gulf_of_Suez",
+                "Operation_Musketeer_(1956)",
+                "Engie",
+                "Suez_Township,_Mercer_County,_Illinois"
+            ],
+            "scores": [
+                0.7315978456014363,
+                0.09245960502692999,
+                0.04937163375224417,
+                0.03680430879712747,
+                0.03321364452423698,
+                0.027827648114901255,
+                0.011669658886894075,
+                0.0062836624775583485,
+                0.005385996409335727,
+                0.0017953321364452424,
+                0.0017953321364452424,
+                0.0008976660682226212,
+                0.0008976660682226212
+            ]
+        },
+        {
+            "begin": 2113,
+            "end": 2136,
+            "text": "Chief Executive Officer",
+            "concept": 32
+        },
+        {
+            "begin": 2137,
+            "end": 2154,
+            "text": "Gerard Mestrallet",
+            "concept": 4,
+            "candidates": [
+                "G\u00e9rard_Mestrallet"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2190,
+            "end": 2211,
+            "text": "Jean-Francois Cirelli",
+            "concept": 33,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2292,
+            "end": 2307,
+            "text": "1 billion euros",
+            "concept": 34
+        },
+        {
+            "begin": 2311,
+            "end": 2315,
+            "text": "2013",
+            "concept": 35
+        },
+        {
+            "begin": 2330,
+            "end": 2339,
+            "text": "Bloomberg",
+            "concept": 36,
+            "candidates": [
+                "Bloomberg_L.P.",
+                "Bloomberg_News",
+                "Bloomberg_Television",
+                "Bloomberg_Businessweek",
+                "Michael_Bloomberg",
+                "Bloomberg_Terminal",
+                "Bloomberg_Markets",
+                "Bloomberg_Radio",
+                "Bloomberg_TV_Indonesia",
+                "Bloomberg_tablets",
+                "BTVI",
+                "Bloomberg_Politics",
+                "Bloomberg",
+                "WBBR",
+                "50_Most_Influential_(Bloomberg_Markets_ranking)"
+            ],
+            "scores": [
+                0.6960486322188449,
+                0.14387031408308004,
+                0.06990881458966565,
+                0.0364741641337386,
+                0.0243161094224924,
+                0.010131712259371834,
+                0.008105369807497468,
+                0.00303951367781155,
+                0.002026342451874367,
+                0.0010131712259371835,
+                0.0010131712259371835,
+                0.0010131712259371835,
+                0.0010131712259371835,
+                0.0010131712259371835,
+                0.0010131712259371835
+            ]
+        },
+        {
+            "begin": 2380,
+            "end": 2388,
+            "text": "GDF Suez",
+            "concept": 3,
+            "candidates": [
+                "Engie",
+                "2014_Open_GDF_Suez_\u2013_Singles"
+            ],
+            "scores": [
+                0.9931506849315068,
+                0.00684931506849315
+            ]
+        },
+        {
+            "begin": 2433,
+            "end": 2437,
+            "text": "2008",
+            "concept": 37
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Suez",
+            "keyword": true,
+            "count": 9,
+            "link": "Suez_(company)",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Gaz de France",
+            "keyword": true,
+            "count": 5,
+            "link": "Gaz_de_France",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Nicolas Sarkozy",
+            "keyword": true,
+            "count": 4,
+            "link": "Nicolas_Sarkozy",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "GDF Suez",
+            "keyword": true,
+            "count": 3,
+            "link": "Engie",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Gerard Mestrallet",
+            "keyword": true,
+            "count": 1,
+            "link": "G\u00e9rard_Mestrallet",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "French",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Paris",
+            "keyword": false,
+            "count": 1,
+            "link": "Paris",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Europe",
+            "keyword": false,
+            "count": 2,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Russia",
+            "keyword": false,
+            "count": 1,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Gazprom",
+            "keyword": false,
+            "count": 1,
+            "link": "Gazprom",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Electricite de France",
+            "keyword": false,
+            "count": 1,
+            "link": "\u00c9lectricit\u00e9_de_France",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "EON",
+            "keyword": false,
+            "count": 1,
+            "link": "E.ON",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "90 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$122.8 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "18-20 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "18 months ago",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "May",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Dominique de Villepin",
+            "keyword": false,
+            "count": 1,
+            "link": "Dominique_de_Villepin",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "2006",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Italy",
+            "keyword": false,
+            "count": 1,
+            "link": "Italy",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Enel",
+            "keyword": false,
+            "count": 1,
+            "link": "Enel",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000256",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Socialists",
+            "keyword": false,
+            "count": 1,
+            "link": "Socialist_Party_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Finance",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Christine Lagarde",
+            "keyword": false,
+            "count": 1,
+            "link": "Christine_Lagarde",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "policy::finance",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Chief Executive Officer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Jean-Francois Cirelli",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q3165536",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "1 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "2013",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Bloomberg",
+            "keyword": false,
+            "count": 1,
+            "link": "Bloomberg_News",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "based_in2",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 27
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "head_of_state",
+            "o": 27
+        },
+        {
+            "s": 2,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 3
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 27
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 27
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 15
+        },
+        {
+            "s": 23,
+            "p": "agent_of",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 23,
+            "p": "head_of_gov",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "head_of_gov-x",
+            "o": 5
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 28,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 29,
+            "p": "agency_of",
+            "o": 27
+        },
+        {
+            "s": 29,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 29,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 29,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 29,
+            "p": "ministry_of",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "agent_of",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 31,
+            "p": "minister_of",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 33,
+            "p": "citizen_of",
+            "o": 27
+        },
+        {
+            "s": 33,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 33,
+            "p": "head_of",
+            "o": 3
+        },
+        {
+            "s": 33,
+            "p": "member_of",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "merge-org",
+            "slots": [
+                {
+                    "name": "org",
+                    "value": 0
+                },
+                {
+                    "name": "org",
+                    "value": 1
+                },
+                {
+                    "name": "time",
+                    "value": 11
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000385",
+        "20000386",
+        "20000387"
+    ]
+}

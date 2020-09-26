@@ -1,0 +1,1105 @@
+{
+    "id": "DW_17158719",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 7,
+            "end": 11,
+            "text": "boss",
+            "concept": 4
+        },
+        {
+            "begin": 12,
+            "end": 23,
+            "text": "Hans Riegel",
+            "concept": 1,
+            "candidates": [
+                "Hans_Riegel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 37,
+            "end": 55,
+            "text": "HAns, RIegel, BOnn",
+            "concept": 5
+        },
+        {
+            "begin": 74,
+            "end": 80,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 99,
+            "end": 105,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 137,
+            "end": 143,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 175,
+            "end": 186,
+            "text": "Hans Riegel",
+            "concept": 1,
+            "candidates": [
+                "Hans_Riegel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 193,
+            "end": 197,
+            "text": "1946",
+            "concept": 7
+        },
+        {
+            "begin": 254,
+            "end": 260,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 302,
+            "end": 313,
+            "text": "Hans Riegel",
+            "concept": 1,
+            "candidates": [
+                "Hans_Riegel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 323,
+            "end": 330,
+            "text": "Tuesday",
+            "concept": 8
+        },
+        {
+            "begin": 332,
+            "end": 338,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 403,
+            "end": 409,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 435,
+            "end": 439,
+            "text": "Paul",
+            "concept": 9,
+            "candidates": [
+                "Paul_the_Apostle",
+                "Paul_(film)",
+                "Paul_McCartney",
+                "Paul_of_Greece",
+                "Robbie_Paul",
+                "Paul_I_of_Russia",
+                "Chris_Paul",
+                "Paul,_Cape_Verde",
+                "Paul_(given_name)",
+                "Paul,_Cornwall",
+                "Paul_Robinson_(Neighbours)",
+                "Pauline_epistles",
+                "Paul,_Idaho",
+                "Paul_Waterhouse",
+                "Ron_Paul",
+                "Prince_Paul_of_Yugoslavia"
+            ],
+            "scores": [
+                0.3802928373565493,
+                0.04788286505738029,
+                0.04352987732489118,
+                0.02809655718242976,
+                0.025722200237435693,
+                0.024139295607439652,
+                0.0221606648199446,
+                0.020182034032449545,
+                0.018599129402453504,
+                0.01820340324495449,
+                0.014246141669964385,
+                0.01226751088246933,
+                0.007914523149980214,
+                0.007518796992481203,
+                0.007123070834982192,
+                0.006727344677483181
+            ]
+        },
+        {
+            "begin": 491,
+            "end": 507,
+            "text": "Second World War",
+            "concept": 10,
+            "candidates": [
+                "World_War_II",
+                "Eastern_Front_(World_War_II)",
+                "Netherlands_in_World_War_II",
+                "Military_history_of_the_Philippines_during_World_War_II",
+                "Military_history_of_Canada_during_World_War_II",
+                "Pacific_War",
+                "German_occupation_of_Norway",
+                "World_War_II_in_Yugoslavia",
+                "World_War_I",
+                "Military_history_of_the_United_Kingdom_during_World_War_II",
+                "Second_Sino-Japanese_War",
+                "Second_World_War_at_Sea_series",
+                "Belgium_in_World_War_II",
+                "Military_history_of_Gibraltar_during_World_War_II",
+                "Denmark_in_World_War_II",
+                "History_of_Poland_(1939\u20131945)"
+            ],
+            "scores": [
+                0.9937571592210768,
+                0.0016323024054982818,
+                0.0004009163802978236,
+                0.0003436426116838488,
+                0.0003150057273768614,
+                0.0002577319587628866,
+                0.0002290950744558992,
+                0.0002290950744558992,
+                0.0002004581901489118,
+                0.0001718213058419244,
+                0.0001718213058419244,
+                0.000143184421534937,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                0.0001145475372279496,
+                8.59106529209622e-05
+            ]
+        },
+        {
+            "begin": 509,
+            "end": 516,
+            "text": "Founder",
+            "concept": 11
+        },
+        {
+            "begin": 517,
+            "end": 530,
+            "text": "Johann Riegel",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 544,
+            "end": 548,
+            "text": "Hans",
+            "concept": 1,
+            "candidates": [
+                "John,_King_of_Denmark",
+                "Hans_Scholl",
+                "Hans_(name)",
+                "Hans_(Frozen)",
+                "Han_Chinese",
+                "HANS_device",
+                "Hans_Cattini",
+                "Hans_Rausing",
+                "Hans_Holmboe",
+                "Han_system",
+                "Hans_Hass",
+                "Hans_(film)",
+                "Hans,_Marne",
+                "Hans_Egede",
+                "Hans_Grundig",
+                "Hans_Kruize"
+            ],
+            "scores": [
+                0.16115702479338842,
+                0.10330578512396695,
+                0.09090909090909091,
+                0.0743801652892562,
+                0.07024793388429752,
+                0.0371900826446281,
+                0.024793388429752067,
+                0.024793388429752067,
+                0.02066115702479339,
+                0.02066115702479339,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.012396694214876033,
+                0.012396694214876033
+            ]
+        },
+        {
+            "begin": 603,
+            "end": 607,
+            "text": "Hans",
+            "concept": 1,
+            "candidates": [
+                "John,_King_of_Denmark",
+                "Hans_Scholl",
+                "Hans_(name)",
+                "Hans_(Frozen)",
+                "Han_Chinese",
+                "HANS_device",
+                "Hans_Cattini",
+                "Hans_Rausing",
+                "Hans_Holmboe",
+                "Han_system",
+                "Hans_Hass",
+                "Hans_(film)",
+                "Hans,_Marne",
+                "Hans_Egede",
+                "Hans_Grundig",
+                "Hans_Kruize"
+            ],
+            "scores": [
+                0.16115702479338842,
+                0.10330578512396695,
+                0.09090909090909091,
+                0.0743801652892562,
+                0.07024793388429752,
+                0.0371900826446281,
+                0.024793388429752067,
+                0.024793388429752067,
+                0.02066115702479339,
+                0.02066115702479339,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.01652892561983471,
+                0.012396694214876033,
+                0.012396694214876033
+            ]
+        },
+        {
+            "begin": 609,
+            "end": 615,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 647,
+            "end": 651,
+            "text": "Bonn",
+            "concept": 12,
+            "candidates": [
+                "Bonn",
+                "University_of_Bonn",
+                "Bonn_Hauptbahnhof",
+                "Telekom_Baskets_Bonn",
+                "Timeline_of_Bonn",
+                "Bonn_Stadtbahn",
+                "Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals",
+                "Bundeshaus_(Bonn)",
+                "Siege_of_Bonn_(1689)",
+                "Siege_of_Bonn_(1703)",
+                "Botanical_Garden,_Bonn",
+                "Theater_Bonn",
+                "Akademisches_Kunstmuseum",
+                "Bonner_SC",
+                "List_of_ambassadors_of_Australia_to_Germany",
+                "B\u00f6nnsch_dialect"
+            ],
+            "scores": [
+                0.885295486272685,
+                0.09167054443927408,
+                0.014890646812470917,
+                0.003024662633783155,
+                0.0016286644951140066,
+                0.0006979990693345743,
+                0.00046533271288971617,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808
+            ]
+        },
+        {
+            "begin": 753,
+            "end": 765,
+            "text": "Gummib\u00e4rchen",
+            "concept": 2,
+            "candidates": [
+                "Gummib\u00e4rchen_k\u00fc\u00dft_man_nicht"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 793,
+            "end": 799,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 905,
+            "end": 912,
+            "text": "English",
+            "concept": 13,
+            "candidates": [
+                "English_language",
+                "England",
+                "English_people",
+                "English_poetry",
+                "English_studies",
+                "Kingdom_of_England",
+                "English_Americans",
+                "United_Kingdom",
+                "English_literature",
+                "Australian_English",
+                "England_national_football_team",
+                "American_English",
+                "Philippine_English",
+                "English_law",
+                "English_Canadians",
+                "English-speaking_world"
+            ],
+            "scores": [
+                0.48988774122184187,
+                0.23750728710444102,
+                0.1568334354773614,
+                0.026069149015680353,
+                0.017922539948280244,
+                0.0103290034230706,
+                0.010254263890342157,
+                0.00554567332845035,
+                0.0033632789727798622,
+                0.002660727365132513,
+                0.0023916650473101244,
+                0.0019133320378480994,
+                0.0015545822807515807,
+                0.001509738561114516,
+                0.001509738561114516,
+                0.0012556241498378152
+            ]
+        },
+        {
+            "begin": 974,
+            "end": 980,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1061,
+            "end": 1067,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1158,
+            "end": 1164,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 1211,
+            "end": 1225,
+            "text": "game show host",
+            "concept": 14
+        },
+        {
+            "begin": 1226,
+            "end": 1243,
+            "text": "Thomas Gottschalk",
+            "concept": 15,
+            "candidates": [
+                "Thomas_Gottschalk"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1292,
+            "end": 1298,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 1343,
+            "end": 1362,
+            "text": "Hans-Riegel-Strasse",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1402,
+            "end": 1408,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1471,
+            "end": 1488,
+            "text": "620 million euros",
+            "concept": 17
+        },
+        {
+            "begin": 1490,
+            "end": 1502,
+            "text": "$835 million",
+            "concept": 18
+        },
+        {
+            "begin": 1507,
+            "end": 1511,
+            "text": "2011",
+            "concept": 19
+        },
+        {
+            "begin": 1513,
+            "end": 1519,
+            "text": "Haribo",
+            "concept": 0,
+            "candidates": [
+                "Haribo"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1553,
+            "end": 1606,
+            "text": "The Order of Merit of the Federal Republic of Germany",
+            "concept": 3,
+            "candidates": [
+                "Order_of_Merit_of_the_Federal_Republic_of_Germany"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1624,
+            "end": 1628,
+            "text": "1994",
+            "concept": 20
+        },
+        {
+            "begin": 1680,
+            "end": 1687,
+            "text": "Austria",
+            "concept": 21,
+            "candidates": [
+                "Austria",
+                "Austria_national_football_team",
+                "Austrian_Empire",
+                "ISU_Junior_Grand_Prix_in_Austria",
+                "Habsburg_Monarchy",
+                "Same-sex_marriage_in_Austria",
+                "Archduchy_of_Austria",
+                "Austrian_Football_Association",
+                "First_Austrian_Republic",
+                "\u00d63_Austria_Top_40",
+                "Austria-Hungary",
+                "Austria_women's_national_football_team",
+                "Austria_national_under-21_football_team",
+                "Duchy_of_Austria",
+                "List_of_non-marine_molluscs_of_Austria",
+                "Federal_State_of_Austria"
+            ],
+            "scores": [
+                0.8352887119007505,
+                0.03819880533006586,
+                0.014734262521059886,
+                0.008975340787256854,
+                0.0076581406034614795,
+                0.006800428855873794,
+                0.005758921733803032,
+                0.004594884362076888,
+                0.00367590748966151,
+                0.003400214427936897,
+                0.0028181957420738246,
+                0.0024812375555215193,
+                0.0024812375555215193,
+                0.0024199724306938277,
+                0.0023280747434522896,
+                0.0020523816817276763
+            ]
+        },
+        {
+            "begin": 1701,
+            "end": 1707,
+            "text": "Riegel",
+            "concept": 1,
+            "candidates": [
+                "Riegel_am_Kaiserstuhl",
+                "Riegel_(glacial)"
+            ],
+            "scores": [
+                0.9523809523809523,
+                0.047619047619047616
+            ]
+        },
+        {
+            "begin": 1780,
+            "end": 1787,
+            "text": "Austria",
+            "concept": 21,
+            "candidates": [
+                "Austria",
+                "Austria_national_football_team",
+                "Austrian_Empire",
+                "ISU_Junior_Grand_Prix_in_Austria",
+                "Habsburg_Monarchy",
+                "Same-sex_marriage_in_Austria",
+                "Archduchy_of_Austria",
+                "Austrian_Football_Association",
+                "First_Austrian_Republic",
+                "\u00d63_Austria_Top_40",
+                "Austria-Hungary",
+                "Austria_women's_national_football_team",
+                "Austria_national_under-21_football_team",
+                "Duchy_of_Austria",
+                "List_of_non-marine_molluscs_of_Austria",
+                "Federal_State_of_Austria"
+            ],
+            "scores": [
+                0.8352887119007505,
+                0.03819880533006586,
+                0.014734262521059886,
+                0.008975340787256854,
+                0.0076581406034614795,
+                0.006800428855873794,
+                0.005758921733803032,
+                0.004594884362076888,
+                0.00367590748966151,
+                0.003400214427936897,
+                0.0028181957420738246,
+                0.0024812375555215193,
+                0.0024812375555215193,
+                0.0024199724306938277,
+                0.0023280747434522896,
+                0.0020523816817276763
+            ]
+        },
+        {
+            "begin": 1789,
+            "end": 1806,
+            "text": "msh/rg (AFP, dpa)",
+            "concept": 22
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Haribo",
+            "keyword": true,
+            "count": 7,
+            "link": "Haribo",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Johann Riegel",
+            "keyword": true,
+            "count": 14,
+            "link": "Hans_Riegel",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Gummib\u00e4rchen",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "The Order of Merit of the Federal Republic of Germany",
+            "keyword": true,
+            "count": 1,
+            "link": "Order_of_Merit_of_the_Federal_Republic_of_Germany",
+            "tags": [
+                "iptc::08000000",
+                "iptc::20000498",
+                "slot::keyword",
+                "topic::human_interest",
+                "type::award",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "boss",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "HAns, RIegel, BOnn",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "1946",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Paul",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q108691",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Second World War",
+            "keyword": false,
+            "count": 1,
+            "link": "World_War_II",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::war"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Founder",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Bonn",
+            "keyword": false,
+            "count": 1,
+            "link": "Bonn",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "English",
+            "keyword": false,
+            "count": 1,
+            "link": "English_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "game show host",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Thomas Gottschalk",
+            "keyword": false,
+            "count": 1,
+            "link": "Thomas_Gottschalk",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Hans-Riegel-Strasse",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::street"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "620 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$835 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "1994",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Austria",
+            "keyword": false,
+            "count": 2,
+            "link": "Austria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "msh/rg (AFP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 23
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "award_received",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 23
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "product_of",
+            "o": 0
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 23
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 23
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "sibling",
+            "o": 1
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 23
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 23
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "die",
+            "slots": [
+                {
+                    "name": "victim",
+                    "value": 1
+                },
+                {
+                    "name": "time",
+                    "value": 8
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000188",
+        "20000190",
+        "20000209",
+        "20000243",
+        "20000248"
+    ]
+}

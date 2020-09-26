@@ -1,0 +1,665 @@
+{
+    "id": "DW_44224884",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 28,
+            "end": 35,
+            "text": "\u20ac12,000",
+            "concept": 5
+        },
+        {
+            "begin": 51,
+            "end": 57,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 141,
+            "end": 147,
+            "text": "Norway",
+            "concept": 1,
+            "candidates": [
+                "Norway",
+                "Norway_national_football_team",
+                "Norway_women's_national_football_team",
+                "Football_Association_of_Norway",
+                "VG-lista",
+                "Same-sex_marriage_in_Norway",
+                "ISU_Junior_Grand_Prix_in_Norway",
+                "Norway_national_under-21_football_team",
+                "Norway_men's_national_ice_hockey_team",
+                "Norway_women's_national_handball_team",
+                "Norwegian_Campaign",
+                "Norway_national_handball_team",
+                "Norway_Fed_Cup_team",
+                "Norway,_Maine",
+                "Norway_national_cricket_team",
+                "Norway_at_the_1920_Summer_Olympics"
+            ],
+            "scores": [
+                0.8815544177497703,
+                0.03534199816200604,
+                0.011001706708677957,
+                0.005198897203623474,
+                0.0045687278456085076,
+                0.003308389129578574,
+                0.0023106209793882105,
+                0.00223184980963634,
+                0.0018642510174609426,
+                0.001680451621373244,
+                0.0014441381121176316,
+                0.0013391098857818038,
+                0.0013128528291978469,
+                0.0011815675462780622,
+                0.0009452540370224497,
+                0.0008664828672705789
+            ]
+        },
+        {
+            "begin": 248,
+            "end": 255,
+            "text": "\u20ac12,000",
+            "concept": 7
+        },
+        {
+            "begin": 271,
+            "end": 277,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 407,
+            "end": 414,
+            "text": "\u20ac12,000",
+            "concept": 5
+        },
+        {
+            "begin": 423,
+            "end": 430,
+            "text": "$14,000",
+            "concept": 8
+        },
+        {
+            "begin": 487,
+            "end": 493,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 502,
+            "end": 506,
+            "text": "Kiel",
+            "concept": 0,
+            "candidates": [
+                "Kiel",
+                "University_of_Kiel",
+                "Kiel_Hauptbahnhof",
+                "Kiel,_Wisconsin",
+                "THW_Kiel",
+                "Radio_74_Internationale",
+                "Kiel_mutiny",
+                "Kiel_Airport",
+                "Kiel_Canal",
+                "Opernhaus_Kiel",
+                "Kiel_(mountain)",
+                "Hamburg-Altona\u2013Kiel_railway",
+                "Kaiserliche_Werft_Kiel",
+                "Husum\u2013Kiel_railway",
+                "Deutsche_Werke",
+                "Sailing_at_the_1972_Summer_Olympics_\u2013_Flying_Dutchman"
+            ],
+            "scores": [
+                0.9334193548387096,
+                0.03974193548387097,
+                0.011870967741935483,
+                0.006709677419354839,
+                0.0036129032258064514,
+                0.0007741935483870968,
+                0.0007741935483870968,
+                0.0005161290322580645,
+                0.0005161290322580645,
+                0.0005161290322580645,
+                0.00025806451612903227,
+                0.00025806451612903227,
+                0.00025806451612903227,
+                0.00025806451612903227,
+                0.00025806451612903227,
+                0.00025806451612903227
+            ]
+        },
+        {
+            "begin": 514,
+            "end": 523,
+            "text": "Norwegian",
+            "concept": 9
+        },
+        {
+            "begin": 535,
+            "end": 539,
+            "text": "Oslo",
+            "concept": 10,
+            "candidates": [
+                "Oslo",
+                "Holmenkollen_National_Arena",
+                "Bislett_Stadium",
+                "Oslo_(play)",
+                "Bislett_Games",
+                "University_of_Oslo",
+                "Oslo_Airport,_Gardermoen",
+                "Diocese_of_Oslo",
+                "Holmenkollbakken",
+                "2010\u201311_Biathlon_World_Cup_\u2013_World_Cup_9",
+                "Oslo_(band)",
+                "Oslo_Accords",
+                "Oslo_Central_Station",
+                "Oslo,_Minnesota",
+                "Trams_in_Oslo",
+                "2009\u201310_Biathlon_World_Cup_\u2013_World_Cup_8"
+            ],
+            "scores": [
+                0.9520307427284171,
+                0.020738090505532367,
+                0.006095540979261909,
+                0.0039753528125621145,
+                0.0032465381302590607,
+                0.0017226528854435831,
+                0.0011263499635592658,
+                0.0009275823229311601,
+                0.0008613264427217916,
+                0.0007288146823030544,
+                0.0006625588020936858,
+                0.0005300470416749486,
+                0.0004637911614655801,
+                0.0004637911614655801,
+                0.0004637911614655801,
+                0.0003975352812562115
+            ]
+        },
+        {
+            "begin": 897,
+            "end": 903,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 948,
+            "end": 951,
+            "text": "\u20ac30",
+            "concept": 11
+        },
+        {
+            "begin": 1020,
+            "end": 1022,
+            "text": "EU",
+            "concept": 4,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1088,
+            "end": 1095,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1204,
+            "end": 1211,
+            "text": "\u20ac12,500",
+            "concept": 12
+        },
+        {
+            "begin": 1436,
+            "end": 1442,
+            "text": "\u20ac5,000",
+            "concept": 13
+        },
+        {
+            "begin": 1549,
+            "end": 1558,
+            "text": "Norwegian",
+            "concept": 9
+        },
+        {
+            "begin": 1559,
+            "end": 1579,
+            "text": "cruise line operator",
+            "concept": 14
+        },
+        {
+            "begin": 1580,
+            "end": 1590,
+            "text": "Color Line",
+            "concept": 2,
+            "candidates": [
+                "Color_Line_(ferry_operator)",
+                "Baseball_color_line",
+                "Color_line_(racism)",
+                "Racial_segregation"
+            ],
+            "scores": [
+                0.5563380281690141,
+                0.2676056338028169,
+                0.16901408450704225,
+                0.007042253521126761
+            ]
+        },
+        {
+            "begin": 1685,
+            "end": 1692,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1694,
+            "end": 1696,
+            "text": "US",
+            "concept": 15,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Kiel",
+            "keyword": true,
+            "count": 1,
+            "link": "Kiel",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Norway",
+            "keyword": true,
+            "count": 1,
+            "link": "Norway",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Color Line",
+            "keyword": true,
+            "count": 1,
+            "link": "Color_Line_(ferry_operator)",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Germany",
+            "keyword": true,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "EU",
+            "keyword": true,
+            "count": 1,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "\u20ac12,000",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "\u20ac12,000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "$14,000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Norwegian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Oslo",
+            "keyword": false,
+            "count": 1,
+            "link": "Oslo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "\u20ac30",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "\u20ac12,500",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "\u20ac5,000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "cruise line operator",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 9
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "10000000",
+        "20000170",
+        "20000538",
+        "20000563"
+    ]
+}

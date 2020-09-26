@@ -1,0 +1,2280 @@
+{
+    "id": "DW_3637268",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 13,
+            "end": 27,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 53,
+            "end": 60,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 66,
+            "end": 74,
+            "text": "Peruvian",
+            "concept": 4
+        },
+        {
+            "begin": 102,
+            "end": 108,
+            "text": "Bayern",
+            "concept": 3,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 118,
+            "end": 126,
+            "text": "Guerrero",
+            "concept": 0,
+            "candidates": [
+                "Guerrero",
+                "Mexicana_Universal_Guerrero",
+                "Roberto_Guerrero",
+                "Francisco_Guerrero_(composer)",
+                "Colonia_Guerrero",
+                "Metro_Guerrero",
+                "Paolo_Guerrero",
+                "Guerrero,_Coahuila",
+                "Julen_Guerrero",
+                "Los_Guerreros",
+                "Guerrero_Municipality,_Tamaulipas",
+                "Vicente_Guerrero,_Chihuahua",
+                "Guerrero_Municipality,_Chihuahua",
+                "Costa_Chica_of_Guerrero",
+                "Guerrero_(ship)",
+                "Guerrero_Municipality,_Coahuila"
+            ],
+            "scores": [
+                0.9187898089171974,
+                0.008492569002123142,
+                0.007961783439490446,
+                0.005307855626326964,
+                0.005307855626326964,
+                0.004777070063694267,
+                0.004246284501061571,
+                0.004246284501061571,
+                0.0031847133757961785,
+                0.0031847133757961785,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.0021231422505307855
+            ]
+        },
+        {
+            "begin": 139,
+            "end": 146,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 171,
+            "end": 181,
+            "text": "Uwe Seeler",
+            "concept": 5,
+            "candidates": [
+                "Uwe_Seeler"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 235,
+            "end": 239,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 305,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 330,
+            "end": 334,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 352,
+            "end": 366,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 394,
+            "end": 409,
+            "text": "Zinedine Zidane",
+            "concept": 6,
+            "candidates": [
+                "Zinedine_Zidane"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 411,
+            "end": 424,
+            "text": "Thierry Henry",
+            "concept": 7,
+            "candidates": [
+                "Thierry_Henry"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 429,
+            "end": 436,
+            "text": "Ronaldo",
+            "concept": 8,
+            "candidates": [
+                "Ronaldo_(Brazilian_footballer)",
+                "Cristiano_Ronaldo",
+                "Ronaldo_(film)",
+                "Ronaldo_da_Silva_Souza",
+                "Ronaldo_Guiaro",
+                "Ronaldo_Giovanelli",
+                "Ronaldo",
+                "Ronaldo_Rodrigues_de_Jesus",
+                "Tiago_Ronaldo",
+                "Ronaldo_Morais_Silva",
+                "Ronaldo_Vieira_(footballer,_born_1998)",
+                "Ronaldo_Henrique",
+                "Ronaldo_Henrique_Silva",
+                "Ronaldo_Alves",
+                "Ronaldo_Marques_Sereno"
+            ],
+            "scores": [
+                0.8355555555555556,
+                0.12622222222222224,
+                0.010666666666666666,
+                0.006222222222222222,
+                0.0044444444444444444,
+                0.0035555555555555557,
+                0.0035555555555555557,
+                0.0017777777777777779,
+                0.0017777777777777779,
+                0.0017777777777777779,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889
+            ]
+        },
+        {
+            "begin": 489,
+            "end": 493,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 534,
+            "end": 541,
+            "text": "Ronaldo",
+            "concept": 8,
+            "candidates": [
+                "Ronaldo_(Brazilian_footballer)",
+                "Cristiano_Ronaldo",
+                "Ronaldo_(film)",
+                "Ronaldo_da_Silva_Souza",
+                "Ronaldo_Guiaro",
+                "Ronaldo_Giovanelli",
+                "Ronaldo",
+                "Ronaldo_Rodrigues_de_Jesus",
+                "Tiago_Ronaldo",
+                "Ronaldo_Morais_Silva",
+                "Ronaldo_Vieira_(footballer,_born_1998)",
+                "Ronaldo_Henrique",
+                "Ronaldo_Henrique_Silva",
+                "Ronaldo_Alves",
+                "Ronaldo_Marques_Sereno"
+            ],
+            "scores": [
+                0.8355555555555556,
+                0.12622222222222224,
+                0.010666666666666666,
+                0.006222222222222222,
+                0.0044444444444444444,
+                0.0035555555555555557,
+                0.0035555555555555557,
+                0.0017777777777777779,
+                0.0017777777777777779,
+                0.0017777777777777779,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889,
+                0.0008888888888888889
+            ]
+        },
+        {
+            "begin": 543,
+            "end": 557,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 591,
+            "end": 599,
+            "text": "Guerrero",
+            "concept": 0,
+            "candidates": [
+                "Guerrero",
+                "Mexicana_Universal_Guerrero",
+                "Roberto_Guerrero",
+                "Francisco_Guerrero_(composer)",
+                "Colonia_Guerrero",
+                "Metro_Guerrero",
+                "Paolo_Guerrero",
+                "Guerrero,_Coahuila",
+                "Julen_Guerrero",
+                "Los_Guerreros",
+                "Guerrero_Municipality,_Tamaulipas",
+                "Vicente_Guerrero,_Chihuahua",
+                "Guerrero_Municipality,_Chihuahua",
+                "Costa_Chica_of_Guerrero",
+                "Guerrero_(ship)",
+                "Guerrero_Municipality,_Coahuila"
+            ],
+            "scores": [
+                0.9187898089171974,
+                0.008492569002123142,
+                0.007961783439490446,
+                0.005307855626326964,
+                0.005307855626326964,
+                0.004777070063694267,
+                0.004246284501061571,
+                0.004246284501061571,
+                0.0031847133757961785,
+                0.0031847133757961785,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.0021231422505307855
+            ]
+        },
+        {
+            "begin": 711,
+            "end": 717,
+            "text": "Bayern",
+            "concept": 3,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 726,
+            "end": 730,
+            "text": "2004",
+            "concept": 9
+        },
+        {
+            "begin": 884,
+            "end": 898,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 934,
+            "end": 947,
+            "text": "Bayern Munich",
+            "concept": 3,
+            "candidates": [
+                "FC_Bayern_Munich",
+                "FC_Bayern_Munich_(basketball)",
+                "FC_Bayern_Munich_(women)",
+                "FC_Bayern_Munich_Junior_Team",
+                "FC_Bayern_Munich_II",
+                "1975\u201376_FC_Bayern_Munich_season"
+            ],
+            "scores": [
+                0.8923263048738334,
+                0.059108192188040094,
+                0.04459039059799516,
+                0.00276529554096094,
+                0.0010369858278603526,
+                0.00017283097131005876
+            ]
+        },
+        {
+            "begin": 1075,
+            "end": 1080,
+            "text": "coach",
+            "concept": 10
+        },
+        {
+            "begin": 1081,
+            "end": 1093,
+            "text": "Felix Magath",
+            "concept": 11,
+            "candidates": [
+                "Felix_Magath"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1245,
+            "end": 1249,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1306,
+            "end": 1321,
+            "text": "Michael Ballack",
+            "concept": 12,
+            "candidates": [
+                "Michael_Ballack"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1323,
+            "end": 1328,
+            "text": "Lucio",
+            "concept": 13,
+            "candidates": [
+                "L\u00facio",
+                "L\u00facio_Te\u00f3filo_da_Silva",
+                "L\u00facio_Carlos_Cajueiro_Souza",
+                "L\u00facio_Bala",
+                "Lucio",
+                "L\u00facio_Soares",
+                "L\u00facio_(Overwatch)",
+                "L\u00facio_Carlos_Lima_Rosa",
+                "Lucio_Guti\u00e9rrez",
+                "Rafael_Lucio_N\u00e1jera",
+                "Lucio_Gonzaga",
+                "Lucio_(futsal)",
+                "Measure_for_Measure"
+            ],
+            "scores": [
+                0.7898305084745763,
+                0.13898305084745763,
+                0.013559322033898305,
+                0.013559322033898305,
+                0.013559322033898305,
+                0.006779661016949152,
+                0.003389830508474576,
+                0.003389830508474576,
+                0.003389830508474576,
+                0.003389830508474576,
+                0.003389830508474576,
+                0.003389830508474576,
+                0.003389830508474576
+            ]
+        },
+        {
+            "begin": 1330,
+            "end": 1340,
+            "text": "Ze Roberto",
+            "concept": 14,
+            "candidates": [
+                "Z\u00e9_Roberto",
+                "Jos\u00e9_Roberto_Gomes_Santana",
+                "Jos\u00e9_Roberto_de_Oliveira",
+                "Jos\u00e9_Roberto_Guimar\u00e3es",
+                "Jos\u00e9_Roberto_Marques",
+                "Jos\u00e9_Roberto_Lucini",
+                "Jos\u00e9_Roberto_Assun\u00e7\u00e3o_de_Ara\u00fajo_Filho",
+                "Zequinha_(footballer,_born_1949)"
+            ],
+            "scores": [
+                0.8271028037383178,
+                0.07476635514018691,
+                0.04205607476635514,
+                0.02336448598130841,
+                0.014018691588785047,
+                0.009345794392523364,
+                0.004672897196261682,
+                0.004672897196261682
+            ]
+        },
+        {
+            "begin": 1345,
+            "end": 1355,
+            "text": "Roy Makaay",
+            "concept": 15,
+            "candidates": [
+                "Roy_Makaay"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1398,
+            "end": 1412,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1578,
+            "end": 1582,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1605,
+            "end": 1611,
+            "text": "Bayern",
+            "concept": 3,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 1627,
+            "end": 1634,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 1686,
+            "end": 1700,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1735,
+            "end": 1741,
+            "text": "Bayern",
+            "concept": 3,
+            "candidates": [
+                "Bavaria",
+                "FC_Bayern_Munich",
+                "Bayern_(horse)",
+                "FC_Bayern_Munich_(basketball)",
+                "Bayern_(song)",
+                "German_frigate_Bayern",
+                "FC_Bayern_Munich_(women)",
+                "Bayern-class_battleship",
+                "Bavarian_Cup",
+                "SMS_Bayern",
+                "FC_Bayern_Munich_II",
+                "Regionalliga_Bayern",
+                "Kingdom_of_Bavaria",
+                "Hamburg-class_destroyer"
+            ],
+            "scores": [
+                0.5358490566037736,
+                0.15471698113207547,
+                0.13962264150943396,
+                0.05660377358490566,
+                0.03773584905660377,
+                0.018867924528301886,
+                0.011320754716981131,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.007547169811320755,
+                0.0037735849056603774,
+                0.0037735849056603774
+            ]
+        },
+        {
+            "begin": 1846,
+            "end": 1853,
+            "text": "Hamburg",
+            "concept": 16,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 1896,
+            "end": 1902,
+            "text": "Munich",
+            "concept": 17,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 2009,
+            "end": 2016,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 2041,
+            "end": 2045,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2051,
+            "end": 2056,
+            "text": "coach",
+            "concept": 10
+        },
+        {
+            "begin": 2057,
+            "end": 2068,
+            "text": "Thomas Doll",
+            "concept": 18,
+            "candidates": [
+                "Thomas_Doll"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2090,
+            "end": 2104,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2305,
+            "end": 2312,
+            "text": "Hamburg",
+            "concept": 16,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 2314,
+            "end": 2320,
+            "text": "2007/8",
+            "concept": 19
+        },
+        {
+            "begin": 2325,
+            "end": 2333,
+            "text": "Guerrero",
+            "concept": 0,
+            "candidates": [
+                "Guerrero",
+                "Mexicana_Universal_Guerrero",
+                "Roberto_Guerrero",
+                "Francisco_Guerrero_(composer)",
+                "Colonia_Guerrero",
+                "Metro_Guerrero",
+                "Paolo_Guerrero",
+                "Guerrero,_Coahuila",
+                "Julen_Guerrero",
+                "Los_Guerreros",
+                "Guerrero_Municipality,_Tamaulipas",
+                "Vicente_Guerrero,_Chihuahua",
+                "Guerrero_Municipality,_Chihuahua",
+                "Costa_Chica_of_Guerrero",
+                "Guerrero_(ship)",
+                "Guerrero_Municipality,_Coahuila"
+            ],
+            "scores": [
+                0.9187898089171974,
+                0.008492569002123142,
+                0.007961783439490446,
+                0.005307855626326964,
+                0.005307855626326964,
+                0.004777070063694267,
+                0.004246284501061571,
+                0.004246284501061571,
+                0.0031847133757961785,
+                0.0031847133757961785,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.0021231422505307855
+            ]
+        },
+        {
+            "begin": 2395,
+            "end": 2403,
+            "text": "UEFA Cup",
+            "concept": 20,
+            "candidates": [
+                "UEFA_Europa_League",
+                "2008\u201309_UEFA_Cup",
+                "2007\u201308_UEFA_Cup",
+                "2006\u201307_UEFA_Cup",
+                "2005\u201306_UEFA_Cup",
+                "2003\u201304_UEFA_Cup",
+                "2004\u201305_UEFA_Cup",
+                "2000\u201301_UEFA_Cup",
+                "2002\u201303_UEFA_Cup",
+                "2001\u201302_UEFA_Cup",
+                "1999\u20132000_UEFA_Cup",
+                "1992\u201393_UEFA_Cup",
+                "1977\u201378_UEFA_Cup",
+                "1998\u201399_UEFA_Cup",
+                "1996\u201397_UEFA_Cup",
+                "1975\u201376_UEFA_Cup"
+            ],
+            "scores": [
+                0.7572073316754168,
+                0.019802892143317676,
+                0.019250253292806486,
+                0.018513401492124895,
+                0.012342267661416597,
+                0.011421202910564613,
+                0.01040803168462743,
+                0.010039605784286636,
+                0.00976328635903104,
+                0.008197476282582666,
+                0.008105369807497468,
+                0.007736943907156673,
+                0.0058948144054527035,
+                0.005526388505111909,
+                0.005342175554941512,
+                0.004973749654600719
+            ]
+        },
+        {
+            "begin": 2458,
+            "end": 2462,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2468,
+            "end": 2475,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 2504,
+            "end": 2518,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2741,
+            "end": 2745,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2782,
+            "end": 2790,
+            "text": "UEFA Cup",
+            "concept": 20,
+            "candidates": [
+                "UEFA_Europa_League",
+                "2008\u201309_UEFA_Cup",
+                "2007\u201308_UEFA_Cup",
+                "2006\u201307_UEFA_Cup",
+                "2005\u201306_UEFA_Cup",
+                "2003\u201304_UEFA_Cup",
+                "2004\u201305_UEFA_Cup",
+                "2000\u201301_UEFA_Cup",
+                "2002\u201303_UEFA_Cup",
+                "2001\u201302_UEFA_Cup",
+                "1999\u20132000_UEFA_Cup",
+                "1992\u201393_UEFA_Cup",
+                "1977\u201378_UEFA_Cup",
+                "1998\u201399_UEFA_Cup",
+                "1996\u201397_UEFA_Cup",
+                "1975\u201376_UEFA_Cup"
+            ],
+            "scores": [
+                0.7572073316754168,
+                0.019802892143317676,
+                0.019250253292806486,
+                0.018513401492124895,
+                0.012342267661416597,
+                0.011421202910564613,
+                0.01040803168462743,
+                0.010039605784286636,
+                0.00976328635903104,
+                0.008197476282582666,
+                0.008105369807497468,
+                0.007736943907156673,
+                0.0058948144054527035,
+                0.005526388505111909,
+                0.005342175554941512,
+                0.004973749654600719
+            ]
+        },
+        {
+            "begin": 2792,
+            "end": 2806,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2890,
+            "end": 2900,
+            "text": "Bundesliga",
+            "concept": 21,
+            "candidates": [
+                "Bundesliga",
+                "Frauen-Bundesliga",
+                "Basketball_Bundesliga",
+                "Austrian_Football_Bundesliga",
+                "2016\u201317_Bundesliga",
+                "2013\u201314_Bundesliga",
+                "Handball-Bundesliga",
+                "2007\u201308_Bundesliga",
+                "Bundesliga_(baseball)",
+                "2012\u201313_Bundesliga",
+                "2014\u201315_Bundesliga",
+                "2011\u201312_Bundesliga",
+                "Handball-Bundesliga_(women)",
+                "2008\u201309_Bundesliga",
+                "2009\u201310_Bundesliga",
+                "2015\u201316_Bundesliga"
+            ],
+            "scores": [
+                0.796572934973638,
+                0.04184973637961336,
+                0.038554481546572934,
+                0.022627416520210896,
+                0.0063708260105448155,
+                0.005821616871704745,
+                0.005272407732864675,
+                0.004723198594024604,
+                0.004503514938488576,
+                0.004283831282952549,
+                0.00406414762741652,
+                0.00406414762741652,
+                0.0029657293497363795,
+                0.0025263620386643234,
+                0.002306678383128295,
+                0.0021968365553602814
+            ]
+        },
+        {
+            "begin": 3018,
+            "end": 3026,
+            "text": "Guerrero",
+            "concept": 0,
+            "candidates": [
+                "Guerrero",
+                "Mexicana_Universal_Guerrero",
+                "Roberto_Guerrero",
+                "Francisco_Guerrero_(composer)",
+                "Colonia_Guerrero",
+                "Metro_Guerrero",
+                "Paolo_Guerrero",
+                "Guerrero,_Coahuila",
+                "Julen_Guerrero",
+                "Los_Guerreros",
+                "Guerrero_Municipality,_Tamaulipas",
+                "Vicente_Guerrero,_Chihuahua",
+                "Guerrero_Municipality,_Chihuahua",
+                "Costa_Chica_of_Guerrero",
+                "Guerrero_(ship)",
+                "Guerrero_Municipality,_Coahuila"
+            ],
+            "scores": [
+                0.9187898089171974,
+                0.008492569002123142,
+                0.007961783439490446,
+                0.005307855626326964,
+                0.005307855626326964,
+                0.004777070063694267,
+                0.004246284501061571,
+                0.004246284501061571,
+                0.0031847133757961785,
+                0.0031847133757961785,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.002653927813163482,
+                0.0021231422505307855
+            ]
+        },
+        {
+            "begin": 3070,
+            "end": 3074,
+            "text": "Peru",
+            "concept": 22,
+            "candidates": [
+                "Peru",
+                "Peru_national_football_team",
+                "Peruvian_Football_Federation",
+                "Peru,_Indiana",
+                "Peru,_Illinois",
+                "Viceroyalty_of_Peru",
+                "Peruvian_literature",
+                "Peru,_New_York",
+                "List_of_non-marine_molluscs_of_Peru",
+                "Peru,_Massachusetts",
+                "Miss_Peru",
+                "List_of_mammals_of_Peru",
+                "Peru_Davis_Cup_team",
+                "LGBT_rights_in_Peru",
+                "Peru,_Nebraska",
+                "Peru,_Vermont"
+            ],
+            "scores": [
+                0.9338175650763219,
+                0.025145638227269375,
+                0.004166359413022638,
+                0.0037607846029053906,
+                0.002580930609837033,
+                0.0023597079861367156,
+                0.0017697809896025367,
+                0.0017329105523191505,
+                0.0013273357422019026,
+                0.001032372243934813,
+                0.0009586313693680408,
+                0.0007005383083843374,
+                0.0006636678711009513,
+                0.0006636678711009513,
+                0.0005899269965341789,
+                0.0005899269965341789
+            ]
+        },
+        {
+            "begin": 3161,
+            "end": 3165,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3217,
+            "end": 3231,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3265,
+            "end": 3269,
+            "text": "Peru",
+            "concept": 23,
+            "candidates": [
+                "Peru",
+                "Peru_national_football_team",
+                "Peruvian_Football_Federation",
+                "Peru,_Indiana",
+                "Peru,_Illinois",
+                "Viceroyalty_of_Peru",
+                "Peruvian_literature",
+                "Peru,_New_York",
+                "List_of_non-marine_molluscs_of_Peru",
+                "Peru,_Massachusetts",
+                "Miss_Peru",
+                "List_of_mammals_of_Peru",
+                "Peru_Davis_Cup_team",
+                "LGBT_rights_in_Peru",
+                "Peru,_Nebraska",
+                "Peru,_Vermont"
+            ],
+            "scores": [
+                0.9338175650763219,
+                0.025145638227269375,
+                0.004166359413022638,
+                0.0037607846029053906,
+                0.002580930609837033,
+                0.0023597079861367156,
+                0.0017697809896025367,
+                0.0017329105523191505,
+                0.0013273357422019026,
+                0.001032372243934813,
+                0.0009586313693680408,
+                0.0007005383083843374,
+                0.0006636678711009513,
+                0.0006636678711009513,
+                0.0005899269965341789,
+                0.0005899269965341789
+            ]
+        },
+        {
+            "begin": 3349,
+            "end": 3356,
+            "text": "Hamburg",
+            "concept": 1,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 3387,
+            "end": 3395,
+            "text": "Peruvian",
+            "concept": 4
+        },
+        {
+            "begin": 3501,
+            "end": 3505,
+            "text": "Lima",
+            "concept": 24,
+            "candidates": [
+                "Lima",
+                "Lima,_Ohio",
+                "Lima_Region",
+                "Lima_(footballer)",
+                "Lima_Province",
+                "Lima,_New_York",
+                "Lima_Locomotive_Works",
+                "Lima_(village),_New_York",
+                "Lima_(models)",
+                "Jorge_Ch\u00e1vez_International_Airport",
+                "Lima,_Pennsylvania",
+                "Ant\u00f4nio_Lima_dos_Santos",
+                "Roman_Catholic_Archdiocese_of_Lima",
+                "Lima,_Oklahoma",
+                "Lima_river",
+                "Lima,_Montana"
+            ],
+            "scores": [
+                0.852156862745098,
+                0.04091503267973856,
+                0.023529411764705882,
+                0.009411764705882352,
+                0.007058823529411765,
+                0.005490196078431373,
+                0.004836601307189542,
+                0.004313725490196078,
+                0.0037908496732026145,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0030065359477124184,
+                0.002352941176470588,
+                0.002352941176470588,
+                0.0016993464052287581,
+                0.0016993464052287581
+            ]
+        },
+        {
+            "begin": 3563,
+            "end": 3567,
+            "text": "DWTV",
+            "concept": 2,
+            "candidates": [
+                "Deutsche_Welle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3578,
+            "end": 3592,
+            "text": "Latin American",
+            "concept": 25,
+            "candidates": [
+                "Latin_America",
+                "Latin_American_Canadians",
+                "Latin_Americans",
+                "Music_of_Latin_America",
+                "Latin_American_cuisine",
+                "List_of_Latin_American_Jews",
+                "Latin_dance",
+                "Hispanic_and_Latino_Americans",
+                "Latin_American_literature",
+                "Latin_American_culture",
+                "Latin_American_art",
+                "Spanish_language_in_the_Americas",
+                "Latino",
+                "Latin_American_studies",
+                "Latin_American_migration_to_the_United_Kingdom",
+                "Latin_music"
+            ],
+            "scores": [
+                0.8276443320691108,
+                0.08723135271807839,
+                0.01938474504846186,
+                0.014749262536873156,
+                0.008006742520016857,
+                0.0067425200168563,
+                0.006321112515802781,
+                0.006321112515802781,
+                0.0029498525073746312,
+                0.0029498525073746312,
+                0.002107037505267594,
+                0.002107037505267594,
+                0.001685630004214075,
+                0.0012642225031605564,
+                0.0012642225031605564,
+                0.0008428150021070375
+            ]
+        },
+        {
+            "begin": 3620,
+            "end": 3626,
+            "text": "Europe",
+            "concept": 26,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 3712,
+            "end": 3716,
+            "text": "Peru",
+            "concept": 22,
+            "candidates": [
+                "Peru",
+                "Peru_national_football_team",
+                "Peruvian_Football_Federation",
+                "Peru,_Indiana",
+                "Peru,_Illinois",
+                "Viceroyalty_of_Peru",
+                "Peruvian_literature",
+                "Peru,_New_York",
+                "List_of_non-marine_molluscs_of_Peru",
+                "Peru,_Massachusetts",
+                "Miss_Peru",
+                "List_of_mammals_of_Peru",
+                "Peru_Davis_Cup_team",
+                "LGBT_rights_in_Peru",
+                "Peru,_Nebraska",
+                "Peru,_Vermont"
+            ],
+            "scores": [
+                0.9338175650763219,
+                0.025145638227269375,
+                0.004166359413022638,
+                0.0037607846029053906,
+                0.002580930609837033,
+                0.0023597079861367156,
+                0.0017697809896025367,
+                0.0017329105523191505,
+                0.0013273357422019026,
+                0.001032372243934813,
+                0.0009586313693680408,
+                0.0007005383083843374,
+                0.0006636678711009513,
+                0.0006636678711009513,
+                0.0005899269965341789,
+                0.0005899269965341789
+            ]
+        },
+        {
+            "begin": 3726,
+            "end": 3740,
+            "text": "Paulo Guerrero",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3771,
+            "end": 3779,
+            "text": "Peruvian",
+            "concept": 4
+        },
+        {
+            "begin": 3885,
+            "end": 3891,
+            "text": "Europe",
+            "concept": 26,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 3967,
+            "end": 3973,
+            "text": "Europe",
+            "concept": 26,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Paulo Guerrero",
+            "keyword": true,
+            "count": 16,
+            "link": "Paolo_Guerrero",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Hamburg",
+            "keyword": true,
+            "count": 6,
+            "link": "Hamburger_SV",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "DWTV",
+            "keyword": true,
+            "count": 10,
+            "link": "DW-TV",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Bayern Munich",
+            "keyword": true,
+            "count": 5,
+            "link": "FC_Bayern_Munich",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Peruvian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Uwe Seeler",
+            "keyword": false,
+            "count": 1,
+            "link": "Uwe_Seeler",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Zinedine Zidane",
+            "keyword": false,
+            "count": 1,
+            "link": "Zinedine_Zidane",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Thierry Henry",
+            "keyword": false,
+            "count": 1,
+            "link": "Thierry_Henry",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Ronaldo",
+            "keyword": false,
+            "count": 2,
+            "link": "Ronaldo_(Brazilian_footballer)",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "coach",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Felix Magath",
+            "keyword": false,
+            "count": 1,
+            "link": "Felix_Magath",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Michael Ballack",
+            "keyword": false,
+            "count": 1,
+            "link": "Michael_Ballack",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Lucio",
+            "keyword": false,
+            "count": 1,
+            "link": "L\u00facio",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Ze Roberto",
+            "keyword": false,
+            "count": 1,
+            "link": "Z\u00e9_Roberto",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Roy Makaay",
+            "keyword": false,
+            "count": 1,
+            "link": "Roy_Makaay",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Hamburg",
+            "keyword": false,
+            "count": 2,
+            "link": "Hamburg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Munich",
+            "keyword": false,
+            "count": 1,
+            "link": "Munich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Thomas Doll",
+            "keyword": false,
+            "count": 1,
+            "link": "Thomas_Doll",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "2007/8",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "UEFA Cup",
+            "keyword": false,
+            "count": 2,
+            "link": "UEFA_Europa_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001110",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Bundesliga",
+            "keyword": false,
+            "count": 1,
+            "link": "Bundesliga",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Peru",
+            "keyword": false,
+            "count": 2,
+            "link": "Peru",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Peru",
+            "keyword": false,
+            "count": 1,
+            "link": "Peru_national_football_team",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Lima",
+            "keyword": false,
+            "count": 1,
+            "link": "Lima",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Latin American",
+            "keyword": false,
+            "count": 1,
+            "link": "Latin_America",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Europe",
+            "keyword": false,
+            "count": 3,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 27,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 22
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 23
+        },
+        {
+            "s": 0,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "player_of",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "player_of",
+            "o": 23
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 20
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 21
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 27
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 22
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 11,
+            "p": "coach_of",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "player_of",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "player_of",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "player_of",
+            "o": 3
+        },
+        {
+            "s": 15,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 15,
+            "p": "player_of",
+            "o": 3
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 27
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 27
+        },
+        {
+            "s": 18,
+            "p": "coach_of",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 21,
+            "p": "event_in0",
+            "o": 27
+        },
+        {
+            "s": 23,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 23,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 24,
+            "p": "in0-x",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 0
+                },
+                {
+                    "name": "media",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20001065"
+    ]
+}

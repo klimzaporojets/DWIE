@@ -1,0 +1,2584 @@
+{
+    "id": "DW_824102",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 21,
+            "end": 29,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 47,
+            "end": 55,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 126,
+            "end": 130,
+            "text": "SARS",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_(band)",
+                "Special_administrative_region",
+                "Georg_Ossian_Sars",
+                "Special_administrative_regions_of_China",
+                "SARS_coronavirus",
+                "Michael_Sars",
+                "South_African_Revenue_Service",
+                "Timeline_of_the_SARS_outbreak",
+                "End_SARS",
+                "Alain_Sars",
+                "Suffolk_Accident_Rescue_Service",
+                "Stock_appreciation_right",
+                "SARS_(gene)"
+            ],
+            "scores": [
+                0.8826446280991735,
+                0.06942148760330578,
+                0.009917355371900827,
+                0.008264462809917356,
+                0.006611570247933884,
+                0.0049586776859504135,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471
+            ]
+        },
+        {
+            "begin": 228,
+            "end": 234,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 235,
+            "end": 242,
+            "text": "company",
+            "concept": 7
+        },
+        {
+            "begin": 243,
+            "end": 247,
+            "text": "Rewe",
+            "concept": 8,
+            "candidates": [
+                "REWE",
+                "Rewe,_Devon",
+                "REWE_Group"
+            ],
+            "scores": [
+                0.5531914893617021,
+                0.2978723404255319,
+                0.14893617021276595
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 305,
+            "text": "Southwest Asia",
+            "concept": 9
+        },
+        {
+            "begin": 310,
+            "end": 316,
+            "text": "Canada",
+            "concept": 10,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 348,
+            "end": 352,
+            "text": "SARS",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_(band)",
+                "Special_administrative_region",
+                "Georg_Ossian_Sars",
+                "Special_administrative_regions_of_China",
+                "SARS_coronavirus",
+                "Michael_Sars",
+                "South_African_Revenue_Service",
+                "Timeline_of_the_SARS_outbreak",
+                "End_SARS",
+                "Alain_Sars",
+                "Suffolk_Accident_Rescue_Service",
+                "Stock_appreciation_right",
+                "SARS_(gene)"
+            ],
+            "scores": [
+                0.8826446280991735,
+                0.06942148760330578,
+                0.009917355371900827,
+                0.008264462809917356,
+                0.006611570247933884,
+                0.0049586776859504135,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471
+            ]
+        },
+        {
+            "begin": 356,
+            "end": 365,
+            "text": "Februrary",
+            "concept": 11
+        },
+        {
+            "begin": 367,
+            "end": 371,
+            "text": "Rewe",
+            "concept": 8,
+            "candidates": [
+                "REWE",
+                "Rewe,_Devon",
+                "REWE_Group"
+            ],
+            "scores": [
+                0.5531914893617021,
+                0.2978723404255319,
+                0.14893617021276595
+            ]
+        },
+        {
+            "begin": 470,
+            "end": 481,
+            "text": "spokeswoman",
+            "concept": 12
+        },
+        {
+            "begin": 482,
+            "end": 495,
+            "text": "Antje G\u00fcnther",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 618,
+            "end": 625,
+            "text": "G\u00fcnther",
+            "concept": 2,
+            "candidates": [
+                "Albert_G\u00fcnther",
+                "Gunther",
+                "G\u00fcnther_(singer)",
+                "Gunther_(Friends)",
+                "Gunther,_Margrave_of_Merseburg",
+                "Gunther_(archbishop_of_Cologne)",
+                "Gunther_(Friends_character)",
+                "G\u00f6tterd\u00e4mmerung",
+                "G\u00fcnther_Messner",
+                "Coulby_Gunther",
+                "Daniel_G\u00fcnther",
+                "G\u00fcnther_(surname)",
+                "G\u00fcnther_(given_name)",
+                "Gunther_of_Bohemia",
+                "Wiener_Neust\u00e4dter_Lokomotivfabrik",
+                "G\u00fcnther_Ziehl"
+            ],
+            "scores": [
+                0.8902546093064091,
+                0.043898156277436345,
+                0.012291483757682178,
+                0.012291483757682178,
+                0.007901668129938543,
+                0.006145741878841089,
+                0.0052677787532923615,
+                0.003511852502194908,
+                0.0026338893766461808,
+                0.001755926251097454,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727
+            ]
+        },
+        {
+            "begin": 818,
+            "end": 824,
+            "text": "Monday",
+            "concept": 13
+        },
+        {
+            "begin": 881,
+            "end": 906,
+            "text": "World Health Organization",
+            "concept": 14,
+            "candidates": [
+                "World_Health_Organization",
+                "WHO_Collaborating_Centres",
+                "World_Health_Organization_Goodwill_Ambassador",
+                "World_Health_Organisation_Composite_International_Diagnostic_Interview"
+            ],
+            "scores": [
+                0.9994109562144119,
+                0.00019634792852935403,
+                0.00019634792852935403,
+                0.00019634792852935403
+            ]
+        },
+        {
+            "begin": 920,
+            "end": 929,
+            "text": "Hong Kong",
+            "concept": 15,
+            "candidates": [
+                "Hong_Kong",
+                "Hong_Kong_people",
+                "Hong_Kong_national_cricket_team",
+                "British_Hong_Kong",
+                "Hong_Kong_national_football_team",
+                "Cinema_of_Hong_Kong",
+                "Hong_Kong_Open_(tennis)",
+                "Hong_Kong_International_Airport",
+                "Hong_Kong_national_rugby_union_team",
+                "LGBT_rights_in_Hong_Kong",
+                "Hong_Kong_women's_national_squash_team",
+                "Football_in_Hong_Kong",
+                "Television_in_Hong_Kong",
+                "Hong_Kong_(TV_series)",
+                "Hong_Kong_men's_national_squash_team",
+                "Hong_Kong_women's_national_football_team"
+            ],
+            "scores": [
+                0.8689299239250645,
+                0.015449579409497637,
+                0.013874459599852541,
+                0.01250041891484299,
+                0.0118636683534971,
+                0.008813968296524682,
+                0.005026978115888602,
+                0.004524280304299742,
+                0.00442374074198197,
+                0.003585911056000536,
+                0.0020443044337946983,
+                0.0017761989342806395,
+                0.0017091725594021248,
+                0.001541606622205838,
+                0.0013740406850095512,
+                0.0012399879352525218
+            ]
+        },
+        {
+            "begin": 933,
+            "end": 941,
+            "text": "Thursday",
+            "concept": 16
+        },
+        {
+            "begin": 983,
+            "end": 1016,
+            "text": "Severe Acute Respiratory Syndrome",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_coronavirus"
+            ],
+            "scores": [
+                0.993103448275862,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 1018,
+            "end": 1022,
+            "text": "SARS",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_(band)",
+                "Special_administrative_region",
+                "Georg_Ossian_Sars",
+                "Special_administrative_regions_of_China",
+                "SARS_coronavirus",
+                "Michael_Sars",
+                "South_African_Revenue_Service",
+                "Timeline_of_the_SARS_outbreak",
+                "End_SARS",
+                "Alain_Sars",
+                "Suffolk_Accident_Rescue_Service",
+                "Stock_appreciation_right",
+                "SARS_(gene)"
+            ],
+            "scores": [
+                0.8826446280991735,
+                0.06942148760330578,
+                0.009917355371900827,
+                0.008264462809917356,
+                0.006611570247933884,
+                0.0049586776859504135,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471
+            ]
+        },
+        {
+            "begin": 1153,
+            "end": 1159,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1184,
+            "end": 1192,
+            "text": "Thursday",
+            "concept": 16
+        },
+        {
+            "begin": 1223,
+            "end": 1229,
+            "text": "Europe",
+            "concept": 17,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1365,
+            "end": 1370,
+            "text": "Asian",
+            "concept": 18
+        },
+        {
+            "begin": 1382,
+            "end": 1393,
+            "text": "Switzerland",
+            "concept": 19,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 1438,
+            "end": 1443,
+            "text": "Asian",
+            "concept": 18
+        },
+        {
+            "begin": 1506,
+            "end": 1511,
+            "text": "Basel",
+            "concept": 20,
+            "candidates": [
+                "Basel",
+                "FC_Basel",
+                "Swiss_Indoors",
+                "Basel_SBB_railway_station",
+                "University_of_Basel",
+                "Prince-Bishopric_of_Basel",
+                "Canton_of_Basel",
+                "Roman_Catholic_Diocese_of_Basel",
+                "Basel_Badischer_Bahnhof",
+                "EuroAirport_Basel_Mulhouse_Freiburg",
+                "Canton_of_Basel-Stadt",
+                "Trams_in_Basel",
+                "2008_Davidoff_Swiss_Indoors",
+                "Council_of_Florence",
+                "Peace_of_Basel",
+                "Timeline_of_Basel"
+            ],
+            "scores": [
+                0.7402994194928201,
+                0.16376413076688054,
+                0.027039413382218148,
+                0.01435991445157348,
+                0.013748854262144821,
+                0.007332722273143905,
+                0.006263366941643752,
+                0.005499541704857928,
+                0.003513596089214788,
+                0.0021387106630003055,
+                0.001374885426214482,
+                0.0007638252367858234,
+                0.0006110601894286587,
+                0.0006110601894286587,
+                0.0006110601894286587,
+                0.00045829514207149406
+            ]
+        },
+        {
+            "begin": 1515,
+            "end": 1523,
+            "text": "Thursday",
+            "concept": 16
+        },
+        {
+            "begin": 1541,
+            "end": 1548,
+            "text": "Germany",
+            "concept": 21,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1565,
+            "end": 1577,
+            "text": "Hanover Fair",
+            "concept": 4,
+            "candidates": [
+                "Hannover_Messe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1595,
+            "end": 1610,
+            "text": "Monday, April 7",
+            "concept": 22
+        },
+        {
+            "begin": 1726,
+            "end": 1730,
+            "text": "Asia",
+            "concept": 1,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 1773,
+            "end": 1779,
+            "text": "Asians",
+            "concept": 23
+        },
+        {
+            "begin": 1785,
+            "end": 1792,
+            "text": "Hanover",
+            "concept": 4,
+            "candidates": [
+                "Hanover",
+                "Hanover,_New_Hampshire",
+                "Electorate_of_Brunswick-L\u00fcneburg",
+                "Kingdom_of_Hanover",
+                "Hanover,_Pennsylvania",
+                "Hanover_County,_Virginia",
+                "Hannover_Hauptbahnhof",
+                "House_of_Hanover",
+                "Hanover,_Ontario",
+                "Hanover_(horse)",
+                "Hanover,_Massachusetts",
+                "Hanover_Parish",
+                "Hanover,_Maryland",
+                "Hanover,_Indiana",
+                "Hanover,_Brighton",
+                "Province_of_Hanover"
+            ],
+            "scores": [
+                0.6533849129593811,
+                0.04390715667311412,
+                0.03636363636363636,
+                0.03500967117988395,
+                0.019342359767891684,
+                0.016634429400386848,
+                0.015087040618955513,
+                0.014893617021276596,
+                0.013926499032882012,
+                0.013152804642166345,
+                0.011992263056092843,
+                0.00909090909090909,
+                0.007736943907156673,
+                0.007350096711798839,
+                0.006963249516441006,
+                0.006189555125725338
+            ]
+        },
+        {
+            "begin": 1795,
+            "end": 1810,
+            "text": "Eberhard Roloff",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1816,
+            "end": 1828,
+            "text": "Hanover Fair",
+            "concept": 4,
+            "candidates": [
+                "Hannover_Messe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1847,
+            "end": 1855,
+            "text": "DW-WORLD",
+            "concept": 24,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1857,
+            "end": 1863,
+            "text": "Roloff",
+            "concept": 3,
+            "candidates": [
+                "Helmut_Roloff",
+                "Roloff_Township,_McIntosh_County,_North_Dakota"
+            ],
+            "scores": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "begin": 1873,
+            "end": 1877,
+            "text": "Fair",
+            "concept": 4,
+            "candidates": [
+                "Fair",
+                "Fairness_and_Accuracy_in_Reporting",
+                "Fair_(band)",
+                "Agricultural_show",
+                "Facility_for_Antiproton_and_Ion_Research",
+                "Nizhny_Novgorod_Fair",
+                "Fair_ball",
+                "Fair_use",
+                "Trade_fair",
+                "Fair_trade",
+                "Justice",
+                "Art_exhibition",
+                "Federation_for_American_Immigration_Reform",
+                "Families_Acting_for_Innocent_Relatives",
+                "FairMormon",
+                "Blond"
+            ],
+            "scores": [
+                0.7127468581687613,
+                0.05385996409335727,
+                0.02872531418312388,
+                0.017953321364452424,
+                0.01436265709156194,
+                0.01436265709156194,
+                0.012567324955116697,
+                0.008976660682226212,
+                0.00718132854578097,
+                0.00718132854578097,
+                0.00718132854578097,
+                0.005385996409335727,
+                0.005385996409335727,
+                0.005385996409335727,
+                0.005385996409335727,
+                0.005385996409335727
+            ]
+        },
+        {
+            "begin": 1908,
+            "end": 1913,
+            "text": "Asian",
+            "concept": 18
+        },
+        {
+            "begin": 1965,
+            "end": 1970,
+            "text": "Asian",
+            "concept": 18
+        },
+        {
+            "begin": 2024,
+            "end": 2028,
+            "text": "2003",
+            "concept": 25
+        },
+        {
+            "begin": 2087,
+            "end": 2092,
+            "text": "Asian",
+            "concept": 18
+        },
+        {
+            "begin": 2152,
+            "end": 2159,
+            "text": "Everton",
+            "concept": 26,
+            "candidates": [
+                "Everton_F.C.",
+                "Everton_de_Vi\u00f1a_del_Mar",
+                "Everton_L.F.C.",
+                "Everton,_Liverpool",
+                "Electoral_district_of_Everton",
+                "Everton_F.C._Reserves_and_Academy",
+                "\u00c9verton_Cardoso_da_Silva",
+                "Everton,_Bedfordshire",
+                "\u00c9verton_Soares",
+                "Everton,_Missouri",
+                "Everton_F.C._(Trinidad_and_Tobago)",
+                "Everton,_Arkansas",
+                "Everton_Ramos_da_Silva",
+                "Everton,_Nottinghamshire",
+                "Liverpool_Everton_(UK_Parliament_constituency)",
+                "Everton_Gon\u00e7alves_Saturnino"
+            ],
+            "scores": [
+                0.877797513321492,
+                0.05284191829484902,
+                0.02886323268206039,
+                0.008880994671403197,
+                0.006039076376554174,
+                0.003818827708703375,
+                0.003108348134991119,
+                0.0020426287744227355,
+                0.0016873889875666074,
+                0.0015097690941385435,
+                0.0011545293072824157,
+                0.0010657193605683837,
+                0.0009769094138543516,
+                0.0009769094138543516,
+                0.0009769094138543516,
+                0.0008880994671403197
+            ]
+        },
+        {
+            "begin": 2176,
+            "end": 2183,
+            "text": "England",
+            "concept": 27,
+            "candidates": [
+                "England",
+                "England_national_football_team",
+                "England_cricket_team",
+                "England_national_rugby_union_team",
+                "England_national_rugby_league_team",
+                "Kingdom_of_England",
+                "Rugby_Football_Union",
+                "England_women's_national_football_team",
+                "The_Football_Association",
+                "England_women's_cricket_team",
+                "Football_in_England",
+                "England_women's_national_rugby_union_team",
+                "Great_Britain_national_speedway_team",
+                "England_national_under-21_football_team",
+                "England_national_under-20_rugby_union_team",
+                "England_men's_national_hockey_team"
+            ],
+            "scores": [
+                0.7545582341956736,
+                0.06902918528776149,
+                0.046652399236272846,
+                0.035542686892847404,
+                0.019722624367931853,
+                0.011025786282285307,
+                0.006766538679423428,
+                0.005759425945741801,
+                0.004196303057006777,
+                0.004101886238224124,
+                0.0026961247141268543,
+                0.001835882587440465,
+                0.0017939195568703972,
+                0.0017309750110152955,
+                0.001479196827594889,
+                0.0014477245546673382
+            ]
+        },
+        {
+            "begin": 2186,
+            "end": 2200,
+            "text": "Premier League",
+            "concept": 28,
+            "candidates": [
+                "Premier_League",
+                "Scottish_Premier_League",
+                "Premier_League_(speedway)",
+                "Russian_Premier_League",
+                "Azerbaijan_Premier_League",
+                "Ukrainian_Premier_League",
+                "2011\u201312_Premier_League",
+                "Kenyan_Premier_League",
+                "2012\u201313_Premier_League",
+                "2013\u201314_Premier_League",
+                "Premier_League_of_Bosnia_and_Herzegovina",
+                "Israeli_Premier_League",
+                "2008\u201309_Premier_League",
+                "2009\u201310_Premier_League",
+                "2014\u201315_Premier_League",
+                "Kazakhstan_Premier_League"
+            ],
+            "scores": [
+                0.7786267370904056,
+                0.015332547048869289,
+                0.011948105225373058,
+                0.009179016460694323,
+                0.00902517819598995,
+                0.006461207117583714,
+                0.004410030254858725,
+                0.004410030254858725,
+                0.004410030254858725,
+                0.0043587508332906,
+                0.0043587508332906,
+                0.003999794882313727,
+                0.003948515460745603,
+                0.003948515460745603,
+                0.00348700066663248,
+                0.0034357212450643556
+            ]
+        },
+        {
+            "begin": 2257,
+            "end": 2262,
+            "text": "China",
+            "concept": 29,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2275,
+            "end": 2284,
+            "text": "May 25-26",
+            "concept": 30
+        },
+        {
+            "begin": 2326,
+            "end": 2329,
+            "text": "UCI",
+            "concept": 31,
+            "candidates": [
+                "Union_Cycliste_Internationale",
+                "University_of_California,_Irvine",
+                "2007_UCI_ProTour",
+                "Universal_Chess_Interface",
+                "United_Cinemas_International",
+                "UC_Irvine_Anteaters",
+                "University_of_Information_Science",
+                "University_of_California,_Irvine_School_of_Medicine",
+                "University_of_California,_Irvine_School_of_Physical_Sciences"
+            ],
+            "scores": [
+                0.9285714285714286,
+                0.025714285714285714,
+                0.02,
+                0.010476190476190476,
+                0.010476190476190476,
+                0.0019047619047619048,
+                0.0009523809523809524,
+                0.0009523809523809524,
+                0.0009523809523809524
+            ]
+        },
+        {
+            "begin": 2356,
+            "end": 2387,
+            "text": "International Olympic Committee",
+            "concept": 32,
+            "candidates": [
+                "International_Olympic_Committee",
+                "List_of_members_of_the_International_Olympic_Committee",
+                "President_of_the_International_Olympic_Committee"
+            ],
+            "scores": [
+                0.9988713318284425,
+                0.0008465011286681715,
+                0.0002821670428893905
+            ]
+        },
+        {
+            "begin": 2417,
+            "end": 2423,
+            "text": "August",
+            "concept": 33
+        },
+        {
+            "begin": 2468,
+            "end": 2473,
+            "text": "China",
+            "concept": 29,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2486,
+            "end": 2494,
+            "text": "Shenzhen",
+            "concept": 34,
+            "candidates": [
+                "Shenzhen",
+                "Shenzhen_F.C.",
+                "Shenzhen_Bao'an_International_Airport",
+                "List_of_tallest_buildings_in_Shenzhen",
+                "Shenzhen_Stock_Exchange",
+                "Wuhan_Gators",
+                "Shenzhen_(comics)",
+                "2015_WTA_Shenzhen_Open",
+                "Shenzhen_Metro",
+                "Shuanglong_station_(Shenzhen_Metro)",
+                "Shenzhen_railway_station",
+                "Pingshan_Open",
+                "Port_of_Shenzhen",
+                "2014_WTA_Shenzhen_Open",
+                "2017_Shenzhen_Longhua_Open",
+                "WTA_Shenzhen_Open"
+            ],
+            "scores": [
+                0.9080882352941176,
+                0.03125,
+                0.006127450980392157,
+                0.003982843137254902,
+                0.003982843137254902,
+                0.0033700980392156864,
+                0.0033700980392156864,
+                0.0030637254901960784,
+                0.0030637254901960784,
+                0.0027573529411764708,
+                0.0024509803921568627,
+                0.002144607843137255,
+                0.002144607843137255,
+                0.001838235294117647,
+                0.0015318627450980392,
+                0.0012254901960784314
+            ]
+        },
+        {
+            "begin": 2500,
+            "end": 2514,
+            "text": "Goethe Insitut",
+            "concept": 35,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2516,
+            "end": 2523,
+            "text": "Germany",
+            "concept": 21,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2578,
+            "end": 2582,
+            "text": "Asia",
+            "concept": 1,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 2633,
+            "end": 2654,
+            "text": "German Foreign Office",
+            "concept": 36,
+            "candidates": [
+                "Federal_Foreign_Office"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2685,
+            "end": 2692,
+            "text": "Germans",
+            "concept": 37
+        },
+        {
+            "begin": 2704,
+            "end": 2713,
+            "text": "Hong Kong",
+            "concept": 15,
+            "candidates": [
+                "Hong_Kong",
+                "Hong_Kong_people",
+                "Hong_Kong_national_cricket_team",
+                "British_Hong_Kong",
+                "Hong_Kong_national_football_team",
+                "Cinema_of_Hong_Kong",
+                "Hong_Kong_Open_(tennis)",
+                "Hong_Kong_International_Airport",
+                "Hong_Kong_national_rugby_union_team",
+                "LGBT_rights_in_Hong_Kong",
+                "Hong_Kong_women's_national_squash_team",
+                "Football_in_Hong_Kong",
+                "Television_in_Hong_Kong",
+                "Hong_Kong_(TV_series)",
+                "Hong_Kong_men's_national_squash_team",
+                "Hong_Kong_women's_national_football_team"
+            ],
+            "scores": [
+                0.8689299239250645,
+                0.015449579409497637,
+                0.013874459599852541,
+                0.01250041891484299,
+                0.0118636683534971,
+                0.008813968296524682,
+                0.005026978115888602,
+                0.004524280304299742,
+                0.00442374074198197,
+                0.003585911056000536,
+                0.0020443044337946983,
+                0.0017761989342806395,
+                0.0017091725594021248,
+                0.001541606622205838,
+                0.0013740406850095512,
+                0.0012399879352525218
+            ]
+        },
+        {
+            "begin": 2732,
+            "end": 2740,
+            "text": "Guandong",
+            "concept": 38,
+            "candidates": [
+                "Manchuria",
+                "Guangdong",
+                "Guandong",
+                "Kwantung_Leased_Territory",
+                "Guandong,_Guangxi",
+                "Guangdong_music_(genre)"
+            ],
+            "scores": [
+                0.3,
+                0.2,
+                0.2,
+                0.1,
+                0.1,
+                0.1
+            ]
+        },
+        {
+            "begin": 2803,
+            "end": 2818,
+            "text": "Northern Africa",
+            "concept": 39,
+            "candidates": [
+                "North_Africa",
+                "Praetorian_prefecture_of_Africa",
+                "Spanish_protectorate_in_Morocco",
+                "Africa_(Roman_province)",
+                "Maghreb",
+                "Afrika_Korps",
+                "Ifriqiya",
+                "North_African_Campaign"
+            ],
+            "scores": [
+                0.9735973597359736,
+                0.006600660066006601,
+                0.0033003300330033004,
+                0.0033003300330033004,
+                0.0033003300330033004,
+                0.0033003300330033004,
+                0.0033003300330033004,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 2827,
+            "end": 2838,
+            "text": "Middle East",
+            "concept": 40,
+            "candidates": [
+                "Middle_East",
+                "Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                "Middle_Eastern_theatre_of_World_War_I",
+                "Middle_East_Command",
+                "Middle_Eastern_cuisine",
+                "The_Middle_East_(nightclub)",
+                "History_of_the_Middle_East",
+                "Boomerang_(Middle_East_and_Africa)",
+                "Western_Asia",
+                "RAF_Middle_East_Command",
+                "Middle_East,_Baltimore",
+                "Ancient_Near_East",
+                "Arab_Colombians",
+                "Syria\u2013Lebanon_Campaign",
+                "Bangladeshis_in_the_Middle_East",
+                "Middle_Eastern_studies"
+            ],
+            "scores": [
+                0.9700509967547519,
+                0.009643022716736208,
+                0.004914232730644413,
+                0.002132591562355123,
+                0.002039870190078813,
+                0.0010199350950394065,
+                0.0008344923504867872,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0004636068613815484,
+                0.0003708854891052388,
+                0.0003708854891052388,
+                0.0002781641168289291,
+                0.0002781641168289291,
+                0.0002781641168289291
+            ]
+        },
+        {
+            "begin": 2937,
+            "end": 2941,
+            "text": "Iraq",
+            "concept": 41,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 2943,
+            "end": 2948,
+            "text": "Dutch",
+            "concept": 42
+        },
+        {
+            "begin": 2949,
+            "end": 2956,
+            "text": "airline",
+            "concept": 43
+        },
+        {
+            "begin": 2957,
+            "end": 2960,
+            "text": "KLM",
+            "concept": 44,
+            "candidates": [
+                "KLM",
+                "F.C._Kilmarnock_Ladies",
+                "Keystroke-level_model",
+                "Kalamata_F.C.",
+                "Lumen_(unit)",
+                "Kolom_language",
+                "Tenerife_airport_disaster"
+            ],
+            "scores": [
+                0.9889624724061811,
+                0.0033112582781456954,
+                0.0033112582781456954,
+                0.0011037527593818985,
+                0.0011037527593818985,
+                0.0011037527593818985,
+                0.0011037527593818985
+            ]
+        },
+        {
+            "begin": 2981,
+            "end": 2985,
+            "text": "SARS",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_(band)",
+                "Special_administrative_region",
+                "Georg_Ossian_Sars",
+                "Special_administrative_regions_of_China",
+                "SARS_coronavirus",
+                "Michael_Sars",
+                "South_African_Revenue_Service",
+                "Timeline_of_the_SARS_outbreak",
+                "End_SARS",
+                "Alain_Sars",
+                "Suffolk_Accident_Rescue_Service",
+                "Stock_appreciation_right",
+                "SARS_(gene)"
+            ],
+            "scores": [
+                0.8826446280991735,
+                0.06942148760330578,
+                0.009917355371900827,
+                0.008264462809917356,
+                0.006611570247933884,
+                0.0049586776859504135,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471
+            ]
+        },
+        {
+            "begin": 3049,
+            "end": 3053,
+            "text": "Iraq",
+            "concept": 41,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3176,
+            "end": 3182,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 3183,
+            "end": 3199,
+            "text": "flagship airline",
+            "concept": 45
+        },
+        {
+            "begin": 3200,
+            "end": 3209,
+            "text": "Lufthansa",
+            "concept": 46,
+            "candidates": [
+                "Lufthansa",
+                "Deutsche_Luft_Hansa",
+                "Lufthansa_Flight_005",
+                "Lufthansa_Flight_Training",
+                "Deutsche_Lufthansa_(East_Germany)"
+            ],
+            "scores": [
+                0.9827868852459016,
+                0.014754098360655738,
+                0.000819672131147541,
+                0.000819672131147541,
+                0.000819672131147541
+            ]
+        },
+        {
+            "begin": 3310,
+            "end": 3314,
+            "text": "Asia",
+            "concept": 1,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 3316,
+            "end": 3323,
+            "text": "G\u00fcnther",
+            "concept": 2,
+            "candidates": [
+                "Albert_G\u00fcnther",
+                "Gunther",
+                "G\u00fcnther_(singer)",
+                "Gunther_(Friends)",
+                "Gunther,_Margrave_of_Merseburg",
+                "Gunther_(archbishop_of_Cologne)",
+                "Gunther_(Friends_character)",
+                "G\u00f6tterd\u00e4mmerung",
+                "G\u00fcnther_Messner",
+                "Coulby_Gunther",
+                "Daniel_G\u00fcnther",
+                "G\u00fcnther_(surname)",
+                "G\u00fcnther_(given_name)",
+                "Gunther_of_Bohemia",
+                "Wiener_Neust\u00e4dter_Lokomotivfabrik",
+                "G\u00fcnther_Ziehl"
+            ],
+            "scores": [
+                0.8902546093064091,
+                0.043898156277436345,
+                0.012291483757682178,
+                0.012291483757682178,
+                0.007901668129938543,
+                0.006145741878841089,
+                0.0052677787532923615,
+                0.003511852502194908,
+                0.0026338893766461808,
+                0.001755926251097454,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727
+            ]
+        },
+        {
+            "begin": 3341,
+            "end": 3345,
+            "text": "SARS",
+            "concept": 0,
+            "candidates": [
+                "Severe_acute_respiratory_syndrome",
+                "SARS_(band)",
+                "Special_administrative_region",
+                "Georg_Ossian_Sars",
+                "Special_administrative_regions_of_China",
+                "SARS_coronavirus",
+                "Michael_Sars",
+                "South_African_Revenue_Service",
+                "Timeline_of_the_SARS_outbreak",
+                "End_SARS",
+                "Alain_Sars",
+                "Suffolk_Accident_Rescue_Service",
+                "Stock_appreciation_right",
+                "SARS_(gene)"
+            ],
+            "scores": [
+                0.8826446280991735,
+                0.06942148760330578,
+                0.009917355371900827,
+                0.008264462809917356,
+                0.006611570247933884,
+                0.0049586776859504135,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.003305785123966942,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471,
+                0.001652892561983471
+            ]
+        },
+        {
+            "begin": 3408,
+            "end": 3412,
+            "text": "Iraq",
+            "concept": 41,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3437,
+            "end": 3441,
+            "text": "Iraq",
+            "concept": 41,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3487,
+            "end": 3494,
+            "text": "G\u00fcnther",
+            "concept": 2,
+            "candidates": [
+                "Albert_G\u00fcnther",
+                "Gunther",
+                "G\u00fcnther_(singer)",
+                "Gunther_(Friends)",
+                "Gunther,_Margrave_of_Merseburg",
+                "Gunther_(archbishop_of_Cologne)",
+                "Gunther_(Friends_character)",
+                "G\u00f6tterd\u00e4mmerung",
+                "G\u00fcnther_Messner",
+                "Coulby_Gunther",
+                "Daniel_G\u00fcnther",
+                "G\u00fcnther_(surname)",
+                "G\u00fcnther_(given_name)",
+                "Gunther_of_Bohemia",
+                "Wiener_Neust\u00e4dter_Lokomotivfabrik",
+                "G\u00fcnther_Ziehl"
+            ],
+            "scores": [
+                0.8902546093064091,
+                0.043898156277436345,
+                0.012291483757682178,
+                0.012291483757682178,
+                0.007901668129938543,
+                0.006145741878841089,
+                0.0052677787532923615,
+                0.003511852502194908,
+                0.0026338893766461808,
+                0.001755926251097454,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727,
+                0.000877963125548727
+            ]
+        },
+        {
+            "begin": 3521,
+            "end": 3529,
+            "text": "DW-WORLD",
+            "concept": 24,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Severe Acute Respiratory Syndrome",
+            "keyword": true,
+            "count": 6,
+            "link": "Severe_acute_respiratory_syndrome",
+            "tags": [
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Asia",
+            "keyword": true,
+            "count": 3,
+            "link": "Asia",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Antje G\u00fcnther",
+            "keyword": false,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::20000170",
+                "topic::business",
+                "type::employee",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Eberhard Roloff",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::business_per",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Hanover Fair",
+            "keyword": false,
+            "count": 4,
+            "link": "Hannover_Messe",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::organization",
+                "type::trade_fair"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "European",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "company",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Rewe",
+            "keyword": false,
+            "count": 2,
+            "link": "REWE_Group",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Southwest Asia",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Canada",
+            "keyword": false,
+            "count": 1,
+            "link": "Canada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Februrary",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "spokeswoman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "World Health Organization",
+            "keyword": false,
+            "count": 1,
+            "link": "World_Health_Organization",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Hong Kong",
+            "keyword": false,
+            "count": 2,
+            "link": "Hong_Kong",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Asian",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Switzerland",
+            "keyword": false,
+            "count": 1,
+            "link": "Switzerland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Basel",
+            "keyword": false,
+            "count": 1,
+            "link": "Basel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Monday, April 7",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Asians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "DW-WORLD",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "2003",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Everton",
+            "keyword": false,
+            "count": 1,
+            "link": "Everton_F.C.",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "England",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Premier League",
+            "keyword": false,
+            "count": 1,
+            "link": "Premier_League",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001115",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "China",
+            "keyword": false,
+            "count": 2,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "May 25-26",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "UCI",
+            "keyword": false,
+            "count": 1,
+            "link": "Union_Cycliste_Internationale",
+            "tags": [
+                "iptc::15000000",
+                "sport::20000892",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "International Olympic Committee",
+            "keyword": false,
+            "count": 1,
+            "link": "International_Olympic_Committee",
+            "tags": [
+                "iptc::15000000",
+                "sport::unknown",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_org"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "August",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Shenzhen",
+            "keyword": false,
+            "count": 1,
+            "link": "Shenzhen",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Goethe Insitut",
+            "keyword": false,
+            "count": 1,
+            "link": "Goethe-Institut",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "German Foreign Office",
+            "keyword": false,
+            "count": 1,
+            "link": "Federal_Foreign_Office",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Guandong",
+            "keyword": false,
+            "count": 1,
+            "link": "Guangdong",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Northern Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "North_Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Middle East",
+            "keyword": false,
+            "count": 1,
+            "link": "Middle_East",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 4,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "airline",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 44,
+            "text": "KLM",
+            "keyword": false,
+            "count": 1,
+            "link": "KLM",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 45,
+            "text": "flagship airline",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 46,
+            "text": "Lufthansa",
+            "keyword": false,
+            "count": 1,
+            "link": "Lufthansa",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 47,
+            "keyword": false,
+            "count": 0,
+            "link": "Netherlands",
+            "tags": []
+        },
+        {
+            "concept": 48,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "event_in0",
+            "o": 21
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 21
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 37
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 29
+        },
+        {
+            "s": 20,
+            "p": "in0",
+            "o": 19
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 37
+        },
+        {
+            "s": 26,
+            "p": "appears_in",
+            "o": 28
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 48
+        },
+        {
+            "s": 28,
+            "p": "event_in0",
+            "o": 27
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 29
+        },
+        {
+            "s": 35,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 35,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 35,
+            "p": "based_in0-x",
+            "o": 37
+        },
+        {
+            "s": 36,
+            "p": "agency_of",
+            "o": 21
+        },
+        {
+            "s": 36,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 36,
+            "p": "agency_of-x",
+            "o": 37
+        },
+        {
+            "s": 36,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 36,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 36,
+            "p": "based_in0-x",
+            "o": 37
+        },
+        {
+            "s": 37,
+            "p": "gpe0",
+            "o": 21
+        },
+        {
+            "s": 38,
+            "p": "in0",
+            "o": 29
+        },
+        {
+            "s": 42,
+            "p": "gpe0",
+            "o": 47
+        },
+        {
+            "s": 44,
+            "p": "based_in0",
+            "o": 47
+        },
+        {
+            "s": 44,
+            "p": "based_in0-x",
+            "o": 42
+        },
+        {
+            "s": 46,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 46,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 46,
+            "p": "based_in0-x",
+            "o": 37
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "07000000",
+        "20000446"
+    ]
+}

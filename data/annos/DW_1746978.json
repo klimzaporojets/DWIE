@@ -1,0 +1,1397 @@
+{
+    "id": "DW_1746978",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 26,
+            "end": 40,
+            "text": "Google Library",
+            "concept": 2,
+            "candidates": [
+                "Google_Books"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 41,
+            "end": 47,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 83,
+            "end": 91,
+            "text": "American",
+            "concept": 3
+        },
+        {
+            "begin": 166,
+            "end": 172,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 218,
+            "end": 220,
+            "text": "US",
+            "concept": 4,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 246,
+            "end": 259,
+            "text": "San Francisco",
+            "concept": 5,
+            "candidates": [
+                "San_Francisco",
+                "San_Francisco_Dons_men's_basketball",
+                "San_Francisco_49ers",
+                "San_Francisco_F.C.",
+                "San_Francisco_(1936_film)",
+                "San_Francisco_International_Airport",
+                "Pacific_Coast_Championships",
+                "University_of_San_Francisco",
+                "San_Francisco_Giants",
+                "San_Francisco_Dons",
+                "San_Francisco_Bay_Area",
+                "San_Francisco,_C\u00f3rdoba",
+                "San_Francisco_Dons_men's_soccer",
+                "Roman_Catholic_Archdiocese_of_San_Francisco",
+                "Golden_State_Warriors",
+                "Western_Division_GAA_Board"
+            ],
+            "scores": [
+                0.8710888195044177,
+                0.008835448083438517,
+                0.007540025244137381,
+                0.007373945392944928,
+                0.004550587922673222,
+                0.0036205407559954826,
+                0.0032219491131335945,
+                0.002856573440510197,
+                0.0025244137381252906,
+                0.0023251179166943465,
+                0.0022254700059788747,
+                0.0017604464226400054,
+                0.0015279346309705706,
+                0.001395070750016608,
+                0.001295422839301136,
+                0.0011293429881086827
+            ]
+        },
+        {
+            "begin": 263,
+            "end": 272,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 282,
+            "end": 288,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 399,
+            "end": 405,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 409,
+            "end": 415,
+            "text": "August",
+            "concept": 7
+        },
+        {
+            "begin": 424,
+            "end": 438,
+            "text": "Silicon Valley",
+            "concept": 8,
+            "candidates": [
+                "Silicon_Valley",
+                "Silicon_Valley_(TV_series)",
+                "Silicon_Valley_Computer_Group_Philippines",
+                "Silicon_Valley_Bank",
+                "Carnegie_Mellon_Silicon_Valley"
+            ],
+            "scores": [
+                0.8460111317254174,
+                0.15250463821892393,
+                0.0007421150278293135,
+                0.00037105751391465676,
+                0.00037105751391465676
+            ]
+        },
+        {
+            "begin": 564,
+            "end": 570,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 576,
+            "end": 585,
+            "text": "executive",
+            "concept": 9
+        },
+        {
+            "begin": 586,
+            "end": 600,
+            "text": "Jennifer Grant",
+            "concept": 10,
+            "candidates": [
+                "Jennifer_Grant"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 608,
+            "end": 627,
+            "text": "Frankfurt Book Fair",
+            "concept": 11,
+            "candidates": [
+                "Frankfurt_Book_Fair"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 631,
+            "end": 640,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 664,
+            "end": 672,
+            "text": "European",
+            "concept": 12
+        },
+        {
+            "begin": 677,
+            "end": 683,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 711,
+            "end": 717,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 750,
+            "end": 756,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 772,
+            "end": 785,
+            "text": "search engine",
+            "concept": 13
+        },
+        {
+            "begin": 786,
+            "end": 792,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 828,
+            "end": 834,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 1117,
+            "end": 1125,
+            "text": "Internet",
+            "concept": 14,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 1186,
+            "end": 1194,
+            "text": "American",
+            "concept": 3
+        },
+        {
+            "begin": 1207,
+            "end": 1213,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 1272,
+            "end": 1278,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 1299,
+            "end": 1305,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 1351,
+            "end": 1357,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 1370,
+            "end": 1383,
+            "text": "Langenscheidt",
+            "concept": 15,
+            "candidates": [
+                "Langenscheidt"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1498,
+            "end": 1513,
+            "text": "Hubert Haarmann",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1586,
+            "end": 1613,
+            "text": "Financial Times Deutschland",
+            "concept": 17,
+            "candidates": [
+                "Financial_Times_Deutschland"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1737,
+            "end": 1743,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 1976,
+            "end": 1982,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 2075,
+            "end": 2081,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 2120,
+            "end": 2126,
+            "text": "German",
+            "concept": 1
+        },
+        {
+            "begin": 2321,
+            "end": 2327,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 2435,
+            "end": 2441,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 2462,
+            "end": 2470,
+            "text": "American",
+            "concept": 3
+        },
+        {
+            "begin": 2547,
+            "end": 2553,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 2603,
+            "end": 2609,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        },
+        {
+            "begin": 2647,
+            "end": 2665,
+            "text": "Patricia Schroeder",
+            "concept": 18,
+            "candidates": [
+                "Pat_Schroeder"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2684,
+            "end": 2718,
+            "text": "Association of American Publishers",
+            "concept": 19,
+            "candidates": [
+                "Association_of_American_Publishers"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2751,
+            "end": 2758,
+            "text": "Reuters",
+            "concept": 20,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 2962,
+            "end": 2968,
+            "text": "Google",
+            "concept": 0,
+            "candidates": [
+                "Google",
+                "Google_Search",
+                "Google_(verb)",
+                "Google_Translate",
+                "Google_Nexus",
+                "Alphabet_Inc.",
+                "Google_Books",
+                "Google_Chrome",
+                "Google_Play",
+                "Google_Search_Appliance",
+                "Privacy_concerns_regarding_Google",
+                "Google_Cloud_Platform",
+                "Google_Maps",
+                "Google_tax",
+                "Google_Ad_Grants",
+                "Google_plus"
+            ],
+            "scores": [
+                0.9758986365514392,
+                0.018317036220906212,
+                0.001377220768489189,
+                0.0004131662305467566,
+                0.0004131662305467566,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0002754441536978378,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189,
+                0.0001377220768489189
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Google",
+            "keyword": true,
+            "count": 15,
+            "link": "Google",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000225",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "German",
+            "keyword": false,
+            "count": 9,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Google Library",
+            "keyword": false,
+            "count": 1,
+            "link": "Google_Books",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::misc",
+                "type::product"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "American",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "San Francisco",
+            "keyword": false,
+            "count": 1,
+            "link": "San_Francisco",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "August",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Silicon Valley",
+            "keyword": false,
+            "count": 1,
+            "link": "Silicon_Valley",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "executive",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Jennifer Grant",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Frankfurt Book Fair",
+            "keyword": false,
+            "count": 1,
+            "link": "Frankfurt_Book_Fair",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::organization",
+                "type::trade_fair"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "search engine",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Internet",
+            "keyword": false,
+            "count": 1,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Langenscheidt",
+            "keyword": false,
+            "count": 1,
+            "link": "Langenscheidt",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Hubert Haarmann",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Financial Times Deutschland",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Patricia Schroeder",
+            "keyword": false,
+            "count": 1,
+            "link": "Pat_Schroeder",
+            "tags": [
+                "gender::female",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Association of American Publishers",
+            "keyword": false,
+            "count": 1,
+            "link": "Association_of_American_Publishers",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "Financial_Times",
+            "tags": []
+        },
+        {
+            "concept": 22,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "gpe0",
+            "o": 22
+        },
+        {
+            "s": 2,
+            "p": "product_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "event_in0-x",
+            "o": 1
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 22
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "head_of",
+            "o": 15
+        },
+        {
+            "s": 16,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 18,
+            "p": "head_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "member_of",
+            "o": 19
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170"
+    ]
+}

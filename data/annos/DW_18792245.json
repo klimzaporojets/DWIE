@@ -1,0 +1,1824 @@
+{
+    "id": "DW_18792245",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 28,
+            "end": 34,
+            "text": "Canada",
+            "concept": 2,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 53,
+            "end": 67,
+            "text": "Justin Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Justin_Trudeau"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 75,
+            "end": 88,
+            "text": "Liberal Party",
+            "concept": 1,
+            "candidates": [
+                "Liberal_Party_(UK)",
+                "Liberal_Party_of_Canada",
+                "Liberal_Party_of_Australia",
+                "Liberal_Party_(Norway)",
+                "Liberal_Party_(Philippines)",
+                "Liberal_Party_of_Australia_(New_South_Wales_Division)",
+                "New_Zealand_Liberal_Party",
+                "Liberal_Party_of_Australia_(Western_Australian_Division)",
+                "Liberal_Party_of_Australia_(Victorian_Division)",
+                "Colombian_Liberal_Party",
+                "Liberal_Party_(Belgium)",
+                "Liberal_Party_of_Australia_(Tasmanian_Division)",
+                "Liberal_Party_(Hong_Kong)",
+                "Liberal_Party_(Greece)",
+                "Liberal_Party_of_Switzerland",
+                "Liberal_Party_of_Australia_(Queensland_Division)"
+            ],
+            "scores": [
+                0.22456032562783196,
+                0.11105137854235465,
+                0.07372705629367944,
+                0.062437600798709775,
+                0.046847400353275476,
+                0.03317717533215575,
+                0.0284924352968282,
+                0.026649258889486216,
+                0.025574072651870058,
+                0.019122955226173105,
+                0.01896935719222794,
+                0.017433376852776284,
+                0.01535980339451655,
+                0.014899009292681054,
+                0.012979033868366486,
+                0.011596651562859996
+            ]
+        },
+        {
+            "begin": 106,
+            "end": 112,
+            "text": "Canada",
+            "concept": 2,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 135,
+            "end": 149,
+            "text": "Stephen Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Premiership_of_Stephen_Harper",
+                "Stephen_Harper_(designer)"
+            ],
+            "scores": [
+                0.9989674754775426,
+                0.0005162622612287042,
+                0.0005162622612287042
+            ]
+        },
+        {
+            "begin": 184,
+            "end": 197,
+            "text": "Conservatives",
+            "concept": 0,
+            "candidates": [
+                "Conservative_Party_(UK)",
+                "Conservatism",
+                "Conservatism_in_the_United_States",
+                "Conservative_Party_of_Canada",
+                "Conservative_Party_of_Canada_(1867\u20131942)",
+                "Progressive_Conservative_Party_of_Manitoba",
+                "New_Conservative_Party_(New_Zealand)",
+                "Scottish_Conservatives",
+                "Conservative_Party_(Norway)",
+                "Conservative_Party_(Romania,_1880\u20131918)",
+                "Iranian_Principlists",
+                "Progressive_Conservative_Association_of_Alberta",
+                "Australian_Conservatives",
+                "Conservative_People's_Party_(Denmark)",
+                "Progressive_Conservative_Party_of_Prince_Edward_Island",
+                "Welsh_Conservatives"
+            ],
+            "scores": [
+                0.5974717232202262,
+                0.12807717897538257,
+                0.054224883566200935,
+                0.049234863606121095,
+                0.029940119760479042,
+                0.010645375914836993,
+                0.0083166999334664,
+                0.0083166999334664,
+                0.007318695941450432,
+                0.00665335994677312,
+                0.005988023952095809,
+                0.005655355954757153,
+                0.0053226879574184965,
+                0.00499001996007984,
+                0.004657351962741184,
+                0.004657351962741184
+            ]
+        },
+        {
+            "begin": 231,
+            "end": 239,
+            "text": "Canadian",
+            "concept": 6
+        },
+        {
+            "begin": 240,
+            "end": 254,
+            "text": "Prime Minister",
+            "concept": 7
+        },
+        {
+            "begin": 255,
+            "end": 269,
+            "text": "Stephen Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Premiership_of_Stephen_Harper",
+                "Stephen_Harper_(designer)"
+            ],
+            "scores": [
+                0.9989674754775426,
+                0.0005162622612287042,
+                0.0005162622612287042
+            ]
+        },
+        {
+            "begin": 282,
+            "end": 300,
+            "text": "Conservative Party",
+            "concept": 0,
+            "candidates": [
+                "Conservative_Party_(UK)",
+                "Conservative_Party_(Norway)",
+                "Conservative_Party_of_Canada",
+                "Conservative_Party_of_Canada_(1867\u20131942)",
+                "Colombian_Conservative_Party",
+                "Conservative_Party_(Romania,_1880\u20131918)",
+                "Conservative_Party_of_New_York_State",
+                "Conservative_Party_(Romania)",
+                "Conservative_Party_(Spain)",
+                "Progressive_Conservative_Party_of_Manitoba",
+                "Conservative_Party_of_Quebec_(historical)",
+                "Conservative_Party_(Nicaragua)",
+                "Welsh_Conservatives",
+                "Conservative_Party_(South_Africa)",
+                "Conservative_Party_(Chile)",
+                "Conservative_Party_(Ecuador)"
+            ],
+            "scores": [
+                0.7030837004405286,
+                0.11171806167400881,
+                0.031629955947136565,
+                0.020881057268722466,
+                0.01621145374449339,
+                0.012863436123348018,
+                0.01171806167400881,
+                0.009427312775330397,
+                0.006696035242290749,
+                0.006343612334801762,
+                0.0059030837004405284,
+                0.005550660792951542,
+                0.005374449339207049,
+                0.005374449339207049,
+                0.004405286343612335,
+                0.004052863436123348
+            ]
+        },
+        {
+            "begin": 311,
+            "end": 318,
+            "text": "Tuesday",
+            "concept": 8
+        },
+        {
+            "begin": 329,
+            "end": 337,
+            "text": "Liberals",
+            "concept": 1,
+            "candidates": [
+                "Liberal_Party_(UK)",
+                "Liberal_Party_of_Canada",
+                "Liberalism",
+                "Venstre_(Denmark)",
+                "Modern_liberalism_in_the_United_States",
+                "Alberta_Liberal_Party",
+                "Liberal_Party_of_Australia",
+                "Quebec_Liberal_Party",
+                "Ontario_Liberal_Party",
+                "Liberalism_in_the_United_States",
+                "New_Brunswick_Liberal_Association",
+                "Manitoba_Liberal_Party",
+                "Italian_Liberal_Party",
+                "Liberals_(Sweden)",
+                "British_Columbia_Liberal_Party",
+                "Prince_Edward_Island_Liberal_Party"
+            ],
+            "scores": [
+                0.15953488372093022,
+                0.15209302325581395,
+                0.13581395348837208,
+                0.053488372093023255,
+                0.03441860465116279,
+                0.03302325581395349,
+                0.030697674418604652,
+                0.02744186046511628,
+                0.02372093023255814,
+                0.020465116279069766,
+                0.02,
+                0.017209302325581394,
+                0.017209302325581394,
+                0.01674418604651163,
+                0.014883720930232559,
+                0.013023255813953489
+            ]
+        },
+        {
+            "begin": 346,
+            "end": 360,
+            "text": "Justin Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Justin_Trudeau"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 425,
+            "end": 439,
+            "text": "Prime Minister",
+            "concept": 7
+        },
+        {
+            "begin": 440,
+            "end": 454,
+            "text": "Stephen Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Premiership_of_Stephen_Harper",
+                "Stephen_Harper_(designer)"
+            ],
+            "scores": [
+                0.9989674754775426,
+                0.0005162622612287042,
+                0.0005162622612287042
+            ]
+        },
+        {
+            "begin": 567,
+            "end": 585,
+            "text": "Conservative Party",
+            "concept": 0,
+            "candidates": [
+                "Conservative_Party_(UK)",
+                "Conservative_Party_(Norway)",
+                "Conservative_Party_of_Canada",
+                "Conservative_Party_of_Canada_(1867\u20131942)",
+                "Colombian_Conservative_Party",
+                "Conservative_Party_(Romania,_1880\u20131918)",
+                "Conservative_Party_of_New_York_State",
+                "Conservative_Party_(Romania)",
+                "Conservative_Party_(Spain)",
+                "Progressive_Conservative_Party_of_Manitoba",
+                "Conservative_Party_of_Quebec_(historical)",
+                "Conservative_Party_(Nicaragua)",
+                "Welsh_Conservatives",
+                "Conservative_Party_(South_Africa)",
+                "Conservative_Party_(Chile)",
+                "Conservative_Party_(Ecuador)"
+            ],
+            "scores": [
+                0.7030837004405286,
+                0.11171806167400881,
+                0.031629955947136565,
+                0.020881057268722466,
+                0.01621145374449339,
+                0.012863436123348018,
+                0.01171806167400881,
+                0.009427312775330397,
+                0.006696035242290749,
+                0.006343612334801762,
+                0.0059030837004405284,
+                0.005550660792951542,
+                0.005374449339207049,
+                0.005374449339207049,
+                0.004405286343612335,
+                0.004052863436123348
+            ]
+        },
+        {
+            "begin": 586,
+            "end": 595,
+            "text": "president",
+            "concept": 9
+        },
+        {
+            "begin": 596,
+            "end": 606,
+            "text": "John Walsh",
+            "concept": 10,
+            "candidates": [
+                "John_Walsh_(television_host)",
+                "John_Walsh_(filmmaker)",
+                "John_Walsh_(U.S._senator)",
+                "John_Walsh_(printer)",
+                "John_Walsh_(American_football)",
+                "John_Walsh_(rugby_league)",
+                "John_Walsh_(scientist)",
+                "John_Walsh_(bishop)",
+                "John_Walsh_(baseball)",
+                "John_Walsh_(Australian_politician)",
+                "John_Walsh_(artist)",
+                "John_Walsh_(Canadian_politician)",
+                "John_Walsh_(department_store)",
+                "John_Walsh,_1st_Baron_Ormathwaite",
+                "John_R._Walsh",
+                "John_P._Walsh_(politician)"
+            ],
+            "scores": [
+                0.3576388888888889,
+                0.14930555555555555,
+                0.12152777777777778,
+                0.09375,
+                0.06944444444444445,
+                0.04513888888888889,
+                0.034722222222222224,
+                0.024305555555555556,
+                0.017361111111111112,
+                0.013888888888888888,
+                0.013888888888888888,
+                0.013888888888888888,
+                0.013888888888888888,
+                0.006944444444444444,
+                0.006944444444444444,
+                0.006944444444444444
+            ]
+        },
+        {
+            "begin": 658,
+            "end": 664,
+            "text": "Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Joe_Harper",
+                "Harper_(publisher)",
+                "Harper_(film)",
+                "National_Register_of_Historic_Places_listings_in_Harper_County,_Oklahoma",
+                "Harper_County,_Kansas",
+                "Harper_County,_Oklahoma",
+                "Harper,_Liberia",
+                "Ron_Harper",
+                "Steve_Harper_(footballer,_born_1969)",
+                "Luke_Harper",
+                "Harper,_Texas",
+                "Harp",
+                "Harper,_Kansas",
+                "HarperCollins",
+                "Kevin_Harper"
+            ],
+            "scores": [
+                0.22530329289428075,
+                0.13084922010398614,
+                0.1048526863084922,
+                0.06932409012131716,
+                0.06759098786828423,
+                0.053726169844020795,
+                0.047660311958405546,
+                0.033795493934142114,
+                0.029462738301559793,
+                0.021663778162911613,
+                0.01733102253032929,
+                0.014731369150779897,
+                0.014731369150779897,
+                0.01386481802426343,
+                0.012998266897746967,
+                0.012131715771230503
+            ]
+        },
+        {
+            "begin": 743,
+            "end": 749,
+            "text": "Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Joe_Harper",
+                "Harper_(publisher)",
+                "Harper_(film)",
+                "National_Register_of_Historic_Places_listings_in_Harper_County,_Oklahoma",
+                "Harper_County,_Kansas",
+                "Harper_County,_Oklahoma",
+                "Harper,_Liberia",
+                "Ron_Harper",
+                "Steve_Harper_(footballer,_born_1969)",
+                "Luke_Harper",
+                "Harper,_Texas",
+                "Harp",
+                "Harper,_Kansas",
+                "HarperCollins",
+                "Kevin_Harper"
+            ],
+            "scores": [
+                0.22530329289428075,
+                0.13084922010398614,
+                0.1048526863084922,
+                0.06932409012131716,
+                0.06759098786828423,
+                0.053726169844020795,
+                0.047660311958405546,
+                0.033795493934142114,
+                0.029462738301559793,
+                0.021663778162911613,
+                0.01733102253032929,
+                0.014731369150779897,
+                0.014731369150779897,
+                0.01386481802426343,
+                0.012998266897746967,
+                0.012131715771230503
+            ]
+        },
+        {
+            "begin": 782,
+            "end": 789,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 811,
+            "end": 818,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 865,
+            "end": 872,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 930,
+            "end": 938,
+            "text": "Canadian",
+            "concept": 6
+        },
+        {
+            "begin": 1000,
+            "end": 1012,
+            "text": "Conservative",
+            "concept": 0,
+            "candidates": [
+                "Conservative_Party_(UK)",
+                "Conservative_Party_of_Canada_(1867\u20131942)",
+                "Conservatism",
+                "Conservative_Party_of_Canada",
+                "Progressive_Conservative_Party_of_Ontario",
+                "Conservatism_in_the_United_States",
+                "Conservative_Party_of_Quebec_(historical)",
+                "Progressive_Conservative_Party_of_Prince_Edward_Island",
+                "British_Columbia_Conservative_Party",
+                "Progressive_Conservative_Party_of_Manitoba",
+                "Conservative_Judaism",
+                "Progressive_Conservative_Party_of_Saskatchewan",
+                "Conservative_Party_of_New_York_State",
+                "Progressive_Conservative_Association_of_Alberta",
+                "Conservative_Party_(Norway)",
+                "Progressive_Conservative_Association_of_Nova_Scotia"
+            ],
+            "scores": [
+                0.5262767654526255,
+                0.10063585503403959,
+                0.0807064057339295,
+                0.051632327499045096,
+                0.041027254139798235,
+                0.028871862853034353,
+                0.020648437324465814,
+                0.017300649336059497,
+                0.016896218572359404,
+                0.016761408317792707,
+                0.011301593007841464,
+                0.009931022086413372,
+                0.00829083065585189,
+                0.0071898802435571936,
+                0.007122475116273844,
+                0.006381018716157009
+            ]
+        },
+        {
+            "begin": 1122,
+            "end": 1127,
+            "text": "Obama",
+            "concept": 11,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 1166,
+            "end": 1177,
+            "text": "Keystone XL",
+            "concept": 12,
+            "candidates": [
+                "Keystone_XL",
+                "Keystone_Pipeline"
+            ],
+            "scores": [
+                0.7195121951219512,
+                0.2804878048780488
+            ]
+        },
+        {
+            "begin": 1189,
+            "end": 1198,
+            "text": "Canadians",
+            "concept": 13
+        },
+        {
+            "begin": 1213,
+            "end": 1220,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 1363,
+            "end": 1370,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 1521,
+            "end": 1533,
+            "text": "Conservative",
+            "concept": 0,
+            "candidates": [
+                "Conservative_Party_(UK)",
+                "Conservative_Party_of_Canada_(1867\u20131942)",
+                "Conservatism",
+                "Conservative_Party_of_Canada",
+                "Progressive_Conservative_Party_of_Ontario",
+                "Conservatism_in_the_United_States",
+                "Conservative_Party_of_Quebec_(historical)",
+                "Progressive_Conservative_Party_of_Prince_Edward_Island",
+                "British_Columbia_Conservative_Party",
+                "Progressive_Conservative_Party_of_Manitoba",
+                "Conservative_Judaism",
+                "Progressive_Conservative_Party_of_Saskatchewan",
+                "Conservative_Party_of_New_York_State",
+                "Progressive_Conservative_Association_of_Alberta",
+                "Conservative_Party_(Norway)",
+                "Progressive_Conservative_Association_of_Nova_Scotia"
+            ],
+            "scores": [
+                0.5262767654526255,
+                0.10063585503403959,
+                0.0807064057339295,
+                0.051632327499045096,
+                0.041027254139798235,
+                0.028871862853034353,
+                0.020648437324465814,
+                0.017300649336059497,
+                0.016896218572359404,
+                0.016761408317792707,
+                0.011301593007841464,
+                0.009931022086413372,
+                0.00829083065585189,
+                0.0071898802435571936,
+                0.007122475116273844,
+                0.006381018716157009
+            ]
+        },
+        {
+            "begin": 1571,
+            "end": 1578,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 1610,
+            "end": 1618,
+            "text": "Liberals",
+            "concept": 1,
+            "candidates": [
+                "Liberal_Party_(UK)",
+                "Liberal_Party_of_Canada",
+                "Liberalism",
+                "Venstre_(Denmark)",
+                "Modern_liberalism_in_the_United_States",
+                "Alberta_Liberal_Party",
+                "Liberal_Party_of_Australia",
+                "Quebec_Liberal_Party",
+                "Ontario_Liberal_Party",
+                "Liberalism_in_the_United_States",
+                "New_Brunswick_Liberal_Association",
+                "Manitoba_Liberal_Party",
+                "Italian_Liberal_Party",
+                "Liberals_(Sweden)",
+                "British_Columbia_Liberal_Party",
+                "Prince_Edward_Island_Liberal_Party"
+            ],
+            "scores": [
+                0.15953488372093022,
+                0.15209302325581395,
+                0.13581395348837208,
+                0.053488372093023255,
+                0.03441860465116279,
+                0.03302325581395349,
+                0.030697674418604652,
+                0.02744186046511628,
+                0.02372093023255814,
+                0.020465116279069766,
+                0.02,
+                0.017209302325581394,
+                0.017209302325581394,
+                0.01674418604651163,
+                0.014883720930232559,
+                0.013023255813953489
+            ]
+        },
+        {
+            "begin": 1686,
+            "end": 1692,
+            "text": "Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Joe_Harper",
+                "Harper_(publisher)",
+                "Harper_(film)",
+                "National_Register_of_Historic_Places_listings_in_Harper_County,_Oklahoma",
+                "Harper_County,_Kansas",
+                "Harper_County,_Oklahoma",
+                "Harper,_Liberia",
+                "Ron_Harper",
+                "Steve_Harper_(footballer,_born_1969)",
+                "Luke_Harper",
+                "Harper,_Texas",
+                "Harp",
+                "Harper,_Kansas",
+                "HarperCollins",
+                "Kevin_Harper"
+            ],
+            "scores": [
+                0.22530329289428075,
+                0.13084922010398614,
+                0.1048526863084922,
+                0.06932409012131716,
+                0.06759098786828423,
+                0.053726169844020795,
+                0.047660311958405546,
+                0.033795493934142114,
+                0.029462738301559793,
+                0.021663778162911613,
+                0.01733102253032929,
+                0.014731369150779897,
+                0.014731369150779897,
+                0.01386481802426343,
+                0.012998266897746967,
+                0.012131715771230503
+            ]
+        },
+        {
+            "begin": 1697,
+            "end": 1704,
+            "text": "Trudeau",
+            "concept": 3,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 1744,
+            "end": 1750,
+            "text": "Monday",
+            "concept": 14
+        },
+        {
+            "begin": 1782,
+            "end": 1790,
+            "text": "Liberals",
+            "concept": 1,
+            "candidates": [
+                "Liberal_Party_(UK)",
+                "Liberal_Party_of_Canada",
+                "Liberalism",
+                "Venstre_(Denmark)",
+                "Modern_liberalism_in_the_United_States",
+                "Alberta_Liberal_Party",
+                "Liberal_Party_of_Australia",
+                "Quebec_Liberal_Party",
+                "Ontario_Liberal_Party",
+                "Liberalism_in_the_United_States",
+                "New_Brunswick_Liberal_Association",
+                "Manitoba_Liberal_Party",
+                "Italian_Liberal_Party",
+                "Liberals_(Sweden)",
+                "British_Columbia_Liberal_Party",
+                "Prince_Edward_Island_Liberal_Party"
+            ],
+            "scores": [
+                0.15953488372093022,
+                0.15209302325581395,
+                0.13581395348837208,
+                0.053488372093023255,
+                0.03441860465116279,
+                0.03302325581395349,
+                0.030697674418604652,
+                0.02744186046511628,
+                0.02372093023255814,
+                0.020465116279069766,
+                0.02,
+                0.017209302325581394,
+                0.017209302325581394,
+                0.01674418604651163,
+                0.014883720930232559,
+                0.013023255813953489
+            ]
+        },
+        {
+            "begin": 1923,
+            "end": 1931,
+            "text": "Liberals",
+            "concept": 1,
+            "candidates": [
+                "Liberal_Party_(UK)",
+                "Liberal_Party_of_Canada",
+                "Liberalism",
+                "Venstre_(Denmark)",
+                "Modern_liberalism_in_the_United_States",
+                "Alberta_Liberal_Party",
+                "Liberal_Party_of_Australia",
+                "Quebec_Liberal_Party",
+                "Ontario_Liberal_Party",
+                "Liberalism_in_the_United_States",
+                "New_Brunswick_Liberal_Association",
+                "Manitoba_Liberal_Party",
+                "Italian_Liberal_Party",
+                "Liberals_(Sweden)",
+                "British_Columbia_Liberal_Party",
+                "Prince_Edward_Island_Liberal_Party"
+            ],
+            "scores": [
+                0.15953488372093022,
+                0.15209302325581395,
+                0.13581395348837208,
+                0.053488372093023255,
+                0.03441860465116279,
+                0.03302325581395349,
+                0.030697674418604652,
+                0.02744186046511628,
+                0.02372093023255814,
+                0.020465116279069766,
+                0.02,
+                0.017209302325581394,
+                0.017209302325581394,
+                0.01674418604651163,
+                0.014883720930232559,
+                0.013023255813953489
+            ]
+        },
+        {
+            "begin": 2004,
+            "end": 2010,
+            "text": "Harper",
+            "concept": 4,
+            "candidates": [
+                "Stephen_Harper",
+                "Joe_Harper",
+                "Harper_(publisher)",
+                "Harper_(film)",
+                "National_Register_of_Historic_Places_listings_in_Harper_County,_Oklahoma",
+                "Harper_County,_Kansas",
+                "Harper_County,_Oklahoma",
+                "Harper,_Liberia",
+                "Ron_Harper",
+                "Steve_Harper_(footballer,_born_1969)",
+                "Luke_Harper",
+                "Harper,_Texas",
+                "Harp",
+                "Harper,_Kansas",
+                "HarperCollins",
+                "Kevin_Harper"
+            ],
+            "scores": [
+                0.22530329289428075,
+                0.13084922010398614,
+                0.1048526863084922,
+                0.06932409012131716,
+                0.06759098786828423,
+                0.053726169844020795,
+                0.047660311958405546,
+                0.033795493934142114,
+                0.029462738301559793,
+                0.021663778162911613,
+                0.01733102253032929,
+                0.014731369150779897,
+                0.014731369150779897,
+                0.01386481802426343,
+                0.012998266897746967,
+                0.012131715771230503
+            ]
+        },
+        {
+            "begin": 2039,
+            "end": 2049,
+            "text": "Parliament",
+            "concept": 15,
+            "candidates": [
+                "Parliament_of_the_United_Kingdom",
+                "Parliament",
+                "Parliament_of_England",
+                "Parliament_of_Sri_Lanka",
+                "Parliament_(band)",
+                "Parliament_of_Canada",
+                "New_Zealand_Parliament",
+                "Parliament_of_Great_Britain",
+                "Parliament_of_India",
+                "Storting",
+                "Parliament_of_Romania",
+                "Parliament_of_South_Africa",
+                "Parliament_of_Pakistan",
+                "Italian_Parliament",
+                "Islamic_Consultative_Assembly",
+                "Parliament_of_Australia"
+            ],
+            "scores": [
+                0.18492683296686632,
+                0.08218970354082948,
+                0.06740465539464706,
+                0.044051861399651226,
+                0.03442262491470165,
+                0.03214800212298127,
+                0.026840548942300403,
+                0.02646144514368034,
+                0.02183637880051558,
+                0.016377284100386687,
+                0.014102661308666312,
+                0.013496095230874213,
+                0.013192812191978164,
+                0.012586246114186064,
+                0.01213132155584199,
+                0.011979680036393965
+            ]
+        },
+        {
+            "begin": 2072,
+            "end": 2090,
+            "text": "public broadcaster",
+            "concept": 16
+        },
+        {
+            "begin": 2091,
+            "end": 2094,
+            "text": "CBC",
+            "concept": 17,
+            "candidates": [
+                "Canadian_Broadcasting_Corporation",
+                "CBC_Television",
+                "Hockey_Night_in_Canada",
+                "Chubu-Nippon_Broadcasting",
+                "CFL_on_CBC",
+                "CBC_News",
+                "CBC_Radio",
+                "Cipher_block_chaining",
+                "Complete_blood_count",
+                "Block_cipher_mode_of_operation",
+                "Christian_Brothers_College,_Adelaide",
+                "CBC_Sports",
+                "Capital_Broadcasting_Center",
+                "CBC_Records",
+                "CBC_Radio_One",
+                "CBC.ca"
+            ],
+            "scores": [
+                0.5111283643892339,
+                0.28804347826086957,
+                0.05046583850931677,
+                0.03907867494824017,
+                0.016304347826086956,
+                0.013716356107660456,
+                0.013457556935817806,
+                0.009316770186335404,
+                0.006211180124223602,
+                0.005693581780538302,
+                0.005175983436853002,
+                0.004658385093167702,
+                0.004140786749482402,
+                0.003105590062111801,
+                0.002846790890269151,
+                0.002587991718426501
+            ]
+        },
+        {
+            "begin": 2156,
+            "end": 2176,
+            "text": "New Democratic Party",
+            "concept": 5,
+            "candidates": [
+                "New_Democratic_Party",
+                "New_Democratic_Party_of_Manitoba",
+                "Ontario_New_Democratic_Party",
+                "Nova_Scotia_New_Democratic_Party",
+                "Saskatchewan_New_Democratic_Party",
+                "British_Columbia_New_Democratic_Party",
+                "Alberta_New_Democratic_Party",
+                "New_Democratic_Party_(Saint_Vincent_and_the_Grenadines)",
+                "Yukon_New_Democratic_Party",
+                "Newfoundland_and_Labrador_New_Democratic_Party",
+                "New_Democratic_Party_(South_Korea)",
+                "New_Brunswick_New_Democratic_Party",
+                "New_Democratic_Party_(Albania)",
+                "New_Democratic_Party_of_Quebec",
+                "New_Democratic_Party_of_Prince_Edward_Island",
+                "Social_Democratic_Party_(Serbia)"
+            ],
+            "scores": [
+                0.5144669044787951,
+                0.12326595323028142,
+                0.11474435196195006,
+                0.09948474038842647,
+                0.0713436385255648,
+                0.028537455410225922,
+                0.01070154577883472,
+                0.009710661910424098,
+                0.005548949663099485,
+                0.00535077288941736,
+                0.0047562425683709865,
+                0.002972651605231867,
+                0.0017835909631391202,
+                0.0015854141894569957,
+                0.0011890606420927466,
+                0.0011890606420927466
+            ]
+        },
+        {
+            "begin": 2231,
+            "end": 2235,
+            "text": "2011",
+            "concept": 18
+        },
+        {
+            "begin": 2276,
+            "end": 2279,
+            "text": "CBC",
+            "concept": 17,
+            "candidates": [
+                "Canadian_Broadcasting_Corporation",
+                "CBC_Television",
+                "Hockey_Night_in_Canada",
+                "Chubu-Nippon_Broadcasting",
+                "CFL_on_CBC",
+                "CBC_News",
+                "CBC_Radio",
+                "Cipher_block_chaining",
+                "Complete_blood_count",
+                "Block_cipher_mode_of_operation",
+                "Christian_Brothers_College,_Adelaide",
+                "CBC_Sports",
+                "Capital_Broadcasting_Center",
+                "CBC_Records",
+                "CBC_Radio_One",
+                "CBC.ca"
+            ],
+            "scores": [
+                0.5111283643892339,
+                0.28804347826086957,
+                0.05046583850931677,
+                0.03907867494824017,
+                0.016304347826086956,
+                0.013716356107660456,
+                0.013457556935817806,
+                0.009316770186335404,
+                0.006211180124223602,
+                0.005693581780538302,
+                0.005175983436853002,
+                0.004658385093167702,
+                0.004140786749482402,
+                0.003105590062111801,
+                0.002846790890269151,
+                0.002587991718426501
+            ]
+        },
+        {
+            "begin": 2329,
+            "end": 2349,
+            "text": "es/cmk (AP, Reuters)",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Conservative Party",
+            "keyword": true,
+            "count": 5,
+            "link": "Conservative_Party_of_Canada",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Liberal Party",
+            "keyword": true,
+            "count": 5,
+            "link": "Liberal_Party_of_Canada",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Canada",
+            "keyword": true,
+            "count": 2,
+            "link": "Canada",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Justin Trudeau",
+            "keyword": true,
+            "count": 10,
+            "link": "Justin_Trudeau",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Stephen Harper",
+            "keyword": true,
+            "count": 7,
+            "link": "Stephen_Harper",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "New Democratic Party",
+            "keyword": true,
+            "count": 1,
+            "link": "New_Democratic_Party",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Canadian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "John Walsh",
+            "keyword": false,
+            "count": 1,
+            "link": "John_Walsh_(Canadian_politician)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Obama",
+            "keyword": false,
+            "count": 1,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Keystone XL",
+            "keyword": false,
+            "count": 1,
+            "link": "Keystone_Pipeline",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::project"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Canadians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Parliament",
+            "keyword": false,
+            "count": 1,
+            "link": "Parliament_of_Canada",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "public broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "CBC",
+            "keyword": false,
+            "count": 2,
+            "link": "Canadian_Broadcasting_Corporation",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "es/cmk (AP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov-x",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 10,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 10,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 10,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 10,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "agent_of",
+            "o": 20
+        },
+        {
+            "s": 11,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 11,
+            "p": "head_of_state",
+            "o": 20
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 15,
+            "p": "agency_of",
+            "o": 2
+        },
+        {
+            "s": 15,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 15,
+            "p": "agency_of-x",
+            "o": 13
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 17,
+            "p": "agency_of",
+            "o": 2
+        },
+        {
+            "s": 17,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "agency_of-x",
+            "o": 13
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 13
+        }
+    ],
+    "frames": [
+        {
+            "type": "elect",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 3
+                },
+                {
+                    "name": "place",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "type": "end-position",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 4
+                },
+                {
+                    "name": "entity",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 8
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000574",
+        "20000579"
+    ]
+}

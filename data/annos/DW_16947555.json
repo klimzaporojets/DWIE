@@ -1,0 +1,2859 @@
+{
+    "id": "DW_16947555",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 25,
+            "end": 32,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 53,
+            "end": 58,
+            "text": "Turks",
+            "concept": 11
+        },
+        {
+            "begin": 88,
+            "end": 102,
+            "text": "Prime Minister",
+            "concept": 12
+        },
+        {
+            "begin": 103,
+            "end": 110,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 176,
+            "end": 183,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 242,
+            "end": 249,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 259,
+            "end": 269,
+            "text": "Lale Akg\u00fcn",
+            "concept": 3,
+            "candidates": [
+                "Lale_Akg\u00fcn"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 345,
+            "end": 369,
+            "text": "German Social Democratic",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 504,
+            "end": 509,
+            "text": "Akg\u00fcn",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 575,
+            "end": 579,
+            "text": "Bonn",
+            "concept": 14,
+            "candidates": [
+                "Bonn",
+                "University_of_Bonn",
+                "Bonn_Hauptbahnhof",
+                "Telekom_Baskets_Bonn",
+                "Timeline_of_Bonn",
+                "Bonn_Stadtbahn",
+                "Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals",
+                "Bundeshaus_(Bonn)",
+                "Siege_of_Bonn_(1689)",
+                "Siege_of_Bonn_(1703)",
+                "Botanical_Garden,_Bonn",
+                "Theater_Bonn",
+                "Akademisches_Kunstmuseum",
+                "Bonner_SC",
+                "List_of_ambassadors_of_Australia_to_Germany",
+                "B\u00f6nnsch_dialect"
+            ],
+            "scores": [
+                0.885295486272685,
+                0.09167054443927408,
+                0.014890646812470917,
+                0.003024662633783155,
+                0.0016286644951140066,
+                0.0006979990693345743,
+                0.00046533271288971617,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808,
+                0.00023266635644485808
+            ]
+        },
+        {
+            "begin": 601,
+            "end": 603,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 609,
+            "end": 637,
+            "text": "Southeast Europe Association",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 646,
+            "end": 672,
+            "text": "German-Turkish Association",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 723,
+            "end": 729,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 756,
+            "end": 763,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 769,
+            "end": 779,
+            "text": "journalist",
+            "concept": 17
+        },
+        {
+            "begin": 780,
+            "end": 791,
+            "text": "Canan Topcu",
+            "concept": 9,
+            "candidates": [
+                "Canan_Top\u00e7u"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 793,
+            "end": 808,
+            "text": "Bahaedin G\u00fcng\u00f6r",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 822,
+            "end": 824,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 827,
+            "end": 842,
+            "text": "Turkish Service",
+            "concept": 18,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 848,
+            "end": 865,
+            "text": "Maurus Reinkowski",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 880,
+            "end": 885,
+            "text": "Islam",
+            "concept": 0,
+            "candidates": [
+                "Islam",
+                "Islam_in_the_Philippines",
+                "Islam_in_Australia",
+                "Islam_in_Indonesia",
+                "Islam_in_Ethiopia",
+                "Sunni_Islam",
+                "Islam_in_Albania",
+                "Islam_in_Malaysia",
+                "Islam_in_the_Republic_of_Macedonia",
+                "Islam_in_Lebanon",
+                "Islam_in_India",
+                "Islam_in_China",
+                "Islam_in_Sri_Lanka",
+                "Islam_in_the_United_Kingdom",
+                "Islam_in_the_United_States",
+                "Islam_in_Norway"
+            ],
+            "scores": [
+                0.9553141237600378,
+                0.004156825696740671,
+                0.0026452527161076995,
+                0.0024563060935285782,
+                0.0019839395370807745,
+                0.0016060462919225318,
+                0.0016060462919225318,
+                0.0011336797354747285,
+                0.0010392064241851677,
+                0.000944733112895607,
+                0.000944733112895607,
+                0.0008502598016060463,
+                0.0007557864903164856,
+                0.0006613131790269249,
+                0.0006613131790269249,
+                0.0005668398677373642
+            ]
+        },
+        {
+            "begin": 893,
+            "end": 912,
+            "text": "University of Basel",
+            "concept": 19,
+            "candidates": [
+                "University_of_Basel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 916,
+            "end": 927,
+            "text": "Switzerland",
+            "concept": 20,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 950,
+            "end": 957,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1135,
+            "end": 1140,
+            "text": "Akg\u00fcn",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1180,
+            "end": 1186,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 1206,
+            "end": 1212,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 1305,
+            "end": 1312,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1379,
+            "end": 1393,
+            "text": "Prime Minister",
+            "concept": 12
+        },
+        {
+            "begin": 1394,
+            "end": 1414,
+            "text": "Recep Tayyip Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Recep_Tayyip_Erdo\u011fan_Stadium"
+            ],
+            "scores": [
+                0.9993535875888817,
+                0.0006464124111182935
+            ]
+        },
+        {
+            "begin": 1546,
+            "end": 1553,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1677,
+            "end": 1683,
+            "text": "G\u00fcng\u00f6r",
+            "concept": 7,
+            "candidates": [
+                "Gungor",
+                "Michael_Gungor",
+                "Leyla_G\u00fcng\u00f6r"
+            ],
+            "scores": [
+                0.5,
+                0.4666666666666667,
+                0.03333333333333333
+            ]
+        },
+        {
+            "begin": 1820,
+            "end": 1827,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 1975,
+            "end": 1982,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 2065,
+            "end": 2072,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 2202,
+            "end": 2231,
+            "text": "Justice and Development Party",
+            "concept": 6,
+            "candidates": [
+                "Justice_and_Development_Party_(Turkey)",
+                "Justice_and_Development_Party_(Morocco)",
+                "Justice_and_Development_Party_(Tunisia)",
+                "Justice_and_Construction_Party",
+                "For_Justice_and_Development",
+                "Chama_cha_Haki_na_Ustawi"
+            ],
+            "scores": [
+                0.9256474519632414,
+                0.06599832915622389,
+                0.003341687552213868,
+                0.002506265664160401,
+                0.001670843776106934,
+                0.000835421888053467
+            ]
+        },
+        {
+            "begin": 2233,
+            "end": 2236,
+            "text": "AKP",
+            "concept": 6,
+            "candidates": [
+                "Justice_and_Development_Party_(Turkey)",
+                "Ang_Kapatiran",
+                "Socialist_Revolutionary_Party",
+                "Workers'_Communist_Party_(Norway)",
+                "Ansar_Khalifa_Philippines",
+                "AEK_Kakopetrias",
+                "Albanian_Coalition_\"Perspective\"",
+                "Siwu_language"
+            ],
+            "scores": [
+                0.9316005471956225,
+                0.0560875512995896,
+                0.004103967168262654,
+                0.0027359781121751026,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513
+            ]
+        },
+        {
+            "begin": 2242,
+            "end": 2249,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 2250,
+            "end": 2259,
+            "text": "President",
+            "concept": 21
+        },
+        {
+            "begin": 2260,
+            "end": 2272,
+            "text": "Abdullah Gul",
+            "concept": 22,
+            "candidates": [
+                "Abdullah_G\u00fcl",
+                "Abdullah_G\u00fcl_\u00dcniversitesi_B.K."
+            ],
+            "scores": [
+                0.9844789356984479,
+                0.015521064301552107
+            ]
+        },
+        {
+            "begin": 2336,
+            "end": 2342,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 2371,
+            "end": 2376,
+            "text": "Akg\u00fcn",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2423,
+            "end": 2426,
+            "text": "AKP",
+            "concept": 6,
+            "candidates": [
+                "Justice_and_Development_Party_(Turkey)",
+                "Ang_Kapatiran",
+                "Socialist_Revolutionary_Party",
+                "Workers'_Communist_Party_(Norway)",
+                "Ansar_Khalifa_Philippines",
+                "AEK_Kakopetrias",
+                "Albanian_Coalition_\"Perspective\"",
+                "Siwu_language"
+            ],
+            "scores": [
+                0.9316005471956225,
+                0.0560875512995896,
+                0.004103967168262654,
+                0.0027359781121751026,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513
+            ]
+        },
+        {
+            "begin": 2473,
+            "end": 2480,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 2524,
+            "end": 2529,
+            "text": "Akg\u00fcn",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2582,
+            "end": 2589,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 2712,
+            "end": 2717,
+            "text": "Akg\u00fcn",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3066,
+            "end": 3073,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 3125,
+            "end": 3133,
+            "text": "Alevites",
+            "concept": 1,
+            "candidates": [
+                "Alevism"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3135,
+            "end": 3146,
+            "text": "Secularists",
+            "concept": 23,
+            "candidates": [
+                "Secularism",
+                "Secularism_in_Turkey",
+                "Republican_People's_Party_(Turkey)",
+                "Attacks_by_Islamic_extremists_in_Bangladesh",
+                "Secularism_in_Egypt",
+                "Secularism_in_Pakistan",
+                "Secularity"
+            ],
+            "scores": [
+                0.8360655737704918,
+                0.04918032786885246,
+                0.03278688524590164,
+                0.03278688524590164,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.01639344262295082
+            ]
+        },
+        {
+            "begin": 3151,
+            "end": 3160,
+            "text": "Kemalists",
+            "concept": 24
+        },
+        {
+            "begin": 3162,
+            "end": 3172,
+            "text": "Reinkowski",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3234,
+            "end": 3240,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 3342,
+            "end": 3348,
+            "text": "Taksim",
+            "concept": 25,
+            "candidates": [
+                "Taksim_Square",
+                "Taksim_(politics)",
+                "Taqsim",
+                "Taksim_(Istanbul_Metro)",
+                "Taksim_Stadium",
+                "Taksim_S.K."
+            ],
+            "scores": [
+                0.5978260869565217,
+                0.16304347826086957,
+                0.16304347826086957,
+                0.05434782608695652,
+                0.010869565217391304,
+                0.010869565217391304
+            ]
+        },
+        {
+            "begin": 3468,
+            "end": 3475,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 3598,
+            "end": 3608,
+            "text": "Reinkowski",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3733,
+            "end": 3740,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 3753,
+            "end": 3759,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 3804,
+            "end": 3811,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3856,
+            "end": 3861,
+            "text": "Topcu",
+            "concept": 9,
+            "candidates": [
+                "Ebru_Top\u00e7u",
+                "Top\u00e7u"
+            ],
+            "scores": [
+                0.8928571428571429,
+                0.10714285714285714
+            ]
+        },
+        {
+            "begin": 3878,
+            "end": 3885,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3984,
+            "end": 3993,
+            "text": "Kemalists",
+            "concept": 24
+        },
+        {
+            "begin": 4015,
+            "end": 4021,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 4127,
+            "end": 4130,
+            "text": "AKP",
+            "concept": 6,
+            "candidates": [
+                "Justice_and_Development_Party_(Turkey)",
+                "Ang_Kapatiran",
+                "Socialist_Revolutionary_Party",
+                "Workers'_Communist_Party_(Norway)",
+                "Ansar_Khalifa_Philippines",
+                "AEK_Kakopetrias",
+                "Albanian_Coalition_\"Perspective\"",
+                "Siwu_language"
+            ],
+            "scores": [
+                0.9316005471956225,
+                0.0560875512995896,
+                0.004103967168262654,
+                0.0027359781121751026,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513
+            ]
+        },
+        {
+            "begin": 4146,
+            "end": 4153,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 4181,
+            "end": 4188,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 4227,
+            "end": 4233,
+            "text": "German",
+            "concept": 27
+        },
+        {
+            "begin": 4261,
+            "end": 4268,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 4338,
+            "end": 4345,
+            "text": "Alevite",
+            "concept": 1,
+            "candidates": [
+                "Alevism"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4389,
+            "end": 4396,
+            "text": "Erdogan",
+            "concept": 5,
+            "candidates": [
+                "Recep_Tayyip_Erdo\u011fan",
+                "Azize_Erdo\u011fan",
+                "Erdo\u011fan_Ar\u0131ca",
+                "Yusuf_Erdo\u011fan",
+                "\u00d6mer_Erdo\u011fan"
+            ],
+            "scores": [
+                0.9642857142857143,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.005952380952380952,
+                0.005952380952380952
+            ]
+        },
+        {
+            "begin": 4448,
+            "end": 4453,
+            "text": "Turks",
+            "concept": 11
+        },
+        {
+            "begin": 4464,
+            "end": 4471,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 4579,
+            "end": 4586,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 4649,
+            "end": 4656,
+            "text": "Muslims",
+            "concept": 28
+        },
+        {
+            "begin": 4682,
+            "end": 4687,
+            "text": "Topcu",
+            "concept": 9,
+            "candidates": [
+                "Ebru_Top\u00e7u",
+                "Top\u00e7u"
+            ],
+            "scores": [
+                0.8928571428571429,
+                0.10714285714285714
+            ]
+        },
+        {
+            "begin": 4717,
+            "end": 4719,
+            "text": "EU",
+            "concept": 29,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 4720,
+            "end": 4727,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 4787,
+            "end": 4794,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 4819,
+            "end": 4821,
+            "text": "EU",
+            "concept": 29,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 4823,
+            "end": 4833,
+            "text": "Chancellor",
+            "concept": 30
+        },
+        {
+            "begin": 4834,
+            "end": 4847,
+            "text": "Angela Merkel",
+            "concept": 31,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4924,
+            "end": 4931,
+            "text": "Turkish",
+            "concept": 10
+        },
+        {
+            "begin": 4946,
+            "end": 4952,
+            "text": "G\u00fcng\u00f6r",
+            "concept": 7,
+            "candidates": [
+                "Gungor",
+                "Michael_Gungor",
+                "Leyla_G\u00fcng\u00f6r"
+            ],
+            "scores": [
+                0.5,
+                0.4666666666666667,
+                0.03333333333333333
+            ]
+        },
+        {
+            "begin": 4968,
+            "end": 4974,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 5019,
+            "end": 5026,
+            "text": "Romania",
+            "concept": 32,
+            "candidates": [
+                "Romania",
+                "Romania_national_football_team",
+                "Romania_national_rugby_union_team",
+                "Kingdom_of_Romania",
+                "Socialist_Republic_of_Romania",
+                "Romanian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Romania",
+                "Recognition_of_same-sex_unions_in_Romania",
+                "Romania_women's_national_football_team",
+                "Romania_national_under-21_football_team",
+                "Romania_women's_national_basketball_team",
+                "Romania_Fed_Cup_team",
+                "United_Principalities",
+                "Romania_Davis_Cup_team",
+                "Romania_men's_national_handball_team",
+                "Football_in_Romania"
+            ],
+            "scores": [
+                0.897320542507443,
+                0.030808247877384495,
+                0.013739111258132099,
+                0.010387032748924909,
+                0.005094277208071452,
+                0.0038151946190318666,
+                0.0028007498070349544,
+                0.002359686845297166,
+                0.0017863049950380416,
+                0.001587826662256037,
+                0.0009482853677362443,
+                0.0009482853677362443,
+                0.0009262322196493549,
+                0.0008380196273017974,
+                0.0007718601830411291,
+                0.0007498070349542397
+            ]
+        },
+        {
+            "begin": 5028,
+            "end": 5036,
+            "text": "Bulgaria",
+            "concept": 33,
+            "candidates": [
+                "Bulgaria",
+                "Bulgaria_national_football_team",
+                "Kingdom_of_Bulgaria",
+                "People's_Republic_of_Bulgaria",
+                "ISU_Junior_Grand_Prix_in_Bulgaria",
+                "First_Bulgarian_Empire",
+                "Recognition_of_same-sex_unions_in_Bulgaria",
+                "Bulgarian_Football_Union",
+                "Second_Bulgarian_Empire",
+                "Principality_of_Bulgaria",
+                "Bulgaria_women's_national_football_team",
+                "Bulgaria_national_under-21_football_team",
+                "Bulgaria_women's_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Bulgaria",
+                "Bulgaria_national_basketball_team",
+                "Bulgaria_Fed_Cup_team"
+            ],
+            "scores": [
+                0.8450756349169635,
+                0.04487209140953879,
+                0.016329740482028034,
+                0.010362214923439885,
+                0.006753943655456354,
+                0.006245084886894574,
+                0.004718508581209233,
+                0.004487209140953879,
+                0.0036545311560346023,
+                0.0035157514918813895,
+                0.002821853171115326,
+                0.0025442938428089003,
+                0.0024980339547578294,
+                0.0022667345145024748,
+                0.002220474626451404,
+                0.0018041356339917657
+            ]
+        },
+        {
+            "begin": 5046,
+            "end": 5048,
+            "text": "EU",
+            "concept": 29,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 5166,
+            "end": 5172,
+            "text": "G\u00fcng\u00f6r",
+            "concept": 7,
+            "candidates": [
+                "Gungor",
+                "Michael_Gungor",
+                "Leyla_G\u00fcng\u00f6r"
+            ],
+            "scores": [
+                0.5,
+                0.4666666666666667,
+                0.03333333333333333
+            ]
+        },
+        {
+            "begin": 5174,
+            "end": 5180,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 5238,
+            "end": 5243,
+            "text": "Syria",
+            "concept": 34,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 5245,
+            "end": 5249,
+            "text": "Iraq",
+            "concept": 35,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 5254,
+            "end": 5258,
+            "text": "Iran",
+            "concept": 36,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 5275,
+            "end": 5283,
+            "text": "Caucasus",
+            "concept": 37,
+            "candidates": [
+                "Caucasus",
+                "Caucasus_Mountains",
+                "Caucasus_(horse)",
+                "Caucasus_Campaign",
+                "Peoples_of_the_Caucasus",
+                "List_of_dishes_from_the_Caucasus",
+                "Iron_Age_Caucasus",
+                "Caucasus_Viceroyalty_(1801\u20131917)",
+                "Battle_of_the_Caucasus",
+                "Caucasian_War",
+                "North_Caucasus",
+                "Apostolic_Administration_of_the_Caucasus",
+                "Greater_Caucasus",
+                "Reichskommissariat_Kaukasus",
+                "Trialetian",
+                "History_of_the_Caucasus"
+            ],
+            "scores": [
+                0.96436953275016,
+                0.014081502026882867,
+                0.002560273095796885,
+                0.002346917004480478,
+                0.002346917004480478,
+                0.002133560913164071,
+                0.0019202048218476637,
+                0.0017068487305312568,
+                0.0012801365478984424,
+                0.0008534243652656284,
+                0.0008534243652656284,
+                0.0006400682739492212,
+                0.0006400682739492212,
+                0.0006400682739492212,
+                0.0006400682739492212,
+                0.0004267121826328142
+            ]
+        },
+        {
+            "begin": 5345,
+            "end": 5351,
+            "text": "G\u00fcng\u00f6r",
+            "concept": 7,
+            "candidates": [
+                "Gungor",
+                "Michael_Gungor",
+                "Leyla_G\u00fcng\u00f6r"
+            ],
+            "scores": [
+                0.5,
+                0.4666666666666667,
+                0.03333333333333333
+            ]
+        },
+        {
+            "begin": 5363,
+            "end": 5369,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 5428,
+            "end": 5434,
+            "text": "Turkey",
+            "concept": 2,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 5442,
+            "end": 5444,
+            "text": "EU",
+            "concept": 29,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Islam",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Alevites",
+            "keyword": false,
+            "count": 2,
+            "link": "Alevism",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Turkey",
+            "keyword": true,
+            "count": 11,
+            "link": "Turkey",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Lale Akg\u00fcn",
+            "keyword": true,
+            "count": 6,
+            "link": "Lale_Akg\u00fcn",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Southeast Europe Association",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Recep Tayyip Erdogan",
+            "keyword": true,
+            "count": 12,
+            "link": "Recep_Tayyip_Erdo\u011fan",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Justice and Development Party",
+            "keyword": true,
+            "count": 4,
+            "link": "Justice_and_Development_Party_(Turkey)",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Bahaedin G\u00fcng\u00f6r",
+            "keyword": false,
+            "count": 6,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "slot::head",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Maurus Reinkowski",
+            "keyword": false,
+            "count": 3,
+            "link": "wikidata:Q20742723",
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Canan Topcu",
+            "keyword": false,
+            "count": 3,
+            "link": "Canan_Top\u00e7u",
+            "tags": [
+                "gender::female",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Turkish",
+            "keyword": false,
+            "count": 11,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Turks",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "German Social Democratic",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Bonn",
+            "keyword": false,
+            "count": 1,
+            "link": "Bonn",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "German-Turkish Association",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "journalist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Turkish Service",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "University of Basel",
+            "keyword": false,
+            "count": 1,
+            "link": "University_of_Basel",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Switzerland",
+            "keyword": false,
+            "count": 1,
+            "link": "Switzerland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Abdullah Gul",
+            "keyword": false,
+            "count": 1,
+            "link": "Abdullah_G\u00fcl",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Secularists",
+            "keyword": false,
+            "count": 1,
+            "link": "Secularism_in_Turkey",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::misc",
+                "type::religion"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Kemalists",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Taksim",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::movement",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Germany",
+            "keyword": false,
+            "count": 6,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "EU",
+            "keyword": false,
+            "count": 4,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Angela Merkel",
+            "keyword": false,
+            "count": 1,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Romania",
+            "keyword": false,
+            "count": 1,
+            "link": "Romania",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Bulgaria",
+            "keyword": false,
+            "count": 1,
+            "link": "Bulgaria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Syria",
+            "keyword": false,
+            "count": 1,
+            "link": "Syria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Iran",
+            "keyword": false,
+            "count": 1,
+            "link": "Iran",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Caucasus",
+            "keyword": false,
+            "count": 1,
+            "link": "Caucasus",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 13
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov-x",
+            "o": 10
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov-x",
+            "o": 11
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 11
+        },
+        {
+            "s": 7,
+            "p": "head_of",
+            "o": 18
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 8,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 26
+        },
+        {
+            "s": 13,
+            "p": "based_in0-x",
+            "o": 27
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 27
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 26
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 27
+        },
+        {
+            "s": 18,
+            "p": "part_of",
+            "o": 15
+        },
+        {
+            "s": 19,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 22,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 11
+        },
+        {
+            "s": 22,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 22,
+            "p": "head_of_state-x",
+            "o": 10
+        },
+        {
+            "s": 22,
+            "p": "head_of_state-x",
+            "o": 11
+        },
+        {
+            "s": 27,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 31,
+            "p": "agent_of",
+            "o": 26
+        },
+        {
+            "s": 31,
+            "p": "citizen_of",
+            "o": 26
+        },
+        {
+            "s": 31,
+            "p": "citizen_of-x",
+            "o": 27
+        },
+        {
+            "s": 31,
+            "p": "head_of_gov",
+            "o": 26
+        },
+        {
+            "s": 31,
+            "p": "head_of_gov-x",
+            "o": 27
+        }
+    ],
+    "frames": [
+        {
+            "type": "demonstrate",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000065",
+        "20000066"
+    ]
+}

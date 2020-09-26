@@ -1,0 +1,156 @@
+{
+    "id": "DW_16850101",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 60,
+            "end": 67,
+            "text": "LakeLab",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 77,
+            "end": 88,
+            "text": "Stechlinsee",
+            "concept": 1,
+            "candidates": [
+                "Lake_Stechlin"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 178,
+            "end": 184,
+            "text": "Berlin",
+            "concept": 2,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "LakeLab",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Stechlinsee",
+            "keyword": true,
+            "count": 1,
+            "link": "Lake_Stechlin",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Berlin",
+            "keyword": true,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "06000000",
+        "11000000",
+        "13000000",
+        "20000621",
+        "20000717",
+        "20000727"
+    ]
+}

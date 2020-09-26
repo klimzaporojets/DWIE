@@ -1,0 +1,1568 @@
+{
+    "id": "DW_14871410",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 2,
+            "text": "UK",
+            "concept": 4,
+            "candidates": [
+                "United_Kingdom",
+                "UK_Singles_Chart",
+                "UK_Albums_Chart",
+                "British_Phonographic_Industry",
+                "Official_Charts_Company",
+                "U.K._(band)",
+                "ISU_Junior_Grand_Prix_in_the_United_Kingdom",
+                ".uk",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "British_Overseas_Territories",
+                "List_of_British_films_of_1967",
+                "UK_Video_Charts",
+                "List_of_British_films_of_1999",
+                "List_of_British_films_of_1960",
+                "List_of_British_films_of_2003",
+                "List_of_British_films_of_1968"
+            ],
+            "scores": [
+                0.5038734184787486,
+                0.2370113361050459,
+                0.1652857954715401,
+                0.029132892650973588,
+                0.004875422486764574,
+                0.0033798941165913915,
+                0.002273203122663237,
+                0.0018544551790147458,
+                0.0017946340442078186,
+                0.001674991774593964,
+                0.001256243830945473,
+                0.0011366015613316184,
+                0.0011066909939281549,
+                0.0010468698591212275,
+                0.0010169592917177639,
+                0.0009870487243143003
+            ]
+        },
+        {
+            "begin": 15,
+            "end": 24,
+            "text": "WikiLeaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 26,
+            "end": 33,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 58,
+            "end": 64,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 67,
+            "end": 74,
+            "text": "British",
+            "concept": 5
+        },
+        {
+            "begin": 96,
+            "end": 105,
+            "text": "WikiLeaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 106,
+            "end": 113,
+            "text": "founder",
+            "concept": 6
+        },
+        {
+            "begin": 114,
+            "end": 128,
+            "text": "Julian Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange",
+                "Assange_v_Swedish_Prosecution_Authority"
+            ],
+            "scores": [
+                0.9979674796747967,
+                0.0020325203252032522
+            ]
+        },
+        {
+            "begin": 153,
+            "end": 159,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 209,
+            "end": 216,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 261,
+            "end": 263,
+            "text": "UK",
+            "concept": 4,
+            "candidates": [
+                "United_Kingdom",
+                "UK_Singles_Chart",
+                "UK_Albums_Chart",
+                "British_Phonographic_Industry",
+                "Official_Charts_Company",
+                "U.K._(band)",
+                "ISU_Junior_Grand_Prix_in_the_United_Kingdom",
+                ".uk",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "British_Overseas_Territories",
+                "List_of_British_films_of_1967",
+                "UK_Video_Charts",
+                "List_of_British_films_of_1999",
+                "List_of_British_films_of_1960",
+                "List_of_British_films_of_2003",
+                "List_of_British_films_of_1968"
+            ],
+            "scores": [
+                0.5038734184787486,
+                0.2370113361050459,
+                0.1652857954715401,
+                0.029132892650973588,
+                0.004875422486764574,
+                0.0033798941165913915,
+                0.002273203122663237,
+                0.0018544551790147458,
+                0.0017946340442078186,
+                0.001674991774593964,
+                0.001256243830945473,
+                0.0011366015613316184,
+                0.0011066909939281549,
+                0.0010468698591212275,
+                0.0010169592917177639,
+                0.0009870487243143003
+            ]
+        },
+        {
+            "begin": 279,
+            "end": 287,
+            "text": "Thursday",
+            "concept": 7
+        },
+        {
+            "begin": 293,
+            "end": 302,
+            "text": "WikiLeaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 303,
+            "end": 310,
+            "text": "founder",
+            "concept": 6
+        },
+        {
+            "begin": 311,
+            "end": 325,
+            "text": "Julian Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange",
+                "Assange_v_Swedish_Prosecution_Authority"
+            ],
+            "scores": [
+                0.9979674796747967,
+                0.0020325203252032522
+            ]
+        },
+        {
+            "begin": 347,
+            "end": 353,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 403,
+            "end": 410,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 584,
+            "end": 591,
+            "text": "Swedish",
+            "concept": 8
+        },
+        {
+            "begin": 630,
+            "end": 638,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 740,
+            "end": 746,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 771,
+            "end": 777,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 821,
+            "end": 829,
+            "text": "Internet",
+            "concept": 10,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 981,
+            "end": 989,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 1012,
+            "end": 1019,
+            "text": "Swedish",
+            "concept": 8
+        },
+        {
+            "begin": 1076,
+            "end": 1090,
+            "text": "defense lawyer",
+            "concept": 11
+        },
+        {
+            "begin": 1091,
+            "end": 1108,
+            "text": "Geoffrey Robinson",
+            "concept": 12,
+            "candidates": [
+                "Geoffrey_Robinson",
+                "Geoffrey_Robinson_(bishop)"
+            ],
+            "scores": [
+                0.96,
+                0.04
+            ]
+        },
+        {
+            "begin": 1110,
+            "end": 1117,
+            "text": "Swedish",
+            "concept": 8
+        },
+        {
+            "begin": 1155,
+            "end": 1162,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1315,
+            "end": 1322,
+            "text": "Swedish",
+            "concept": 8
+        },
+        {
+            "begin": 1333,
+            "end": 1339,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 1347,
+            "end": 1349,
+            "text": "US",
+            "concept": 1,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1351,
+            "end": 1361,
+            "text": "Australian",
+            "concept": 13
+        },
+        {
+            "begin": 1371,
+            "end": 1378,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1443,
+            "end": 1449,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 1477,
+            "end": 1490,
+            "text": "United States",
+            "concept": 1,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 1544,
+            "end": 1558,
+            "text": "Guantanamo Bay",
+            "concept": 14,
+            "candidates": [
+                "Guant\u00e1namo_Bay",
+                "Guantanamo_Bay_Naval_Base",
+                "Guantanamo_Bay_detention_camp",
+                "Battle_of_Guant\u00e1namo_Bay",
+                "Camp_X-Ray_(Guantanamo)",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Guantanamo_Bay_files_leak"
+            ],
+            "scores": [
+                0.5889531149646756,
+                0.22864482980089917,
+                0.17597944765574824,
+                0.002569043031470777,
+                0.002569043031470777,
+                0.0006422607578676942,
+                0.0006422607578676942
+            ]
+        },
+        {
+            "begin": 1651,
+            "end": 1653,
+            "text": "US",
+            "concept": 1,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1667,
+            "end": 1676,
+            "text": "WikiLeaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 1678,
+            "end": 1687,
+            "text": "Australia",
+            "concept": 15,
+            "candidates": [
+                "Australia",
+                "Australia_national_cricket_team",
+                "Australia_national_rugby_union_team",
+                "Australia_national_rugby_league_team",
+                "Australia_national_soccer_team",
+                "Rugby_Australia",
+                "Australia_women's_national_cricket_team",
+                "Australia_women's_national_soccer_team",
+                "Australia_(2008_film)",
+                "ARIA_Charts",
+                "Australia_international_rules_football_team",
+                "Football_Federation_Australia",
+                "A1_Team_Australia",
+                "Australia_Davis_Cup_team",
+                "Australian_Recording_Industry_Association",
+                "Kent_Music_Report"
+            ],
+            "scores": [
+                0.8091146964416243,
+                0.036229964935326334,
+                0.025827091962668306,
+                0.024312213311863725,
+                0.01744758837674926,
+                0.0034958738095490324,
+                0.0033475640115681643,
+                0.0031462864285941292,
+                0.0025636407936692903,
+                0.0025106730086761233,
+                0.0023199889827007214,
+                0.0022988018687034547,
+                0.0019280273737512844,
+                0.0016314077777895483,
+                0.0013983495238196128,
+                0.0013877559668209795
+            ]
+        },
+        {
+            "begin": 1702,
+            "end": 1708,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 1727,
+            "end": 1734,
+            "text": "Assange",
+            "concept": 0,
+            "candidates": [
+                "Julian_Assange"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1756,
+            "end": 1765,
+            "text": "Australia",
+            "concept": 15,
+            "candidates": [
+                "Australia",
+                "Australia_national_cricket_team",
+                "Australia_national_rugby_union_team",
+                "Australia_national_rugby_league_team",
+                "Australia_national_soccer_team",
+                "Rugby_Australia",
+                "Australia_women's_national_cricket_team",
+                "Australia_women's_national_soccer_team",
+                "Australia_(2008_film)",
+                "ARIA_Charts",
+                "Australia_international_rules_football_team",
+                "Football_Federation_Australia",
+                "A1_Team_Australia",
+                "Australia_Davis_Cup_team",
+                "Australian_Recording_Industry_Association",
+                "Kent_Music_Report"
+            ],
+            "scores": [
+                0.8091146964416243,
+                0.036229964935326334,
+                0.025827091962668306,
+                0.024312213311863725,
+                0.01744758837674926,
+                0.0034958738095490324,
+                0.0033475640115681643,
+                0.0031462864285941292,
+                0.0025636407936692903,
+                0.0025106730086761233,
+                0.0023199889827007214,
+                0.0022988018687034547,
+                0.0019280273737512844,
+                0.0016314077777895483,
+                0.0013983495238196128,
+                0.0013877559668209795
+            ]
+        },
+        {
+            "begin": 1782,
+            "end": 1788,
+            "text": "Sweden",
+            "concept": 3,
+            "candidates": [
+                "Sweden",
+                "Sweden_national_football_team",
+                "Sverigetopplistan",
+                "Sweden_men's_national_ice_hockey_team",
+                "Sweden_women's_national_football_team",
+                "Sweden_men's_national_junior_ice_hockey_team",
+                "Swedish_Football_Association",
+                "Swedish_Empire",
+                "Sweden_national_speedway_team",
+                "Same-sex_marriage_in_Sweden",
+                "Sweden_national_under-21_football_team",
+                "Sweden_Davis_Cup_team",
+                "Sweden_national_bandy_team",
+                "Sweden_national_handball_team",
+                "Sweden_women's_national_ice_hockey_team",
+                "Sweden_in_the_Eurovision_Song_Contest"
+            ],
+            "scores": [
+                0.8304392455412515,
+                0.046191351952440014,
+                0.014242333518669005,
+                0.012595697361105171,
+                0.009238270390488003,
+                0.008019331936187502,
+                0.006693469056071169,
+                0.004170052606817501,
+                0.0038278944442068346,
+                0.0027158804157221676,
+                0.002502031564090501,
+                0.0019887943201745005,
+                0.0018177152388691672,
+                0.0017749454685428339,
+                0.0012830931097900003,
+                0.001240323339463667
+            ]
+        },
+        {
+            "begin": 1790,
+            "end": 1803,
+            "text": "Paul Stephens",
+            "concept": 16,
+            "candidates": [
+                "Paul_Stephens"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1909,
+            "end": 1916,
+            "text": "Swedish",
+            "concept": 8
+        },
+        {
+            "begin": 1923,
+            "end": 1932,
+            "text": "WikiLeaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 2006,
+            "end": 2008,
+            "text": "US",
+            "concept": 1,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2031,
+            "end": 2042,
+            "text": "Afghanistan",
+            "concept": 17,
+            "candidates": [
+                "Afghanistan",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Afghanistan_national_cricket_team",
+                "Afghanistan_national_football_team",
+                "Kingdom_of_Afghanistan",
+                "Democratic_Republic_of_Afghanistan",
+                "Emirate_of_Afghanistan",
+                "Soviet\u2013Afghan_War",
+                "Islamic_Emirate_of_Afghanistan",
+                "Operation_Enduring_Freedom",
+                "Flag_of_Afghanistan",
+                "International_Security_Assistance_Force",
+                "Military_history_of_Australia_during_the_War_in_Afghanistan",
+                "Afghanistan_national_under-19_cricket_team",
+                "Afghanistan_Football_Federation",
+                "Islamic_State_of_Afghanistan"
+            ],
+            "scores": [
+                0.8974744437763079,
+                0.032321106434155145,
+                0.01593505712567649,
+                0.007416315894968932,
+                0.0065143315293646024,
+                0.00506113449589096,
+                0.0050110242533573865,
+                0.0018039687312086591,
+                0.0014030867909400682,
+                0.0012527560633393466,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0008017638805371818,
+                0.0008017638805371818,
+                0.0008017638805371818
+            ]
+        },
+        {
+            "begin": 2137,
+            "end": 2141,
+            "text": "Iraq",
+            "concept": 18,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 2189,
+            "end": 2191,
+            "text": "US",
+            "concept": 1,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2211,
+            "end": 2265,
+            "text": "Author: Andreas Illmer (AP, AFP) Editor: Nancy Isenson",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Julian Assange",
+            "keyword": true,
+            "count": 9,
+            "link": "Julian_Assange",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::head",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "United States",
+            "keyword": false,
+            "count": 5,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "WikiLeaks",
+            "keyword": true,
+            "count": 5,
+            "link": "WikiLeaks",
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Sweden",
+            "keyword": true,
+            "count": 9,
+            "link": "Sweden",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "UK",
+            "keyword": false,
+            "count": 2,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "founder",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Swedish",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "European",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Internet",
+            "keyword": false,
+            "count": 1,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "defense lawyer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Geoffrey Robinson",
+            "keyword": false,
+            "count": 1,
+            "link": "Geoffrey_Robertson",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Australian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Guantanamo Bay",
+            "keyword": false,
+            "count": 1,
+            "link": "Guantanamo_Bay_detention_camp",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Australia",
+            "keyword": false,
+            "count": 2,
+            "link": "Australia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Paul Stephens",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Afghanistan",
+            "keyword": false,
+            "count": 1,
+            "link": "Afghanistan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Author: Andreas Illmer (AP, AFP) Editor: Nancy Isenson",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "Cuba",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 15
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 15
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 20
+        },
+        {
+            "s": 16,
+            "p": "agent_of",
+            "o": 15
+        },
+        {
+            "s": 16,
+            "p": "agent_of-x",
+            "o": 13
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 15
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 13
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000084",
+        "20000085"
+    ]
+}

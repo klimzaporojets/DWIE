@@ -1,0 +1,1644 @@
+{
+    "id": "DW_5849340",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 7,
+            "end": 11,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 26,
+            "end": 35,
+            "text": "Wikileaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 63,
+            "end": 80,
+            "text": "Brigadier General",
+            "concept": 7
+        },
+        {
+            "begin": 81,
+            "end": 92,
+            "text": "Josef Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 176,
+            "end": 182,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 267,
+            "end": 273,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 286,
+            "end": 290,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 330,
+            "end": 339,
+            "text": "Wikileaks",
+            "concept": 2,
+            "candidates": [
+                "WikiLeaks",
+                "WikiLeaks_Party",
+                "United_States_diplomatic_cables_leak",
+                "Trump_Tower_meeting",
+                "2016_Democratic_National_Committee_email_leak"
+            ],
+            "scores": [
+                0.9925068119891008,
+                0.004087193460490463,
+                0.0020435967302452314,
+                0.0006811989100817438,
+                0.0006811989100817438
+            ]
+        },
+        {
+            "begin": 352,
+            "end": 360,
+            "text": "Thursday",
+            "concept": 9
+        },
+        {
+            "begin": 448,
+            "end": 459,
+            "text": "Afghanistan",
+            "concept": 3,
+            "candidates": [
+                "Afghanistan",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Afghanistan_national_cricket_team",
+                "Afghanistan_national_football_team",
+                "Kingdom_of_Afghanistan",
+                "Democratic_Republic_of_Afghanistan",
+                "Emirate_of_Afghanistan",
+                "Soviet\u2013Afghan_War",
+                "Islamic_Emirate_of_Afghanistan",
+                "Operation_Enduring_Freedom",
+                "Flag_of_Afghanistan",
+                "International_Security_Assistance_Force",
+                "Military_history_of_Australia_during_the_War_in_Afghanistan",
+                "Afghanistan_national_under-19_cricket_team",
+                "Afghanistan_Football_Federation",
+                "Islamic_State_of_Afghanistan"
+            ],
+            "scores": [
+                0.8974744437763079,
+                0.032321106434155145,
+                0.01593505712567649,
+                0.007416315894968932,
+                0.0065143315293646024,
+                0.00506113449589096,
+                0.0050110242533573865,
+                0.0018039687312086591,
+                0.0014030867909400682,
+                0.0012527560633393466,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0008017638805371818,
+                0.0008017638805371818,
+                0.0008017638805371818
+            ]
+        },
+        {
+            "begin": 532,
+            "end": 549,
+            "text": "Brigadier General",
+            "concept": 7
+        },
+        {
+            "begin": 550,
+            "end": 561,
+            "text": "Josef Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 621,
+            "end": 632,
+            "text": "Afghanistan",
+            "concept": 3,
+            "candidates": [
+                "Afghanistan",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Afghanistan_national_cricket_team",
+                "Afghanistan_national_football_team",
+                "Kingdom_of_Afghanistan",
+                "Democratic_Republic_of_Afghanistan",
+                "Emirate_of_Afghanistan",
+                "Soviet\u2013Afghan_War",
+                "Islamic_Emirate_of_Afghanistan",
+                "Operation_Enduring_Freedom",
+                "Flag_of_Afghanistan",
+                "International_Security_Assistance_Force",
+                "Military_history_of_Australia_during_the_War_in_Afghanistan",
+                "Afghanistan_national_under-19_cricket_team",
+                "Afghanistan_Football_Federation",
+                "Islamic_State_of_Afghanistan"
+            ],
+            "scores": [
+                0.8974744437763079,
+                0.032321106434155145,
+                0.01593505712567649,
+                0.007416315894968932,
+                0.0065143315293646024,
+                0.00506113449589096,
+                0.0050110242533573865,
+                0.0018039687312086591,
+                0.0014030867909400682,
+                0.0012527560633393466,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0008017638805371818,
+                0.0008017638805371818,
+                0.0008017638805371818
+            ]
+        },
+        {
+            "begin": 640,
+            "end": 650,
+            "text": "Bundeswehr",
+            "concept": 4,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 651,
+            "end": 676,
+            "text": "Operations Command Center",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 686,
+            "end": 692,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 701,
+            "end": 708,
+            "text": "Potsdam",
+            "concept": 11,
+            "candidates": [
+                "Potsdam",
+                "Potsdam_(village),_New_York",
+                "Potsdam,_New_York",
+                "Potsdam_Conference",
+                "Potsdam_Hauptbahnhof",
+                "Bezirk_Potsdam",
+                "Potsdam_Agreement",
+                "Potsdam,_Ohio",
+                "University_of_Potsdam",
+                "State_University_of_New_York_at_Potsdam",
+                "Potsdam,_Minnesota",
+                "1._FFC_Turbine_Potsdam",
+                "Leibniz_Institute_for_Astrophysics_Potsdam",
+                "SS_Empire_Fowey",
+                "Potsdam_Park_Sanssouci_railway_station",
+                "United_States_Post_Office_(Potsdam,_New_York)"
+            ],
+            "scores": [
+                0.8809624314056564,
+                0.03419164204305614,
+                0.03208104685521317,
+                0.01646264246517518,
+                0.012241452089489235,
+                0.0059096665259603205,
+                0.002532714225411566,
+                0.002532714225411566,
+                0.002110595187842972,
+                0.002110595187842972,
+                0.002110595187842972,
+                0.0016884761502743773,
+                0.001266357112705783,
+                0.0008442380751371887,
+                0.00042211903756859433,
+                0.00042211903756859433
+            ]
+        },
+        {
+            "begin": 775,
+            "end": 780,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1154,
+            "end": 1158,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 1187,
+            "end": 1191,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 1204,
+            "end": 1210,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 1211,
+            "end": 1218,
+            "text": "capital",
+            "concept": 12
+        },
+        {
+            "begin": 1219,
+            "end": 1224,
+            "text": "Kabul",
+            "concept": 13,
+            "candidates": [
+                "Kabul",
+                "Kabul_Province",
+                "Kabul_River",
+                "Hamid_Karzai_International_Airport",
+                "Kabul,_Israel",
+                "Kabul_District",
+                "Kabulistan",
+                "Battle_of_Kabul_(1992\u20131996)",
+                "Kabul_Eagles",
+                "Siege_of_the_Sherpur_Cantonment",
+                "Northern_Ireland",
+                "List_of_Mughal_empresses",
+                "Timeline_of_Kabul",
+                "Kabul_Expedition_(1842)",
+                "2002_Kabul_bombing",
+                "Kabul_Shahi"
+            ],
+            "scores": [
+                0.9712339137017411,
+                0.012364370426444614,
+                0.004542013626040878,
+                0.0035326772646984608,
+                0.0035326772646984608,
+                0.000757002271006813,
+                0.000757002271006813,
+                0.0005046681806712087,
+                0.0005046681806712087,
+                0.0005046681806712087,
+                0.00025233409033560434,
+                0.00025233409033560434,
+                0.00025233409033560434,
+                0.00025233409033560434,
+                0.00025233409033560434,
+                0.00025233409033560434
+            ]
+        },
+        {
+            "begin": 1282,
+            "end": 1289,
+            "text": "Afghans",
+            "concept": 14
+        },
+        {
+            "begin": 1338,
+            "end": 1342,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 1353,
+            "end": 1359,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 1680,
+            "end": 1685,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1735,
+            "end": 1741,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1917,
+            "end": 1923,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 1954,
+            "end": 1964,
+            "text": "Bundeswehr",
+            "concept": 4,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 1974,
+            "end": 1992,
+            "text": "Helmut Koenigshaus",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2024,
+            "end": 2030,
+            "text": "German",
+            "concept": 6
+        },
+        {
+            "begin": 2062,
+            "end": 2073,
+            "text": "Koenigshaus",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2224,
+            "end": 2229,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2528,
+            "end": 2539,
+            "text": "Koenigshaus",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2541,
+            "end": 2554,
+            "text": "Free Democrat",
+            "concept": 15,
+            "candidates": [
+                "Free_Democratic_Party_(Germany)",
+                "Free_Democratic_Party_of_Switzerland"
+            ],
+            "scores": [
+                0.75,
+                0.25
+            ]
+        },
+        {
+            "begin": 2620,
+            "end": 2630,
+            "text": "Bundeswehr",
+            "concept": 4,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2643,
+            "end": 2649,
+            "text": "Berlin",
+            "concept": 16,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 2680,
+            "end": 2690,
+            "text": "Bundeswehr",
+            "concept": 4,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2832,
+            "end": 2845,
+            "text": "Free Democrat",
+            "concept": 15,
+            "candidates": [
+                "Free_Democratic_Party_(Germany)",
+                "Free_Democratic_Party_of_Switzerland"
+            ],
+            "scores": [
+                0.75,
+                0.25
+            ]
+        },
+        {
+            "begin": 2846,
+            "end": 2860,
+            "text": "defense expert",
+            "concept": 17
+        },
+        {
+            "begin": 2861,
+            "end": 2870,
+            "text": "Elke Hoff",
+            "concept": 18,
+            "candidates": [
+                "Elke_Hoff"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2932,
+            "end": 2936,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 3004,
+            "end": 3020,
+            "text": "defense minister",
+            "concept": 19
+        },
+        {
+            "begin": 3022,
+            "end": 3048,
+            "text": "Karl-Theodor zu Guttenberg",
+            "concept": 20,
+            "candidates": [
+                "Karl-Theodor_zu_Guttenberg"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3156,
+            "end": 3161,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3191,
+            "end": 3195,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 3207,
+            "end": 3218,
+            "text": "Afghanistan",
+            "concept": 3,
+            "candidates": [
+                "Afghanistan",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Afghanistan_national_cricket_team",
+                "Afghanistan_national_football_team",
+                "Kingdom_of_Afghanistan",
+                "Democratic_Republic_of_Afghanistan",
+                "Emirate_of_Afghanistan",
+                "Soviet\u2013Afghan_War",
+                "Islamic_Emirate_of_Afghanistan",
+                "Operation_Enduring_Freedom",
+                "Flag_of_Afghanistan",
+                "International_Security_Assistance_Force",
+                "Military_history_of_Australia_during_the_War_in_Afghanistan",
+                "Afghanistan_national_under-19_cricket_team",
+                "Afghanistan_Football_Federation",
+                "Islamic_State_of_Afghanistan"
+            ],
+            "scores": [
+                0.8974744437763079,
+                0.032321106434155145,
+                0.01593505712567649,
+                0.007416315894968932,
+                0.0065143315293646024,
+                0.00506113449589096,
+                0.0050110242533573865,
+                0.0018039687312086591,
+                0.0014030867909400682,
+                0.0012527560633393466,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0008017638805371818,
+                0.0008017638805371818,
+                0.0008017638805371818
+            ]
+        },
+        {
+            "begin": 3442,
+            "end": 3449,
+            "text": "Taliban",
+            "concept": 21,
+            "candidates": [
+                "Taliban",
+                "Islamic_Emirate_of_Afghanistan",
+                "Tehrik-i-Taliban_Pakistan",
+                "Taliban_insurgency",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Taliban_treatment_of_women",
+                "Military_of_the_Taliban"
+            ],
+            "scores": [
+                0.9810791871058164,
+                0.010277972436346648,
+                0.007241298761971502,
+                0.000700770847932726,
+                0.000233590282644242,
+                0.000233590282644242,
+                0.000233590282644242
+            ]
+        },
+        {
+            "begin": 3562,
+            "end": 3566,
+            "text": "NATO",
+            "concept": 22,
+            "candidates": [
+                "NATO",
+                "NATO_reporting_name",
+                "NATO_summit",
+                "Ranks_and_insignia_of_NATO_navies_enlisted",
+                "NATO_(album)",
+                "International_Security_Assistance_Force",
+                "Ranks_and_insignia_of_NATO_armies_enlisted",
+                "Nato_wood",
+                "N.A.T.o._(singer)",
+                "Enlargement_of_NATO",
+                ".nato",
+                "2002_Prague_summit",
+                "Army_officer_ranks",
+                "Ukraine\u2013NATO_relations",
+                "Ranks_and_insignia_of_NATO_navies'_officers",
+                "United_States_Permanent_Representative_to_NATO"
+            ],
+            "scores": [
+                0.9870747006272572,
+                0.0028511689792815056,
+                0.0012355065576886524,
+                0.001045428625736552,
+                0.0009503896597605018,
+                0.0009503896597605018,
+                0.0007603117278084015,
+                0.0005702337958563011,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053
+            ]
+        },
+        {
+            "begin": 3673,
+            "end": 3678,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3786,
+            "end": 3793,
+            "text": "Taliban",
+            "concept": 21,
+            "candidates": [
+                "Taliban",
+                "Islamic_Emirate_of_Afghanistan",
+                "Tehrik-i-Taliban_Pakistan",
+                "Taliban_insurgency",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Taliban_treatment_of_women",
+                "Military_of_the_Taliban"
+            ],
+            "scores": [
+                0.9810791871058164,
+                0.010277972436346648,
+                0.007241298761971502,
+                0.000700770847932726,
+                0.000233590282644242,
+                0.000233590282644242,
+                0.000233590282644242
+            ]
+        },
+        {
+            "begin": 3831,
+            "end": 3836,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3988,
+            "end": 3992,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 4027,
+            "end": 4035,
+            "text": "Kandahar",
+            "concept": 23,
+            "candidates": [
+                "Kandahar",
+                "Kandahar_Province",
+                "Kandahar_(2010_film)",
+                "Kandahar_(2001_film)",
+                "Kandahar_International_Airport",
+                "Kandahar,_Saskatchewan",
+                "Battle_of_Kandahar",
+                "Kandahar_District",
+                "HMS_Kandahar_(F28)",
+                "Kandagar",
+                "Arlberg-Kandahar",
+                "Fall_of_Kandahar",
+                "Old_Kandahar",
+                "Sarposa_prison"
+            ],
+            "scores": [
+                0.8705662725575607,
+                0.05102675793403858,
+                0.029869321717486,
+                0.021157436216552583,
+                0.005600497822028625,
+                0.0031113876789047915,
+                0.0031113876789047915,
+                0.0031113876789047915,
+                0.0031113876789047915,
+                0.001866832607342875,
+                0.001866832607342875,
+                0.001866832607342875,
+                0.001866832607342875,
+                0.001866832607342875
+            ]
+        },
+        {
+            "begin": 4128,
+            "end": 4134,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 4173,
+            "end": 4179,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 4245,
+            "end": 4249,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 4430,
+            "end": 4434,
+            "text": "2014",
+            "concept": 24
+        },
+        {
+            "begin": 4504,
+            "end": 4509,
+            "text": "Blotz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4530,
+            "end": 4534,
+            "text": "2014",
+            "concept": 24
+        },
+        {
+            "begin": 4556,
+            "end": 4562,
+            "text": "Afghan",
+            "concept": 8
+        },
+        {
+            "begin": 4563,
+            "end": 4572,
+            "text": "President",
+            "concept": 25
+        },
+        {
+            "begin": 4573,
+            "end": 4585,
+            "text": "Hamid Karzai",
+            "concept": 26,
+            "candidates": [
+                "Hamid_Karzai"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4591,
+            "end": 4595,
+            "text": "ISAF",
+            "concept": 0,
+            "candidates": [
+                "International_Security_Assistance_Force",
+                "World_Sailing",
+                "NATO_Medal",
+                "International_Shark_Attack_File"
+            ],
+            "scores": [
+                0.8976744186046511,
+                0.09922480620155039,
+                0.0015503875968992248,
+                0.0015503875968992248
+            ]
+        },
+        {
+            "begin": 4693,
+            "end": 4704,
+            "text": "Afghanistan",
+            "concept": 3,
+            "candidates": [
+                "Afghanistan",
+                "War_in_Afghanistan_(2001\u2013present)",
+                "Afghanistan_national_cricket_team",
+                "Afghanistan_national_football_team",
+                "Kingdom_of_Afghanistan",
+                "Democratic_Republic_of_Afghanistan",
+                "Emirate_of_Afghanistan",
+                "Soviet\u2013Afghan_War",
+                "Islamic_Emirate_of_Afghanistan",
+                "Operation_Enduring_Freedom",
+                "Flag_of_Afghanistan",
+                "International_Security_Assistance_Force",
+                "Military_history_of_Australia_during_the_War_in_Afghanistan",
+                "Afghanistan_national_under-19_cricket_team",
+                "Afghanistan_Football_Federation",
+                "Islamic_State_of_Afghanistan"
+            ],
+            "scores": [
+                0.8974744437763079,
+                0.032321106434155145,
+                0.01593505712567649,
+                0.007416315894968932,
+                0.0065143315293646024,
+                0.00506113449589096,
+                0.0050110242533573865,
+                0.0018039687312086591,
+                0.0014030867909400682,
+                0.0012527560633393466,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0009019843656043296,
+                0.0008017638805371818,
+                0.0008017638805371818,
+                0.0008017638805371818
+            ]
+        },
+        {
+            "begin": 4730,
+            "end": 4777,
+            "text": "Author: Hardy Graupner (msh) Editor: Rob Turner",
+            "concept": 27
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "ISAF",
+            "keyword": true,
+            "count": 10,
+            "link": "International_Security_Assistance_Force",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Josef Blotz",
+            "keyword": true,
+            "count": 9,
+            "link": "wikidata:Q1704333",
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::military_personnel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Wikileaks",
+            "keyword": true,
+            "count": 2,
+            "link": "WikiLeaks",
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Afghanistan",
+            "keyword": true,
+            "count": 4,
+            "link": "Afghanistan",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Bundeswehr",
+            "keyword": true,
+            "count": 4,
+            "link": "Bundeswehr",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Helmut Koenigshaus",
+            "keyword": false,
+            "count": 3,
+            "link": "wikidata:Q1602937",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Brigadier General",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Afghan",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Operations Command Center",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Potsdam",
+            "keyword": false,
+            "count": 1,
+            "link": "Potsdam",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "capital",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Kabul",
+            "keyword": false,
+            "count": 1,
+            "link": "Kabul",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Afghans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Free Democrat",
+            "keyword": false,
+            "count": 2,
+            "link": "Free_Democratic_Party_(Germany)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "defense expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Elke Hoff",
+            "keyword": false,
+            "count": 1,
+            "link": "Elke_Hoff",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "slot::expert",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "defense minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Karl-Theodor zu Guttenberg",
+            "keyword": false,
+            "count": 1,
+            "link": "Karl-Theodor_zu_Guttenberg",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_national"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Taliban",
+            "keyword": false,
+            "count": 2,
+            "link": "Taliban",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "NATO",
+            "keyword": false,
+            "count": 1,
+            "link": "NATO",
+            "tags": [
+                "iptc::11000000",
+                "iptc::16000000",
+                "topic::conflict",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::military_alliance",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Kandahar",
+            "keyword": false,
+            "count": 1,
+            "link": "Kandahar_Province",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "2014",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Hamid Karzai",
+            "keyword": false,
+            "count": 1,
+            "link": "Hamid_Karzai",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Author: Hardy Graupner (msh) Editor: Rob Turner",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 28
+        },
+        {
+            "s": 1,
+            "p": "agent_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 28
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "agency_of",
+            "o": 28
+        },
+        {
+            "s": 4,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 28
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 28
+        },
+        {
+            "s": 5,
+            "p": "agent_of-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 28
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 28
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 28
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 28
+        },
+        {
+            "s": 11,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 28
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 28
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 28
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 18,
+            "p": "member_of",
+            "o": 15
+        },
+        {
+            "s": 20,
+            "p": "citizen_of",
+            "o": 28
+        },
+        {
+            "s": 20,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 20,
+            "p": "minister_of",
+            "o": 28
+        },
+        {
+            "s": 20,
+            "p": "minister_of-x",
+            "o": 6
+        },
+        {
+            "s": 21,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 21,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 21,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 26,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 26,
+            "p": "head_of_state",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "head_of_state-x",
+            "o": 8
+        },
+        {
+            "s": 26,
+            "p": "head_of_state-x",
+            "o": 14
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000086",
+        "20000097"
+    ]
+}

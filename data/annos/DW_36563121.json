@@ -1,0 +1,2465 @@
+{
+    "id": "DW_36563121",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 38,
+            "end": 52,
+            "text": "National Front",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "National_Front_(UK)",
+                "National_Front_(Iran)",
+                "National_Front_(East_Germany)",
+                "National_Front_(Czechoslovakia)",
+                "National_Front_(Spain,_1986)",
+                "National_Front_(India)",
+                "National_Front_(Colombia)",
+                "Barisan_Nasional",
+                "National_Front_(Spain,_2006)",
+                "National_Front_(Belgium)",
+                "National_Front_(Switzerland)",
+                "National_Front_(French_Resistance)",
+                "Balli_Komb\u00ebtar",
+                "Albanian_National_Front_Party",
+                "National_Front_(Greece)"
+            ],
+            "scores": [
+                0.38474970896391153,
+                0.25145518044237486,
+                0.06984866123399301,
+                0.05355064027939464,
+                0.04947613504074505,
+                0.02910360884749709,
+                0.023864959254947613,
+                0.023864959254947613,
+                0.021536670547147845,
+                0.017462165308498253,
+                0.01571594877764843,
+                0.015133876600698487,
+                0.008731082654249126,
+                0.004656577415599534,
+                0.004074505238649592,
+                0.002910360884749709
+            ]
+        },
+        {
+            "begin": 130,
+            "end": 136,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 149,
+            "end": 159,
+            "text": "Republican",
+            "concept": 8,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Republican_Party_of_Wisconsin",
+                "Republican_Party_of_Minnesota",
+                "Ohio_Republican_Party",
+                "Republicanism",
+                "Irish_republicanism",
+                "California_Republican_Party",
+                "North_Dakota_Republican_Party",
+                "Maine_Republican_Party",
+                "Republican_Party_of_Iowa",
+                "Second_Spanish_Republic",
+                "Republic",
+                "Democratic-Republican_Party",
+                "Oregon_Republican_Party",
+                "Vermont_Republican_Party",
+                "Oklahoma_Republican_Party"
+            ],
+            "scores": [
+                0.8884245987399382,
+                0.010770451711125147,
+                0.010414136015418752,
+                0.009895858639845812,
+                0.007676983625674165,
+                0.006219328506875273,
+                0.006105955330968693,
+                0.006008778323048767,
+                0.004696888716129764,
+                0.0037737071408904654,
+                0.003725118636930502,
+                0.0034011952771974153,
+                0.003223037429344217,
+                0.0031420565894109452,
+                0.002186482678198338,
+                0.0018301669824919424
+            ]
+        },
+        {
+            "begin": 160,
+            "end": 169,
+            "text": "candidate",
+            "concept": 9
+        },
+        {
+            "begin": 170,
+            "end": 185,
+            "text": "Francois Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 220,
+            "end": 240,
+            "text": "right-wing extremist",
+            "concept": 10
+        },
+        {
+            "begin": 241,
+            "end": 254,
+            "text": "Marine Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 257,
+            "end": 271,
+            "text": "National Front",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "National_Front_(UK)",
+                "National_Front_(Iran)",
+                "National_Front_(East_Germany)",
+                "National_Front_(Czechoslovakia)",
+                "National_Front_(Spain,_1986)",
+                "National_Front_(India)",
+                "National_Front_(Colombia)",
+                "Barisan_Nasional",
+                "National_Front_(Spain,_2006)",
+                "National_Front_(Belgium)",
+                "National_Front_(Switzerland)",
+                "National_Front_(French_Resistance)",
+                "Balli_Komb\u00ebtar",
+                "Albanian_National_Front_Party",
+                "National_Front_(Greece)"
+            ],
+            "scores": [
+                0.38474970896391153,
+                0.25145518044237486,
+                0.06984866123399301,
+                0.05355064027939464,
+                0.04947613504074505,
+                0.02910360884749709,
+                0.023864959254947613,
+                0.023864959254947613,
+                0.021536670547147845,
+                0.017462165308498253,
+                0.01571594877764843,
+                0.015133876600698487,
+                0.008731082654249126,
+                0.004656577415599534,
+                0.004074505238649592,
+                0.002910360884749709
+            ]
+        },
+        {
+            "begin": 273,
+            "end": 279,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 282,
+            "end": 293,
+            "text": "Republicans",
+            "concept": 11,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Irish_republicanism",
+                "Republican_faction_(Spanish_Civil_War)",
+                "Republicanism",
+                "Second_Spanish_Republic",
+                "History_of_the_United_States_Republican_Party",
+                "Italian_Republican_Party",
+                "The_Republicans_(Germany)",
+                "California_Republican_Party",
+                "The_Republicans_(France)",
+                "Republicanism_in_Spain",
+                "Democratic-Republican_Party",
+                "Republican_Party_of_Minnesota",
+                "Oregon_Republican_Party",
+                "Alabama_Republican_Party",
+                "Maine_Republican_Party"
+            ],
+            "scores": [
+                0.7798879202988792,
+                0.03767123287671233,
+                0.02459526774595268,
+                0.024283935242839352,
+                0.020859277708592777,
+                0.011519302615193025,
+                0.008405977584059776,
+                0.007471980074719801,
+                0.007160647571606476,
+                0.005915317559153176,
+                0.004669987546699875,
+                0.0043586550435865505,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.003424657534246575,
+                0.00311332503113325
+            ]
+        },
+        {
+            "begin": 331,
+            "end": 346,
+            "text": "Francois Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 559,
+            "end": 565,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 691,
+            "end": 697,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 807,
+            "end": 813,
+            "text": "Muslim",
+            "concept": 12
+        },
+        {
+            "begin": 877,
+            "end": 883,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 935,
+            "end": 941,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 957,
+            "end": 959,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 970,
+            "end": 976,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1026,
+            "end": 1040,
+            "text": "National Front",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "National_Front_(UK)",
+                "National_Front_(Iran)",
+                "National_Front_(East_Germany)",
+                "National_Front_(Czechoslovakia)",
+                "National_Front_(Spain,_1986)",
+                "National_Front_(India)",
+                "National_Front_(Colombia)",
+                "Barisan_Nasional",
+                "National_Front_(Spain,_2006)",
+                "National_Front_(Belgium)",
+                "National_Front_(Switzerland)",
+                "National_Front_(French_Resistance)",
+                "Balli_Komb\u00ebtar",
+                "Albanian_National_Front_Party",
+                "National_Front_(Greece)"
+            ],
+            "scores": [
+                0.38474970896391153,
+                0.25145518044237486,
+                0.06984866123399301,
+                0.05355064027939464,
+                0.04947613504074505,
+                0.02910360884749709,
+                0.023864959254947613,
+                0.023864959254947613,
+                0.021536670547147845,
+                0.017462165308498253,
+                0.01571594877764843,
+                0.015133876600698487,
+                0.008731082654249126,
+                0.004656577415599534,
+                0.004074505238649592,
+                0.002910360884749709
+            ]
+        },
+        {
+            "begin": 1043,
+            "end": 1045,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 1228,
+            "end": 1230,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 1294,
+            "end": 1310,
+            "text": "Henrik Uterwedde",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1318,
+            "end": 1341,
+            "text": "German-French Institute",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1343,
+            "end": 1346,
+            "text": "dfi",
+            "concept": 4,
+            "candidates": [
+                "DFI",
+                "Gasoline_direct_injection",
+                "Danish_Film_Institute",
+                "Doha_Film_Institute",
+                "Department_for_Infrastructure_(Northern_Ireland)"
+            ],
+            "scores": [
+                0.7586206896551724,
+                0.10344827586206896,
+                0.06896551724137931,
+                0.034482758620689655,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 1351,
+            "end": 1362,
+            "text": "Ludwigsburg",
+            "concept": 13,
+            "candidates": [
+                "Ludwigsburg",
+                "Ludwigsburg_station",
+                "Ludwigsburg_(district)",
+                "Riesen_Ludwigsburg",
+                "Loissin",
+                "Ludwigsburg_(electoral_district)",
+                "Ludwigsburg_Palace",
+                "SpVgg_Ludwigsburg",
+                "Ludwigsburg_porcelain"
+            ],
+            "scores": [
+                0.8374384236453202,
+                0.0755336617405583,
+                0.05582922824302135,
+                0.021346469622331693,
+                0.003284072249589491,
+                0.0016420361247947454,
+                0.0016420361247947454,
+                0.0016420361247947454,
+                0.0016420361247947454
+            ]
+        },
+        {
+            "begin": 1505,
+            "end": 1513,
+            "text": "Catholic",
+            "concept": 14
+        },
+        {
+            "begin": 1514,
+            "end": 1520,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1588,
+            "end": 1596,
+            "text": "Catholic",
+            "concept": 14
+        },
+        {
+            "begin": 1597,
+            "end": 1603,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1719,
+            "end": 1727,
+            "text": "Catholic",
+            "concept": 14
+        },
+        {
+            "begin": 1867,
+            "end": 1873,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1900,
+            "end": 1906,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1950,
+            "end": 1952,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 1953,
+            "end": 1959,
+            "text": "leader",
+            "concept": 15
+        },
+        {
+            "begin": 1960,
+            "end": 1973,
+            "text": "Marine Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2001,
+            "end": 2007,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2057,
+            "end": 2063,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2123,
+            "end": 2129,
+            "text": "Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen",
+                "Jean-Marie_Le_Pen"
+            ],
+            "scores": [
+                0.5891472868217055,
+                0.4108527131782946
+            ]
+        },
+        {
+            "begin": 2132,
+            "end": 2144,
+            "text": "Andreas Jung",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2146,
+            "end": 2154,
+            "text": "Chairman",
+            "concept": 17
+        },
+        {
+            "begin": 2162,
+            "end": 2171,
+            "text": "Bundestag",
+            "concept": 18,
+            "candidates": [
+                "Bundestag",
+                "Federal_Convention_(German_Confederation)",
+                "Bundestag_(Berlin_U-Bahn)",
+                "DFB-Bundestag",
+                "Parliament",
+                "First_German_Bundestag",
+                "Politics_of_Germany",
+                "West_German_federal_election,_1953"
+            ],
+            "scores": [
+                0.9901808785529715,
+                0.00516795865633075,
+                0.0015503875968992248,
+                0.0010335917312661498,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749
+            ]
+        },
+        {
+            "begin": 2174,
+            "end": 2180,
+            "text": "German",
+            "concept": 19
+        },
+        {
+            "begin": 2181,
+            "end": 2187,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 2214,
+            "end": 2220,
+            "text": "German",
+            "concept": 19
+        },
+        {
+            "begin": 2221,
+            "end": 2232,
+            "text": "broadcaster",
+            "concept": 20
+        },
+        {
+            "begin": 2233,
+            "end": 2246,
+            "text": "rbb-Inforadio",
+            "concept": 21,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2291,
+            "end": 2299,
+            "text": "Parisian",
+            "concept": 22
+        },
+        {
+            "begin": 2346,
+            "end": 2352,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2457,
+            "end": 2463,
+            "text": "Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen",
+                "Jean-Marie_Le_Pen"
+            ],
+            "scores": [
+                0.5891472868217055,
+                0.4108527131782946
+            ]
+        },
+        {
+            "begin": 2549,
+            "end": 2551,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 2571,
+            "end": 2573,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 2653,
+            "end": 2659,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2694,
+            "end": 2716,
+            "text": "Marion Marechal Le Pen",
+            "concept": 23,
+            "candidates": [
+                "Marion_Mar\u00e9chal-Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2722,
+            "end": 2724,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 2812,
+            "end": 2826,
+            "text": "National Front",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "National_Front_(UK)",
+                "National_Front_(Iran)",
+                "National_Front_(East_Germany)",
+                "National_Front_(Czechoslovakia)",
+                "National_Front_(Spain,_1986)",
+                "National_Front_(India)",
+                "National_Front_(Colombia)",
+                "Barisan_Nasional",
+                "National_Front_(Spain,_2006)",
+                "National_Front_(Belgium)",
+                "National_Front_(Switzerland)",
+                "National_Front_(French_Resistance)",
+                "Balli_Komb\u00ebtar",
+                "Albanian_National_Front_Party",
+                "National_Front_(Greece)"
+            ],
+            "scores": [
+                0.38474970896391153,
+                0.25145518044237486,
+                0.06984866123399301,
+                0.05355064027939464,
+                0.04947613504074505,
+                0.02910360884749709,
+                0.023864959254947613,
+                0.023864959254947613,
+                0.021536670547147845,
+                0.017462165308498253,
+                0.01571594877764843,
+                0.015133876600698487,
+                0.008731082654249126,
+                0.004656577415599534,
+                0.004074505238649592,
+                0.002910360884749709
+            ]
+        },
+        {
+            "begin": 2908,
+            "end": 2914,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2946,
+            "end": 2952,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 2994,
+            "end": 2997,
+            "text": "May",
+            "concept": 24
+        },
+        {
+            "begin": 3008,
+            "end": 3014,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3131,
+            "end": 3133,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 3300,
+            "end": 3306,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3481,
+            "end": 3487,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3521,
+            "end": 3528,
+            "text": "British",
+            "concept": 25
+        },
+        {
+            "begin": 3529,
+            "end": 3543,
+            "text": "Prime Minister",
+            "concept": 26
+        },
+        {
+            "begin": 3544,
+            "end": 3561,
+            "text": "Margaret Thatcher",
+            "concept": 27,
+            "candidates": [
+                "Margaret_Thatcher",
+                "Shadow_Cabinet_of_Margaret_Thatcher",
+                "Death_and_funeral_of_Margaret_Thatcher",
+                "Premiership_of_Margaret_Thatcher",
+                "Thatcherism",
+                "Margaret_Thatcher_(Due_South)",
+                "Third_Thatcher_ministry"
+            ],
+            "scores": [
+                0.994931576279777,
+                0.0030410542321338066,
+                0.0007602635580334517,
+                0.0005068423720223011,
+                0.00025342118601115053,
+                0.00025342118601115053,
+                0.00025342118601115053
+            ]
+        },
+        {
+            "begin": 3647,
+            "end": 3653,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 3661,
+            "end": 3670,
+            "text": "Uterwedde",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3673,
+            "end": 3679,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3754,
+            "end": 3760,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 3831,
+            "end": 3837,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 3880,
+            "end": 3886,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4018,
+            "end": 4020,
+            "text": "FN",
+            "concept": 2,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 4168,
+            "end": 4174,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 4227,
+            "end": 4241,
+            "text": "European Union",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 4282,
+            "end": 4288,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4341,
+            "end": 4356,
+            "text": "Francois Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4377,
+            "end": 4379,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 4419,
+            "end": 4433,
+            "text": "David Rachline",
+            "concept": 28,
+            "candidates": [
+                "David_Rachline"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4435,
+            "end": 4448,
+            "text": "Marine Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4487,
+            "end": 4494,
+            "text": "Twitter",
+            "concept": 29,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 4547,
+            "end": 4553,
+            "text": "Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4572,
+            "end": 4585,
+            "text": "Marine Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4610,
+            "end": 4613,
+            "text": "May",
+            "concept": 24
+        },
+        {
+            "begin": 4639,
+            "end": 4649,
+            "text": "Republican",
+            "concept": 8,
+            "candidates": [
+                "Republican_Party_(United_States)",
+                "Republican_Party_of_Wisconsin",
+                "Republican_Party_of_Minnesota",
+                "Ohio_Republican_Party",
+                "Republicanism",
+                "Irish_republicanism",
+                "California_Republican_Party",
+                "North_Dakota_Republican_Party",
+                "Maine_Republican_Party",
+                "Republican_Party_of_Iowa",
+                "Second_Spanish_Republic",
+                "Republic",
+                "Democratic-Republican_Party",
+                "Oregon_Republican_Party",
+                "Vermont_Republican_Party",
+                "Oklahoma_Republican_Party"
+            ],
+            "scores": [
+                0.8884245987399382,
+                0.010770451711125147,
+                0.010414136015418752,
+                0.009895858639845812,
+                0.007676983625674165,
+                0.006219328506875273,
+                0.006105955330968693,
+                0.006008778323048767,
+                0.004696888716129764,
+                0.0037737071408904654,
+                0.003725118636930502,
+                0.0034011952771974153,
+                0.003223037429344217,
+                0.0031420565894109452,
+                0.002186482678198338,
+                0.0018301669824919424
+            ]
+        },
+        {
+            "begin": 4767,
+            "end": 4773,
+            "text": "Le Pen",
+            "concept": 3,
+            "candidates": [
+                "Marine_Le_Pen",
+                "Jean-Marie_Le_Pen"
+            ],
+            "scores": [
+                0.5891472868217055,
+                0.4108527131782946
+            ]
+        },
+        {
+            "begin": 4776,
+            "end": 4791,
+            "text": "Francois Fillon",
+            "concept": 1,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4901,
+            "end": 4907,
+            "text": "France",
+            "concept": 6,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 4915,
+            "end": 4924,
+            "text": "Uterwedde",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Union",
+            "keyword": false,
+            "count": 2,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Francois Fillon",
+            "keyword": true,
+            "count": 21,
+            "link": "Fran\u00e7ois_Fillon",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "National Front",
+            "keyword": true,
+            "count": 13,
+            "link": "National_Rally_(France)",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Marine Le Pen",
+            "keyword": false,
+            "count": 7,
+            "link": "Marine_Le_Pen",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German-French Institute",
+            "keyword": false,
+            "count": 2,
+            "link": "Franco-German_Institute",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::organization",
+                "type::research_center"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Henrik Uterwedde",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::13000000",
+                "slot::expert",
+                "topic::none",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::researcher"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "France",
+            "keyword": false,
+            "count": 9,
+            "link": "France",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "French",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Republican",
+            "keyword": false,
+            "count": 2,
+            "link": "Republican_Party_(United_States)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "candidate",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "right-wing extremist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Republicans",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Republicans_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Ludwigsburg",
+            "keyword": false,
+            "count": 1,
+            "link": "Ludwigsburg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Catholic",
+            "keyword": false,
+            "count": 3,
+            "link": "Catholic_Church",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Andreas Jung",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q98768",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Chairman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Bundestag",
+            "keyword": false,
+            "count": 1,
+            "link": "Bundestag",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "rbb-Inforadio",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1662446",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Parisian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe2-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Marion Marechal Le Pen",
+            "keyword": false,
+            "count": 1,
+            "link": "Marion_Mar\u00e9chal",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "May",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Margaret Thatcher",
+            "keyword": false,
+            "count": 1,
+            "link": "Margaret_Thatcher",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "David Rachline",
+            "keyword": false,
+            "count": 1,
+            "link": "David_Rachline",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        },
+        {
+            "concept": 31,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 32,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "Paris",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 11
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 19
+        },
+        {
+            "s": 4,
+            "p": "based_in2",
+            "o": 13
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 31
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 19
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 31
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 16,
+            "p": "member_of",
+            "o": 18
+        },
+        {
+            "s": 18,
+            "p": "agency_of",
+            "o": 31
+        },
+        {
+            "s": 18,
+            "p": "agency_of-x",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 18,
+            "p": "based_in0-x",
+            "o": 19
+        },
+        {
+            "s": 19,
+            "p": "gpe0",
+            "o": 31
+        },
+        {
+            "s": 21,
+            "p": "based_in0",
+            "o": 31
+        },
+        {
+            "s": 21,
+            "p": "based_in0-x",
+            "o": 19
+        },
+        {
+            "s": 22,
+            "p": "gpe2",
+            "o": 33
+        },
+        {
+            "s": 23,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 23,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 25,
+            "p": "gpe0",
+            "o": 32
+        },
+        {
+            "s": 27,
+            "p": "citizen_of",
+            "o": 32
+        },
+        {
+            "s": 27,
+            "p": "citizen_of-x",
+            "o": 25
+        },
+        {
+            "s": 27,
+            "p": "head_of_gov",
+            "o": 32
+        },
+        {
+            "s": 27,
+            "p": "head_of_gov-x",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 28,
+            "p": "citizen_of-x",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-election",
+            "slots": [
+                {
+                    "name": "candidate",
+                    "value": 1
+                },
+                {
+                    "name": "place",
+                    "value": 6
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000574",
+        "20000579"
+    ]
+}

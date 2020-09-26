@@ -1,0 +1,827 @@
+{
+    "id": "DW_37954931",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 3,
+            "text": "Fed",
+            "concept": 1,
+            "candidates": [
+                "Protectionist_Party",
+                "Federal_Reserve",
+                "FED_(camera)",
+                "Federalist_Party",
+                "Federal_Reserve_Board_of_Governors",
+                "Fed_(album)",
+                "Field-emission_display",
+                "Nectarivore",
+                "Federalist_Party_(Philippines)",
+                "C.D._Federal",
+                "Fed_(Law_&_Order)",
+                "Australian_Public_Service",
+                "Andrey_A._Fedorov",
+                "Forced_induction",
+                "Fed_Cup",
+                "Serie_A"
+            ],
+            "scores": [
+                0.3401360544217687,
+                0.1836734693877551,
+                0.09523809523809523,
+                0.08843537414965986,
+                0.061224489795918366,
+                0.047619047619047616,
+                0.047619047619047616,
+                0.02040816326530612,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 51,
+            "end": 53,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 139,
+            "end": 147,
+            "text": "December",
+            "concept": 2
+        },
+        {
+            "begin": 281,
+            "end": 291,
+            "text": "Washington",
+            "concept": 3,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 297,
+            "end": 299,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 300,
+            "end": 315,
+            "text": "Federal Reserve",
+            "concept": 1,
+            "candidates": [
+                "Federal_Reserve",
+                "Federal_Reserve_Board_of_Governors",
+                "Federal_Reserve_Bank",
+                "Criticism_of_the_Federal_Reserve",
+                "Federal_Reserve_Bank_of_San_Francisco,_Los_Angeles_Branch",
+                "Pedra_Talhada_Biological_Reserve",
+                "Federal_Open_Market_Committee",
+                "Federal_Reserve_Bank_of_Cleveland",
+                "Federal_Reserve_Bank_of_New_York",
+                "Eccles_Building",
+                "Federal_Reserve_Bank_of_Dallas"
+            ],
+            "scores": [
+                0.9700214132762313,
+                0.011777301927194861,
+                0.008565310492505354,
+                0.0021413276231263384,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692
+            ]
+        },
+        {
+            "begin": 547,
+            "end": 549,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 550,
+            "end": 559,
+            "text": "President",
+            "concept": 4
+        },
+        {
+            "begin": 560,
+            "end": 572,
+            "text": "Donald Trump",
+            "concept": 5,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 601,
+            "end": 610,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 623,
+            "end": 626,
+            "text": "Fed",
+            "concept": 1,
+            "candidates": [
+                "Protectionist_Party",
+                "Federal_Reserve",
+                "FED_(camera)",
+                "Federalist_Party",
+                "Federal_Reserve_Board_of_Governors",
+                "Fed_(album)",
+                "Field-emission_display",
+                "Nectarivore",
+                "Federalist_Party_(Philippines)",
+                "C.D._Federal",
+                "Fed_(Law_&_Order)",
+                "Australian_Public_Service",
+                "Andrey_A._Fedorov",
+                "Forced_induction",
+                "Fed_Cup",
+                "Serie_A"
+            ],
+            "scores": [
+                0.3401360544217687,
+                0.1836734693877551,
+                0.09523809523809523,
+                0.08843537414965986,
+                0.061224489795918366,
+                0.047619047619047616,
+                0.047619047619047616,
+                0.02040816326530612,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 656,
+            "end": 664,
+            "text": "December",
+            "concept": 2
+        },
+        {
+            "begin": 783,
+            "end": 787,
+            "text": "2008",
+            "concept": 7
+        },
+        {
+            "begin": 823,
+            "end": 832,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 1089,
+            "end": 1093,
+            "text": "2018",
+            "concept": 8
+        },
+        {
+            "begin": 1098,
+            "end": 1102,
+            "text": "2019",
+            "concept": 9
+        },
+        {
+            "begin": 1155,
+            "end": 1164,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 1250,
+            "end": 1254,
+            "text": "2019",
+            "concept": 9
+        },
+        {
+            "begin": 1270,
+            "end": 1273,
+            "text": "Fed",
+            "concept": 1,
+            "candidates": [
+                "Protectionist_Party",
+                "Federal_Reserve",
+                "FED_(camera)",
+                "Federalist_Party",
+                "Federal_Reserve_Board_of_Governors",
+                "Fed_(album)",
+                "Field-emission_display",
+                "Nectarivore",
+                "Federalist_Party_(Philippines)",
+                "C.D._Federal",
+                "Fed_(Law_&_Order)",
+                "Australian_Public_Service",
+                "Andrey_A._Fedorov",
+                "Forced_induction",
+                "Fed_Cup",
+                "Serie_A"
+            ],
+            "scores": [
+                0.3401360544217687,
+                0.1836734693877551,
+                0.09523809523809523,
+                0.08843537414965986,
+                0.061224489795918366,
+                0.047619047619047616,
+                0.047619047619047616,
+                0.02040816326530612,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 1296,
+            "end": 1311,
+            "text": "Federal Reserve",
+            "concept": 1,
+            "candidates": [
+                "Federal_Reserve",
+                "Federal_Reserve_Board_of_Governors",
+                "Federal_Reserve_Bank",
+                "Criticism_of_the_Federal_Reserve",
+                "Federal_Reserve_Bank_of_San_Francisco,_Los_Angeles_Branch",
+                "Pedra_Talhada_Biological_Reserve",
+                "Federal_Open_Market_Committee",
+                "Federal_Reserve_Bank_of_Cleveland",
+                "Federal_Reserve_Bank_of_New_York",
+                "Eccles_Building",
+                "Federal_Reserve_Bank_of_Dallas"
+            ],
+            "scores": [
+                0.9700214132762313,
+                0.011777301927194861,
+                0.008565310492505354,
+                0.0021413276231263384,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692,
+                0.0010706638115631692
+            ]
+        },
+        {
+            "begin": 1458,
+            "end": 1491,
+            "text": "personal consumption expenditures",
+            "concept": 10
+        },
+        {
+            "begin": 1493,
+            "end": 1496,
+            "text": "PCE",
+            "concept": 11
+        },
+        {
+            "begin": 1523,
+            "end": 1530,
+            "text": "January",
+            "concept": 12
+        },
+        {
+            "begin": 1717,
+            "end": 1720,
+            "text": "Fed",
+            "concept": 1,
+            "candidates": [
+                "Protectionist_Party",
+                "Federal_Reserve",
+                "FED_(camera)",
+                "Federalist_Party",
+                "Federal_Reserve_Board_of_Governors",
+                "Fed_(album)",
+                "Field-emission_display",
+                "Nectarivore",
+                "Federalist_Party_(Philippines)",
+                "C.D._Federal",
+                "Fed_(Law_&_Order)",
+                "Australian_Public_Service",
+                "Andrey_A._Fedorov",
+                "Forced_induction",
+                "Fed_Cup",
+                "Serie_A"
+            ],
+            "scores": [
+                0.3401360544217687,
+                0.1836734693877551,
+                0.09523809523809523,
+                0.08843537414965986,
+                0.061224489795918366,
+                0.047619047619047616,
+                0.047619047619047616,
+                0.02040816326530612,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 1746,
+            "end": 1755,
+            "text": "PCE index",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1892,
+            "end": 1900,
+            "text": "February",
+            "concept": 14
+        },
+        {
+            "begin": 1929,
+            "end": 1938,
+            "text": "Wednesday",
+            "concept": 6
+        },
+        {
+            "begin": 2293,
+            "end": 2295,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2367,
+            "end": 2383,
+            "text": "hg/sri (AP, dpa)",
+            "concept": 15
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "US",
+            "keyword": true,
+            "count": 4,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Federal Reserve",
+            "keyword": true,
+            "count": 6,
+            "link": "Federal_Reserve",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "December",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Donald Trump",
+            "keyword": false,
+            "count": 1,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "2008",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "2018",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "2019",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "personal consumption expenditures",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "PCE",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "January",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "PCE index",
+            "keyword": false,
+            "count": 1,
+            "link": "Personal_consumption_expenditures_price_index",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::market_index",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "February",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "hg/sri (AP, dpa)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "head_of_state",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000371"
+    ]
+}

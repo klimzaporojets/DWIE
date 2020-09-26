@@ -1,0 +1,940 @@
+{
+    "id": "DW_17472158",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Egypt",
+            "concept": 1,
+            "candidates": [
+                "Egypt",
+                "Egypt_national_football_team",
+                "Ancient_Egypt",
+                "Egypt_(Roman_province)",
+                "Kingdom_of_Egypt",
+                "Egypt_Eyalet",
+                "Egypt_in_the_Middle_Ages",
+                "Egyptian_Football_Association",
+                "Ptolemaic_Kingdom",
+                "Egypt_national_basketball_team",
+                "Khedivate_of_Egypt",
+                "History_of_ancient_Egypt",
+                "Egypt_national_handball_team",
+                "Egypt_Fed_Cup_team",
+                "Egypt_women's_national_squash_team",
+                "Egyptian_revolution_of_2011"
+            ],
+            "scores": [
+                0.8557138744962579,
+                0.025115141047783535,
+                0.02284830166954519,
+                0.008491652274035694,
+                0.007052389176741509,
+                0.0054332181922855495,
+                0.005289291882556131,
+                0.00395797351755901,
+                0.0034542314335060447,
+                0.00295048934945308,
+                0.002662636729994243,
+                0.0018350604490500863,
+                0.0017990788716177317,
+                0.0017271157167530224,
+                0.0016911341393206678,
+                0.0015112262521588947
+            ]
+        },
+        {
+            "begin": 11,
+            "end": 16,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 56,
+            "end": 64,
+            "text": "Egyptian",
+            "concept": 4
+        },
+        {
+            "begin": 104,
+            "end": 115,
+            "text": "Palestinian",
+            "concept": 5
+        },
+        {
+            "begin": 116,
+            "end": 130,
+            "text": "militant group",
+            "concept": 6
+        },
+        {
+            "begin": 131,
+            "end": 136,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 140,
+            "end": 145,
+            "text": "Egypt",
+            "concept": 1,
+            "candidates": [
+                "Egypt",
+                "Egypt_national_football_team",
+                "Ancient_Egypt",
+                "Egypt_(Roman_province)",
+                "Kingdom_of_Egypt",
+                "Egypt_Eyalet",
+                "Egypt_in_the_Middle_Ages",
+                "Egyptian_Football_Association",
+                "Ptolemaic_Kingdom",
+                "Egypt_national_basketball_team",
+                "Khedivate_of_Egypt",
+                "History_of_ancient_Egypt",
+                "Egypt_national_handball_team",
+                "Egypt_Fed_Cup_team",
+                "Egypt_women's_national_squash_team",
+                "Egyptian_revolution_of_2011"
+            ],
+            "scores": [
+                0.8557138744962579,
+                0.025115141047783535,
+                0.02284830166954519,
+                0.008491652274035694,
+                0.007052389176741509,
+                0.0054332181922855495,
+                0.005289291882556131,
+                0.00395797351755901,
+                0.0034542314335060447,
+                0.00295048934945308,
+                0.002662636729994243,
+                0.0018350604490500863,
+                0.0017990788716177317,
+                0.0017271157167530224,
+                0.0016911341393206678,
+                0.0015112262521588947
+            ]
+        },
+        {
+            "begin": 147,
+            "end": 152,
+            "text": "Cairo",
+            "concept": 7,
+            "candidates": [
+                "Cairo",
+                "Cairo,_Illinois",
+                "Cairo_(graphics)",
+                "Cairo_Governorate",
+                "Cairo,_Georgia",
+                "Cairo,_New_York",
+                "Egyptian_Open_(tennis)",
+                "Cairo_(1942_film)",
+                "Cairo_International_Airport",
+                "Cairo_(1963_film)",
+                "Cairo_(CDP),_New_York",
+                "Cairo_(operating_system)",
+                "Cairo_Conference",
+                "Palm_Hills_International_Tennis_Challenger",
+                "Cairo,_Missouri",
+                "Cairo,_West_Virginia"
+            ],
+            "scores": [
+                0.942062765337551,
+                0.010571880462831931,
+                0.007158911179555481,
+                0.005161075501539998,
+                0.005077832348289353,
+                0.00324648297677516,
+                0.0021643219845167735,
+                0.0020810788312661285,
+                0.001831349371514193,
+                0.0016648630650129028,
+                0.001248647298759677,
+                0.001248647298759677,
+                0.0010821609922583868,
+                0.0008324315325064514,
+                0.0008324315325064514,
+                0.0008324315325064514
+            ]
+        },
+        {
+            "begin": 204,
+            "end": 213,
+            "text": "president",
+            "concept": 8
+        },
+        {
+            "begin": 214,
+            "end": 219,
+            "text": "Morsi",
+            "concept": 3,
+            "candidates": [
+                "Mohamed_Morsi",
+                "Basem_Morsy",
+                "Morshi"
+            ],
+            "scores": [
+                0.896551724137931,
+                0.06896551724137931,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 248,
+            "end": 253,
+            "text": "Cairo",
+            "concept": 7,
+            "candidates": [
+                "Cairo",
+                "Cairo,_Illinois",
+                "Cairo_(graphics)",
+                "Cairo_Governorate",
+                "Cairo,_Georgia",
+                "Cairo,_New_York",
+                "Egyptian_Open_(tennis)",
+                "Cairo_(1942_film)",
+                "Cairo_International_Airport",
+                "Cairo_(1963_film)",
+                "Cairo_(CDP),_New_York",
+                "Cairo_(operating_system)",
+                "Cairo_Conference",
+                "Palm_Hills_International_Tennis_Challenger",
+                "Cairo,_Missouri",
+                "Cairo,_West_Virginia"
+            ],
+            "scores": [
+                0.942062765337551,
+                0.010571880462831931,
+                0.007158911179555481,
+                0.005161075501539998,
+                0.005077832348289353,
+                0.00324648297677516,
+                0.0021643219845167735,
+                0.0020810788312661285,
+                0.001831349371514193,
+                0.0016648630650129028,
+                0.001248647298759677,
+                0.001248647298759677,
+                0.0010821609922583868,
+                0.0008324315325064514,
+                0.0008324315325064514,
+                0.0008324315325064514
+            ]
+        },
+        {
+            "begin": 263,
+            "end": 270,
+            "text": "Tuesday",
+            "concept": 9
+        },
+        {
+            "begin": 305,
+            "end": 310,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 413,
+            "end": 418,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 477,
+            "end": 482,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 508,
+            "end": 518,
+            "text": "Gaza Strip",
+            "concept": 10,
+            "candidates": [
+                "Gaza_Strip",
+                "All-Palestine_Protectorate",
+                "Governance_of_the_Gaza_Strip",
+                "Gaza_Strip_(film)",
+                "Occupation_of_the_Gaza_Strip_by_Egypt",
+                "LGBT_rights_in_the_State_of_Palestine",
+                "Blockade_of_the_Gaza_Strip",
+                "Geography_of_the_Gaza_Strip",
+                "Rail_transport_in_Palestine"
+            ],
+            "scores": [
+                0.9901315789473685,
+                0.0024671052631578946,
+                0.002055921052631579,
+                0.001644736842105263,
+                0.001644736842105263,
+                0.0008223684210526315,
+                0.00041118421052631577,
+                0.00041118421052631577,
+                0.00041118421052631577
+            ]
+        },
+        {
+            "begin": 573,
+            "end": 581,
+            "text": "Islamist",
+            "concept": 11
+        },
+        {
+            "begin": 582,
+            "end": 591,
+            "text": "president",
+            "concept": 8
+        },
+        {
+            "begin": 592,
+            "end": 606,
+            "text": "Mohammed Morsi",
+            "concept": 3,
+            "candidates": [
+                "Mohamed_Morsi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 612,
+            "end": 616,
+            "text": "July",
+            "concept": 12
+        },
+        {
+            "begin": 618,
+            "end": 623,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 629,
+            "end": 640,
+            "text": "Palestinian",
+            "concept": 5
+        },
+        {
+            "begin": 652,
+            "end": 657,
+            "text": "Morsi",
+            "concept": 3,
+            "candidates": [
+                "Mohamed_Morsi",
+                "Basem_Morsy",
+                "Morshi"
+            ],
+            "scores": [
+                0.896551724137931,
+                0.06896551724137931,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 660,
+            "end": 678,
+            "text": "Muslim Brotherhood",
+            "concept": 2,
+            "candidates": [
+                "Muslim_Brotherhood",
+                "Muslim_Brotherhood_in_Egypt",
+                "Muslim_Brotherhood_of_Syria",
+                "History_of_the_Muslim_Brotherhood_in_Egypt",
+                "Jordanian_Muslim_Brotherhood",
+                "Yihewani"
+            ],
+            "scores": [
+                0.913626209977662,
+                0.06105733432613552,
+                0.017870439314966492,
+                0.004467609828741623,
+                0.0022338049143708115,
+                0.0007446016381236039
+            ]
+        },
+        {
+            "begin": 722,
+            "end": 729,
+            "text": "Israeli",
+            "concept": 13
+        },
+        {
+            "begin": 744,
+            "end": 752,
+            "text": "Egyptian",
+            "concept": 4
+        },
+        {
+            "begin": 776,
+            "end": 781,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 799,
+            "end": 804,
+            "text": "Morsi",
+            "concept": 3,
+            "candidates": [
+                "Mohamed_Morsi",
+                "Basem_Morsy",
+                "Morshi"
+            ],
+            "scores": [
+                0.896551724137931,
+                0.06896551724137931,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 813,
+            "end": 831,
+            "text": "Muslim Brotherhood",
+            "concept": 2,
+            "candidates": [
+                "Muslim_Brotherhood",
+                "Muslim_Brotherhood_in_Egypt",
+                "Muslim_Brotherhood_of_Syria",
+                "History_of_the_Muslim_Brotherhood_in_Egypt",
+                "Jordanian_Muslim_Brotherhood",
+                "Yihewani"
+            ],
+            "scores": [
+                0.913626209977662,
+                0.06105733432613552,
+                0.017870439314966492,
+                0.004467609828741623,
+                0.0022338049143708115,
+                0.0007446016381236039
+            ]
+        },
+        {
+            "begin": 935,
+            "end": 949,
+            "text": "military chief",
+            "concept": 14
+        },
+        {
+            "begin": 950,
+            "end": 971,
+            "text": "Abdel-Fattah el-Sissi",
+            "concept": 15,
+            "candidates": [
+                "Abdel_Fattah_el-Sisi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 989,
+            "end": 994,
+            "text": "Hamas",
+            "concept": 0,
+            "candidates": [
+                "Hamas",
+                "Hamas_(horse)",
+                "Governance_of_the_Gaza_Strip",
+                "Movement_of_Society_for_Peace"
+            ],
+            "scores": [
+                0.9958638243716195,
+                0.0022271714922048997,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 1056,
+            "end": 1074,
+            "text": "Muslim Brotherhood",
+            "concept": 2,
+            "candidates": [
+                "Muslim_Brotherhood",
+                "Muslim_Brotherhood_in_Egypt",
+                "Muslim_Brotherhood_of_Syria",
+                "History_of_the_Muslim_Brotherhood_in_Egypt",
+                "Jordanian_Muslim_Brotherhood",
+                "Yihewani"
+            ],
+            "scores": [
+                0.913626209977662,
+                0.06105733432613552,
+                0.017870439314966492,
+                0.004467609828741623,
+                0.0022338049143708115,
+                0.0007446016381236039
+            ]
+        },
+        {
+            "begin": 1115,
+            "end": 1120,
+            "text": "Morsi",
+            "concept": 3,
+            "candidates": [
+                "Mohamed_Morsi",
+                "Basem_Morsy",
+                "Morshi"
+            ],
+            "scores": [
+                0.896551724137931,
+                0.06896551724137931,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 1131,
+            "end": 1147,
+            "text": "hc/ccp (AFP, AP)",
+            "concept": 16
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Hamas",
+            "keyword": true,
+            "count": 8,
+            "link": "Hamas",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Egypt",
+            "keyword": true,
+            "count": 2,
+            "link": "Egypt",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Muslim Brotherhood",
+            "keyword": true,
+            "count": 3,
+            "link": "Muslim_Brotherhood",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Mohammed Morsi",
+            "keyword": false,
+            "count": 5,
+            "link": "Mohamed_Morsi",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Egyptian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Palestinian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "militant group",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Cairo",
+            "keyword": false,
+            "count": 2,
+            "link": "Cairo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "president",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Gaza Strip",
+            "keyword": false,
+            "count": 1,
+            "link": "Gaza_Strip",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "link": "Islamism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "July",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Israeli",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "military chief",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Abdel-Fattah el-Sissi",
+            "keyword": false,
+            "count": 1,
+            "link": "Abdel_Fattah_el-Sisi",
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_personnel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "hc/ccp (AFP, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "keyword": false,
+            "count": 0,
+            "link": "Israel",
+            "tags": []
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "State_of_Palestine",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "head_of_state",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "head_of_state-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 17
+        },
+        {
+            "s": 15,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 15,
+            "p": "agent_of-x",
+            "o": 4
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "convict",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 0
+                },
+                {
+                    "name": "place",
+                    "value": 1
+                },
+                {
+                    "name": "time",
+                    "value": 9
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

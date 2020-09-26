@@ -1,0 +1,279 @@
+{
+    "id": "DW_6585613",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 23,
+            "end": 35,
+            "text": "G\u00fcnter Nooke",
+            "concept": 0,
+            "candidates": [
+                "G\u00fcnter_Nooke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 41,
+            "end": 51,
+            "text": "Chancellor",
+            "concept": 2
+        },
+        {
+            "begin": 73,
+            "end": 79,
+            "text": "Africa",
+            "concept": 3,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 125,
+            "end": 131,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 164,
+            "end": 170,
+            "text": "Africa",
+            "concept": 3,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 172,
+            "end": 184,
+            "text": "G\u00fcnter Nooke",
+            "concept": 0,
+            "candidates": [
+                "G\u00fcnter_Nooke"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 209,
+            "end": 220,
+            "text": "East Africa",
+            "concept": 1,
+            "candidates": [
+                "East_Africa",
+                "East_Africa_cricket_team",
+                "East_Africa_rugby_union_team",
+                "East_African_Campaign_(World_War_I)",
+                "East_African_Campaign_(World_War_II)",
+                "German_East_Africa",
+                "East_Africa_Protectorate",
+                "Italian_East_Africa",
+                "Africa",
+                "History_of_East_Africa",
+                "East_African_Community",
+                "CECAFA",
+                "Northeast_Bantu_languages",
+                "East_African_mangroves",
+                "East_African_Railways_and_Harbours_Corporation",
+                "Kenya"
+            ],
+            "scores": [
+                0.8853904282115869,
+                0.049958018471872374,
+                0.02434928631402183,
+                0.011335012594458438,
+                0.010495382031905962,
+                0.0054575986565911,
+                0.004617968094038623,
+                0.0020990764063811922,
+                0.0016792611251049538,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "G\u00fcnter Nooke",
+            "keyword": true,
+            "count": 3,
+            "link": "G\u00fcnter_Nooke",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "East Africa",
+            "keyword": true,
+            "count": 1,
+            "link": "East_Africa",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Africa",
+            "keyword": false,
+            "count": 2,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "agent_of-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 5
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "20000148",
+        "20000149"
+    ]
+}

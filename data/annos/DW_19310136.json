@@ -1,0 +1,1772 @@
+{
+    "id": "DW_19310136",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Chinese",
+            "concept": 4
+        },
+        {
+            "begin": 28,
+            "end": 50,
+            "text": "Frankfurt Hahn Airport",
+            "concept": 0,
+            "candidates": [
+                "Frankfurt\u2013Hahn_Airport"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 53,
+            "end": 61,
+            "text": "Shanghai",
+            "concept": 5,
+            "candidates": [
+                "Shanghai",
+                "Shanghai_Masters_(tennis)",
+                "Shanghai_International_Circuit",
+                "Shanghai_cricket_team",
+                "Shanghai_International_Settlement",
+                "Shanghai_(2012_film)",
+                "Shanghai_Golden_Grand_Prix",
+                "Shanghai_women's_volleyball_team",
+                "Shanghai_(2010_film)",
+                "Shanghai_Volleyball_Club",
+                "Shanghai_Oriental_Sports_Center",
+                "Shanghai_Metro",
+                "Kingfisher_Airlines_Tennis_Open",
+                "Shanghai_French_Concession",
+                "Shanghai_railway_station",
+                "Shanghai_Stock_Exchange"
+            ],
+            "scores": [
+                0.9145363067718248,
+                0.009654609736197988,
+                0.005575197171607289,
+                0.005031275496328529,
+                0.005031275496328529,
+                0.004623334239869459,
+                0.003739461517541474,
+                0.003263530051672559,
+                0.0027875985858036444,
+                0.002651618166983954,
+                0.0025156377481642643,
+                0.0019717160728855046,
+                0.0019037258634756595,
+                0.0016997552352461245,
+                0.0016317650258362796,
+                0.0015637748164264347
+            ]
+        },
+        {
+            "begin": 226,
+            "end": 230,
+            "text": "Asia",
+            "concept": 6,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 254,
+            "end": 260,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 261,
+            "end": 274,
+            "text": "federal state",
+            "concept": 8
+        },
+        {
+            "begin": 275,
+            "end": 295,
+            "text": "Rhineland-Palatinate",
+            "concept": 9,
+            "candidates": [
+                "Rhineland-Palatinate",
+                "Landtag_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2011",
+                "List_of_Ministers-President_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2016",
+                "Palatinate_(region)",
+                "List_of_mountains_and_hills_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_Police"
+            ],
+            "scores": [
+                0.996607294317218,
+                0.0011874469889737065,
+                0.0006785411365564037,
+                0.0005089058524173028,
+                0.00033927056827820186,
+                0.00033927056827820186,
+                0.00016963528413910093,
+                0.00016963528413910093
+            ]
+        },
+        {
+            "begin": 306,
+            "end": 312,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 355,
+            "end": 379,
+            "text": "Frankfurt's Hahn Airport",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 383,
+            "end": 414,
+            "text": "Shanghai Yigian Trading Company",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 416,
+            "end": 419,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 507,
+            "end": 514,
+            "text": "Reuters",
+            "concept": 11,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 516,
+            "end": 519,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 575,
+            "end": 580,
+            "text": "China",
+            "concept": 12,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 582,
+            "end": 595,
+            "text": "Roger Lewentz",
+            "concept": 2,
+            "candidates": [
+                "Roger_Lewentz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 597,
+            "end": 617,
+            "text": "Rhineland-Palatinate",
+            "concept": 9,
+            "candidates": [
+                "Rhineland-Palatinate",
+                "Landtag_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2011",
+                "List_of_Ministers-President_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2016",
+                "Palatinate_(region)",
+                "List_of_mountains_and_hills_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_Police"
+            ],
+            "scores": [
+                0.996607294317218,
+                0.0011874469889737065,
+                0.0006785411365564037,
+                0.0005089058524173028,
+                0.00033927056827820186,
+                0.00033927056827820186,
+                0.00016963528413910093,
+                0.00016963528413910093
+            ]
+        },
+        {
+            "begin": 659,
+            "end": 666,
+            "text": "SYTwill",
+            "concept": 13
+        },
+        {
+            "begin": 760,
+            "end": 767,
+            "text": "Ireland",
+            "concept": 14,
+            "candidates": [
+                "Ireland",
+                "Republic_of_Ireland",
+                "Ireland_national_rugby_union_team",
+                "Ireland_cricket_team",
+                "Ireland_national_football_team_(1882\u20131950)",
+                "Irish_Rugby_Football_Union",
+                "Republic_of_Ireland_national_football_team",
+                "Ireland_men's_national_rugby_league_team",
+                "Kingdom_of_Ireland",
+                "Ireland_international_rules_football_team",
+                "A1_Team_Ireland",
+                "Ireland_women's_cricket_team",
+                "Peerage_of_Ireland",
+                "Same-sex_marriage_in_the_Republic_of_Ireland",
+                "List_of_non-marine_molluscs_of_Ireland",
+                "Irish_poetry"
+            ],
+            "scores": [
+                0.5424685770618153,
+                0.2408531803822284,
+                0.05276365021396724,
+                0.0283422579705599,
+                0.01622118163690543,
+                0.01203145654560527,
+                0.009544507427239935,
+                0.008312235341563418,
+                0.006945533573813098,
+                0.0050187081307552705,
+                0.004436179508435462,
+                0.004032890462214057,
+                0.00353998162794345,
+                0.0028678332175744404,
+                0.0028230233235498397,
+                0.0027109985884883384
+            ]
+        },
+        {
+            "begin": 774,
+            "end": 781,
+            "text": "Ryanair",
+            "concept": 15,
+            "candidates": [
+                "Ryanair",
+                "Ryanair_Chase",
+                "Ryanair_Flight_296"
+            ],
+            "scores": [
+                0.997610513739546,
+                0.0011947431302270011,
+                0.0011947431302270011
+            ]
+        },
+        {
+            "begin": 783,
+            "end": 797,
+            "text": "Frankfurt Hahn",
+            "concept": 0,
+            "candidates": [
+                "Frankfurt\u2013Hahn_Airport"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 863,
+            "end": 867,
+            "text": "2014",
+            "concept": 16
+        },
+        {
+            "begin": 880,
+            "end": 896,
+            "text": "45 million euros",
+            "concept": 17
+        },
+        {
+            "begin": 898,
+            "end": 909,
+            "text": "$51 million",
+            "concept": 18
+        },
+        {
+            "begin": 939,
+            "end": 955,
+            "text": "16 million euros",
+            "concept": 19
+        },
+        {
+            "begin": 1043,
+            "end": 1046,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 1060,
+            "end": 1066,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 1146,
+            "end": 1150,
+            "text": "Asia",
+            "concept": 6,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 1167,
+            "end": 1172,
+            "text": "Asian",
+            "concept": 20
+        },
+        {
+            "begin": 1183,
+            "end": 1186,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 1210,
+            "end": 1221,
+            "text": "Zu Tao Chou",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1267,
+            "end": 1274,
+            "text": "Chinese",
+            "concept": 4
+        },
+        {
+            "begin": 1275,
+            "end": 1282,
+            "text": "airline",
+            "concept": 21
+        },
+        {
+            "begin": 1283,
+            "end": 1304,
+            "text": "Yangtze River Express",
+            "concept": 22,
+            "candidates": [
+                "Suparna_Airlines"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1324,
+            "end": 1338,
+            "text": "Frankfurt Hahn",
+            "concept": 0,
+            "candidates": [
+                "Frankfurt\u2013Hahn_Airport"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1388,
+            "end": 1392,
+            "text": "2015",
+            "concept": 23
+        },
+        {
+            "begin": 1427,
+            "end": 1430,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 1553,
+            "end": 1557,
+            "text": "Asia",
+            "concept": 6,
+            "candidates": [
+                "Asia",
+                "Asian_Football_Confederation",
+                "Asia_(band)",
+                "Asia_(Roman_province)",
+                "AFC_Champions_League",
+                "United_Nations_geoscheme_for_Asia",
+                "Asian_Cricket_Council",
+                "Asian_Athletics_Association",
+                "Asia_(Asia_album)",
+                "Languages_of_Asia",
+                "Asia_Rugby",
+                "Anatolia",
+                "Asia_(mythology)",
+                ".asia",
+                "Asian_Squash_Federation",
+                "Kawaguchi,_Saitama"
+            ],
+            "scores": [
+                0.7582746102925475,
+                0.15385436685885118,
+                0.022261370916079437,
+                0.02162075592568866,
+                0.0085949177877429,
+                0.0028827674567584883,
+                0.0025624599615631004,
+                0.002242152466367713,
+                0.0015481528934443733,
+                0.0013879991458466796,
+                0.0012812299807815502,
+                0.001067691650651292,
+                0.0008541533205210335,
+                0.0008007687379884689,
+                0.0006939995729233398,
+                0.000533845825325646
+            ]
+        },
+        {
+            "begin": 1560,
+            "end": 1564,
+            "text": "Chou",
+            "concept": 3,
+            "candidates": [
+                "CHOU_(AM)",
+                "Marquis_Wen_of_Jin",
+                "Zhou_dynasty"
+            ],
+            "scores": [
+                0.8181818181818182,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 1597,
+            "end": 1617,
+            "text": "Rhineland-Palatinate",
+            "concept": 9,
+            "candidates": [
+                "Rhineland-Palatinate",
+                "Landtag_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2011",
+                "List_of_Ministers-President_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2016",
+                "Palatinate_(region)",
+                "List_of_mountains_and_hills_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_Police"
+            ],
+            "scores": [
+                0.996607294317218,
+                0.0011874469889737065,
+                0.0006785411365564037,
+                0.0005089058524173028,
+                0.00033927056827820186,
+                0.00033927056827820186,
+                0.00016963528413910093,
+                0.00016963528413910093
+            ]
+        },
+        {
+            "begin": 1759,
+            "end": 1766,
+            "text": "Lewentz",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1787,
+            "end": 1791,
+            "text": "Hahn",
+            "concept": 0,
+            "candidates": [
+                "Hahn,_Rhineland-Palatinate",
+                "Reynaldo_Hahn",
+                "Frankfurt\u2013Hahn_Airport",
+                "Andr\u00e9_Hahn",
+                "Von_Hahn",
+                "Hahn_(crater)",
+                "Hahn,_Texas",
+                "Hermann_Hahn",
+                "Carl_Wilhelm_Hahn",
+                "Jesse_Hahn",
+                "Hahn_Brewery",
+                "Johann_Georg_von_Hahn",
+                "Hans_Hahn_(mathematician)",
+                "Hahn_(Holzhausen)",
+                "Wolfgang_Hahn",
+                "Otto_Hahn"
+            ],
+            "scores": [
+                0.19696969696969696,
+                0.15151515151515152,
+                0.12121212121212122,
+                0.10606060606060606,
+                0.06060606060606061,
+                0.03787878787878788,
+                0.03787878787878788,
+                0.030303030303030304,
+                0.030303030303030304,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.022727272727272728,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152
+            ]
+        },
+        {
+            "begin": 1816,
+            "end": 1832,
+            "text": "70 million euros",
+            "concept": 24
+        },
+        {
+            "begin": 1862,
+            "end": 1866,
+            "text": "2024",
+            "concept": 25
+        },
+        {
+            "begin": 1967,
+            "end": 1974,
+            "text": "Lewentz",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2016,
+            "end": 2019,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 2074,
+            "end": 2094,
+            "text": "Rhineland-Palatinate",
+            "concept": 9,
+            "candidates": [
+                "Rhineland-Palatinate",
+                "Landtag_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2011",
+                "List_of_Ministers-President_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2016",
+                "Palatinate_(region)",
+                "List_of_mountains_and_hills_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_Police"
+            ],
+            "scores": [
+                0.996607294317218,
+                0.0011874469889737065,
+                0.0006785411365564037,
+                0.0005089058524173028,
+                0.00033927056827820186,
+                0.00033927056827820186,
+                0.00016963528413910093,
+                0.00016963528413910093
+            ]
+        },
+        {
+            "begin": 2095,
+            "end": 2104,
+            "text": "president",
+            "concept": 26
+        },
+        {
+            "begin": 2105,
+            "end": 2116,
+            "text": "Malu Dreyer",
+            "concept": 27,
+            "candidates": [
+                "Malu_Dreyer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2197,
+            "end": 2200,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 2248,
+            "end": 2252,
+            "text": "Chou",
+            "concept": 3,
+            "candidates": [
+                "CHOU_(AM)",
+                "Marquis_Wen_of_Jin",
+                "Zhou_dynasty"
+            ],
+            "scores": [
+                0.8181818181818182,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 2258,
+            "end": 2264,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 2442,
+            "end": 2461,
+            "text": "European Commission",
+            "concept": 28,
+            "candidates": [
+                "European_Commission",
+                "Barroso_Commission",
+                "President_of_the_European_Commission",
+                "Directorate-General_for_Education_and_Culture",
+                "List_of_Presidents_of_the_European_Commission",
+                "European_Commissioner",
+                "European_Agency_for_Safety_and_Health_at_Work",
+                "Marie_Sk\u0142odowska-Curie_Actions",
+                "Legal_Acts_of_the_European_Union",
+                "STARTS_Prize",
+                "Directorate-General_for_European_Civil_Protection_and_Humanitarian_Aid_Operations",
+                "European_Commissioner_for_Energy",
+                "Directorate-General_for_International_Cooperation_and_Development",
+                "European_Commissioner_for_Education,_Culture,_Multilingualism_and_Youth",
+                "Internationalization_of_the_Danube_River",
+                "European_Atomic_Energy_Community"
+            ],
+            "scores": [
+                0.9958742632612967,
+                0.0005893909626719057,
+                0.0005893909626719057,
+                0.0003929273084479371,
+                0.0003929273084479371,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856,
+                0.00019646365422396856
+            ]
+        },
+        {
+            "begin": 2609,
+            "end": 2626,
+            "text": "Frankfurt am Main",
+            "concept": 29,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "Goethe_University_Frankfurt",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_Airport",
+                "Trams_in_Frankfurt_am_Main",
+                "Frankfurt_am_Main_I_(electoral_district)",
+                "Bombing_of_Frankfurt_am_Main_in_World_War_II"
+            ],
+            "scores": [
+                0.9844164456233422,
+                0.006631299734748011,
+                0.005305039787798408,
+                0.001326259946949602,
+                0.0009946949602122016,
+                0.000663129973474801,
+                0.0003315649867374005,
+                0.0003315649867374005
+            ]
+        },
+        {
+            "begin": 2654,
+            "end": 2656,
+            "text": "US",
+            "concept": 30,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2654,
+            "end": 2673,
+            "text": "US military airbase",
+            "concept": 31
+        },
+        {
+            "begin": 2718,
+            "end": 2722,
+            "text": "1993",
+            "concept": 32
+        },
+        {
+            "begin": 2724,
+            "end": 2731,
+            "text": "Fraport",
+            "concept": 33,
+            "candidates": [
+                "Fraport",
+                "Skyliners_Frankfurt"
+            ],
+            "scores": [
+                0.9811320754716981,
+                0.018867924528301886
+            ]
+        },
+        {
+            "begin": 2752,
+            "end": 2776,
+            "text": "international flight hub",
+            "concept": 34
+        },
+        {
+            "begin": 2777,
+            "end": 2794,
+            "text": "Frankfurt Airport",
+            "concept": 0,
+            "candidates": [
+                "Frankfurt_Airport",
+                "Frankfurt_Airport_long-distance_station",
+                "Frankfurt_Airport_regional_station"
+            ],
+            "scores": [
+                0.9059011164274322,
+                0.0733652312599681,
+                0.02073365231259968
+            ]
+        },
+        {
+            "begin": 2814,
+            "end": 2834,
+            "text": "Rhineland-Palatinate",
+            "concept": 9,
+            "candidates": [
+                "Rhineland-Palatinate",
+                "Landtag_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2011",
+                "List_of_Ministers-President_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_state_election,_2016",
+                "Palatinate_(region)",
+                "List_of_mountains_and_hills_of_Rhineland-Palatinate",
+                "Rhineland-Palatinate_Police"
+            ],
+            "scores": [
+                0.996607294317218,
+                0.0011874469889737065,
+                0.0006785411365564037,
+                0.0005089058524173028,
+                0.00033927056827820186,
+                0.00033927056827820186,
+                0.00016963528413910093,
+                0.00016963528413910093
+            ]
+        },
+        {
+            "begin": 2838,
+            "end": 2842,
+            "text": "2009",
+            "concept": 35
+        },
+        {
+            "begin": 2849,
+            "end": 2860,
+            "text": "single euro",
+            "concept": 36
+        },
+        {
+            "begin": 2866,
+            "end": 2872,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 2882,
+            "end": 2888,
+            "text": "Hessen",
+            "concept": 37,
+            "candidates": [
+                "Hesse",
+                "Hessen_(Osterwieck)",
+                "SMS_Hessen",
+                "German_frigate_Hessen",
+                "Hessenliga",
+                "HMAT_Bulla",
+                "German_weather_ship_WBS_11_Hessen",
+                "Hessian_Cup",
+                "Landgraviate_of_Hesse-Darmstadt",
+                "5846_Hessen",
+                "Hamburg-class_destroyer",
+                "Hesse_State_Police",
+                "Landgraviate_of_Hesse-Kassel",
+                "Landgraviate_of_Hesse"
+            ],
+            "scores": [
+                0.9315068493150684,
+                0.02511415525114155,
+                0.00684931506849315,
+                0.00684931506849315,
+                0.00684931506849315,
+                0.0045662100456621,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105,
+                0.00228310502283105
+            ]
+        },
+        {
+            "begin": 2896,
+            "end": 2913,
+            "text": "Frankfurt am Main",
+            "concept": 29,
+            "candidates": [
+                "Frankfurt",
+                "Frankfurt_(Main)_Hauptbahnhof",
+                "Goethe_University_Frankfurt",
+                "Free_City_of_Frankfurt",
+                "Frankfurt_Airport",
+                "Trams_in_Frankfurt_am_Main",
+                "Frankfurt_am_Main_I_(electoral_district)",
+                "Bombing_of_Frankfurt_am_Main_in_World_War_II"
+            ],
+            "scores": [
+                0.9844164456233422,
+                0.006631299734748011,
+                0.005305039787798408,
+                0.001326259946949602,
+                0.0009946949602122016,
+                0.000663129973474801,
+                0.0003315649867374005,
+                0.0003315649867374005
+            ]
+        },
+        {
+            "begin": 3043,
+            "end": 3046,
+            "text": "SYT",
+            "concept": 1,
+            "candidates": [
+                "South_Yorkshire_Transport",
+                "Shenyang_railway_station",
+                "Synaptotagmin"
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.14285714285714285,
+                0.14285714285714285
+            ]
+        },
+        {
+            "begin": 3111,
+            "end": 3137,
+            "text": "jtm/uhe (AFP, dpa, Reuers)",
+            "concept": 38
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Frankfurt's Hahn Airport",
+            "keyword": true,
+            "count": 6,
+            "link": "Frankfurt\u2013Hahn_Airport",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Shanghai Yigian Trading Company",
+            "keyword": true,
+            "count": 9,
+            "link": "wikidata:Q25388087",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000238",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Roger Lewentz",
+            "keyword": false,
+            "count": 3,
+            "link": "Roger_Lewentz",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::interior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Zu Tao Chou",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Chinese",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Shanghai",
+            "keyword": false,
+            "count": 1,
+            "link": "Shanghai",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Asia",
+            "keyword": false,
+            "count": 3,
+            "link": "Asia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "federal state",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Rhineland-Palatinate",
+            "keyword": false,
+            "count": 5,
+            "link": "Rhineland-Palatinate",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Monday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "SYTwill",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::invalid"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Ireland",
+            "keyword": false,
+            "count": 1,
+            "link": "Ireland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Ryanair",
+            "keyword": false,
+            "count": 1,
+            "link": "Ryanair",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "45 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$51 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "16 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Asian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "airline",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Yangtze River Express",
+            "keyword": false,
+            "count": 1,
+            "link": "Suparna_Airlines",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "70 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "2024",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Malu Dreyer",
+            "keyword": false,
+            "count": 1,
+            "link": "Malu_Dreyer",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "European Commission",
+            "keyword": false,
+            "count": 1,
+            "link": "European_Commission",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Frankfurt am Main",
+            "keyword": false,
+            "count": 2,
+            "link": "Frankfurt",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "US military airbase",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "meta::redo"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "1993",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Fraport",
+            "keyword": false,
+            "count": 1,
+            "link": "Fraport",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "international flight hub",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "2009",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "single euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Hessen",
+            "keyword": false,
+            "count": 1,
+            "link": "Hessen",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "jtm/uhe (AFP, dpa, Reuers)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 39,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 40,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Union",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 9
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 39
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "minister_of",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 39
+        },
+        {
+            "s": 9,
+            "p": "in0",
+            "o": 39
+        },
+        {
+            "s": 9,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 14
+        },
+        {
+            "s": 22,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 22,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 27,
+            "p": "agent_of",
+            "o": 9
+        },
+        {
+            "s": 27,
+            "p": "citizen_of",
+            "o": 39
+        },
+        {
+            "s": 27,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 27,
+            "p": "head_of_state",
+            "o": 9
+        },
+        {
+            "s": 28,
+            "p": "institution_of",
+            "o": 40
+        },
+        {
+            "s": 28,
+            "p": "part_of",
+            "o": 40
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 39
+        },
+        {
+            "s": 29,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 37,
+            "p": "in0",
+            "o": 39
+        },
+        {
+            "s": 37,
+            "p": "in0-x",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "transfer-ownership",
+            "slots": [
+                {
+                    "name": "buyer",
+                    "value": 1
+                },
+                {
+                    "name": "artifact",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000192",
+        "20000204",
+        "20000209",
+        "20000337",
+        "20000338"
+    ]
+}

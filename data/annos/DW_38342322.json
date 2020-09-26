@@ -1,0 +1,195 @@
+{
+    "id": "DW_38342322",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 168,
+            "end": 175,
+            "text": "Holland",
+            "concept": 1,
+            "candidates": [
+                "Holland",
+                "Holland,_Michigan",
+                "County_of_Holland",
+                "Netherlands",
+                "Holland_(album)",
+                "Parts_of_Holland",
+                "William_Jacob_Holland",
+                "Netherlands_national_football_team",
+                "Holland,_Massachusetts",
+                "Kingdom_of_Holland",
+                "Holland,_New_York",
+                "Sidney_Holland",
+                "Holland,_Ohio",
+                "Matt_Holland",
+                "Count_of_Holland",
+                "Dutch_Republic"
+            ],
+            "scores": [
+                0.5658153241650294,
+                0.08644400785854617,
+                0.04420432220039293,
+                0.029142108709888672,
+                0.017354289456450556,
+                0.015717092337917484,
+                0.015062213490504257,
+                0.0137524557956778,
+                0.01309757694826457,
+                0.010805500982318271,
+                0.010478061558611657,
+                0.009495743287491814,
+                0.008513425016371971,
+                0.007203667321545514,
+                0.006548788474132285,
+                0.006548788474132285
+            ]
+        },
+        {
+            "begin": 606,
+            "end": 612,
+            "text": "Africa",
+            "concept": 2,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 617,
+            "end": 623,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "text": "Holland",
+            "keyword": false,
+            "count": 1,
+            "link": "Holland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "06000000",
+        "20000424",
+        "20000426"
+    ]
+}

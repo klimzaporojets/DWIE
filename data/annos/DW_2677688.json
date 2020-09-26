@@ -1,0 +1,935 @@
+{
+    "id": "DW_2677688",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 8,
+            "text": "Namibian",
+            "concept": 6
+        },
+        {
+            "begin": 34,
+            "end": 40,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 69,
+            "end": 76,
+            "text": "Namibia",
+            "concept": 1,
+            "candidates": [
+                "Namibia",
+                "Namibia_national_cricket_team",
+                "Namibia_national_rugby_union_team",
+                "Namibia_national_football_team",
+                "Namibia_Football_Association",
+                "Namibia_national_under-19_cricket_team",
+                "Namibia_women's_national_football_team",
+                "Namibia_Fed_Cup_team",
+                "Namibia_Davis_Cup_team",
+                "Rail_transport_in_Namibia",
+                "Namibian_Navy",
+                "Miss_Namibia",
+                "Elections_in_Namibia",
+                "Namibian_Army",
+                "Namibian_Air_Force",
+                "LGBT_rights_in_Namibia"
+            ],
+            "scores": [
+                0.8777191401724803,
+                0.03681297464281117,
+                0.036298107864590035,
+                0.009911185480756854,
+                0.0038615008366585145,
+                0.003732784142103231,
+                0.002831767280216244,
+                0.0018020337237739735,
+                0.0012871669455528382,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0010297335564422706,
+                0.0009010168618869867,
+                0.0009010168618869867,
+                0.0009010168618869867
+            ]
+        },
+        {
+            "begin": 92,
+            "end": 99,
+            "text": "Tuesday",
+            "concept": 8
+        },
+        {
+            "begin": 128,
+            "end": 134,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 248,
+            "end": 259,
+            "text": "Johannes F.",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 272,
+            "end": 276,
+            "text": "wife",
+            "concept": 9
+        },
+        {
+            "begin": 277,
+            "end": 281,
+            "text": "Elke",
+            "concept": 3,
+            "candidates": [
+                "Elke",
+                "Moose",
+                "Elke_Clijsters"
+            ],
+            "scores": [
+                0.7777777777777778,
+                0.1111111111111111,
+                0.1111111111111111
+            ]
+        },
+        {
+            "begin": 327,
+            "end": 333,
+            "text": "Sunday",
+            "concept": 10
+        },
+        {
+            "begin": 388,
+            "end": 394,
+            "text": "Khomas",
+            "concept": 0,
+            "candidates": [
+                "Khomas_Region"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 414,
+            "end": 421,
+            "text": "capital",
+            "concept": 11
+        },
+        {
+            "begin": 422,
+            "end": 430,
+            "text": "Windhoek",
+            "concept": 12,
+            "candidates": [
+                "Windhoek",
+                "Hage_Geingob_Rugby_Stadium",
+                "Wanderers_Cricket_Ground",
+                "Roman_Catholic_Archdiocese_of_Windhoek",
+                "Windhoek_railway_station",
+                "Hosea_Kutako_International_Airport",
+                "Windhoek_Lager",
+                "Government_of_Namibia",
+                "Namibia_Breweries_Limited",
+                "Independence_Stadium_(Namibia)",
+                "Eros_Airport",
+                "Transport_in_Namibia"
+            ],
+            "scores": [
+                0.9691428571428572,
+                0.010285714285714285,
+                0.008571428571428572,
+                0.004571428571428572,
+                0.0017142857142857142,
+                0.0017142857142857142,
+                0.001142857142857143,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715
+            ]
+        },
+        {
+            "begin": 447,
+            "end": 463,
+            "text": "police spokesman",
+            "concept": 13
+        },
+        {
+            "begin": 464,
+            "end": 479,
+            "text": "Angula Amulungu",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 526,
+            "end": 533,
+            "text": "Namibia",
+            "concept": 1,
+            "candidates": [
+                "Namibia",
+                "Namibia_national_cricket_team",
+                "Namibia_national_rugby_union_team",
+                "Namibia_national_football_team",
+                "Namibia_Football_Association",
+                "Namibia_national_under-19_cricket_team",
+                "Namibia_women's_national_football_team",
+                "Namibia_Fed_Cup_team",
+                "Namibia_Davis_Cup_team",
+                "Rail_transport_in_Namibia",
+                "Namibian_Navy",
+                "Miss_Namibia",
+                "Elections_in_Namibia",
+                "Namibian_Army",
+                "Namibian_Air_Force",
+                "LGBT_rights_in_Namibia"
+            ],
+            "scores": [
+                0.8777191401724803,
+                0.03681297464281117,
+                0.036298107864590035,
+                0.009911185480756854,
+                0.0038615008366585145,
+                0.003732784142103231,
+                0.002831767280216244,
+                0.0018020337237739735,
+                0.0012871669455528382,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0010297335564422706,
+                0.0009010168618869867,
+                0.0009010168618869867,
+                0.0009010168618869867
+            ]
+        },
+        {
+            "begin": 577,
+            "end": 587,
+            "text": "Swakopmund",
+            "concept": 14,
+            "candidates": [
+                "Swakopmund",
+                "Swakopmund_railway_station",
+                "Swakopmund_Constituency"
+            ],
+            "scores": [
+                0.9927536231884058,
+                0.0036231884057971015,
+                0.0036231884057971015
+            ]
+        },
+        {
+            "begin": 619,
+            "end": 627,
+            "text": "Johannes",
+            "concept": 2,
+            "candidates": [
+                "Johannes",
+                "Johannes_von_Lahnstein",
+                "Johannes_von_Trapp",
+                "Johannes_(Archbishop_of_Uppsala)",
+                "Johannes_Hevelius",
+                "Johannes,_Stavanger",
+                "Johannes_Fabricius",
+                "Johannes_Withoos",
+                "Johannes_Theobald",
+                "Alain_Johannes",
+                "Johannes_Vingboons",
+                "Johannes_Roosevelt",
+                "Johannes_Ronge",
+                "Johannes_Fabritius",
+                "John_the_Apostle",
+                "Johannes,_11th_Prince_of_Thurn_and_Taxis"
+            ],
+            "scores": [
+                0.43333333333333335,
+                0.05333333333333334,
+                0.05333333333333334,
+                0.04666666666666667,
+                0.03333333333333333,
+                0.03333333333333333,
+                0.02666666666666667,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334
+            ]
+        },
+        {
+            "begin": 854,
+            "end": 863,
+            "text": "Afrikaans",
+            "concept": 15,
+            "candidates": [
+                "Afrikaans",
+                "Afrikaners",
+                "Afrikaans_literature",
+                "Arabic_Afrikaans",
+                "Afrikaans_Wikipedia",
+                "List_of_English_words_of_Afrikaans_origin"
+            ],
+            "scores": [
+                0.9925251868703282,
+                0.003899902502437439,
+                0.0019499512512187196,
+                0.0006499837504062399,
+                0.0006499837504062399,
+                0.00032499187520311994
+            ]
+        },
+        {
+            "begin": 864,
+            "end": 869,
+            "text": "daily",
+            "concept": 16
+        },
+        {
+            "begin": 870,
+            "end": 881,
+            "text": "Republikein",
+            "concept": 17,
+            "candidates": [
+                "Republikein"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 896,
+            "end": 904,
+            "text": "Johannes",
+            "concept": 2,
+            "candidates": [
+                "Johannes",
+                "Johannes_von_Lahnstein",
+                "Johannes_von_Trapp",
+                "Johannes_(Archbishop_of_Uppsala)",
+                "Johannes_Hevelius",
+                "Johannes,_Stavanger",
+                "Johannes_Fabricius",
+                "Johannes_Withoos",
+                "Johannes_Theobald",
+                "Alain_Johannes",
+                "Johannes_Vingboons",
+                "Johannes_Roosevelt",
+                "Johannes_Ronge",
+                "Johannes_Fabritius",
+                "John_the_Apostle",
+                "Johannes,_11th_Prince_of_Thurn_and_Taxis"
+            ],
+            "scores": [
+                0.43333333333333335,
+                0.05333333333333334,
+                0.05333333333333334,
+                0.04666666666666667,
+                0.03333333333333333,
+                0.03333333333333333,
+                0.02666666666666667,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334,
+                0.013333333333333334
+            ]
+        },
+        {
+            "begin": 992,
+            "end": 998,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 1163,
+            "end": 1170,
+            "text": "Elke F.",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1241,
+            "end": 1248,
+            "text": "Elke F.",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1285,
+            "end": 1294,
+            "text": "Ute K\u00f6nig",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1328,
+            "end": 1334,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 1346,
+            "end": 1354,
+            "text": "Windhoek",
+            "concept": 12,
+            "candidates": [
+                "Windhoek",
+                "Hage_Geingob_Rugby_Stadium",
+                "Wanderers_Cricket_Ground",
+                "Roman_Catholic_Archdiocese_of_Windhoek",
+                "Windhoek_railway_station",
+                "Hosea_Kutako_International_Airport",
+                "Windhoek_Lager",
+                "Government_of_Namibia",
+                "Namibia_Breweries_Limited",
+                "Independence_Stadium_(Namibia)",
+                "Eros_Airport",
+                "Transport_in_Namibia"
+            ],
+            "scores": [
+                0.9691428571428572,
+                0.010285714285714285,
+                0.008571428571428572,
+                0.004571428571428572,
+                0.0017142857142857142,
+                0.0017142857142857142,
+                0.001142857142857143,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715,
+                0.0005714285714285715
+            ]
+        },
+        {
+            "begin": 1379,
+            "end": 1394,
+            "text": "Khomas Hochland",
+            "concept": 0,
+            "candidates": [
+                "Khomas_Region"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1419,
+            "end": 1435,
+            "text": "police spokesman",
+            "concept": 13
+        },
+        {
+            "begin": 1436,
+            "end": 1444,
+            "text": "Amulungu",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1492,
+            "end": 1499,
+            "text": "Tuesday",
+            "concept": 8
+        },
+        {
+            "begin": 1503,
+            "end": 1510,
+            "text": "Namibia",
+            "concept": 1,
+            "candidates": [
+                "Namibia",
+                "Namibia_national_cricket_team",
+                "Namibia_national_rugby_union_team",
+                "Namibia_national_football_team",
+                "Namibia_Football_Association",
+                "Namibia_national_under-19_cricket_team",
+                "Namibia_women's_national_football_team",
+                "Namibia_Fed_Cup_team",
+                "Namibia_Davis_Cup_team",
+                "Rail_transport_in_Namibia",
+                "Namibian_Navy",
+                "Miss_Namibia",
+                "Elections_in_Namibia",
+                "Namibian_Army",
+                "Namibian_Air_Force",
+                "LGBT_rights_in_Namibia"
+            ],
+            "scores": [
+                0.8777191401724803,
+                0.03681297464281117,
+                0.036298107864590035,
+                0.009911185480756854,
+                0.0038615008366585145,
+                0.003732784142103231,
+                0.002831767280216244,
+                0.0018020337237739735,
+                0.0012871669455528382,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0011584502509975544,
+                0.0010297335564422706,
+                0.0009010168618869867,
+                0.0009010168618869867,
+                0.0009010168618869867
+            ]
+        },
+        {
+            "begin": 1527,
+            "end": 1533,
+            "text": "German",
+            "concept": 7
+        },
+        {
+            "begin": 1702,
+            "end": 1707,
+            "text": "K\u00f6nig",
+            "concept": 5,
+            "candidates": [
+                "Dieter_K\u00f6nig",
+                "Formula_K\u00f6nig",
+                "K\u00f6nig_(crater)",
+                "K\u00f6nig",
+                "D\u00e9nes_K\u0151nig",
+                "SMS_K\u00f6nig",
+                "Imre_K\u00f6nig",
+                "Franz_K\u00f6nig",
+                "K\u00f6nig_Brewery",
+                "Frederick_William_III_of_Prussia",
+                "K\u00f6nig-class_battleship",
+                "Bad_K\u00f6nig",
+                "Sigismund,_Holy_Roman_Emperor",
+                "Konig,_South_Carolina",
+                "Leopold_K\u00f6nig",
+                "Paul_K\u00f6nig"
+            ],
+            "scores": [
+                0.6258992805755396,
+                0.050359712230215826,
+                0.02877697841726619,
+                0.02877697841726619,
+                0.02877697841726619,
+                0.02158273381294964,
+                0.02158273381294964,
+                0.02158273381294964,
+                0.02158273381294964,
+                0.014388489208633094,
+                0.014388489208633094,
+                0.014388489208633094,
+                0.014388489208633094,
+                0.014388489208633094,
+                0.007194244604316547,
+                0.007194244604316547
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Khomas Hochland",
+            "keyword": false,
+            "count": 2,
+            "link": "Khomas_Region",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Namibia",
+            "keyword": true,
+            "count": 3,
+            "link": "Namibia",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Johannes F.",
+            "keyword": true,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::victim"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Elke F.",
+            "keyword": true,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::victim"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Angula Amulungu",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::police_per"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Ute K\u00f6nig",
+            "keyword": false,
+            "count": 2,
+            "link": "Ute_K\u00f6nig",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Namibian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "German",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "wife",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "capital",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Windhoek",
+            "keyword": false,
+            "count": 2,
+            "link": "Windhoek",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "police spokesman",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Swakopmund",
+            "keyword": false,
+            "count": 1,
+            "link": "Swakopmund",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Afrikaans",
+            "keyword": false,
+            "count": 1,
+            "link": "Afrikaans",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "daily",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Republikein",
+            "keyword": false,
+            "count": 1,
+            "link": "Republikein",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 18,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "spouse_of",
+            "o": 3
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "spouse_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "agent_of-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 18
+        },
+        {
+            "s": 5,
+            "p": "agent_of-x",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 17,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 17,
+            "p": "based_in0-x",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        },
+        {
+            "type": "die",
+            "slots": [
+                {
+                    "name": "victim",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000099",
+        "20000100"
+    ]
+}

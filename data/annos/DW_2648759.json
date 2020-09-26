@@ -1,0 +1,2598 @@
+{
+    "id": "DW_2648759",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 20,
+            "end": 26,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 41,
+            "end": 48,
+            "text": "Deutsch",
+            "concept": 1,
+            "candidates": [
+                "Deutsch_Inc.",
+                "Deutsch_(crater)",
+                "Otto_Erich_Deutsch",
+                "Theodiscus",
+                "Deutsch",
+                "German_language",
+                "Germany",
+                "David_Deutsch",
+                "Deutsch_Group",
+                "Gro\u00df_Garz",
+                "Deutsch_(surname)",
+                "Diana_Deutsch",
+                "Gotthard_Deutsch"
+            ],
+            "scores": [
+                0.14705882352941177,
+                0.14705882352941177,
+                0.14705882352941177,
+                0.11764705882352941,
+                0.08823529411764706,
+                0.08823529411764706,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.029411764705882353,
+                0.029411764705882353,
+                0.029411764705882353,
+                0.029411764705882353,
+                0.029411764705882353
+            ]
+        },
+        {
+            "begin": 58,
+            "end": 63,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 65,
+            "end": 72,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 111,
+            "end": 127,
+            "text": "Goethe Institute",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut",
+                "Goethe-Institut,_New_York"
+            ],
+            "scores": [
+                0.9950248756218906,
+                0.004975124378109453
+            ]
+        },
+        {
+            "begin": 328,
+            "end": 337,
+            "text": "New Delhi",
+            "concept": 6,
+            "candidates": [
+                "New_Delhi",
+                "New_Delhi_railway_station",
+                "Feroz_Shah_Kotla",
+                "New_Delhi_(Lok_Sabha_constituency)",
+                "New_Delhi_(1987_film)",
+                "Major_Dhyan_Chand_National_Stadium",
+                "New_Delhi_(Delhi_Assembly_constituency)",
+                "New_Delhi_(1956_film)",
+                "New_Delhi_Challenger",
+                "Ambedkar_Stadium",
+                "Indira_Gandhi_International_Airport",
+                "Delhi_Open",
+                "Delhi",
+                "Feroz_Shah_Kotla_Ground",
+                "New_Delhi_metro_station",
+                "New_Delhi_(1988_Hindi_film)"
+            ],
+            "scores": [
+                0.9267650158061117,
+                0.03856691253951528,
+                0.005163329820864067,
+                0.0049525816649104324,
+                0.003898840885142255,
+                0.0030558482613277133,
+                0.0016859852476290833,
+                0.0016859852476290833,
+                0.0013698630136986301,
+                0.0012644889357218123,
+                0.0011591148577449948,
+                0.0009483667017913594,
+                0.0009483667017913594,
+                0.0008429926238145417,
+                0.0007376185458377239,
+                0.0007376185458377239
+            ]
+        },
+        {
+            "begin": 542,
+            "end": 548,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 810,
+            "end": 815,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 851,
+            "end": 867,
+            "text": "Goethe Institute",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut",
+                "Goethe-Institut,_New_York"
+            ],
+            "scores": [
+                0.9950248756218906,
+                0.004975124378109453
+            ]
+        },
+        {
+            "begin": 871,
+            "end": 878,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 973,
+            "end": 990,
+            "text": "Max M\u00fcller Bhavan",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 994,
+            "end": 1010,
+            "text": "Max M\u00fcller House",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1016,
+            "end": 1029,
+            "text": "Stefan Dreyer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1039,
+            "end": 1044,
+            "text": "Delhi",
+            "concept": 7,
+            "candidates": [
+                "Delhi",
+                "Delhi_cricket_team",
+                "Delhi_Junction_railway_station",
+                "Feroz_Shah_Kotla",
+                "Delhi,_Louisiana",
+                "Delhi_(village),_New_York",
+                "Indira_Gandhi_International_Airport",
+                "Delhi,_New_York",
+                "Delhi,_Ontario",
+                "New_Delhi",
+                "Delhi_women's_cricket_team",
+                "Delhi_&_District_Cricket_Association",
+                "Major_Dhyan_Chand_National_Stadium",
+                "Feroz_Shah_Kotla_Ground",
+                "Delhi_Sultanate",
+                "Delhi,_California"
+            ],
+            "scores": [
+                0.8715796541883498,
+                0.04599630686587208,
+                0.007722007722007722,
+                0.006630854456941414,
+                0.006211180124223602,
+                0.005959375524592916,
+                0.0055397011918751045,
+                0.004448547926808796,
+                0.004280678193721672,
+                0.0032734597951989256,
+                0.0031895249286553636,
+                0.003105590062111801,
+                0.0027698505959375523,
+                0.0027698505959375523,
+                0.0023501762632197414,
+                0.0017626321974148062
+            ]
+        },
+        {
+            "begin": 1047,
+            "end": 1062,
+            "text": "Goethe Institut",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1079,
+            "end": 1089,
+            "text": "Max M\u00fcller",
+            "concept": 8,
+            "candidates": [
+                "Max_M\u00fcller",
+                "Max_M\u00fcller_(footballer)",
+                "Max_M\u00fcller_(cross-country_skier)",
+                "Max_M\u00fcller_(Catholic_intellectual)"
+            ],
+            "scores": [
+                0.96,
+                0.015384615384615385,
+                0.015384615384615385,
+                0.009230769230769232
+            ]
+        },
+        {
+            "begin": 1112,
+            "end": 1118,
+            "text": "Goethe",
+            "concept": 9,
+            "candidates": [
+                "Johann_Wolfgang_von_Goethe",
+                "Young_Goethe_in_Love",
+                "Goethe_(train)",
+                "Goethe_(grape)",
+                "Goethe's_Faust",
+                "Goethe_Basin",
+                "Goetheforschung",
+                "Goethean_science"
+            ],
+            "scores": [
+                0.992603550295858,
+                0.0019723865877712033,
+                0.0014792899408284023,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0004930966469428008,
+                0.0004930966469428008
+            ]
+        },
+        {
+            "begin": 1144,
+            "end": 1150,
+            "text": "Goethe",
+            "concept": 9,
+            "candidates": [
+                "Johann_Wolfgang_von_Goethe",
+                "Young_Goethe_in_Love",
+                "Goethe_(train)",
+                "Goethe_(grape)",
+                "Goethe's_Faust",
+                "Goethe_Basin",
+                "Goetheforschung",
+                "Goethean_science"
+            ],
+            "scores": [
+                0.992603550295858,
+                0.0019723865877712033,
+                0.0014792899408284023,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0004930966469428008,
+                0.0004930966469428008
+            ]
+        },
+        {
+            "begin": 1158,
+            "end": 1168,
+            "text": "Max M\u00fcller",
+            "concept": 8,
+            "candidates": [
+                "Max_M\u00fcller",
+                "Max_M\u00fcller_(footballer)",
+                "Max_M\u00fcller_(cross-country_skier)",
+                "Max_M\u00fcller_(Catholic_intellectual)"
+            ],
+            "scores": [
+                0.96,
+                0.015384615384615385,
+                0.015384615384615385,
+                0.009230769230769232
+            ]
+        },
+        {
+            "begin": 1189,
+            "end": 1193,
+            "text": "1823",
+            "concept": 10
+        },
+        {
+            "begin": 1197,
+            "end": 1203,
+            "text": "Dessau",
+            "concept": 11,
+            "candidates": [
+                "Dessau",
+                "Dessau_Hauptbahnhof",
+                "Dessau_(engineering)",
+                "Dessau_(region)",
+                "Battle_of_Dessau_Bridge",
+                "Dessau-Ro\u00dflau",
+                "WTII_Records"
+            ],
+            "scores": [
+                0.9432989690721649,
+                0.04381443298969072,
+                0.003865979381443299,
+                0.003865979381443299,
+                0.002577319587628866,
+                0.001288659793814433,
+                0.001288659793814433
+            ]
+        },
+        {
+            "begin": 1205,
+            "end": 1215,
+            "text": "Max M\u00fcller",
+            "concept": 8,
+            "candidates": [
+                "Max_M\u00fcller",
+                "Max_M\u00fcller_(footballer)",
+                "Max_M\u00fcller_(cross-country_skier)",
+                "Max_M\u00fcller_(Catholic_intellectual)"
+            ],
+            "scores": [
+                0.96,
+                0.015384615384615385,
+                0.015384615384615385,
+                0.009230769230769232
+            ]
+        },
+        {
+            "begin": 1262,
+            "end": 1268,
+            "text": "Indian",
+            "concept": 5
+        },
+        {
+            "begin": 1289,
+            "end": 1297,
+            "text": "Sanskrit",
+            "concept": 12,
+            "candidates": [
+                "Sanskrit",
+                "Sanskrit_literature",
+                "Vedic_Sanskrit",
+                "India",
+                "Indian_classical_drama",
+                "Sanskrit_grammar",
+                "Classical_Sanskrit",
+                "Vy\u0101kara\u1e47a",
+                "Tirukkural_translations_into_Sanskrit",
+                "Lanydza_script",
+                "Sanskrit_Wikipedia",
+                "List_of_Bible_translations_by_language",
+                "Indian_epic_poetry",
+                "Tatpurusha",
+                "Sanskrit_revival",
+                "List_of_Sahitya_Akademi_Award_winners_for_Sanskrit"
+            ],
+            "scores": [
+                0.9902315131386148,
+                0.007033310540197324,
+                0.0005861092116831103,
+                0.00029305460584155515,
+                0.00019536973722770342,
+                0.00019536973722770342,
+                0.00019536973722770342,
+                0.00019536973722770342,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05,
+                9.768486861385171e-05
+            ]
+        },
+        {
+            "begin": 1337,
+            "end": 1345,
+            "text": "Indology",
+            "concept": 13
+        },
+        {
+            "begin": 1358,
+            "end": 1364,
+            "text": "Oxford",
+            "concept": 14,
+            "candidates": [
+                "Oxford",
+                "University_of_Oxford",
+                "Oxford,_Mississippi",
+                "Oxford_(UK_Parliament_constituency)",
+                "Oxford,_Ohio",
+                "Oxford_County,_Maine",
+                "Oxford_University_Boat_Club",
+                "Oxford_(electoral_district)",
+                "Oxford,_Connecticut",
+                "Oxford_University_Cricket_Club",
+                "Oxford_railway_station",
+                "Oxford,_North_Carolina",
+                "Oxford_County,_Ontario",
+                "Oxford,_Alabama",
+                "Oxford_(provincial_electoral_district)",
+                "Oxford,_Massachusetts"
+            ],
+            "scores": [
+                0.5816589736627749,
+                0.2263779527559055,
+                0.021721422753190334,
+                0.014118924789573717,
+                0.010996470268802606,
+                0.01004615802335053,
+                0.009163725224002172,
+                0.007398859625305457,
+                0.006923703502579419,
+                0.005701873472712463,
+                0.005566114580505023,
+                0.0047515612272603855,
+                0.004344284550638067,
+                0.004344284550638067,
+                0.004140646212326907,
+                0.004140646212326907
+            ]
+        },
+        {
+            "begin": 1368,
+            "end": 1372,
+            "text": "1900",
+            "concept": 15
+        },
+        {
+            "begin": 1375,
+            "end": 1381,
+            "text": "Goethe",
+            "concept": 9,
+            "candidates": [
+                "Johann_Wolfgang_von_Goethe",
+                "Young_Goethe_in_Love",
+                "Goethe_(train)",
+                "Goethe_(grape)",
+                "Goethe's_Faust",
+                "Goethe_Basin",
+                "Goetheforschung",
+                "Goethean_science"
+            ],
+            "scores": [
+                0.992603550295858,
+                0.0019723865877712033,
+                0.0014792899408284023,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0004930966469428008,
+                0.0004930966469428008
+            ]
+        },
+        {
+            "begin": 1397,
+            "end": 1404,
+            "text": "Indians",
+            "concept": 16
+        },
+        {
+            "begin": 1418,
+            "end": 1424,
+            "text": "Dreyer",
+            "concept": 4,
+            "candidates": [
+                "John_Louis_Emil_Dreyer",
+                "John_Dreyer_(footballer)",
+                "Carl_Theodor_Dreyer",
+                "Kurt_Dreyer",
+                "Dreyer_(crater)",
+                "Dreyer",
+                "Dreyer's"
+            ],
+            "scores": [
+                0.7655172413793103,
+                0.09655172413793103,
+                0.06206896551724138,
+                0.027586206896551724,
+                0.020689655172413793,
+                0.020689655172413793,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 1458,
+            "end": 1463,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1569,
+            "end": 1579,
+            "text": "Max M\u00fcller",
+            "concept": 8,
+            "candidates": [
+                "Max_M\u00fcller",
+                "Max_M\u00fcller_(footballer)",
+                "Max_M\u00fcller_(cross-country_skier)",
+                "Max_M\u00fcller_(Catholic_intellectual)"
+            ],
+            "scores": [
+                0.96,
+                0.015384615384615385,
+                0.015384615384615385,
+                0.009230769230769232
+            ]
+        },
+        {
+            "begin": 1582,
+            "end": 1587,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1631,
+            "end": 1641,
+            "text": "Max M\u00fcller",
+            "concept": 8,
+            "candidates": [
+                "Max_M\u00fcller",
+                "Max_M\u00fcller_(footballer)",
+                "Max_M\u00fcller_(cross-country_skier)",
+                "Max_M\u00fcller_(Catholic_intellectual)"
+            ],
+            "scores": [
+                0.96,
+                0.015384615384615385,
+                0.015384615384615385,
+                0.009230769230769232
+            ]
+        },
+        {
+            "begin": 1660,
+            "end": 1665,
+            "text": "Vedic",
+            "concept": 17,
+            "candidates": [
+                "Vedas",
+                "Vedic_period",
+                "Historical_Vedic_religion",
+                "Vedic_Sanskrit",
+                "Vedic_mythology",
+                "Rigvedic_deities",
+                "Hindu_astrology",
+                "Sanskrit_literature",
+                "Vedanta",
+                "Vedic_chant",
+                "Vedic_meter",
+                "Rigveda",
+                "Vedha",
+                "Apauru\u1e63ey\u0101",
+                "\u015arauta",
+                "Advaita_Vedanta"
+            ],
+            "scores": [
+                0.727176220806794,
+                0.1029723991507431,
+                0.08386411889596602,
+                0.049893842887473464,
+                0.010615711252653927,
+                0.006369426751592357,
+                0.0031847133757961785,
+                0.0021231422505307855,
+                0.0021231422505307855,
+                0.0021231422505307855,
+                0.0021231422505307855,
+                0.0010615711252653928,
+                0.0010615711252653928,
+                0.0010615711252653928,
+                0.0010615711252653928,
+                0.0010615711252653928
+            ]
+        },
+        {
+            "begin": 1677,
+            "end": 1682,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1695,
+            "end": 1700,
+            "text": "China",
+            "concept": 18,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1706,
+            "end": 1717,
+            "text": "South Asian",
+            "concept": 19
+        },
+        {
+            "begin": 1752,
+            "end": 1757,
+            "text": "Asian",
+            "concept": 20
+        },
+        {
+            "begin": 1863,
+            "end": 1868,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1962,
+            "end": 1975,
+            "text": "Stefan Dreyer",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2065,
+            "end": 2081,
+            "text": "Goethe Institute",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut",
+                "Goethe-Institut,_New_York"
+            ],
+            "scores": [
+                0.9950248756218906,
+                0.004975124378109453
+            ]
+        },
+        {
+            "begin": 2112,
+            "end": 2118,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 2166,
+            "end": 2172,
+            "text": "Dreyer",
+            "concept": 4,
+            "candidates": [
+                "John_Louis_Emil_Dreyer",
+                "John_Dreyer_(footballer)",
+                "Carl_Theodor_Dreyer",
+                "Kurt_Dreyer",
+                "Dreyer_(crater)",
+                "Dreyer",
+                "Dreyer's"
+            ],
+            "scores": [
+                0.7655172413793103,
+                0.09655172413793103,
+                0.06206896551724138,
+                0.027586206896551724,
+                0.020689655172413793,
+                0.020689655172413793,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 2199,
+            "end": 2206,
+            "text": "Indians",
+            "concept": 16
+        },
+        {
+            "begin": 2229,
+            "end": 2235,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 2277,
+            "end": 2281,
+            "text": "Kant",
+            "concept": 21,
+            "candidates": [
+                "Immanuel_Kant",
+                "Kant,_Kyrgyzstan",
+                "Kant_(crater)",
+                "KANT_(FM)",
+                "Kant_(air_base)",
+                "Kant_(Shahjahanpur)",
+                "Kant_(surname)",
+                "Kant_Alsisar",
+                "Kavi_Kant"
+            ],
+            "scores": [
+                0.926860025220681,
+                0.05674653215636822,
+                0.006305170239596469,
+                0.0025220680958385876,
+                0.0025220680958385876,
+                0.0012610340479192938,
+                0.0012610340479192938,
+                0.0012610340479192938,
+                0.0012610340479192938
+            ]
+        },
+        {
+            "begin": 2283,
+            "end": 2289,
+            "text": "Brecht",
+            "concept": 22,
+            "candidates": [
+                "Bertolt_Brecht",
+                "Brecht,_Belgium",
+                "Brecht,_Germany",
+                "Epic_theatre",
+                "Brecht_Abbey"
+            ],
+            "scores": [
+                0.900804289544236,
+                0.08310991957104558,
+                0.010723860589812333,
+                0.002680965147453083,
+                0.002680965147453083
+            ]
+        },
+        {
+            "begin": 2291,
+            "end": 2296,
+            "text": "Grass",
+            "concept": 23,
+            "candidates": [
+                "Poaceae",
+                "Grass_court",
+                "GRASS_GIS",
+                "Grass_(TV_series)",
+                "Grass_(1999_film)",
+                "Grass_(1925_film)",
+                "Lawn",
+                "List_of_U.S._state_grasses",
+                "Grass_(2018_film)",
+                "Cannabis_(drug)",
+                "G\u00fcnter_Grass",
+                "Wind-up_Records",
+                "Grass_(novel)",
+                "Grass_carp",
+                "GRASS_(programming_language)",
+                "Grass_(Animal_Collective_song)"
+            ],
+            "scores": [
+                0.8243610657966286,
+                0.08156606851549755,
+                0.011419249592169658,
+                0.010875475802066341,
+                0.008700380641653072,
+                0.008700380641653072,
+                0.005981511691136488,
+                0.005437737901033171,
+                0.004893964110929853,
+                0.004893964110929853,
+                0.0032626427406199023,
+                0.0027188689505165853,
+                0.0027188689505165853,
+                0.0027188689505165853,
+                0.002175095160413268,
+                0.0016313213703099511
+            ]
+        },
+        {
+            "begin": 2300,
+            "end": 2306,
+            "text": "Goethe",
+            "concept": 9,
+            "candidates": [
+                "Johann_Wolfgang_von_Goethe",
+                "Young_Goethe_in_Love",
+                "Goethe_(train)",
+                "Goethe_(grape)",
+                "Goethe's_Faust",
+                "Goethe_Basin",
+                "Goetheforschung",
+                "Goethean_science"
+            ],
+            "scores": [
+                0.992603550295858,
+                0.0019723865877712033,
+                0.0014792899408284023,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0009861932938856016,
+                0.0004930966469428008,
+                0.0004930966469428008
+            ]
+        },
+        {
+            "begin": 2324,
+            "end": 2330,
+            "text": "Dreyer",
+            "concept": 4,
+            "candidates": [
+                "John_Louis_Emil_Dreyer",
+                "John_Dreyer_(footballer)",
+                "Carl_Theodor_Dreyer",
+                "Kurt_Dreyer",
+                "Dreyer_(crater)",
+                "Dreyer",
+                "Dreyer's"
+            ],
+            "scores": [
+                0.7655172413793103,
+                0.09655172413793103,
+                0.06206896551724138,
+                0.027586206896551724,
+                0.020689655172413793,
+                0.020689655172413793,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 2425,
+            "end": 2431,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 2517,
+            "end": 2523,
+            "text": "Dreyer",
+            "concept": 4,
+            "candidates": [
+                "John_Louis_Emil_Dreyer",
+                "John_Dreyer_(footballer)",
+                "Carl_Theodor_Dreyer",
+                "Kurt_Dreyer",
+                "Dreyer_(crater)",
+                "Dreyer",
+                "Dreyer's"
+            ],
+            "scores": [
+                0.7655172413793103,
+                0.09655172413793103,
+                0.06206896551724138,
+                0.027586206896551724,
+                0.020689655172413793,
+                0.020689655172413793,
+                0.006896551724137931
+            ]
+        },
+        {
+            "begin": 2572,
+            "end": 2589,
+            "text": "Goethe institutes",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2593,
+            "end": 2611,
+            "text": "Max M\u00fcller Bhavans",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2646,
+            "end": 2652,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 2746,
+            "end": 2761,
+            "text": "Goethe Institut",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2765,
+            "end": 2770,
+            "text": "Delhi",
+            "concept": 7,
+            "candidates": [
+                "Delhi",
+                "Delhi_cricket_team",
+                "Delhi_Junction_railway_station",
+                "Feroz_Shah_Kotla",
+                "Delhi,_Louisiana",
+                "Delhi_(village),_New_York",
+                "Indira_Gandhi_International_Airport",
+                "Delhi,_New_York",
+                "Delhi,_Ontario",
+                "New_Delhi",
+                "Delhi_women's_cricket_team",
+                "Delhi_&_District_Cricket_Association",
+                "Major_Dhyan_Chand_National_Stadium",
+                "Feroz_Shah_Kotla_Ground",
+                "Delhi_Sultanate",
+                "Delhi,_California"
+            ],
+            "scores": [
+                0.8715796541883498,
+                0.04599630686587208,
+                0.007722007722007722,
+                0.006630854456941414,
+                0.006211180124223602,
+                0.005959375524592916,
+                0.0055397011918751045,
+                0.004448547926808796,
+                0.004280678193721672,
+                0.0032734597951989256,
+                0.0031895249286553636,
+                0.003105590062111801,
+                0.0027698505959375523,
+                0.0027698505959375523,
+                0.0023501762632197414,
+                0.0017626321974148062
+            ]
+        },
+        {
+            "begin": 2828,
+            "end": 2834,
+            "text": "Ranjan",
+            "concept": 24,
+            "candidates": [
+                "Ranjan_(actor)",
+                "Ranjan_(film)"
+            ],
+            "scores": [
+                0.9875,
+                0.0125
+            ]
+        },
+        {
+            "begin": 2904,
+            "end": 2910,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 3101,
+            "end": 3107,
+            "text": "German",
+            "concept": 25
+        },
+        {
+            "begin": 3124,
+            "end": 3129,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 3315,
+            "end": 3321,
+            "text": "Ranjan",
+            "concept": 24,
+            "candidates": [
+                "Ranjan_(actor)",
+                "Ranjan_(film)"
+            ],
+            "scores": [
+                0.9875,
+                0.0125
+            ]
+        },
+        {
+            "begin": 3327,
+            "end": 3334,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3393,
+            "end": 3409,
+            "text": "Goethe Institute",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut",
+                "Goethe-Institut,_New_York"
+            ],
+            "scores": [
+                0.9950248756218906,
+                0.004975124378109453
+            ]
+        },
+        {
+            "begin": 3471,
+            "end": 3476,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 3495,
+            "end": 3501,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 3550,
+            "end": 3555,
+            "text": "Kirti",
+            "concept": 26,
+            "candidates": [
+                "Kirti_Shiledar",
+                "Workers_and_Peasants_Party",
+                "Kirti_Gompa"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.3333333333333333,
+                0.3333333333333333
+            ]
+        },
+        {
+            "begin": 3623,
+            "end": 3629,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 3675,
+            "end": 3682,
+            "text": "English",
+            "concept": 27,
+            "candidates": [
+                "English_language",
+                "England",
+                "English_people",
+                "English_poetry",
+                "English_studies",
+                "Kingdom_of_England",
+                "English_Americans",
+                "United_Kingdom",
+                "English_literature",
+                "Australian_English",
+                "England_national_football_team",
+                "American_English",
+                "Philippine_English",
+                "English_law",
+                "English_Canadians",
+                "English-speaking_world"
+            ],
+            "scores": [
+                0.48988774122184187,
+                0.23750728710444102,
+                0.1568334354773614,
+                0.026069149015680353,
+                0.017922539948280244,
+                0.0103290034230706,
+                0.010254263890342157,
+                0.00554567332845035,
+                0.0033632789727798622,
+                0.002660727365132513,
+                0.0023916650473101244,
+                0.0019133320378480994,
+                0.0015545822807515807,
+                0.001509738561114516,
+                0.001509738561114516,
+                0.0012556241498378152
+            ]
+        },
+        {
+            "begin": 3728,
+            "end": 3734,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 3750,
+            "end": 3766,
+            "text": "Goethe Institute",
+            "concept": 0,
+            "candidates": [
+                "Goethe-Institut",
+                "Goethe-Institut,_New_York"
+            ],
+            "scores": [
+                0.9950248756218906,
+                0.004975124378109453
+            ]
+        },
+        {
+            "begin": 3809,
+            "end": 3814,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 3823,
+            "end": 3828,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 3884,
+            "end": 3889,
+            "text": "Kirti",
+            "concept": 26,
+            "candidates": [
+                "Kirti_Shiledar",
+                "Workers_and_Peasants_Party",
+                "Kirti_Gompa"
+            ],
+            "scores": [
+                0.3333333333333333,
+                0.3333333333333333,
+                0.3333333333333333
+            ]
+        },
+        {
+            "begin": 3892,
+            "end": 3899,
+            "text": "Germany",
+            "concept": 3,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3921,
+            "end": 3926,
+            "text": "India",
+            "concept": 2,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 3928,
+            "end": 3934,
+            "text": "German",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Max M\u00fcller Bhavans",
+            "keyword": true,
+            "count": 16,
+            "link": "Goethe-Institut",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Deutsch",
+            "keyword": false,
+            "count": 10,
+            "link": "German_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "India",
+            "keyword": true,
+            "count": 11,
+            "link": "India",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Germany",
+            "keyword": true,
+            "count": 4,
+            "link": "Germany",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Stefan Dreyer",
+            "keyword": false,
+            "count": 6,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Indian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "New Delhi",
+            "keyword": false,
+            "count": 1,
+            "link": "New_Delhi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Delhi",
+            "keyword": false,
+            "count": 2,
+            "link": "Delhi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Max M\u00fcller",
+            "keyword": false,
+            "count": 5,
+            "link": "Max_M\u00fcller",
+            "tags": [
+                "gender::male",
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::science_per"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Goethe",
+            "keyword": false,
+            "count": 4,
+            "link": "Johann_Wolfgang_von_Goethe",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "1823",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Dessau",
+            "keyword": false,
+            "count": 1,
+            "link": "Dessau",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Sanskrit",
+            "keyword": false,
+            "count": 1,
+            "link": "Sanskrit",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Indology",
+            "keyword": false,
+            "count": 1,
+            "link": "Indology",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Oxford",
+            "keyword": false,
+            "count": 1,
+            "link": "Oxford",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "1900",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Indians",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Vedic",
+            "keyword": false,
+            "count": 1,
+            "link": "Vedic_period",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "South Asian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Asian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Kant",
+            "keyword": false,
+            "count": 1,
+            "link": "Immanuel_Kant",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Brecht",
+            "keyword": false,
+            "count": 1,
+            "link": "Bertolt_Brecht",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Grass",
+            "keyword": false,
+            "count": 1,
+            "link": "G\u00fcnter_Grass",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000013",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::person",
+                "type::writer"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Ranjan",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Kirti",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "English",
+            "keyword": false,
+            "count": 1,
+            "link": "English_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 28,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 16
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 16
+        },
+        {
+            "s": 8,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 25
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "in0-x",
+            "o": 25
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 28
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 25,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 16
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "01000000",
+        "20000038",
+        "20000042"
+    ]
+}

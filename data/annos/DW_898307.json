@@ -1,0 +1,2397 @@
+{
+    "id": "DW_898307",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 8,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 32,
+            "end": 37,
+            "text": "Greek",
+            "concept": 6,
+            "candidates": [
+                "Greek_language",
+                "Greece",
+                "Greeks",
+                "Ancient_Greek",
+                "Ancient_Greece",
+                "Greek_alphabet",
+                "Music_of_Greece",
+                "Greek_mythology",
+                "Greek_(TV_series)",
+                "Koine_Greek",
+                "Greek_cuisine",
+                "Greek_literature",
+                "Greek_Americans",
+                "Modern_Greek",
+                "Medieval_Greek",
+                "Ancient_Greek_architecture"
+            ],
+            "scores": [
+                0.4523318693794628,
+                0.16070628305099938,
+                0.11819186758686624,
+                0.08565623972991544,
+                0.03976576738071764,
+                0.02428968360670431,
+                0.01876251083027098,
+                0.018254608467031162,
+                0.01245854620417675,
+                0.009022736099907383,
+                0.0033163036658599983,
+                0.0028980311314272056,
+                0.0025096352065967554,
+                0.0024498819873920706,
+                0.002210869110573332,
+                0.0020316094529592784
+            ]
+        },
+        {
+            "begin": 44,
+            "end": 52,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 108,
+            "end": 110,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 113,
+            "end": 132,
+            "text": "Thessaloniki summit",
+            "concept": 7,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 158,
+            "end": 166,
+            "text": "American",
+            "concept": 8
+        },
+        {
+            "begin": 171,
+            "end": 178,
+            "text": "British",
+            "concept": 9
+        },
+        {
+            "begin": 218,
+            "end": 222,
+            "text": "Iraq",
+            "concept": 2,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 248,
+            "end": 262,
+            "text": "European Union",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 304,
+            "end": 312,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 325,
+            "end": 331,
+            "text": "Friday",
+            "concept": 10
+        },
+        {
+            "begin": 394,
+            "end": 406,
+            "text": "Thessaloniki",
+            "concept": 1,
+            "candidates": [
+                "Thessaloniki",
+                "Thessaloniki_(regional_unit)",
+                "New_Thessaloniki_Railway_Station",
+                "Thessaloniki_Airport",
+                "Thessaloniki_International_Film_Festival",
+                "Aristotle_University_of_Thessaloniki",
+                "P.A.O.K._V.C.",
+                "Kaftanzoglio_Stadium",
+                "Salonica_Vilayet",
+                "Thessaloniki_Metro",
+                "List_of_mayors_of_Thessaloniki",
+                "History_of_Thessaloniki",
+                "Port_of_Thessaloniki",
+                "Sanjak_of_Salonica",
+                "Thessalonica_(theme)",
+                "History_of_the_Jews_in_Thessaloniki"
+            ],
+            "scores": [
+                0.9650107991360691,
+                0.021382289416846653,
+                0.002591792656587473,
+                0.0021598272138228943,
+                0.001511879049676026,
+                0.0012958963282937365,
+                0.0006479481641468683,
+                0.00043196544276457883,
+                0.00043196544276457883,
+                0.00043196544276457883,
+                0.00043196544276457883,
+                0.00043196544276457883,
+                0.00043196544276457883,
+                0.00021598272138228941,
+                0.00021598272138228941,
+                0.00021598272138228941
+            ]
+        },
+        {
+            "begin": 408,
+            "end": 414,
+            "text": "Greece",
+            "concept": 11,
+            "candidates": [
+                "Greece",
+                "Greece_national_football_team",
+                "Kingdom_of_Greece",
+                "Ancient_Greece",
+                "Greece_national_basketball_team",
+                "Greek_Basket_League",
+                "Hellenic_Football_Federation",
+                "Battle_of_Greece",
+                "Recognition_of_same-sex_unions_in_Greece",
+                "Greece_(town),_New_York",
+                "Greece_national_under-21_football_team",
+                "Greece_women's_national_football_team",
+                "Greece_in_the_Eurovision_Song_Contest",
+                "Second_Hellenic_Republic",
+                "Greece_Fed_Cup_team",
+                "Greece_(European_Parliament_constituency)"
+            ],
+            "scores": [
+                0.8626874903355497,
+                0.03169939693830215,
+                0.01314365238905211,
+                0.008875831142724602,
+                0.00606154321942168,
+                0.004577083655481676,
+                0.0042678212463275085,
+                0.0039276325962579245,
+                0.0034018865006958405,
+                0.00321632905520334,
+                0.0021029843822483376,
+                0.001979279418586671,
+                0.0013607546002783362,
+                0.0012370496366166692,
+                0.0011133446729550023,
+                0.0011133446729550023
+            ]
+        },
+        {
+            "begin": 447,
+            "end": 451,
+            "text": "U.S.",
+            "concept": 12,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 456,
+            "end": 463,
+            "text": "British",
+            "concept": 9
+        },
+        {
+            "begin": 474,
+            "end": 478,
+            "text": "Iraq",
+            "concept": 2,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 480,
+            "end": 486,
+            "text": "London",
+            "concept": 13,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 489,
+            "end": 504,
+            "text": "Financial Times",
+            "concept": 14,
+            "candidates": [
+                "Financial_Times",
+                "FT_Press",
+                "Financial_Times_Deutschland"
+            ],
+            "scores": [
+                0.9994070560332049,
+                0.0002964719833975689,
+                0.0002964719833975689
+            ]
+        },
+        {
+            "begin": 515,
+            "end": 522,
+            "text": "British",
+            "concept": 9
+        },
+        {
+            "begin": 523,
+            "end": 537,
+            "text": "Prime Minister",
+            "concept": 15
+        },
+        {
+            "begin": 538,
+            "end": 548,
+            "text": "Tony Blair",
+            "concept": 16,
+            "candidates": [
+                "Tony_Blair",
+                "Shadow_Cabinet_of_Tony_Blair",
+                "Tony_Blair_(song)",
+                "Prime_Minister_of_the_United_Kingdom",
+                "Blair_ministry",
+                "Shadow_Cabinet_of_John_Smith",
+                "Premiership_of_Tony_Blair"
+            ],
+            "scores": [
+                0.9941860465116279,
+                0.0036997885835095136,
+                0.0007928118393234672,
+                0.0005285412262156448,
+                0.0002642706131078224,
+                0.0002642706131078224,
+                0.0002642706131078224
+            ]
+        },
+        {
+            "begin": 565,
+            "end": 567,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 609,
+            "end": 613,
+            "text": "1999",
+            "concept": 17
+        },
+        {
+            "begin": 614,
+            "end": 616,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 700,
+            "end": 708,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 818,
+            "end": 823,
+            "text": "Union",
+            "concept": 0,
+            "candidates": [
+                "Union_(American_Civil_War)",
+                "Union_Army",
+                "Trade_union",
+                "Union_Dutchmen_ice_hockey",
+                "United_States",
+                "Union_(set_theory)",
+                "Union_of_South_Africa",
+                "Uni\u00f3n_de_Santa_Fe",
+                "Union_County,_New_Jersey",
+                "National_Register_of_Historic_Places_listings_in_Union_County,_Georgia",
+                "Union_councils_of_Bangladesh",
+                "Union_Township,_Union_County,_New_Jersey",
+                "Union_County,_Pennsylvania",
+                "Union_Parish,_Louisiana",
+                "Union_College",
+                "Union_County,_Georgia"
+            ],
+            "scores": [
+                0.23854096304159028,
+                0.12284087619415228,
+                0.08009263726720062,
+                0.03367750651355785,
+                0.02885264884685902,
+                0.027791180160185273,
+                0.021422368040142817,
+                0.018527453440123517,
+                0.01727299044678182,
+                0.01553604168677024,
+                0.01379909292675866,
+                0.011676155553411175,
+                0.011290166940075268,
+                0.009456721026729712,
+                0.009070732413393805,
+                0.008298755186721992
+            ]
+        },
+        {
+            "begin": 899,
+            "end": 906,
+            "text": "Britain",
+            "concept": 18,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 924,
+            "end": 928,
+            "text": "1990",
+            "concept": 19
+        },
+        {
+            "begin": 973,
+            "end": 979,
+            "text": "German",
+            "concept": 20
+        },
+        {
+            "begin": 1001,
+            "end": 1003,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1089,
+            "end": 1096,
+            "text": "Britain",
+            "concept": 18,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 1110,
+            "end": 1117,
+            "text": "Germany",
+            "concept": 21,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1140,
+            "end": 1142,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1176,
+            "end": 1182,
+            "text": "France",
+            "concept": 22,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1185,
+            "end": 1194,
+            "text": "Le Figaro",
+            "concept": 4,
+            "candidates": [
+                "Le_Figaro"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1234,
+            "end": 1242,
+            "text": "European",
+            "concept": 5
+        },
+        {
+            "begin": 1276,
+            "end": 1281,
+            "text": "Greek",
+            "concept": 23
+        },
+        {
+            "begin": 1294,
+            "end": 1296,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1513,
+            "end": 1517,
+            "text": "Iraq",
+            "concept": 2,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 1610,
+            "end": 1612,
+            "text": "EU",
+            "concept": 0,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1659,
+            "end": 1669,
+            "text": "Washington",
+            "concept": 24,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1702,
+            "end": 1706,
+            "text": "U.S.",
+            "concept": 12,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1711,
+            "end": 1718,
+            "text": "Britain",
+            "concept": 18,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 1751,
+            "end": 1765,
+            "text": "Saddam Hussein",
+            "concept": 3,
+            "candidates": [
+                "Saddam_Hussein",
+                "Saddam_Hussein_(South_Park)",
+                "Iraq_War"
+            ],
+            "scores": [
+                0.995929868503444,
+                0.003757044458359424,
+                0.00031308703819661864
+            ]
+        },
+        {
+            "begin": 1805,
+            "end": 1812,
+            "text": "Italian",
+            "concept": 25
+        },
+        {
+            "begin": 1813,
+            "end": 1818,
+            "text": "daily",
+            "concept": 26
+        },
+        {
+            "begin": 1819,
+            "end": 1838,
+            "text": "Corriere Della Sera",
+            "concept": 27,
+            "candidates": [
+                "Corriere_della_Sera"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2045,
+            "end": 2052,
+            "text": "Hussein",
+            "concept": 3,
+            "candidates": [
+                "Hussein_of_Jordan",
+                "Hussein",
+                "Husayn_ibn_Ali",
+                "Saddam_Hussein",
+                "Hussein_bin_Ali,_Sharif_of_Mecca",
+                "Hussein,_Crown_Prince_of_Jordan",
+                "Hussein_Dey",
+                "Prince_Hussein_bin_Al_Talal",
+                "Al-Husayn_II_ibn_Mahmud"
+            ],
+            "scores": [
+                0.6363636363636364,
+                0.13636363636363635,
+                0.12272727272727273,
+                0.04090909090909091,
+                0.03636363636363636,
+                0.013636363636363636,
+                0.004545454545454545,
+                0.004545454545454545,
+                0.004545454545454545
+            ]
+        },
+        {
+            "begin": 2055,
+            "end": 2072,
+            "text": "Republican Guards",
+            "concept": 28,
+            "candidates": [
+                "Republican_Guard_(France)",
+                "Republican_Guard_(Iraq)",
+                "Republican_Guard",
+                "Republican_Guard_(Albania)",
+                "National_Republican_Guard_(Portugal)",
+                "Republican_Guard_(Syria)"
+            ],
+            "scores": [
+                0.4117647058823529,
+                0.29411764705882354,
+                0.11764705882352941,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.058823529411764705
+            ]
+        },
+        {
+            "begin": 2211,
+            "end": 2217,
+            "text": "Munich",
+            "concept": 29,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 2224,
+            "end": 2243,
+            "text": "S\u00fcddeutsche Zeitung",
+            "concept": 30,
+            "candidates": [
+                "S\u00fcddeutsche_Zeitung"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2300,
+            "end": 2304,
+            "text": "Bush",
+            "concept": 31,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 2335,
+            "end": 2341,
+            "text": "Saddam",
+            "concept": 3,
+            "candidates": [
+                "Saddam_Hussein",
+                "Saddam_(name)",
+                "Saddam_Hussein_(South_Park)"
+            ],
+            "scores": [
+                0.9647058823529412,
+                0.023529411764705882,
+                0.011764705882352941
+            ]
+        },
+        {
+            "begin": 2395,
+            "end": 2400,
+            "text": "Iraqi",
+            "concept": 32
+        },
+        {
+            "begin": 2445,
+            "end": 2453,
+            "text": "American",
+            "concept": 8
+        },
+        {
+            "begin": 2489,
+            "end": 2497,
+            "text": "American",
+            "concept": 8
+        },
+        {
+            "begin": 2620,
+            "end": 2624,
+            "text": "U.S.",
+            "concept": 12,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2667,
+            "end": 2675,
+            "text": "American",
+            "concept": 8
+        },
+        {
+            "begin": 2803,
+            "end": 2808,
+            "text": "Iraqi",
+            "concept": 32
+        },
+        {
+            "begin": 2878,
+            "end": 2884,
+            "text": "Saddam",
+            "concept": 3,
+            "candidates": [
+                "Saddam_Hussein",
+                "Saddam_(name)",
+                "Saddam_Hussein_(South_Park)"
+            ],
+            "scores": [
+                0.9647058823529412,
+                0.023529411764705882,
+                0.011764705882352941
+            ]
+        },
+        {
+            "begin": 3016,
+            "end": 3023,
+            "text": "Al Auda",
+            "concept": 33,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3055,
+            "end": 3065,
+            "text": "Strasbourg",
+            "concept": 34,
+            "candidates": [
+                "Strasbourg",
+                "Racing_Club_de_Strasbourg_Alsace",
+                "University_of_Strasbourg",
+                "Internationaux_de_Strasbourg",
+                "Gare_de_Strasbourg-Ville",
+                "SIG_Basket",
+                "Prince-Bishopric_of_Strasbourg",
+                "Strasbourg,_Saskatchewan",
+                "Roman_Catholic_Archdiocese_of_Strasbourg",
+                "French_battleship_Strasbourg",
+                "Strasbourg_Cathedral",
+                "2014_Internationaux_de_Strasbourg",
+                "2011_Internationaux_de_Strasbourg",
+                "Strasbourg_Airport",
+                "Strasbourg_tramway",
+                "List_of_bishops,_prince-bishops_and_archbishops_of_Strasbourg"
+            ],
+            "scores": [
+                0.793394777265745,
+                0.11044546850998464,
+                0.01935483870967742,
+                0.016897081413210446,
+                0.015053763440860216,
+                0.013671274961597542,
+                0.0030721966205837174,
+                0.0027649769585253456,
+                0.0027649769585253456,
+                0.002304147465437788,
+                0.0013824884792626728,
+                0.001075268817204301,
+                0.001075268817204301,
+                0.0009216589861751152,
+                0.0009216589861751152,
+                0.0007680491551459293
+            ]
+        },
+        {
+            "begin": 3068,
+            "end": 3098,
+            "text": "La Derniere Nouvelles D\u2019Alsace",
+            "concept": 35,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3253,
+            "end": 3259,
+            "text": "Saddam",
+            "concept": 3,
+            "candidates": [
+                "Saddam_Hussein",
+                "Saddam_(name)",
+                "Saddam_Hussein_(South_Park)"
+            ],
+            "scores": [
+                0.9647058823529412,
+                0.023529411764705882,
+                0.011764705882352941
+            ]
+        },
+        {
+            "begin": 3262,
+            "end": 3273,
+            "text": "Baath Party",
+            "concept": 36,
+            "candidates": [
+                "Ba'ath_Party",
+                "Arab_Socialist_Ba'ath_Party_\u2013_Syria_Region",
+                "Arab_Socialist_Ba'ath_Party_\u2013_Iraq_Region",
+                "Ba'ath_Party_(Syrian-dominated_faction)",
+                "Ba'ath_Party_(Iraqi-dominated_faction)",
+                "Arab_Socialist_Ba'ath_Party_\u2013_Lebanon_Region",
+                "Ba'athism",
+                "Tunisian_Ba'ath_Movement",
+                "Arab_Socialist_Ba'ath_Party_\u2013_Egypt_Region",
+                "National_Arab_Socialist_Ba'ath_Party_\u2013_Yemen_Region"
+            ],
+            "scores": [
+                0.6873065015479877,
+                0.12538699690402477,
+                0.10835913312693499,
+                0.03715170278637771,
+                0.029411764705882353,
+                0.0046439628482972135,
+                0.0030959752321981426,
+                0.0015479876160990713,
+                0.0015479876160990713,
+                0.0015479876160990713
+            ]
+        },
+        {
+            "begin": 3316,
+            "end": 3321,
+            "text": "Iraqi",
+            "concept": 32
+        },
+        {
+            "begin": 3350,
+            "end": 3354,
+            "text": "U.S.",
+            "concept": 12,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3447,
+            "end": 3452,
+            "text": "Iraqi",
+            "concept": 32
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Union",
+            "keyword": true,
+            "count": 9,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Thessaloniki",
+            "keyword": true,
+            "count": 1,
+            "link": "Thessaloniki",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Iraq",
+            "keyword": true,
+            "count": 3,
+            "link": "Iraq",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Saddam Hussein",
+            "keyword": true,
+            "count": 5,
+            "link": "Saddam_Hussein",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Le Figaro",
+            "keyword": true,
+            "count": 1,
+            "link": "Le_Figaro",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "European",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Greek",
+            "keyword": false,
+            "count": 1,
+            "link": "Greek_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Thessaloniki summit",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "American",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "British",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Greece",
+            "keyword": false,
+            "count": 1,
+            "link": "Greece",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "U.S.",
+            "keyword": false,
+            "count": 4,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Financial Times",
+            "keyword": false,
+            "count": 1,
+            "link": "Financial_Times",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Tony Blair",
+            "keyword": false,
+            "count": 1,
+            "link": "Tony_Blair",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "1999",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Britain",
+            "keyword": false,
+            "count": 3,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "1990",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Greek",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "meta::redo",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Italian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "daily",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Corriere Della Sera",
+            "keyword": false,
+            "count": 1,
+            "link": "Corriere_della_Sera",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Republican Guards",
+            "keyword": false,
+            "count": 1,
+            "link": "Republican_Guard_(Iraq)",
+            "tags": [
+                "iptc::11000000",
+                "meta::redo",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Munich",
+            "keyword": false,
+            "count": 1,
+            "link": "Munich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "S\u00fcddeutsche Zeitung",
+            "keyword": false,
+            "count": 1,
+            "link": "S\u00fcddeutsche_Zeitung",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Bush",
+            "keyword": false,
+            "count": 1,
+            "link": "George_W._Bush",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Iraqi",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Al Auda",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Strasbourg",
+            "keyword": false,
+            "count": 1,
+            "link": "Strasbourg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "La Derniere Nouvelles D\u2019Alsace",
+            "keyword": false,
+            "count": 1,
+            "link": "Les_Derni\u00e8res_Nouvelles_d%27Alsace",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Baath Party",
+            "keyword": false,
+            "count": 1,
+            "link": "Ba'ath_Party",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 37,
+            "keyword": false,
+            "count": 0,
+            "link": "Italy",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 11
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 32
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 36
+        },
+        {
+            "s": 3,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "head_of_state-x",
+            "o": 32
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 36
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 7,
+            "p": "event_in0",
+            "o": 11
+        },
+        {
+            "s": 7,
+            "p": "event_in2",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 13,
+            "p": "in0-x",
+            "o": 9
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 9
+        },
+        {
+            "s": 14,
+            "p": "based_in2",
+            "o": 13
+        },
+        {
+            "s": 16,
+            "p": "agent_of",
+            "o": 18
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 9
+        },
+        {
+            "s": 16,
+            "p": "head_of_gov",
+            "o": 18
+        },
+        {
+            "s": 16,
+            "p": "head_of_gov-x",
+            "o": 9
+        },
+        {
+            "s": 20,
+            "p": "gpe0",
+            "o": 21
+        },
+        {
+            "s": 23,
+            "p": "gpe0",
+            "o": 11
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 24,
+            "p": "in0-x",
+            "o": 8
+        },
+        {
+            "s": 25,
+            "p": "gpe0",
+            "o": 37
+        },
+        {
+            "s": 27,
+            "p": "based_in0",
+            "o": 37
+        },
+        {
+            "s": 27,
+            "p": "based_in0-x",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "agency_of",
+            "o": 2
+        },
+        {
+            "s": 28,
+            "p": "agency_of-x",
+            "o": 32
+        },
+        {
+            "s": 28,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 28,
+            "p": "based_in0-x",
+            "o": 32
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 29,
+            "p": "in0-x",
+            "o": 20
+        },
+        {
+            "s": 30,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 30,
+            "p": "based_in0-x",
+            "o": 20
+        },
+        {
+            "s": 30,
+            "p": "based_in2",
+            "o": 29
+        },
+        {
+            "s": 31,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 31,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 31,
+            "p": "citizen_of-x",
+            "o": 8
+        },
+        {
+            "s": 31,
+            "p": "head_of_state",
+            "o": 12
+        },
+        {
+            "s": 31,
+            "p": "head_of_state-x",
+            "o": 8
+        },
+        {
+            "s": 32,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 33,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 33,
+            "p": "based_in0-x",
+            "o": 32
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 35,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 35,
+            "p": "based_in2",
+            "o": 34
+        },
+        {
+            "s": 36,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 36,
+            "p": "based_in0-x",
+            "o": 32
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000638",
+        "20000639",
+        "20000640"
+    ]
+}

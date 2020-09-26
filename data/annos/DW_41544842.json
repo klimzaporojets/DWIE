@@ -1,0 +1,2862 @@
+{
+    "id": "DW_41544842",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 2,
+            "text": "UK",
+            "concept": 0,
+            "candidates": [
+                "United_Kingdom",
+                "UK_Singles_Chart",
+                "UK_Albums_Chart",
+                "British_Phonographic_Industry",
+                "Official_Charts_Company",
+                "U.K._(band)",
+                "ISU_Junior_Grand_Prix_in_the_United_Kingdom",
+                ".uk",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "British_Overseas_Territories",
+                "List_of_British_films_of_1967",
+                "UK_Video_Charts",
+                "List_of_British_films_of_1999",
+                "List_of_British_films_of_1960",
+                "List_of_British_films_of_2003",
+                "List_of_British_films_of_1968"
+            ],
+            "scores": [
+                0.5038734184787486,
+                0.2370113361050459,
+                0.1652857954715401,
+                0.029132892650973588,
+                0.004875422486764574,
+                0.0033798941165913915,
+                0.002273203122663237,
+                0.0018544551790147458,
+                0.0017946340442078186,
+                0.001674991774593964,
+                0.001256243830945473,
+                0.0011366015613316184,
+                0.0011066909939281549,
+                0.0010468698591212275,
+                0.0010169592917177639,
+                0.0009870487243143003
+            ]
+        },
+        {
+            "begin": 4,
+            "end": 10,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 11,
+            "end": 16,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 33,
+            "end": 40,
+            "text": "actress",
+            "concept": 8
+        },
+        {
+            "begin": 41,
+            "end": 54,
+            "text": "Meghan Markle",
+            "concept": 3,
+            "candidates": [
+                "Meghan,_Duchess_of_Sussex"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 55,
+            "end": 62,
+            "text": "Britain",
+            "concept": 0,
+            "candidates": [
+                "United_Kingdom",
+                "Great_Britain",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "Roman_Britain",
+                "Kingdom_of_Great_Britain",
+                "British_Empire",
+                "Sub-Roman_Britain",
+                "Prehistoric_Britain",
+                "British_GAA",
+                "Britain_in_the_Middle_Ages",
+                "British_Iron_Age",
+                "List_of_British_films_of_1959",
+                "Early_modern_Britain",
+                "List_of_British_films_of_1958",
+                "Britain_(place_name)",
+                "England"
+            ],
+            "scores": [
+                0.5275754422476587,
+                0.2047346514047867,
+                0.08220603537981269,
+                0.04435483870967742,
+                0.04019250780437045,
+                0.013527575442247659,
+                0.009885535900104058,
+                0.006373569198751301,
+                0.004032258064516129,
+                0.0037721123829344435,
+                0.0035119667013527576,
+                0.0032518210197710717,
+                0.003121748178980229,
+                0.0024713839750260145,
+                0.002081165452653486,
+                0.0015608740894901144
+            ]
+        },
+        {
+            "begin": 65,
+            "end": 71,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 72,
+            "end": 77,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 96,
+            "end": 98,
+            "text": "US",
+            "concept": 9,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 99,
+            "end": 106,
+            "text": "partner",
+            "concept": 10
+        },
+        {
+            "begin": 107,
+            "end": 120,
+            "text": "Meghan Markle",
+            "concept": 3,
+            "candidates": [
+                "Meghan,_Duchess_of_Sussex"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 133,
+            "end": 139,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 140,
+            "end": 147,
+            "text": "Charles",
+            "concept": 4,
+            "candidates": [
+                "Charles_County,_Maryland",
+                "Tina_Charles_(basketball)",
+                "Charles,_Prince_of_Wales",
+                "Charles_I_of_England",
+                "Charles",
+                "Charles_V,_Holy_Roman_Emperor",
+                "Charles_(footballer,_born_1984)",
+                "Charles_II_of_England",
+                "Charles_VII_of_France",
+                "Charles_Lamb",
+                "Charles_I_of_Austria",
+                "National_Register_of_Historic_Places_listings_in_Charles_County,_Maryland",
+                "Charles_Wesley",
+                "Charles_Koch",
+                "Charles_I_of_Anjou",
+                "Charles_IV,_Holy_Roman_Emperor"
+            ],
+            "scores": [
+                0.06199770378874857,
+                0.050133945656333716,
+                0.04822043628013777,
+                0.027937236892460773,
+                0.02640642939150402,
+                0.017986988136241867,
+                0.016073478760045924,
+                0.016073478760045924,
+                0.013394565633371604,
+                0.009950248756218905,
+                0.009950248756218905,
+                0.009567546880979716,
+                0.009567546880979716,
+                0.009184845005740528,
+                0.009184845005740528,
+                0.009184845005740528
+            ]
+        },
+        {
+            "begin": 213,
+            "end": 217,
+            "text": "2018",
+            "concept": 11
+        },
+        {
+            "begin": 248,
+            "end": 265,
+            "text": "Kensington Palace",
+            "concept": 5,
+            "candidates": [
+                "Kensington_Palace",
+                "Kensington"
+            ],
+            "scores": [
+                0.9976525821596244,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 294,
+            "end": 299,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 363,
+            "end": 380,
+            "text": "Kensington Palace",
+            "concept": 5,
+            "candidates": [
+                "Kensington_Palace",
+                "Kensington"
+            ],
+            "scores": [
+                0.9976525821596244,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 416,
+            "end": 422,
+            "text": "Markle",
+            "concept": 3,
+            "candidates": [
+                "Markle,_Indiana",
+                "Markle,_East_Lothian",
+                "Huntington_North_High_School",
+                "Markle_Foundation"
+            ],
+            "scores": [
+                0.8064516129032258,
+                0.12903225806451613,
+                0.03225806451612903,
+                0.03225806451612903
+            ]
+        },
+        {
+            "begin": 469,
+            "end": 474,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 495,
+            "end": 503,
+            "text": "Botswana",
+            "concept": 12,
+            "candidates": [
+                "Botswana",
+                "Botswana_national_football_team",
+                "Botswana_Football_Association",
+                "Botswana_national_cricket_team",
+                "Botswana_at_the_2006_Commonwealth_Games",
+                "Botswana_women's_national_football_team",
+                "Botswana_Defence_Force",
+                "Botswana_national_rugby_union_team",
+                "Botswana_Defence_Force_Air_Wing",
+                "Football_in_Botswana",
+                "LGBT_rights_in_Botswana",
+                "Miss_Botswana",
+                "Botswana_Fed_Cup_team",
+                "Botswana_men's_national_squash_team",
+                "Elections_in_Botswana",
+                "Transport_in_Botswana"
+            ],
+            "scores": [
+                0.9150224653252589,
+                0.02617698769290877,
+                0.007618675522563001,
+                0.005860519632740769,
+                0.0035163117796444617,
+                0.002344207853096308,
+                0.0019535065442469234,
+                0.0017581558898222308,
+                0.0015628052353975385,
+                0.0015628052353975385,
+                0.0015628052353975385,
+                0.0013674545809728462,
+                0.0013674545809728462,
+                0.001172103926548154,
+                0.001172103926548154,
+                0.001172103926548154
+            ]
+        },
+        {
+            "begin": 575,
+            "end": 583,
+            "text": "Princess",
+            "concept": 13
+        },
+        {
+            "begin": 584,
+            "end": 589,
+            "text": "Diana",
+            "concept": 14,
+            "candidates": [
+                "Diana_(mythology)",
+                "Diana_Region",
+                "Diana_(Paul_Anka_song)",
+                "Diana,_Princess_of_Wales",
+                "Diana_(film)",
+                "Diana_(album)",
+                "Diana_Hart",
+                "Diana,_New_York",
+                "Diana_(U.S._TV_series)",
+                "Diana_Mitford",
+                "Diana_(One_Direction_song)",
+                "Wonder_Woman",
+                "Diana_(UK_TV_series)",
+                "Diana!",
+                "Diana_(pastoral_romance)",
+                "Hurricane_Diana"
+            ],
+            "scores": [
+                0.48197492163009403,
+                0.05799373040752351,
+                0.054075235109717866,
+                0.052507836990595615,
+                0.041536050156739814,
+                0.039968652037617555,
+                0.018025078369905956,
+                0.012539184952978056,
+                0.012539184952978056,
+                0.011755485893416929,
+                0.0109717868338558,
+                0.0109717868338558,
+                0.01018808777429467,
+                0.009404388714733543,
+                0.008620689655172414,
+                0.007836990595611285
+            ]
+        },
+        {
+            "begin": 591,
+            "end": 605,
+            "text": "Clarence House",
+            "concept": 15,
+            "candidates": [
+                "Clarence_House",
+                "Clarence_House,_Richmond",
+                "Leeds_Dock"
+            ],
+            "scores": [
+                0.9693251533742331,
+                0.024539877300613498,
+                0.006134969325153374
+            ]
+        },
+        {
+            "begin": 625,
+            "end": 631,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 632,
+            "end": 637,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 647,
+            "end": 653,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 654,
+            "end": 661,
+            "text": "Charles",
+            "concept": 4,
+            "candidates": [
+                "Charles_County,_Maryland",
+                "Tina_Charles_(basketball)",
+                "Charles,_Prince_of_Wales",
+                "Charles_I_of_England",
+                "Charles",
+                "Charles_V,_Holy_Roman_Emperor",
+                "Charles_(footballer,_born_1984)",
+                "Charles_II_of_England",
+                "Charles_VII_of_France",
+                "Charles_Lamb",
+                "Charles_I_of_Austria",
+                "National_Register_of_Historic_Places_listings_in_Charles_County,_Maryland",
+                "Charles_Wesley",
+                "Charles_Koch",
+                "Charles_I_of_Anjou",
+                "Charles_IV,_Holy_Roman_Emperor"
+            ],
+            "scores": [
+                0.06199770378874857,
+                0.050133945656333716,
+                0.04822043628013777,
+                0.027937236892460773,
+                0.02640642939150402,
+                0.017986988136241867,
+                0.016073478760045924,
+                0.016073478760045924,
+                0.013394565633371604,
+                0.009950248756218905,
+                0.009950248756218905,
+                0.009567546880979716,
+                0.009567546880979716,
+                0.009184845005740528,
+                0.009184845005740528,
+                0.009184845005740528
+            ]
+        },
+        {
+            "begin": 688,
+            "end": 694,
+            "text": "Monday",
+            "concept": 16
+        },
+        {
+            "begin": 727,
+            "end": 761,
+            "text": "Royal Highness the Prince of Wales",
+            "concept": 17
+        },
+        {
+            "begin": 805,
+            "end": 811,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 812,
+            "end": 817,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 821,
+            "end": 824,
+            "text": "Ms.",
+            "concept": 18
+        },
+        {
+            "begin": 825,
+            "end": 838,
+            "text": "Meghan Markle",
+            "concept": 3,
+            "candidates": [
+                "Meghan,_Duchess_of_Sussex"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 990,
+            "end": 1008,
+            "text": "Nottingham Cottage",
+            "concept": 19,
+            "candidates": [
+                "Nottingham_Cottage"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1012,
+            "end": 1029,
+            "text": "Kensington Palace",
+            "concept": 5,
+            "candidates": [
+                "Kensington_Palace",
+                "Kensington"
+            ],
+            "scores": [
+                0.9976525821596244,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 1031,
+            "end": 1037,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 1038,
+            "end": 1043,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1139,
+            "end": 1144,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1178,
+            "end": 1186,
+            "text": "divorcee",
+            "concept": 20
+        },
+        {
+            "begin": 1187,
+            "end": 1193,
+            "text": "Markle",
+            "concept": 3,
+            "candidates": [
+                "Markle,_Indiana",
+                "Markle,_East_Lothian",
+                "Huntington_North_High_School",
+                "Markle_Foundation"
+            ],
+            "scores": [
+                0.8064516129032258,
+                0.12903225806451613,
+                0.03225806451612903,
+                0.03225806451612903
+            ]
+        },
+        {
+            "begin": 1233,
+            "end": 1251,
+            "text": "legal drama series",
+            "concept": 21
+        },
+        {
+            "begin": 1253,
+            "end": 1258,
+            "text": "Suits",
+            "concept": 6,
+            "candidates": [
+                "Suits_(U.S._TV_series)",
+                "Suit_(cards)",
+                "Suit_(clothing)",
+                "Suits_(South_Korean_TV_series)",
+                "Suits_(album)",
+                "Lawsuit",
+                "Space_suit",
+                "Suits_(film)",
+                "Bomb_suit",
+                "Suits_(season_7)",
+                "Survival_suit",
+                "Sejdi\u0107_and_Finci_v._Bosnia_and_Herzegovina",
+                "Dinosaur_suit",
+                "Suits_(season_5)",
+                "NBC_suit",
+                "White-collar_worker"
+            ],
+            "scores": [
+                0.6183310533515732,
+                0.15047879616963064,
+                0.13132694938440492,
+                0.03146374829001368,
+                0.023255813953488372,
+                0.019151846785225718,
+                0.004103967168262654,
+                0.0027359781121751026,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513,
+                0.0013679890560875513
+            ]
+        },
+        {
+            "begin": 1297,
+            "end": 1306,
+            "text": "June 2016",
+            "concept": 22
+        },
+        {
+            "begin": 1312,
+            "end": 1316,
+            "text": "Duke",
+            "concept": 23
+        },
+        {
+            "begin": 1321,
+            "end": 1341,
+            "text": "Duchess of Cambridge",
+            "concept": 24
+        },
+        {
+            "begin": 1343,
+            "end": 1348,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1365,
+            "end": 1371,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 1372,
+            "end": 1379,
+            "text": "William",
+            "concept": 25,
+            "candidates": [
+                "Will.i.am",
+                "William_III_of_England",
+                "William",
+                "Prince_William,_Duke_of_Cambridge",
+                "William_the_Conqueror",
+                "William_I_of_W\u00fcrttemberg",
+                "William_Booth",
+                "William_J\u00fanior_Salles_de_Lima_Souza",
+                "William_Amaral_de_Andrade",
+                "William_Wordsworth",
+                "William_II_of_England",
+                "William,_Duke_of_Austria",
+                "William_Smith_(Latter_Day_Saints)",
+                "William_IV_of_the_United_Kingdom",
+                "William_Hutchinson_(Rhode_Island)",
+                "William_I,_Count_of_Boulogne"
+            ],
+            "scores": [
+                0.44132129667624126,
+                0.022363561756257692,
+                0.01764464505539598,
+                0.013746409519901519,
+                0.01107919573245794,
+                0.009027492819039803,
+                0.005949938448912597,
+                0.005744768157570784,
+                0.004924086992203529,
+                0.004924086992203529,
+                0.004718916700861715,
+                0.004308576118178088,
+                0.0038982355354944603,
+                0.0036930652441526466,
+                0.003487894952810833,
+                0.003487894952810833
+            ]
+        },
+        {
+            "begin": 1384,
+            "end": 1398,
+            "text": "Kate Middleton",
+            "concept": 26,
+            "candidates": [
+                "Catherine,_Duchess_of_Cambridge"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1451,
+            "end": 1456,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1461,
+            "end": 1467,
+            "text": "Meghan",
+            "concept": 3,
+            "candidates": [
+                "Meghan_McCain",
+                "Meghan,_Duchess_of_Sussex",
+                "Megan",
+                "Meghan_Allen"
+            ],
+            "scores": [
+                0.5833333333333334,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 1507,
+            "end": 1513,
+            "text": "Meghan",
+            "concept": 3,
+            "candidates": [
+                "Meghan_McCain",
+                "Meghan,_Duchess_of_Sussex",
+                "Megan",
+                "Meghan_Allen"
+            ],
+            "scores": [
+                0.5833333333333334,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 1543,
+            "end": 1548,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1564,
+            "end": 1578,
+            "text": "Clarence House",
+            "concept": 15,
+            "candidates": [
+                "Clarence_House",
+                "Clarence_House,_Richmond",
+                "Leeds_Dock"
+            ],
+            "scores": [
+                0.9693251533742331,
+                0.024539877300613498,
+                0.006134969325153374
+            ]
+        },
+        {
+            "begin": 1596,
+            "end": 1601,
+            "text": "Queen",
+            "concept": 27
+        },
+        {
+            "begin": 1602,
+            "end": 1614,
+            "text": "Elizabeth II",
+            "concept": 1,
+            "candidates": [
+                "Elizabeth_II",
+                "Monarchy_of_Canada",
+                "Monarchy_of_Saint_Kitts_and_Nevis",
+                "List_of_titles_and_honours_of_Elizabeth_II",
+                "Isabella_II_of_Spain",
+                "Style_of_the_Canadian_sovereign",
+                "Coronation_of_Elizabeth_II",
+                "Monarchy_of_Tuvalu",
+                "Monarchy_of_Solomon_Islands",
+                "Monarchy_of_Papua_New_Guinea",
+                "Monarchy_of_New_Zealand",
+                "Monarchy_of_Australia",
+                "Monarchy_of_Saint_Vincent_and_the_Grenadines",
+                "Monarchy_of_Saint_Lucia",
+                "Monarchy_of_Jamaica",
+                "Monarchy_of_Grenada"
+            ],
+            "scores": [
+                0.9956198819272519,
+                0.0007617596648257475,
+                0.00038087983241287375,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687,
+                0.00019043991620643687
+            ]
+        },
+        {
+            "begin": 1631,
+            "end": 1637,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 1638,
+            "end": 1644,
+            "text": "Philip",
+            "concept": 28,
+            "candidates": [
+                "Philip_the_Apostle",
+                "Philip_II_of_Spain",
+                "Philip_II_of_Macedon",
+                "Philip,_Elector_Palatine",
+                "Philip_(name)",
+                "Prince_Philip,_Duke_of_Edinburgh",
+                "Philip_V_of_Spain",
+                "Philip_the_Evangelist",
+                "Philip_of_Swabia",
+                "Philip_Jennings_(The_Americans)",
+                "Philip_I_of_Castile",
+                "Philip,_South_Dakota",
+                "Philip_V_of_Macedon",
+                "Philip,_Duke_of_Palatinate-Neuburg",
+                "Philip_the_Arab",
+                "Philip,_Duke_of_Holstein-Gottorp"
+            ],
+            "scores": [
+                0.09083044982698962,
+                0.07439446366782007,
+                0.045847750865051905,
+                0.028546712802768166,
+                0.02768166089965398,
+                0.02249134948096886,
+                0.02249134948096886,
+                0.019896193771626297,
+                0.01903114186851211,
+                0.01643598615916955,
+                0.01643598615916955,
+                0.015570934256055362,
+                0.014705882352941176,
+                0.01384083044982699,
+                0.01384083044982699,
+                0.012975778546712802
+            ]
+        },
+        {
+            "begin": 1748,
+            "end": 1753,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 1757,
+            "end": 1762,
+            "text": "Queen",
+            "concept": 27
+        },
+        {
+            "begin": 1763,
+            "end": 1772,
+            "text": "Elizabeth",
+            "concept": 1,
+            "candidates": [
+                "Elizabeth,_New_Jersey",
+                "Elizabeth_I_of_England",
+                "Elizabeth_(film)",
+                "Elizabeth,_South_Australia",
+                "Elizabeth_(biblical_figure)",
+                "Elizabeth_of_Russia",
+                "Elizabeth_(given_name)",
+                "Electoral_district_of_Elizabeth_(South_Australia)",
+                "Elizabeth_II",
+                "Elizabeth_Stuart,_Queen_of_Bohemia",
+                "Queen_Elizabeth_The_Queen_Mother",
+                "Elizabeth,_Pennsylvania",
+                "Elizabeth_(BioShock)",
+                "Elizabeth,_Indiana",
+                "Elizabeth,_Illinois",
+                "Elizabeth,_West_Virginia"
+            ],
+            "scores": [
+                0.15909855364951228,
+                0.12445341405987219,
+                0.11066263033972419,
+                0.03969054826774302,
+                0.03733602421796166,
+                0.03195425496131853,
+                0.020517995290951902,
+                0.01917255297679112,
+                0.01849983181971073,
+                0.01648166834846956,
+                0.011099899091826439,
+                0.010763538513286243,
+                0.008409014463504878,
+                0.008409014463504878,
+                0.008072653884964682,
+                0.007063572149344097
+            ]
+        },
+        {
+            "begin": 1809,
+            "end": 1816,
+            "text": "British",
+            "concept": 29
+        },
+        {
+            "begin": 1840,
+            "end": 1856,
+            "text": "House of Windsor",
+            "concept": 30,
+            "candidates": [
+                "House_of_Windsor"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1867,
+            "end": 1873,
+            "text": "Markle",
+            "concept": 3,
+            "candidates": [
+                "Markle,_Indiana",
+                "Markle,_East_Lothian",
+                "Huntington_North_High_School",
+                "Markle_Foundation"
+            ],
+            "scores": [
+                0.8064516129032258,
+                0.12903225806451613,
+                0.03225806451612903,
+                0.03225806451612903
+            ]
+        },
+        {
+            "begin": 1876,
+            "end": 1883,
+            "text": "parents",
+            "concept": 31
+        },
+        {
+            "begin": 1884,
+            "end": 1897,
+            "text": "Thomas Markle",
+            "concept": 32,
+            "candidates": [
+                "Thomas_Markle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1902,
+            "end": 1915,
+            "text": "Doria Ragland",
+            "concept": 33,
+            "candidates": [
+                "Doria_Ragland"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1966,
+            "end": 1972,
+            "text": "Meghan",
+            "concept": 3,
+            "candidates": [
+                "Meghan_McCain",
+                "Meghan,_Duchess_of_Sussex",
+                "Megan",
+                "Meghan_Allen"
+            ],
+            "scores": [
+                0.5833333333333334,
+                0.16666666666666666,
+                0.16666666666666666,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 1977,
+            "end": 1982,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 2040,
+            "end": 2046,
+            "text": "Markle",
+            "concept": 3,
+            "candidates": [
+                "Markle,_Indiana",
+                "Markle,_East_Lothian",
+                "Huntington_North_High_School",
+                "Markle_Foundation"
+            ],
+            "scores": [
+                0.8064516129032258,
+                0.12903225806451613,
+                0.03225806451612903,
+                0.03225806451612903
+            ]
+        },
+        {
+            "begin": 2051,
+            "end": 2055,
+            "text": "Emmy",
+            "concept": 34,
+            "candidates": [
+                "Emmy_Award",
+                "Primetime_Emmy_Award",
+                "Emmy_(Armenian_singer)",
+                "Daytime_Emmy_Award",
+                "Emmy_(film)",
+                "International_Emmy_Awards",
+                "Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Limited_Series_or_Movie",
+                "Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Limited_Series_or_Movie",
+                "Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series",
+                "International_Academy_of_Television_Arts_and_Sciences",
+                "Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Drama_Series",
+                "Creative_Arts_Emmy_Award",
+                "Emmy_G\u00f6ring",
+                "59th_Primetime_Emmy_Awards",
+                "Sports_Emmy_Award",
+                "Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series"
+            ],
+            "scores": [
+                0.9010499522748966,
+                0.04708876869233217,
+                0.006045179764556157,
+                0.004772510340439071,
+                0.004136175628380528,
+                0.002545338848234171,
+                0.0022271714922048997,
+                0.0019090041361756285,
+                0.001590836780146357,
+                0.001590836780146357,
+                0.0012726694241170856,
+                0.0012726694241170856,
+                0.0012726694241170856,
+                0.0009545020680878142,
+                0.0009545020680878142,
+                0.0009545020680878142
+            ]
+        },
+        {
+            "begin": 2095,
+            "end": 2100,
+            "text": "Dutch",
+            "concept": 35
+        },
+        {
+            "begin": 2102,
+            "end": 2109,
+            "text": "English",
+            "concept": 36
+        },
+        {
+            "begin": 2111,
+            "end": 2116,
+            "text": "Irish",
+            "concept": 37
+        },
+        {
+            "begin": 2121,
+            "end": 2129,
+            "text": "Scottish",
+            "concept": 38
+        },
+        {
+            "begin": 2157,
+            "end": 2164,
+            "text": "African",
+            "concept": 39
+        },
+        {
+            "begin": 2165,
+            "end": 2173,
+            "text": "American",
+            "concept": 40
+        },
+        {
+            "begin": 2231,
+            "end": 2236,
+            "text": "Harry",
+            "concept": 2,
+            "candidates": [
+                "Prince_Harry,_Duke_of_Sussex",
+                "Harry_(talk_show)",
+                "Harry_Potter_(character)",
+                "Harry_(TV_series)",
+                "Harry_Warner_(Shortland_Street)",
+                "Harry_Sullivan_(Doctor_Who)",
+                "Harry_Warner",
+                "Harry_(name)",
+                "Harry_Ramsay",
+                "Harry_Morgan_(Dexter)",
+                "Harry_Osborn",
+                "Harry_(album)",
+                "Harry_S._Truman",
+                "Harry_Solomon",
+                "Harry_Potter",
+                "Davey_Boy_Smith_Jr."
+            ],
+            "scores": [
+                0.09302325581395349,
+                0.07596899224806201,
+                0.05891472868217054,
+                0.05116279069767442,
+                0.034108527131782945,
+                0.031007751937984496,
+                0.031007751937984496,
+                0.027906976744186046,
+                0.023255813953488372,
+                0.020155038759689922,
+                0.020155038759689922,
+                0.015503875968992248,
+                0.012403100775193798,
+                0.012403100775193798,
+                0.010852713178294573,
+                0.009302325581395349
+            ]
+        },
+        {
+            "begin": 2306,
+            "end": 2313,
+            "text": "William",
+            "concept": 25,
+            "candidates": [
+                "Will.i.am",
+                "William_III_of_England",
+                "William",
+                "Prince_William,_Duke_of_Cambridge",
+                "William_the_Conqueror",
+                "William_I_of_W\u00fcrttemberg",
+                "William_Booth",
+                "William_J\u00fanior_Salles_de_Lima_Souza",
+                "William_Amaral_de_Andrade",
+                "William_Wordsworth",
+                "William_II_of_England",
+                "William,_Duke_of_Austria",
+                "William_Smith_(Latter_Day_Saints)",
+                "William_IV_of_the_United_Kingdom",
+                "William_Hutchinson_(Rhode_Island)",
+                "William_I,_Count_of_Boulogne"
+            ],
+            "scores": [
+                0.44132129667624126,
+                0.022363561756257692,
+                0.01764464505539598,
+                0.013746409519901519,
+                0.01107919573245794,
+                0.009027492819039803,
+                0.005949938448912597,
+                0.005744768157570784,
+                0.004924086992203529,
+                0.004924086992203529,
+                0.004718916700861715,
+                0.004308576118178088,
+                0.0038982355354944603,
+                0.0036930652441526466,
+                0.003487894952810833,
+                0.003487894952810833
+            ]
+        },
+        {
+            "begin": 2402,
+            "end": 2418,
+            "text": "Royal Foundation",
+            "concept": 41,
+            "candidates": [
+                "The_Royal_Foundation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2427,
+            "end": 2446,
+            "text": "Ministry of Defense",
+            "concept": 42,
+            "candidates": [
+                "Ministry_of_Defense_(Israel)",
+                "Ministry_of_Defense_(Japan)",
+                "Ministry_of_Defence_(Russia)",
+                "Ministry_of_Defence_(Vietnam)",
+                "Ministry_of_Defence",
+                "Ministry_of_Defence_(Ukraine)",
+                "Ministry_of_Defence_(India)",
+                "Ministry_of_Defense_(Afghanistan)",
+                "Ministry_of_Defense_(Soviet_Union)",
+                "Ministry_of_Defense_(Argentina)",
+                "Ministry_of_Defense_(Peru)",
+                "Ministry_of_Defence_(United_Kingdom)",
+                "Ministry_of_Defence_(Indonesia)",
+                "Ministry_of_the_Armed_Forces_(France)",
+                "Ministry_of_National_Defence_(Romania)",
+                "Ministry_of_Defense_(Ethiopia)"
+            ],
+            "scores": [
+                0.13904761904761906,
+                0.12571428571428572,
+                0.07809523809523809,
+                0.047619047619047616,
+                0.045714285714285714,
+                0.03428571428571429,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02666666666666667,
+                0.024761904761904763,
+                0.022857142857142857,
+                0.02095238095238095,
+                0.017142857142857144,
+                0.015238095238095238,
+                0.015238095238095238,
+                0.013333333333333334
+            ]
+        },
+        {
+            "begin": 2585,
+            "end": 2589,
+            "text": "2011",
+            "concept": 43
+        },
+        {
+            "begin": 2596,
+            "end": 2610,
+            "text": "Kate Middleton",
+            "concept": 26,
+            "candidates": [
+                "Catherine,_Duchess_of_Cambridge"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2615,
+            "end": 2621,
+            "text": "Prince",
+            "concept": 7
+        },
+        {
+            "begin": 2622,
+            "end": 2629,
+            "text": "William",
+            "concept": 25,
+            "candidates": [
+                "Will.i.am",
+                "William_III_of_England",
+                "William",
+                "Prince_William,_Duke_of_Cambridge",
+                "William_the_Conqueror",
+                "William_I_of_W\u00fcrttemberg",
+                "William_Booth",
+                "William_J\u00fanior_Salles_de_Lima_Souza",
+                "William_Amaral_de_Andrade",
+                "William_Wordsworth",
+                "William_II_of_England",
+                "William,_Duke_of_Austria",
+                "William_Smith_(Latter_Day_Saints)",
+                "William_IV_of_the_United_Kingdom",
+                "William_Hutchinson_(Rhode_Island)",
+                "William_I,_Count_of_Boulogne"
+            ],
+            "scores": [
+                0.44132129667624126,
+                0.022363561756257692,
+                0.01764464505539598,
+                0.013746409519901519,
+                0.01107919573245794,
+                0.009027492819039803,
+                0.005949938448912597,
+                0.005744768157570784,
+                0.004924086992203529,
+                0.004924086992203529,
+                0.004718916700861715,
+                0.004308576118178088,
+                0.0038982355354944603,
+                0.0036930652441526466,
+                0.003487894952810833,
+                0.003487894952810833
+            ]
+        },
+        {
+            "begin": 2646,
+            "end": 2652,
+            "text": "London",
+            "concept": 44,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 2655,
+            "end": 2672,
+            "text": "Westminster Abbey",
+            "concept": 45,
+            "candidates": [
+                "Westminster_Abbey",
+                "Westminster_Abbey_(UK_Parliament_constituency)",
+                "Westminster_Abbey_(British_Columbia)",
+                "Burials_and_memorials_in_Westminster_Abbey",
+                "Handel_Commemoration",
+                "Westminster_Abbey_by-election,_1932",
+                "Westminster_Abbey_by-election,_1939",
+                "Westminster_Abbey_by-election,_1921",
+                "Westminster_Abbey_by-election,_1924",
+                "Close_of_the_Collegiate_Church_of_St_Peter",
+                "Dean_and_Chapter_of_Westminster"
+            ],
+            "scores": [
+                0.9806637806637807,
+                0.013564213564213565,
+                0.002886002886002886,
+                0.0008658008658008658,
+                0.0002886002886002886,
+                0.0002886002886002886,
+                0.0002886002886002886,
+                0.0002886002886002886,
+                0.0002886002886002886,
+                0.0002886002886002886,
+                0.0002886002886002886
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Britain",
+            "keyword": false,
+            "count": 2,
+            "link": "United_Kingdom",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Elizabeth II",
+            "keyword": false,
+            "count": 2,
+            "link": "Elizabeth_II",
+            "tags": [
+                "gender::female",
+                "iptc::08000000",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Harry",
+            "keyword": true,
+            "count": 14,
+            "link": "Prince_Harry,_Duke_of_Sussex",
+            "tags": [
+                "gender::male",
+                "iptc::08000000",
+                "slot::keyword",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Meghan Markle",
+            "keyword": true,
+            "count": 10,
+            "link": "Meghan,_Duchess_of_Sussex",
+            "tags": [
+                "gender::female",
+                "iptc::01000000",
+                "slot::keyword",
+                "topic::culture",
+                "type::actor",
+                "type::artist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Charles",
+            "keyword": true,
+            "count": 2,
+            "link": "Charles,_Prince_of_Wales",
+            "tags": [
+                "gender::male",
+                "iptc::08000000",
+                "slot::keyword",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Kensington Palace",
+            "keyword": true,
+            "count": 3,
+            "link": "Kensington_Palace",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Suits",
+            "keyword": true,
+            "count": 1,
+            "link": "Suits_(U.S._TV_series)",
+            "tags": [
+                "iptc::01000000",
+                "slot::keyword",
+                "topic::culture",
+                "type::entity",
+                "type::misc",
+                "type::tv_title",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Prince",
+            "keyword": false,
+            "count": 10,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "actress",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "partner",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "2018",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Botswana",
+            "keyword": false,
+            "count": 1,
+            "link": "Botswana",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Princess",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Diana",
+            "keyword": false,
+            "count": 1,
+            "link": "Diana,_Princess_of_Wales",
+            "tags": [
+                "gender::female",
+                "iptc::08000000",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Clarence House",
+            "keyword": false,
+            "count": 2,
+            "link": "Clarence_House",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Royal Highness the Prince of Wales",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Ms.",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Nottingham Cottage",
+            "keyword": false,
+            "count": 1,
+            "link": "Nottingham_Cottage",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "divorcee",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "legal drama series",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "June 2016",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Duke",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Duchess of Cambridge",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "William",
+            "keyword": false,
+            "count": 3,
+            "link": "Prince_William,_Duke_of_Cambridge",
+            "tags": [
+                "gender::male",
+                "iptc::08000000",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Kate Middleton",
+            "keyword": false,
+            "count": 2,
+            "link": "Catherine,_Duchess_of_Cambridge",
+            "tags": [
+                "gender::female",
+                "iptc::01000000",
+                "topic::culture",
+                "type::actor",
+                "type::artist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Queen",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Philip",
+            "keyword": false,
+            "count": 1,
+            "link": "Prince_Philip,_Duke_of_Edinburgh",
+            "tags": [
+                "gender::male",
+                "iptc::08000000",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "House of Windsor",
+            "keyword": false,
+            "count": 1,
+            "link": "House_of_Windsor",
+            "tags": [
+                "iptc::08000000",
+                "topic::human_interest",
+                "type::entity",
+                "type::person",
+                "type::royalty"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "parents",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Thomas Markle",
+            "keyword": false,
+            "count": 1,
+            "link": "Thomas_Markle",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Doria Ragland",
+            "keyword": false,
+            "count": 1,
+            "link": "Doria_Ragland",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Emmy",
+            "keyword": false,
+            "count": 1,
+            "link": "Emmy_Award",
+            "tags": [
+                "iptc::01000000",
+                "iptc::08000000",
+                "iptc::20000498",
+                "topic::culture",
+                "topic::human_interest",
+                "type::award",
+                "type::entity",
+                "type::misc",
+                "type::tv_award"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "English",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Irish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Scottish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe1-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "African",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "Royal Foundation",
+            "keyword": false,
+            "count": 1,
+            "link": "The_Royal_Foundation",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "Ministry of Defense",
+            "keyword": false,
+            "count": 1,
+            "link": "Ministry_of_Defence_(United_Kingdom)",
+            "tags": [
+                "iptc::11000000",
+                "policy::defense",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 44,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 45,
+            "text": "Westminster Abbey",
+            "keyword": false,
+            "count": 1,
+            "link": "Westminster_Abbey",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 46,
+            "keyword": false,
+            "count": 0,
+            "link": "Netherlands",
+            "tags": []
+        },
+        {
+            "concept": 47,
+            "keyword": false,
+            "count": 0,
+            "link": "Scotland",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 1,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "spouse_of",
+            "o": 28
+        },
+        {
+            "s": 2,
+            "p": "child_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 2,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "child_of",
+            "o": 32
+        },
+        {
+            "s": 3,
+            "p": "child_of",
+            "o": 33
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 40
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 4,
+            "p": "parent_of",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 29
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 36
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 14,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 29
+        },
+        {
+            "s": 15,
+            "p": "in0-x",
+            "o": 36
+        },
+        {
+            "s": 19,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 29
+        },
+        {
+            "s": 19,
+            "p": "in0-x",
+            "o": 36
+        },
+        {
+            "s": 25,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 25,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 25,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 25,
+            "p": "sibling",
+            "o": 2
+        },
+        {
+            "s": 25,
+            "p": "spouse_of",
+            "o": 26
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 26,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 26,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 26,
+            "p": "spouse_of",
+            "o": 25
+        },
+        {
+            "s": 28,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 28,
+            "p": "citizen_of-x",
+            "o": 29
+        },
+        {
+            "s": 28,
+            "p": "citizen_of-x",
+            "o": 36
+        },
+        {
+            "s": 28,
+            "p": "royalty_of",
+            "o": 0
+        },
+        {
+            "s": 28,
+            "p": "spouse_of",
+            "o": 1
+        },
+        {
+            "s": 29,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 32,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 32,
+            "p": "citizen_of-x",
+            "o": 40
+        },
+        {
+            "s": 32,
+            "p": "parent_of",
+            "o": 3
+        },
+        {
+            "s": 33,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 33,
+            "p": "citizen_of-x",
+            "o": 40
+        },
+        {
+            "s": 33,
+            "p": "parent_of",
+            "o": 3
+        },
+        {
+            "s": 35,
+            "p": "gpe0",
+            "o": 46
+        },
+        {
+            "s": 36,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 38,
+            "p": "gpe1",
+            "o": 47
+        },
+        {
+            "s": 40,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 41,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 41,
+            "p": "based_in0-x",
+            "o": 29
+        },
+        {
+            "s": 41,
+            "p": "based_in0-x",
+            "o": 36
+        },
+        {
+            "s": 42,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 42,
+            "p": "agency_of-x",
+            "o": 29
+        },
+        {
+            "s": 42,
+            "p": "agency_of-x",
+            "o": 36
+        },
+        {
+            "s": 42,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 42,
+            "p": "based_in0-x",
+            "o": 29
+        },
+        {
+            "s": 42,
+            "p": "based_in0-x",
+            "o": 36
+        },
+        {
+            "s": 42,
+            "p": "ministry_of",
+            "o": 0
+        },
+        {
+            "s": 44,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 44,
+            "p": "in0-x",
+            "o": 29
+        },
+        {
+            "s": 44,
+            "p": "in0-x",
+            "o": 36
+        },
+        {
+            "s": 45,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 45,
+            "p": "in0-x",
+            "o": 29
+        },
+        {
+            "s": 45,
+            "p": "in0-x",
+            "o": 36
+        }
+    ],
+    "frames": [
+        {
+            "type": "marry",
+            "slots": [
+                {
+                    "name": "person",
+                    "value": 2
+                },
+                {
+                    "name": "person",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "08000000",
+        "14000000",
+        "20000502",
+        "20000504",
+        "20000506",
+        "20000780",
+        "20000786"
+    ]
+}

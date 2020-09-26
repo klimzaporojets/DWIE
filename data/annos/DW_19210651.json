@@ -1,0 +1,97 @@
+{
+    "id": "DW_19210651",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 1,
+            "end": 15,
+            "text": "No Detox Water",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 42,
+            "end": 54,
+            "text": "Klaus Staeck",
+            "concept": 0,
+            "candidates": [
+                "Klaus_Staeck"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 77,
+            "end": 91,
+            "text": "No Detox Water",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 136,
+            "end": 148,
+            "text": "Klaus Staeck",
+            "concept": 0,
+            "candidates": [
+                "Klaus_Staeck"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Klaus Staeck",
+            "keyword": true,
+            "count": 3,
+            "link": "Klaus_Staeck",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::culture",
+                "type::culture_per",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "No Detox Water",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "topic::culture",
+                "type::culture_title",
+                "type::entity",
+                "type::misc"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "01000000"
+    ]
+}

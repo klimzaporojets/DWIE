@@ -1,0 +1,2018 @@
+{
+    "id": "DW_18324810",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 40,
+            "end": 46,
+            "text": "Berlin",
+            "concept": 0,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 129,
+            "end": 135,
+            "text": "German",
+            "concept": 6,
+            "candidates": [
+                "Germany",
+                "German_language",
+                "Germans",
+                "Nazi_Germany",
+                "German_Empire",
+                "German_Americans",
+                "German_literature",
+                "Cinema_of_Germany",
+                "Wehrmacht",
+                "Kriegsmarine",
+                "German_Canadians",
+                "Imperial_German_Navy",
+                "Football_in_Germany",
+                "German_cuisine",
+                "Kingdom_of_Germany",
+                "Weimar_Republic"
+            ],
+            "scores": [
+                0.4219259212835297,
+                0.2960955126598145,
+                0.14673163700175482,
+                0.03594259212835297,
+                0.019177738781649536,
+                0.01388192529456004,
+                0.009996239659062421,
+                0.007693030834795688,
+                0.0016451491601905239,
+                0.0014884682877914265,
+                0.0014101278515918777,
+                0.0013787916771120581,
+                0.00125344697919278,
+                0.0011907746302331412,
+                0.0011751065429932313,
+                0.0010810980195537728
+            ]
+        },
+        {
+            "begin": 169,
+            "end": 183,
+            "text": "Eastern Europe",
+            "concept": 7,
+            "candidates": [
+                "Eastern_Europe",
+                "Charouz_Racing_System",
+                "Eastern_Bloc",
+                "Novocherkassk_culture",
+                "Eastern_European_Group",
+                "Red_Bull_BC_One_Eastern_European_Finals",
+                "Eastern_European_cuisine",
+                "Category:Eastern_European_music",
+                "History_of_Europe",
+                "List_of_World_Heritage_sites_in_Eastern_Europe",
+                "Ashkenazi_Jews",
+                "Eastern_Front_(World_War_II)",
+                "Movies_24",
+                "The_Rough_Guide_to_the_Music_of_Eastern_Europe",
+                "Human_trafficking_in_Europe",
+                "Ochipok"
+            ],
+            "scores": [
+                0.9736319818542671,
+                0.005954068613552594,
+                0.005670541536716756,
+                0.0025517436915225406,
+                0.001701162461015027,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0008505812305075135,
+                0.0005670541536716756,
+                0.0005670541536716756,
+                0.0005670541536716756,
+                0.0002835270768358378,
+                0.0002835270768358378,
+                0.0002835270768358378,
+                0.0002835270768358378
+            ]
+        },
+        {
+            "begin": 260,
+            "end": 267,
+            "text": "Romania",
+            "concept": 4,
+            "candidates": [
+                "Romania",
+                "Romania_national_football_team",
+                "Romania_national_rugby_union_team",
+                "Kingdom_of_Romania",
+                "Socialist_Republic_of_Romania",
+                "Romanian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Romania",
+                "Recognition_of_same-sex_unions_in_Romania",
+                "Romania_women's_national_football_team",
+                "Romania_national_under-21_football_team",
+                "Romania_women's_national_basketball_team",
+                "Romania_Fed_Cup_team",
+                "United_Principalities",
+                "Romania_Davis_Cup_team",
+                "Romania_men's_national_handball_team",
+                "Football_in_Romania"
+            ],
+            "scores": [
+                0.897320542507443,
+                0.030808247877384495,
+                0.013739111258132099,
+                0.010387032748924909,
+                0.005094277208071452,
+                0.0038151946190318666,
+                0.0028007498070349544,
+                0.002359686845297166,
+                0.0017863049950380416,
+                0.001587826662256037,
+                0.0009482853677362443,
+                0.0009482853677362443,
+                0.0009262322196493549,
+                0.0008380196273017974,
+                0.0007718601830411291,
+                0.0007498070349542397
+            ]
+        },
+        {
+            "begin": 272,
+            "end": 280,
+            "text": "Bulgaria",
+            "concept": 5,
+            "candidates": [
+                "Bulgaria",
+                "Bulgaria_national_football_team",
+                "Kingdom_of_Bulgaria",
+                "People's_Republic_of_Bulgaria",
+                "ISU_Junior_Grand_Prix_in_Bulgaria",
+                "First_Bulgarian_Empire",
+                "Recognition_of_same-sex_unions_in_Bulgaria",
+                "Bulgarian_Football_Union",
+                "Second_Bulgarian_Empire",
+                "Principality_of_Bulgaria",
+                "Bulgaria_women's_national_football_team",
+                "Bulgaria_national_under-21_football_team",
+                "Bulgaria_women's_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Bulgaria",
+                "Bulgaria_national_basketball_team",
+                "Bulgaria_Fed_Cup_team"
+            ],
+            "scores": [
+                0.8450756349169635,
+                0.04487209140953879,
+                0.016329740482028034,
+                0.010362214923439885,
+                0.006753943655456354,
+                0.006245084886894574,
+                0.004718508581209233,
+                0.004487209140953879,
+                0.0036545311560346023,
+                0.0035157514918813895,
+                0.002821853171115326,
+                0.0025442938428089003,
+                0.0024980339547578294,
+                0.0022667345145024748,
+                0.002220474626451404,
+                0.0018041356339917657
+            ]
+        },
+        {
+            "begin": 653,
+            "end": 660,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1046,
+            "end": 1052,
+            "text": "Berlin",
+            "concept": 0,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1079,
+            "end": 1087,
+            "text": "Romanian",
+            "concept": 9
+        },
+        {
+            "begin": 1115,
+            "end": 1122,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1139,
+            "end": 1147,
+            "text": "Internet",
+            "concept": 10,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 1179,
+            "end": 1185,
+            "text": "German",
+            "concept": 11
+        },
+        {
+            "begin": 1199,
+            "end": 1203,
+            "text": "2002",
+            "concept": 12
+        },
+        {
+            "begin": 1204,
+            "end": 1223,
+            "text": "Law on Prostitution",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1464,
+            "end": 1470,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1515,
+            "end": 1525,
+            "text": "Nadya Luer",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1530,
+            "end": 1537,
+            "text": "Jo Goll",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1836,
+            "end": 1843,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2072,
+            "end": 2074,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2075,
+            "end": 2101,
+            "text": "WED 22.04.2015 \u2013 22:15 UTC",
+            "concept": 16
+        },
+        {
+            "begin": 2102,
+            "end": 2128,
+            "text": "THU 23.04.2015 \u2013 06:15 UTC",
+            "concept": 17
+        },
+        {
+            "begin": 2129,
+            "end": 2155,
+            "text": "THU 23.04.2015 \u2013 13:15 UTC",
+            "concept": 18
+        },
+        {
+            "begin": 2156,
+            "end": 2182,
+            "text": "THU 23.04.2015 \u2013 17:15 UTC",
+            "concept": 19
+        },
+        {
+            "begin": 2183,
+            "end": 2209,
+            "text": "FRI 24.04.2015 \u2013 04:15 UTC",
+            "concept": 20
+        },
+        {
+            "begin": 2210,
+            "end": 2236,
+            "text": "FRI 24.04.2015 \u2013 10:15 UTC",
+            "concept": 21
+        },
+        {
+            "begin": 2237,
+            "end": 2246,
+            "text": "Cape Town",
+            "concept": 22,
+            "candidates": [
+                "Cape_Town",
+                "Newlands_Cricket_Ground",
+                "University_of_Cape_Town",
+                "Newlands_Stadium",
+                "Cape_Town_Stadium",
+                "2017_South_Africa_Sevens",
+                "Anglican_Diocese_of_Cape_Town",
+                "Port_of_Cape_Town",
+                "Cape_Town_International_Airport",
+                "Roman_Catholic_Archdiocese_of_Cape_Town",
+                "St._George's_Cathedral,_Cape_Town",
+                "City_of_Cape_Town",
+                "Cape_Town_(TV_series)",
+                "Cape_Town_railway_station",
+                "Timeline_of_Cape_Town",
+                "2016_South_Africa_Sevens"
+            ],
+            "scores": [
+                0.9663926002055498,
+                0.011202466598150052,
+                0.0029804727646454265,
+                0.0022610483042137717,
+                0.002158273381294964,
+                0.0020554984583761563,
+                0.0020554984583761563,
+                0.0018499486125385406,
+                0.0014388489208633094,
+                0.0013360739979445015,
+                0.0013360739979445015,
+                0.0012332990750256938,
+                0.0008221993833504625,
+                0.0007194244604316547,
+                0.0006166495375128469,
+                0.00020554984583761563
+            ]
+        },
+        {
+            "begin": 2256,
+            "end": 2261,
+            "text": "Delhi",
+            "concept": 23,
+            "candidates": [
+                "Delhi",
+                "Delhi_cricket_team",
+                "Delhi_Junction_railway_station",
+                "Feroz_Shah_Kotla",
+                "Delhi,_Louisiana",
+                "Delhi_(village),_New_York",
+                "Indira_Gandhi_International_Airport",
+                "Delhi,_New_York",
+                "Delhi,_Ontario",
+                "New_Delhi",
+                "Delhi_women's_cricket_team",
+                "Delhi_&_District_Cricket_Association",
+                "Major_Dhyan_Chand_National_Stadium",
+                "Feroz_Shah_Kotla_Ground",
+                "Delhi_Sultanate",
+                "Delhi,_California"
+            ],
+            "scores": [
+                0.8715796541883498,
+                0.04599630686587208,
+                0.007722007722007722,
+                0.006630854456941414,
+                0.006211180124223602,
+                0.005959375524592916,
+                0.0055397011918751045,
+                0.004448547926808796,
+                0.004280678193721672,
+                0.0032734597951989256,
+                0.0031895249286553636,
+                0.003105590062111801,
+                0.0027698505959375523,
+                0.0027698505959375523,
+                0.0023501762632197414,
+                0.0017626321974148062
+            ]
+        },
+        {
+            "begin": 2273,
+            "end": 2282,
+            "text": "Hong Kong",
+            "concept": 24,
+            "candidates": [
+                "Hong_Kong",
+                "Hong_Kong_people",
+                "Hong_Kong_national_cricket_team",
+                "British_Hong_Kong",
+                "Hong_Kong_national_football_team",
+                "Cinema_of_Hong_Kong",
+                "Hong_Kong_Open_(tennis)",
+                "Hong_Kong_International_Airport",
+                "Hong_Kong_national_rugby_union_team",
+                "LGBT_rights_in_Hong_Kong",
+                "Hong_Kong_women's_national_squash_team",
+                "Football_in_Hong_Kong",
+                "Television_in_Hong_Kong",
+                "Hong_Kong_(TV_series)",
+                "Hong_Kong_men's_national_squash_team",
+                "Hong_Kong_women's_national_football_team"
+            ],
+            "scores": [
+                0.8689299239250645,
+                0.015449579409497637,
+                0.013874459599852541,
+                0.01250041891484299,
+                0.0118636683534971,
+                0.008813968296524682,
+                0.005026978115888602,
+                0.004524280304299742,
+                0.00442374074198197,
+                0.003585911056000536,
+                0.0020443044337946983,
+                0.0017761989342806395,
+                0.0017091725594021248,
+                0.001541606622205838,
+                0.0013740406850095512,
+                0.0012399879352525218
+            ]
+        },
+        {
+            "begin": 2290,
+            "end": 2303,
+            "text": "San Francisco",
+            "concept": 25,
+            "candidates": [
+                "San_Francisco",
+                "San_Francisco_Dons_men's_basketball",
+                "San_Francisco_49ers",
+                "San_Francisco_F.C.",
+                "San_Francisco_(1936_film)",
+                "San_Francisco_International_Airport",
+                "Pacific_Coast_Championships",
+                "University_of_San_Francisco",
+                "San_Francisco_Giants",
+                "San_Francisco_Dons",
+                "San_Francisco_Bay_Area",
+                "San_Francisco,_C\u00f3rdoba",
+                "San_Francisco_Dons_men's_soccer",
+                "Roman_Catholic_Archdiocese_of_San_Francisco",
+                "Golden_State_Warriors",
+                "Western_Division_GAA_Board"
+            ],
+            "scores": [
+                0.8710888195044177,
+                0.008835448083438517,
+                0.007540025244137381,
+                0.007373945392944928,
+                0.004550587922673222,
+                0.0036205407559954826,
+                0.0032219491131335945,
+                0.002856573440510197,
+                0.0025244137381252906,
+                0.0023251179166943465,
+                0.0022254700059788747,
+                0.0017604464226400054,
+                0.0015279346309705706,
+                0.001395070750016608,
+                0.001295422839301136,
+                0.0011293429881086827
+            ]
+        },
+        {
+            "begin": 2313,
+            "end": 2321,
+            "text": "Edmonton",
+            "concept": 26,
+            "candidates": [
+                "Edmonton",
+                "Edmonton_Oilers",
+                "Edmonton,_London",
+                "Edmonton_(provincial_electoral_district)",
+                "Edmonton_(UK_Parliament_constituency)",
+                "Edmonton_Eskimos",
+                "2017\u201318_Edmonton_Oilers_season",
+                "2016\u201317_Edmonton_Oilers_season",
+                "FC_Edmonton",
+                "2015\u201316_Edmonton_Oilers_season",
+                "2018\u201319_Edmonton_Oilers_season",
+                "Edmonton_Indy",
+                "Edmonton,_Kentucky",
+                "Edmonton,_Queensland",
+                "2014\u201315_Edmonton_Oilers_season",
+                "Edmonton_(N.W.T._electoral_district)"
+            ],
+            "scores": [
+                0.8391608391608392,
+                0.03413691571586308,
+                0.027695988222304013,
+                0.011225616488774383,
+                0.010949576739050424,
+                0.008741258741258742,
+                0.006532940743467059,
+                0.006164887743835112,
+                0.005704821494295178,
+                0.005520794994479205,
+                0.00395656974604343,
+                0.0035885167464114833,
+                0.003312476996687523,
+                0.002944423997055576,
+                0.002668384247331616,
+                0.001840264998159735
+            ]
+        },
+        {
+            "begin": 2331,
+            "end": 2339,
+            "text": "New York",
+            "concept": 27,
+            "candidates": [
+                "New_York_(state)",
+                "New_York_City",
+                "New_York_(magazine)",
+                "New_York_Knicks",
+                "New_York_Liberty",
+                "Manhattan",
+                "List_of_United_States_Senators_from_New_York",
+                "New_York_GAA",
+                "Province_of_New_York",
+                "List_of_United_States_Representatives_from_New_York",
+                "United_States_congressional_delegations_from_New_York",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York_USA",
+                "Miss_New_York",
+                "2015\u201316_New_York_Knicks_season",
+                "2016\u201317_New_York_Knicks_season"
+            ],
+            "scores": [
+                0.5868936312942854,
+                0.22854387656702024,
+                0.0213408242840971,
+                0.014352997079088228,
+                0.00907019971210152,
+                0.008077928248990259,
+                0.004038964124495129,
+                0.003619694492194597,
+                0.0034939136025044374,
+                0.003130546587843976,
+                0.002934887426103727,
+                0.001663102874792112,
+                0.0015512976395119702,
+                0.0014814193674618813,
+                0.0012578088969015975,
+                0.001229857588081562
+            ]
+        },
+        {
+            "begin": 2347,
+            "end": 2349,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2359,
+            "end": 2385,
+            "text": "THU 23.04.2015 \u2013 04:15 UTC",
+            "concept": 28
+        },
+        {
+            "begin": 2386,
+            "end": 2412,
+            "text": "THU 23.04.2015 \u2013 17:15 UTC",
+            "concept": 19
+        },
+        {
+            "begin": 2413,
+            "end": 2439,
+            "text": "FRI 24.04.2015 \u2013 06:15 UTC",
+            "concept": 29
+        },
+        {
+            "begin": 2440,
+            "end": 2466,
+            "text": "FRI 24.04.2015 \u2013 13:15 UTC",
+            "concept": 30
+        },
+        {
+            "begin": 2467,
+            "end": 2473,
+            "text": "London",
+            "concept": 31,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 2483,
+            "end": 2489,
+            "text": "Berlin",
+            "concept": 0,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 2499,
+            "end": 2505,
+            "text": "Moscow",
+            "concept": 32,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 2513,
+            "end": 2515,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2525,
+            "end": 2551,
+            "text": "THU 23.04.2015 \u2013 04:15 UTC",
+            "concept": 28
+        },
+        {
+            "begin": 2552,
+            "end": 2557,
+            "text": "Tunis",
+            "concept": 33,
+            "candidates": [
+                "Tunis",
+                "Tunis_Governorate",
+                "Beylik_of_Tunis",
+                "Tunis_Open",
+                "Ottoman_Tunisia",
+                "Tunisian_Campaign",
+                "Tunis\u2013Carthage_International_Airport",
+                "Tunisia",
+                "American_Tunis",
+                "Roman_Catholic_Archdiocese_of_Tunis",
+                "Conquest_of_Tunis_(1535)",
+                "TUNIS",
+                "2013_Tunis_Open",
+                "2018_Tunis_Open",
+                "Tunis,_Ontario",
+                "Conquest_of_Tunis_(1574)"
+            ],
+            "scores": [
+                0.9592862528273436,
+                0.007036943955767781,
+                0.007036943955767781,
+                0.004775069112842423,
+                0.003769791404875597,
+                0.003267152550892184,
+                0.002764513696908771,
+                0.0017592359889419453,
+                0.0015079165619502387,
+                0.0012565971349585323,
+                0.0007539582809751194,
+                0.0007539582809751194,
+                0.0005026388539834129,
+                0.0005026388539834129,
+                0.0005026388539834129,
+                0.0005026388539834129
+            ]
+        },
+        {
+            "begin": 2567,
+            "end": 2572,
+            "text": "Cairo",
+            "concept": 34,
+            "candidates": [
+                "Cairo",
+                "Cairo,_Illinois",
+                "Cairo_(graphics)",
+                "Cairo_Governorate",
+                "Cairo,_Georgia",
+                "Cairo,_New_York",
+                "Egyptian_Open_(tennis)",
+                "Cairo_(1942_film)",
+                "Cairo_International_Airport",
+                "Cairo_(1963_film)",
+                "Cairo_(CDP),_New_York",
+                "Cairo_(operating_system)",
+                "Cairo_Conference",
+                "Palm_Hills_International_Tennis_Challenger",
+                "Cairo,_Missouri",
+                "Cairo,_West_Virginia"
+            ],
+            "scores": [
+                0.942062765337551,
+                0.010571880462831931,
+                0.007158911179555481,
+                0.005161075501539998,
+                0.005077832348289353,
+                0.00324648297677516,
+                0.0021643219845167735,
+                0.0020810788312661285,
+                0.001831349371514193,
+                0.0016648630650129028,
+                0.001248647298759677,
+                0.001248647298759677,
+                0.0010821609922583868,
+                0.0008324315325064514,
+                0.0008324315325064514,
+                0.0008324315325064514
+            ]
+        },
+        {
+            "begin": 2583,
+            "end": 2588,
+            "text": "Dubai",
+            "concept": 35,
+            "candidates": [
+                "Dubai",
+                "Dubai_Tennis_Championships",
+                "Dubai_International_Cricket_Stadium",
+                "Dubai_CSC",
+                "Dubai_International_Airport",
+                "Emirate_of_Dubai",
+                "Dubai_(2005_film)",
+                "2017_Dubai_Sevens",
+                "2008_Dubai_Tennis_Championships",
+                "Dubai_(2001_film)",
+                "Dubai_Marathon",
+                "2017_Dubai_Women's_Sevens",
+                "Dubai_Sevens",
+                "2015_Dubai_Tennis_Championships",
+                "2014_Dubai_Tennis_Championships",
+                "Dubai_Autodrome"
+            ],
+            "scores": [
+                0.8798422868408082,
+                0.035978314440611135,
+                0.008772794480039429,
+                0.007195662888122228,
+                0.007195662888122228,
+                0.0038442582552981764,
+                0.002562838836865451,
+                0.002267126663380976,
+                0.0021685559388861506,
+                0.0021685559388861506,
+                0.0021685559388861506,
+                0.0017742730409068506,
+                0.0017742730409068506,
+                0.0016757023164120255,
+                0.0016757023164120255,
+                0.0015771315919172006
+            ]
+        },
+        {
+            "begin": 2596,
+            "end": 2598,
+            "text": "DW",
+            "concept": 15,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2609,
+            "end": 2635,
+            "text": "THU 23.04.2015 \u2013 06:15 UTC",
+            "concept": 17
+        },
+        {
+            "begin": 2636,
+            "end": 2645,
+            "text": "Vancouver",
+            "concept": 36,
+            "candidates": [
+                "Vancouver",
+                "Vancouver,_Washington",
+                "Vancouver_Canucks",
+                "Vancouver_Whitecaps_FC",
+                "Vancouver_International_Airport",
+                "2017\u201318_Vancouver_Canucks_season",
+                "2016\u201317_Vancouver_Canucks_season",
+                "2015\u201316_Vancouver_Canucks_season",
+                "1999\u20132000_Vancouver_Grizzlies_season",
+                "2000\u201301_Vancouver_Grizzlies_season",
+                "Vancouver_Open",
+                "Molson_Indy_Vancouver",
+                "1996\u201397_Vancouver_Grizzlies_season",
+                "Vancouver_Grizzlies",
+                "1997\u201398_Vancouver_Grizzlies_season",
+                "2018\u201319_Vancouver_Canucks_season"
+            ],
+            "scores": [
+                0.8910157114405842,
+                0.02013719849524231,
+                0.014439035184775392,
+                0.005144943571586634,
+                0.005089621597698606,
+                0.004038504093826068,
+                0.003927860146050011,
+                0.003374640407169728,
+                0.002544810798849303,
+                0.0024894888249612744,
+                0.0024341668510732464,
+                0.002378844877185218,
+                0.002157556981633105,
+                0.0021022350077450763,
+                0.002046913033857048,
+                0.0019362690860809913
+            ]
+        },
+        {
+            "begin": 2655,
+            "end": 2663,
+            "text": "New York",
+            "concept": 27,
+            "candidates": [
+                "New_York_(state)",
+                "New_York_City",
+                "New_York_(magazine)",
+                "New_York_Knicks",
+                "New_York_Liberty",
+                "Manhattan",
+                "List_of_United_States_Senators_from_New_York",
+                "New_York_GAA",
+                "Province_of_New_York",
+                "List_of_United_States_Representatives_from_New_York",
+                "United_States_congressional_delegations_from_New_York",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York_USA",
+                "Miss_New_York",
+                "2015\u201316_New_York_Knicks_season",
+                "2016\u201317_New_York_Knicks_season"
+            ],
+            "scores": [
+                0.5868936312942854,
+                0.22854387656702024,
+                0.0213408242840971,
+                0.014352997079088228,
+                0.00907019971210152,
+                0.008077928248990259,
+                0.004038964124495129,
+                0.003619694492194597,
+                0.0034939136025044374,
+                0.003130546587843976,
+                0.002934887426103727,
+                0.001663102874792112,
+                0.0015512976395119702,
+                0.0014814193674618813,
+                0.0012578088969015975,
+                0.001229857588081562
+            ]
+        },
+        {
+            "begin": 2673,
+            "end": 2682,
+            "text": "Sao Paulo",
+            "concept": 37,
+            "candidates": [
+                "S\u00e3o_Paulo",
+                "S\u00e3o_Paulo_(state)",
+                "S\u00e3o_Paulo_FC",
+                "Campeonato_Paulista",
+                "Federa\u00e7\u00e3o_Paulista_de_Futebol",
+                "Greater_S\u00e3o_Paulo",
+                "Roman_Catholic_Archdiocese_of_S\u00e3o_Paulo",
+                "Aberto_de_S\u00e3o_Paulo",
+                "Aut\u00f3dromo_Jos\u00e9_Carlos_Pace",
+                "1963_Pan_American_Games",
+                "Brasil_Open",
+                "Sport_Club_S\u00e3o_Paulo",
+                "Brazilian_aircraft_carrier_S\u00e3o_Paulo_(A12)",
+                "Flag_of_S\u00e3o_Paulo_(state)",
+                "Gin\u00e1sio_do_Ibirapuera",
+                "S\u00e3o_Paulo_Indy_300"
+            ],
+            "scores": [
+                0.6501346854698146,
+                0.19088364231764643,
+                0.1309354037923203,
+                0.005862779274282998,
+                0.002218348914593567,
+                0.0017429884328949454,
+                0.001531717107695558,
+                0.0012676279511963239,
+                0.0010035387946970898,
+                0.0009507209633972429,
+                0.0008450853007975493,
+                0.0006866318068980087,
+                0.0006338139755981619,
+                0.0005809961442983151,
+                0.0005281783129984683,
+                0.0005281783129984683
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Berlin",
+            "keyword": true,
+            "count": 3,
+            "link": "Berlin",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "Nadya Luer",
+            "keyword": true,
+            "count": 1,
+            "link": "wikidata:Q1963401",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Jo Goll",
+            "keyword": true,
+            "count": 1,
+            "link": "wikidata:Q47537338",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Romania",
+            "keyword": true,
+            "count": 1,
+            "link": "Romania",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Bulgaria",
+            "keyword": true,
+            "count": 1,
+            "link": "Bulgaria",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "link": "German_language",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::language"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Eastern Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Eastern_Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Romanian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Internet",
+            "keyword": false,
+            "count": 1,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "2002",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Law on Prostitution",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "DW",
+            "keyword": false,
+            "count": 4,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "WED 22.04.2015 \u2013 22:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "THU 23.04.2015 \u2013 06:15 UTC",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "THU 23.04.2015 \u2013 13:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "THU 23.04.2015 \u2013 17:15 UTC",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "FRI 24.04.2015 \u2013 04:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "FRI 24.04.2015 \u2013 10:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Cape Town",
+            "keyword": false,
+            "count": 1,
+            "link": "Cape_Town",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Delhi",
+            "keyword": false,
+            "count": 1,
+            "link": "Delhi",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Hong Kong",
+            "keyword": false,
+            "count": 1,
+            "link": "Hong_Kong",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "San Francisco",
+            "keyword": false,
+            "count": 1,
+            "link": "San_Francisco",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Edmonton",
+            "keyword": false,
+            "count": 1,
+            "link": "Edmonton",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "New York",
+            "keyword": false,
+            "count": 2,
+            "link": "New_York_City",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "THU 23.04.2015 \u2013 04:15 UTC",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "FRI 24.04.2015 \u2013 06:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "FRI 24.04.2015 \u2013 13:15 UTC",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Moscow",
+            "keyword": false,
+            "count": 1,
+            "link": "Moscow",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Tunis",
+            "keyword": false,
+            "count": 1,
+            "link": "Tunis",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Cairo",
+            "keyword": false,
+            "count": 1,
+            "link": "Cairo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Dubai",
+            "keyword": false,
+            "count": 1,
+            "link": "Dubai",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Vancouver",
+            "keyword": false,
+            "count": 1,
+            "link": "Vancouver",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Sao Paulo",
+            "keyword": false,
+            "count": 1,
+            "link": "S\u00e3o_Paulo",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 38,
+            "keyword": false,
+            "count": 0,
+            "link": "Russia",
+            "tags": []
+        },
+        {
+            "concept": 39,
+            "keyword": false,
+            "count": 0,
+            "link": "India",
+            "tags": []
+        },
+        {
+            "concept": 40,
+            "keyword": false,
+            "count": 0,
+            "link": "Egypt",
+            "tags": []
+        },
+        {
+            "concept": 41,
+            "keyword": false,
+            "count": 0,
+            "link": "South_Africa",
+            "tags": []
+        },
+        {
+            "concept": 42,
+            "keyword": false,
+            "count": 0,
+            "link": "China",
+            "tags": []
+        },
+        {
+            "concept": 43,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": []
+        },
+        {
+            "concept": 44,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 45,
+            "keyword": false,
+            "count": 0,
+            "link": "Tunisia",
+            "tags": []
+        },
+        {
+            "concept": 46,
+            "keyword": false,
+            "count": 0,
+            "link": "Canada",
+            "tags": []
+        },
+        {
+            "concept": 47,
+            "keyword": false,
+            "count": 0,
+            "link": "Brazil",
+            "tags": []
+        },
+        {
+            "concept": 48,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Arab_Emirates",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 11
+        },
+        {
+            "s": 9,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 13,
+            "p": "law_of",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 11
+        },
+        {
+            "s": 22,
+            "p": "in0",
+            "o": 41
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 39
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 42
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 43
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 46
+        },
+        {
+            "s": 27,
+            "p": "in0",
+            "o": 43
+        },
+        {
+            "s": 31,
+            "p": "in0",
+            "o": 44
+        },
+        {
+            "s": 32,
+            "p": "in0",
+            "o": 38
+        },
+        {
+            "s": 33,
+            "p": "in0",
+            "o": 45
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 40
+        },
+        {
+            "s": 35,
+            "p": "in0",
+            "o": 48
+        },
+        {
+            "s": 36,
+            "p": "in0",
+            "o": 46
+        },
+        {
+            "s": 37,
+            "p": "in0",
+            "o": 47
+        }
+    ],
+    "frames": [
+        {
+            "type": "todo",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "14000000",
+        "20000802",
+        "20000806",
+        "20000807"
+    ]
+}

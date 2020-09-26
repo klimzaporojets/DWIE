@@ -1,0 +1,780 @@
+{
+    "id": "DW_17506161",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Israel",
+            "concept": 2,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 13,
+            "end": 19,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 38,
+            "end": 43,
+            "text": "Golan",
+            "concept": 0,
+            "candidates": [
+                "Golan",
+                "Golan_(horse)",
+                "Golan_Heights",
+                "Golan_Regional_Council",
+                "Golan,_Ilam",
+                "Golan_Armored_Vehicle",
+                "Golan_(game)",
+                "Menahem_Golan",
+                "Omer_Golan"
+            ],
+            "scores": [
+                0.37777777777777777,
+                0.31851851851851853,
+                0.18518518518518517,
+                0.05185185185185185,
+                0.014814814814814815,
+                0.014814814814814815,
+                0.014814814814814815,
+                0.014814814814814815,
+                0.007407407407407408
+            ]
+        },
+        {
+            "begin": 56,
+            "end": 62,
+            "text": "Israel",
+            "concept": 2,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 111,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 129,
+            "end": 142,
+            "text": "Golan Heights",
+            "concept": 0,
+            "candidates": [
+                "Golan_Heights",
+                "Golan_Heights_Law"
+            ],
+            "scores": [
+                0.9991638795986622,
+                0.0008361204013377926
+            ]
+        },
+        {
+            "begin": 201,
+            "end": 208,
+            "text": "Tuesday",
+            "concept": 5
+        },
+        {
+            "begin": 243,
+            "end": 250,
+            "text": "Israeli",
+            "concept": 6
+        },
+        {
+            "begin": 276,
+            "end": 285,
+            "text": "Wednesday",
+            "concept": 7
+        },
+        {
+            "begin": 317,
+            "end": 323,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 391,
+            "end": 394,
+            "text": "IDF",
+            "concept": 1,
+            "candidates": [
+                "Israel_Defense_Forces",
+                "Intel_Developer_Forum",
+                "\u00cele-de-France",
+                "Intermediate_distribution_frame",
+                "International_Diabetes_Federation",
+                "Intermediate_Data_Format",
+                "Istrian_Social_Democratic_Forum",
+                "Tf\u2013idf",
+                "IDF"
+            ],
+            "scores": [
+                0.9840116279069767,
+                0.005087209302325582,
+                0.0029069767441860465,
+                0.0029069767441860465,
+                0.0014534883720930232,
+                0.0014534883720930232,
+                0.0007267441860465116,
+                0.0007267441860465116,
+                0.0007267441860465116
+            ]
+        },
+        {
+            "begin": 396,
+            "end": 418,
+            "text": "Israeli Defense Forces",
+            "concept": 1,
+            "candidates": [
+                "Israel_Defense_Forces"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 437,
+            "end": 443,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 502,
+            "end": 505,
+            "text": "IDF",
+            "concept": 1,
+            "candidates": [
+                "Israel_Defense_Forces",
+                "Intel_Developer_Forum",
+                "\u00cele-de-France",
+                "Intermediate_distribution_frame",
+                "International_Diabetes_Federation",
+                "Intermediate_Data_Format",
+                "Istrian_Social_Democratic_Forum",
+                "Tf\u2013idf",
+                "IDF"
+            ],
+            "scores": [
+                0.9840116279069767,
+                0.005087209302325582,
+                0.0029069767441860465,
+                0.0029069767441860465,
+                0.0014534883720930232,
+                0.0014534883720930232,
+                0.0007267441860465116,
+                0.0007267441860465116,
+                0.0007267441860465116
+            ]
+        },
+        {
+            "begin": 546,
+            "end": 551,
+            "text": "Syria",
+            "concept": 3,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 733,
+            "end": 740,
+            "text": "Tuesday",
+            "concept": 5
+        },
+        {
+            "begin": 764,
+            "end": 771,
+            "text": "Israeli",
+            "concept": 6
+        },
+        {
+            "begin": 795,
+            "end": 808,
+            "text": "Golan Heights",
+            "concept": 0,
+            "candidates": [
+                "Golan_Heights",
+                "Golan_Heights_Law"
+            ],
+            "scores": [
+                0.9991638795986622,
+                0.0008361204013377926
+            ]
+        },
+        {
+            "begin": 810,
+            "end": 824,
+            "text": "Prime Minister",
+            "concept": 8
+        },
+        {
+            "begin": 825,
+            "end": 843,
+            "text": "Benjamin Netanyahu",
+            "concept": 9,
+            "candidates": [
+                "Benjamin_Netanyahu"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 852,
+            "end": 859,
+            "text": "Tuesday",
+            "concept": 5
+        },
+        {
+            "begin": 865,
+            "end": 871,
+            "text": "Israel",
+            "concept": 2,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 965,
+            "end": 972,
+            "text": "Tuesday",
+            "concept": 5
+        },
+        {
+            "begin": 978,
+            "end": 984,
+            "text": "Israel",
+            "concept": 2,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 997,
+            "end": 1003,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 1085,
+            "end": 1094,
+            "text": "Hezbollah",
+            "concept": 10,
+            "candidates": [
+                "Hezbollah",
+                "Hezbollah_(Iran)",
+                "Loyalty_to_the_Resistance_Bloc",
+                "Turkish_Hezbollah",
+                "Hezbollah_armed_strength",
+                "Flag_of_Hezbollah",
+                "Hezbollah_Movement_in_Iraq",
+                "Hezbollah_involvement_in_the_Syrian_Civil_War",
+                "Funding_of_Hezbollah"
+            ],
+            "scores": [
+                0.9888793840889649,
+                0.0029940119760479044,
+                0.001710863986313088,
+                0.001710863986313088,
+                0.0012831479897348161,
+                0.0012831479897348161,
+                0.000855431993156544,
+                0.000855431993156544,
+                0.000427715996578272
+            ]
+        },
+        {
+            "begin": 1118,
+            "end": 1125,
+            "text": "Lebanon",
+            "concept": 11,
+            "candidates": [
+                "Lebanon",
+                "Lebanon_national_football_team",
+                "Lebanon,_Pennsylvania",
+                "A1_Team_Lebanon",
+                "Lebanon,_Tennessee",
+                "Lebanon,_New_Hampshire",
+                "Lebanon_national_rugby_league_team",
+                "Lebanon_County,_Pennsylvania",
+                "Lebanon,_Ohio",
+                "Lebanon,_Missouri",
+                "Lebanon,_Connecticut",
+                "Lebanon,_Kentucky",
+                "Lebanon,_Oregon",
+                "Lebanon_(2009_film)",
+                "Lebanon,_Indiana",
+                "Lebanon_national_basketball_team"
+            ],
+            "scores": [
+                0.8166021855698092,
+                0.016493585827733658,
+                0.01296409421027625,
+                0.012285345822303673,
+                0.01106359872395303,
+                0.010792099368764,
+                0.010656349691169483,
+                0.00984185162560239,
+                0.008755854204846264,
+                0.005769361297766918,
+                0.005565736781375144,
+                0.004479739360619018,
+                0.004479739360619018,
+                0.004208240005429987,
+                0.004208240005429987,
+                0.003393741939862893
+            ]
+        },
+        {
+            "begin": 1145,
+            "end": 1151,
+            "text": "Syrian",
+            "concept": 4
+        },
+        {
+            "begin": 1171,
+            "end": 1195,
+            "text": "mz/jm (Reuters, AFP, AP)",
+            "concept": 12
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Golan Heights",
+            "keyword": true,
+            "count": 3,
+            "link": "Golan_Heights",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Israeli Defense Forces",
+            "keyword": true,
+            "count": 3,
+            "link": "Israel_Defense_Forces",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Israel",
+            "keyword": true,
+            "count": 4,
+            "link": "Israel",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Syria",
+            "keyword": true,
+            "count": 1,
+            "link": "Syria",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 6,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Israeli",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Benjamin Netanyahu",
+            "keyword": false,
+            "count": 1,
+            "link": "Benjamin_Netanyahu",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Hezbollah",
+            "keyword": false,
+            "count": 1,
+            "link": "Hezbollah",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Lebanon",
+            "keyword": false,
+            "count": 1,
+            "link": "Lebanon",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "mz/jm (Reuters, AFP, AP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 9,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 9,
+            "p": "head_of_gov-x",
+            "o": 6
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 11
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "attacker",
+                    "value": 2
+                },
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000053",
+        "20000055"
+    ]
+}

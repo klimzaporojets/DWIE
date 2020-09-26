@@ -1,0 +1,110 @@
+{
+    "id": "DW_16277528",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 38,
+            "end": 50,
+            "text": "memory coach",
+            "concept": 1
+        },
+        {
+            "begin": 51,
+            "end": 69,
+            "text": "Oliver Geisselhart",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 70,
+            "end": 82,
+            "text": "Memory coach",
+            "concept": 2
+        },
+        {
+            "begin": 87,
+            "end": 93,
+            "text": "author",
+            "concept": 3
+        },
+        {
+            "begin": 94,
+            "end": 112,
+            "text": "Oliver Geisselhart",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Oliver Geisselhart",
+            "keyword": true,
+            "count": 2,
+            "link": "wikidata:Q2020223",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "memory coach",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Memory coach",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "author",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "05000000",
+        "20000411"
+    ]
+}

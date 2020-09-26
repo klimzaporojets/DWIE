@@ -1,0 +1,3919 @@
+{
+    "id": "DW_37538970",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 9,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 11,
+            "end": 17,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 27,
+            "end": 32,
+            "text": "Paris",
+            "concept": 6,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 33,
+            "end": 39,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 46,
+            "end": 52,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 59,
+            "end": 66,
+            "text": "premier",
+            "concept": 13
+        },
+        {
+            "begin": 67,
+            "end": 84,
+            "text": "Bernard Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 94,
+            "end": 100,
+            "text": "French",
+            "concept": 14
+        },
+        {
+            "begin": 101,
+            "end": 107,
+            "text": "German",
+            "concept": 15
+        },
+        {
+            "begin": 189,
+            "end": 195,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 197,
+            "end": 207,
+            "text": "Chancellor",
+            "concept": 16
+        },
+        {
+            "begin": 208,
+            "end": 214,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 229,
+            "end": 235,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 266,
+            "end": 275,
+            "text": "Cazaneuve",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 279,
+            "end": 285,
+            "text": "Monday",
+            "concept": 17
+        },
+        {
+            "begin": 311,
+            "end": 317,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 340,
+            "end": 345,
+            "text": "Paris",
+            "concept": 6,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 346,
+            "end": 352,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 383,
+            "end": 389,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 454,
+            "end": 456,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 533,
+            "end": 539,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 562,
+            "end": 568,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 732,
+            "end": 741,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 816,
+            "end": 822,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 845,
+            "end": 851,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 852,
+            "end": 862,
+            "text": "Chancellor",
+            "concept": 16
+        },
+        {
+            "begin": 863,
+            "end": 876,
+            "text": "Angela Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 884,
+            "end": 890,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 912,
+            "end": 919,
+            "text": "Germany",
+            "concept": 18,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 924,
+            "end": 930,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 982,
+            "end": 988,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1061,
+            "end": 1067,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1107,
+            "end": 1113,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 1211,
+            "end": 1220,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 1229,
+            "end": 1235,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1248,
+            "end": 1257,
+            "text": "Cazeneuze",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1281,
+            "end": 1287,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1339,
+            "end": 1343,
+            "text": "2015",
+            "concept": 19
+        },
+        {
+            "begin": 1354,
+            "end": 1358,
+            "text": "2016",
+            "concept": 20
+        },
+        {
+            "begin": 1384,
+            "end": 1390,
+            "text": "Aegean",
+            "concept": 21,
+            "candidates": [
+                "Aegean_Sea",
+                "Aegean_Region",
+                "Aegean_civilizations",
+                "Aegean_Islands",
+                "Aegean_Region_(statistical)",
+                "Aegean_Records",
+                "Aegean_Macedonia",
+                "Aegean_cat",
+                "Aegean_Airlines",
+                "Aegean_languages",
+                "Decentralized_Administration_of_the_Aegean",
+                "Aegean_dispute",
+                "Aegean_(album)",
+                "Aegean_Sea_(theme)",
+                "Aegea",
+                "Aegean_Sea_Plate"
+            ],
+            "scores": [
+                0.718475073313783,
+                0.10948191593352884,
+                0.07526881720430108,
+                0.056695992179863146,
+                0.01270772238514174,
+                0.005865102639296188,
+                0.0039100684261974585,
+                0.0039100684261974585,
+                0.002932551319648094,
+                0.002932551319648094,
+                0.0009775171065493646,
+                0.0009775171065493646,
+                0.0009775171065493646,
+                0.0009775171065493646,
+                0.0009775171065493646,
+                0.0009775171065493646
+            ]
+        },
+        {
+            "begin": 1391,
+            "end": 1398,
+            "text": "Balkans",
+            "concept": 22,
+            "candidates": [
+                "Balkans",
+                "Balkan_cuisine",
+                "Balkans_Campaign_(World_War_II)",
+                "Balkan_Mountains",
+                "Iron_Age_Southeastern_Europe",
+                "Yugoslav_Wars",
+                "Balkans_Campaign_(World_War_I)",
+                "History_of_the_Balkans",
+                "Balkan_music",
+                "Rape_during_the_Bosnian_War",
+                "Maurice's_Balkan_campaigns",
+                "Russo-Turkish_War_(1877\u20131878)",
+                "Southeast_Europe",
+                "Balkan_Wars",
+                "History_of_the_Jews_in_Serbia",
+                "First_Balkan_War"
+            ],
+            "scores": [
+                0.9786176031824962,
+                0.003978120338140228,
+                0.0034808552958727,
+                0.002486325211337643,
+                0.0022376926902038788,
+                0.0012431626056688214,
+                0.000994530084535057,
+                0.000994530084535057,
+                0.0007458975634012929,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0004972650422675286,
+                0.0002486325211337643,
+                0.0002486325211337643
+            ]
+        },
+        {
+            "begin": 1426,
+            "end": 1433,
+            "text": "Germany",
+            "concept": 18,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1438,
+            "end": 1449,
+            "text": "Scandinavia",
+            "concept": 23,
+            "candidates": [
+                "Scandinavia",
+                "Scandinavia_(composition)",
+                "Scandinavia,_Manitoba",
+                "Nordic_countries",
+                "Scandinavian_Peninsula",
+                "Scandinavia_(town),_Wisconsin",
+                "History_of_Scandinavia",
+                "Scandinavia_(album)",
+                "Scandinavia,_Wisconsin",
+                "MV_Ocean_Gala",
+                "2016_Speedway_Grand_Prix_of_Scandinavia",
+                "Speedway_Grand_Prix_of_Scandinavia",
+                "Norse_mythology",
+                "Scandinavia_Township,_Harlan_County,_Nebraska",
+                "Climate_of_the_Nordic_countries",
+                "Category:Scandinavian_cuisine"
+            ],
+            "scores": [
+                0.9806171894924764,
+                0.002550369803621525,
+                0.0017852588625350675,
+                0.0017852588625350675,
+                0.0012751849018107625,
+                0.0012751849018107625,
+                0.0012751849018107625,
+                0.00102014792144861,
+                0.00102014792144861,
+                0.0007651109410864575,
+                0.000510073960724305,
+                0.000510073960724305,
+                0.000510073960724305,
+                0.000510073960724305,
+                0.0002550369803621525,
+                0.0002550369803621525
+            ]
+        },
+        {
+            "begin": 1469,
+            "end": 1475,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1509,
+            "end": 1511,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1533,
+            "end": 1542,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 1583,
+            "end": 1585,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1680,
+            "end": 1689,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 1707,
+            "end": 1709,
+            "text": "US",
+            "concept": 24,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1710,
+            "end": 1719,
+            "text": "President",
+            "concept": 25
+        },
+        {
+            "begin": 1720,
+            "end": 1732,
+            "text": "Donald Trump",
+            "concept": 26,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 1758,
+            "end": 1763,
+            "text": "Paris",
+            "concept": 6,
+            "candidates": [
+                "Paris",
+                "Paris_Masters",
+                "Paris_(mythology)",
+                "University_of_Paris",
+                "Paris,_Texas",
+                "Paris,_Ontario",
+                "Paris,_Tennessee",
+                "Paris_(rapper)",
+                "Open_GDF_Suez",
+                "Paris_FC",
+                "Paris,_Kentucky",
+                "Meeting_de_Paris",
+                "Stade_Roland_Garros",
+                "Paris_(The_Chainsmokers_song)",
+                "AccorHotels_Arena",
+                "Paris,_Illinois"
+            ],
+            "scores": [
+                0.9405802339334998,
+                0.007359705611775529,
+                0.004501248521487712,
+                0.002842029175975818,
+                0.002825601261663819,
+                0.0018070705743198844,
+                0.0015606518596399002,
+                0.0014292285451439086,
+                0.0014128006308319096,
+                0.0011828098304639244,
+                0.0011828098304639244,
+                0.0008871073728479432,
+                0.0008378236299119464,
+                0.0007885398869759495,
+                0.0007721119726639506,
+                0.0007228282297279537
+            ]
+        },
+        {
+            "begin": 1768,
+            "end": 1774,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1824,
+            "end": 1833,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 1834,
+            "end": 1840,
+            "text": "Schulz",
+            "concept": 7,
+            "candidates": [
+                "Schulz",
+                "Nico_Schulz",
+                "Christian_Schulz",
+                "Hans-Ulrich_Schulz",
+                "Johann_Abraham_Peter_Schulz",
+                "Damian_Schulz",
+                "Martin_Schulz",
+                "Dick_Schulz",
+                "Heinrich_E._M._Schulz",
+                "Jan_Schulz",
+                "Friedrich_Schulz",
+                "Erwin_Schulz",
+                "Thorsten_Schulz",
+                "Stephan_Schulzer_von_M\u00fcggenburg",
+                "Frank_Schulz_(footballer,_born_1961)",
+                "Michael_Schulz"
+            ],
+            "scores": [
+                0.29411764705882354,
+                0.13725490196078433,
+                0.0784313725490196,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549
+            ]
+        },
+        {
+            "begin": 1854,
+            "end": 1861,
+            "text": "Tuesday",
+            "concept": 27
+        },
+        {
+            "begin": 1865,
+            "end": 1872,
+            "text": "Tuesday",
+            "concept": 27
+        },
+        {
+            "begin": 1892,
+            "end": 1901,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 1904,
+            "end": 1910,
+            "text": "Berlin",
+            "concept": 5,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1947,
+            "end": 1954,
+            "text": "Germany",
+            "concept": 18,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1961,
+            "end": 1977,
+            "text": "Foreign Minister",
+            "concept": 28
+        },
+        {
+            "begin": 1978,
+            "end": 1992,
+            "text": "Sigmar Gabriel",
+            "concept": 9,
+            "candidates": [
+                "Sigmar_Gabriel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1998,
+            "end": 2004,
+            "text": "German",
+            "concept": 15
+        },
+        {
+            "begin": 2013,
+            "end": 2022,
+            "text": "Bundestag",
+            "concept": 29,
+            "candidates": [
+                "Bundestag",
+                "Federal_Convention_(German_Confederation)",
+                "Bundestag_(Berlin_U-Bahn)",
+                "DFB-Bundestag",
+                "Parliament",
+                "First_German_Bundestag",
+                "Politics_of_Germany",
+                "West_German_federal_election,_1953"
+            ],
+            "scores": [
+                0.9901808785529715,
+                0.00516795865633075,
+                0.0015503875968992248,
+                0.0010335917312661498,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749,
+                0.0005167958656330749
+            ]
+        },
+        {
+            "begin": 2036,
+            "end": 2045,
+            "text": "president",
+            "concept": 30
+        },
+        {
+            "begin": 2046,
+            "end": 2061,
+            "text": "Norbert Lammert",
+            "concept": 10,
+            "candidates": [
+                "Norbert_Lammert"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2070,
+            "end": 2086,
+            "text": "Social Democrats",
+            "concept": 2,
+            "candidates": [
+                "Swedish_Social_Democratic_Party",
+                "Social_Democrats_(Denmark)",
+                "Social_Democratic_Party_of_Germany",
+                "Social_democracy",
+                "Social_Democrats_(Slovenia)",
+                "Czech_Social_Democratic_Party",
+                "Social_Democrats_(Ireland)",
+                "Social_Democratic_Party_of_Finland",
+                "Social_Democrats",
+                "Social_Democratic_Party_of_Austria",
+                "Social_Democrats_of_Montenegro",
+                "Social_Democratic_Party_of_Switzerland",
+                "Social_Democratic_Party_(Romania)",
+                "Social_Democratic_Party_of_Lithuania",
+                "Romanian_Social_Democratic_Party_(1927\u201348)",
+                "Social_Democratic_Party_(UK)"
+            ],
+            "scores": [
+                0.33380430943129635,
+                0.227834687389615,
+                0.09431296361709643,
+                0.0886612504415401,
+                0.04450724125750618,
+                0.031084422465559872,
+                0.027905333804309432,
+                0.025785941363475805,
+                0.020840692334864006,
+                0.01942776404097492,
+                0.014482515012363122,
+                0.01130342635111268,
+                0.005298481102084069,
+                0.004945249028611798,
+                0.004945249028611798,
+                0.004945249028611798
+            ]
+        },
+        {
+            "begin": 2116,
+            "end": 2123,
+            "text": "Germany",
+            "concept": 18,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2126,
+            "end": 2135,
+            "text": "September",
+            "concept": 31
+        },
+        {
+            "begin": 2146,
+            "end": 2159,
+            "text": "Martin Schulz",
+            "concept": 7,
+            "candidates": [
+                "Martin_Schulz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2189,
+            "end": 2208,
+            "text": "European Parliament",
+            "concept": 32,
+            "candidates": [
+                "European_Parliament",
+                "European_Parliament_election,_2009_(United_Kingdom)",
+                "Member_of_the_European_Parliament",
+                "Espace_L\u00e9opold",
+                "Seat_of_the_European_Parliament_in_Strasbourg",
+                "European_Parliament_election,_1994_(Spain)",
+                "Elections_to_the_European_Parliament",
+                "European_Parliament_election,_1987_(Spain)",
+                "European_Parliament_election,_2014_(United_Kingdom)",
+                "European_Parliament_election,_2014_(Poland)",
+                "London_(European_Parliament_constituency)",
+                "European_Parliament_election,_2014_(Spain)",
+                "European_Parliament_election,_2009_(Spain)",
+                "European_Parliament_election,_2004_(Spain)",
+                "European_Parliament_election,_1989_(Spain)",
+                "List_of_members_of_the_European_Parliament_for_Greece,_2014\u201319"
+            ],
+            "scores": [
+                0.9903109182935648,
+                0.0036153289949385392,
+                0.0008676789587852494,
+                0.0005784526391901663,
+                0.0004338394793926247,
+                0.00028922631959508316,
+                0.00028922631959508316,
+                0.00028922631959508316,
+                0.00028922631959508316,
+                0.00014461315979754158,
+                0.00014461315979754158,
+                0.00014461315979754158,
+                0.00014461315979754158,
+                0.00014461315979754158,
+                0.00014461315979754158,
+                0.00014461315979754158
+            ]
+        },
+        {
+            "begin": 2210,
+            "end": 2217,
+            "text": "Gabriel",
+            "concept": 9,
+            "candidates": [
+                "Gabriel",
+                "Gabriel_Barbosa",
+                "Gabriel_(footballer,_born_1992)",
+                "Gabriel_(2007_film)",
+                "Gabriel_(given_name)",
+                "Gabriel_(missile)",
+                "Gabriel_Rodrigues_dos_Santos",
+                "Gabriel_Paulista",
+                "Gabriel_Santana_Pinto",
+                "Gabriel_Girotto_Franco",
+                "Gabriel_(Joe_Goddard_song)",
+                "Gabriel_Stokes_(The_Walking_Dead)",
+                "Gabriel_(New-Gen)",
+                "Gabriel_(album)",
+                "Jo\u00e3o_Gabriel_da_Silva",
+                "Gabriel_of_Kakheti"
+            ],
+            "scores": [
+                0.5748239436619719,
+                0.0880281690140845,
+                0.027288732394366196,
+                0.023767605633802816,
+                0.022007042253521125,
+                0.017605633802816902,
+                0.016725352112676055,
+                0.01584507042253521,
+                0.014084507042253521,
+                0.013204225352112676,
+                0.007922535211267605,
+                0.007042253521126761,
+                0.007042253521126761,
+                0.007042253521126761,
+                0.006161971830985915,
+                0.006161971830985915
+            ]
+        },
+        {
+            "begin": 2222,
+            "end": 2228,
+            "text": "Schulz",
+            "concept": 7,
+            "candidates": [
+                "Schulz",
+                "Nico_Schulz",
+                "Christian_Schulz",
+                "Hans-Ulrich_Schulz",
+                "Johann_Abraham_Peter_Schulz",
+                "Damian_Schulz",
+                "Martin_Schulz",
+                "Dick_Schulz",
+                "Heinrich_E._M._Schulz",
+                "Jan_Schulz",
+                "Friedrich_Schulz",
+                "Erwin_Schulz",
+                "Thorsten_Schulz",
+                "Stephan_Schulzer_von_M\u00fcggenburg",
+                "Frank_Schulz_(footballer,_born_1961)",
+                "Michael_Schulz"
+            ],
+            "scores": [
+                0.29411764705882354,
+                0.13725490196078433,
+                0.0784313725490196,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.058823529411764705,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0392156862745098,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549,
+                0.0196078431372549
+            ]
+        },
+        {
+            "begin": 2252,
+            "end": 2259,
+            "text": "Germany",
+            "concept": 18,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2262,
+            "end": 2279,
+            "text": "Social Democratic",
+            "concept": 2,
+            "candidates": [
+                "Social_democracy",
+                "Swedish_Social_Democratic_Party",
+                "Social_Democratic_Party_(Portugal)",
+                "Social_Democratic_Party_(Japan)",
+                "Social_Democratic_Party_of_Germany",
+                "Socialist_Party_of_America",
+                "Social_Democratic_Party_of_Finland",
+                "Social_Democratic_Party_of_Austria",
+                "Social_Democratic_Party_of_America",
+                "Social_Democrats_(Denmark)",
+                "Social_Democratic_Party_(UK)",
+                "Social_Democratic_Party_(Romania)",
+                "Socialism_in_the_Netherlands",
+                "Social_Democratic_Party_of_Switzerland",
+                "Czech_Social_Democratic_Party",
+                "Social_Democratic_Party_(Estonia)"
+            ],
+            "scores": [
+                0.637223974763407,
+                0.09553853086976115,
+                0.054078413699864804,
+                0.04100946372239748,
+                0.032897701667417754,
+                0.023884632717440287,
+                0.014871563767462822,
+                0.012618296529968454,
+                0.01216764308246958,
+                0.009914375844975214,
+                0.007210455159981974,
+                0.0067598017124831005,
+                0.005407841369986481,
+                0.004957187922487607,
+                0.004957187922487607,
+                0.0027039206849932404
+            ]
+        },
+        {
+            "begin": 2281,
+            "end": 2284,
+            "text": "SPD",
+            "concept": 2,
+            "candidates": [
+                "Social_Democratic_Party_of_Germany",
+                "Freedom_and_Direct_Democracy",
+                "Shepshed_Dynamo_F.C.",
+                "Social_Democratic_Party",
+                "Semen_Padang_F.C.",
+                "Scottish_Football_League_Premier_Division",
+                "Social_Democratic_Party_in_the_GDR",
+                "St_Patrick's_College,_Dublin",
+                "Serial_presence_detect",
+                "S.P.D._(song)",
+                "1992\u201393_Scottish_Premier_Division",
+                "1987\u201388_Scottish_Premier_Division",
+                "1986\u201387_Scottish_Premier_Division",
+                "Power_Rangers_S.P.D.",
+                "SPD_Bavaria",
+                "Norwegian_speciedaler"
+            ],
+            "scores": [
+                0.9474048442906574,
+                0.018685121107266434,
+                0.004844290657439446,
+                0.0031141868512110727,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.002422145328719723,
+                0.0010380622837370243,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.0006920415224913495,
+                0.00034602076124567473
+            ]
+        },
+        {
+            "begin": 2305,
+            "end": 2309,
+            "text": "2013",
+            "concept": 33
+        },
+        {
+            "begin": 2330,
+            "end": 2336,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 2394,
+            "end": 2397,
+            "text": "CDU",
+            "concept": 0,
+            "candidates": [
+                "Christian_Democratic_Union_of_Germany",
+                "Unitary_Democratic_Coalition",
+                "Christian_Democratic_Union_(East_Germany)",
+                "United_Christian_Democrats",
+                "C.D._Universidade_Agostinho_Neto_(basketball)",
+                "CDU/CSU",
+                "Christian_Democratic_Union_(Netherlands)",
+                "List_of_Christian_democratic_parties",
+                "CDU_Baden-W\u00fcrttemberg",
+                "Christian_Democracy_(Italy)",
+                "Charles_Darwin_University",
+                "Christian_democracy"
+            ],
+            "scores": [
+                0.9030612244897959,
+                0.04124149659863945,
+                0.02806122448979592,
+                0.010629251700680272,
+                0.008078231292517007,
+                0.002976190476190476,
+                0.002551020408163265,
+                0.0012755102040816326,
+                0.0008503401360544217,
+                0.00042517006802721087,
+                0.00042517006802721087,
+                0.00042517006802721087
+            ]
+        },
+        {
+            "begin": 2402,
+            "end": 2409,
+            "text": "Bavaria",
+            "concept": 34,
+            "candidates": [
+                "Bavaria",
+                "Kingdom_of_Bavaria",
+                "Duchy_of_Bavaria",
+                "Electorate_of_Bavaria",
+                "History_of_Bavaria",
+                "Swinkels_Family_Brewers",
+                "Bavaria_Yachtbau",
+                "List_of_rulers_of_Bavaria",
+                "Bavaria_Brewery_(Colombia)",
+                "Bavaria,_Kansas",
+                "Bavaria_statue",
+                "Bavaria_(train)",
+                "Bavarian_Football_Association",
+                "List_of_diplomats_of_the_United_Kingdom_to_Bavaria",
+                "Free_State_of_Bavaria",
+                "Landtag_of_Bavaria"
+            ],
+            "scores": [
+                0.921017640280117,
+                0.02907543657477174,
+                0.021363354312560943,
+                0.01232160269479656,
+                0.003191206453328606,
+                0.0016842478503678751,
+                0.0010637354844428685,
+                0.0010637354844428685,
+                0.0008864462370357238,
+                0.0008864462370357238,
+                0.0007978016133321515,
+                0.000709156989628579,
+                0.0005318677422214343,
+                0.0005318677422214343,
+                0.0004432231185178619,
+                0.0004432231185178619
+            ]
+        },
+        {
+            "begin": 2412,
+            "end": 2415,
+            "text": "CSU",
+            "concept": 35,
+            "candidates": [
+                "Christian_Social_Union_in_Bavaria",
+                "Colorado_State_University",
+                "Colorado_State_Rams",
+                "California_State_University",
+                "Csurg\u00f3i_KK",
+                "CS_Universitatea_Craiova",
+                "Charles_Sturt_University",
+                "Cleveland_State_Vikings",
+                "Colorado_State_Rams_men's_basketball",
+                "Connecticut_State_University_System",
+                "1999_Colorado_State_Rams_football_team",
+                "Colorado_State_Rams_football",
+                "Cambridge_University_Students'_Union",
+                "CSU_Gala\u021bi",
+                "2017_Colorado_State_Rams_football_team",
+                "2016_Colorado_State_Rams_football_team"
+            ],
+            "scores": [
+                0.8198992443324937,
+                0.05289672544080604,
+                0.04534005037783375,
+                0.02644836272040302,
+                0.015113350125944584,
+                0.005037783375314861,
+                0.003778337531486146,
+                0.0025188916876574307,
+                0.0025188916876574307,
+                0.0025188916876574307,
+                0.0025188916876574307,
+                0.0025188916876574307,
+                0.0025188916876574307,
+                0.0012594458438287153,
+                0.0012594458438287153,
+                0.0012594458438287153
+            ]
+        },
+        {
+            "begin": 2425,
+            "end": 2432,
+            "text": "Lammert",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2485,
+            "end": 2491,
+            "text": "Merkel",
+            "concept": 4,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 2494,
+            "end": 2513,
+            "text": "Christian Democrats",
+            "concept": 0,
+            "candidates": [
+                "Christian_Democrats_(Sweden)",
+                "Christian_Democrats_(Finland)",
+                "Christian_Democracy_(Italy)",
+                "Christian_democracy",
+                "Christian_Democratic_Party_(Norway)",
+                "Christian_Democrats_(Denmark)",
+                "Christian_Democratic_Party_(Australia)",
+                "List_of_Christian_democratic_parties",
+                "Christian_Democratic_Union_of_Germany",
+                "Christian_Democratic_People's_Party_of_Switzerland",
+                "Christian_Democratic_Party_(Chile)",
+                "Christian_Democrat_Party_(New_Zealand)",
+                "Christian_and_Democratic_Union_\u2013_Czechoslovak_People's_Party",
+                "Lithuanian_Christian_Democratic_Party",
+                "Christen-Democratisch_en_Vlaams",
+                "Rebirth_of_Christian_Democracy"
+            ],
+            "scores": [
+                0.334503950834065,
+                0.17471466198419666,
+                0.08604038630377524,
+                0.07550482879719052,
+                0.07374890254609306,
+                0.048287971905179985,
+                0.04302019315188762,
+                0.0324846356453029,
+                0.028094820017559263,
+                0.025460930640913083,
+                0.014047410008779631,
+                0.012291483757682178,
+                0.01141352063213345,
+                0.007901668129938543,
+                0.003511852502194908,
+                0.0026338893766461808
+            ]
+        },
+        {
+            "begin": 2548,
+            "end": 2554,
+            "text": "Sunday",
+            "concept": 36
+        },
+        {
+            "begin": 2564,
+            "end": 2587,
+            "text": "Frank-Walter Steinmeier",
+            "concept": 37,
+            "candidates": [
+                "Frank-Walter_Steinmeier"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2595,
+            "end": 2601,
+            "text": "German",
+            "concept": 15
+        },
+        {
+            "begin": 2640,
+            "end": 2649,
+            "text": "Cazeneuve",
+            "concept": 3,
+            "candidates": [
+                "Cazeneuve,_Gers",
+                "Andr\u00e9_Cazeneuve",
+                "Bernard_Cazeneuve"
+            ],
+            "scores": [
+                0.45454545454545453,
+                0.36363636363636365,
+                0.18181818181818182
+            ]
+        },
+        {
+            "begin": 2681,
+            "end": 2687,
+            "text": "French",
+            "concept": 14
+        },
+        {
+            "begin": 2702,
+            "end": 2711,
+            "text": "President",
+            "concept": 25
+        },
+        {
+            "begin": 2712,
+            "end": 2729,
+            "text": "Francois Hollande",
+            "concept": 38,
+            "candidates": [
+                "Fran\u00e7ois_Hollande"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2733,
+            "end": 2741,
+            "text": "December",
+            "concept": 39
+        },
+        {
+            "begin": 2753,
+            "end": 2765,
+            "text": "Manuel Valls",
+            "concept": 40,
+            "candidates": [
+                "Manuel_Valls",
+                "Manuel_Valls_(composer)"
+            ],
+            "scores": [
+                0.97165991902834,
+                0.02834008097165992
+            ]
+        },
+        {
+            "begin": 2802,
+            "end": 2808,
+            "text": "French",
+            "concept": 14
+        },
+        {
+            "begin": 2809,
+            "end": 2819,
+            "text": "Socialists",
+            "concept": 41,
+            "candidates": [
+                "Socialism",
+                "Italian_Socialist_Party",
+                "Socialist_Party_(France)",
+                "Party_of_European_Socialists",
+                "Socialist_Party_of_America",
+                "Spanish_Socialist_Workers'_Party",
+                "Victorian_Socialists",
+                "Social_Democratic_Party_of_Austria",
+                "Socialist_Party_of_Chile",
+                "Socialist_Party_USA",
+                "Social_Democratic_Party_of_Germany",
+                "French_Section_of_the_Workers'_International",
+                "Belgian_Socialist_Party",
+                "Bulgarian_Socialist_Party",
+                "French_Left",
+                "Socialist_Party_(Argentina)"
+            ],
+            "scores": [
+                0.6422651933701657,
+                0.07320441988950276,
+                0.04143646408839779,
+                0.019337016574585635,
+                0.019337016574585635,
+                0.013812154696132596,
+                0.011049723756906077,
+                0.011049723756906077,
+                0.009668508287292817,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.008287292817679558,
+                0.006906077348066298,
+                0.006906077348066298,
+                0.0055248618784530384
+            ]
+        },
+        {
+            "begin": 2835,
+            "end": 2841,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2870,
+            "end": 2875,
+            "text": "April",
+            "concept": 42
+        },
+        {
+            "begin": 2880,
+            "end": 2883,
+            "text": "May",
+            "concept": 43
+        },
+        {
+            "begin": 2917,
+            "end": 2924,
+            "text": "Tuesday",
+            "concept": 27
+        },
+        {
+            "begin": 2928,
+            "end": 2934,
+            "text": "France",
+            "concept": 12,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2936,
+            "end": 2951,
+            "text": "Emmanuel Macron",
+            "concept": 11,
+            "candidates": [
+                "Emmanuel_Macron"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2962,
+            "end": 2981,
+            "text": "Minister of Economy",
+            "concept": 44
+        },
+        {
+            "begin": 3013,
+            "end": 3030,
+            "text": "Francois Hollande",
+            "concept": 38,
+            "candidates": [
+                "Fran\u00e7ois_Hollande"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3075,
+            "end": 3078,
+            "text": "May",
+            "concept": 43
+        },
+        {
+            "begin": 3168,
+            "end": 3170,
+            "text": "FN",
+            "concept": 45,
+            "candidates": [
+                "National_Rally_(France)",
+                "FN_Herstal",
+                "Ferrovienord",
+                "National_Front_(Belgium)",
+                "Fundamental_number",
+                "FN_(motorcycle)",
+                "New_Force_(Italy)",
+                "Football_News",
+                "College_Football_News",
+                "The_Cowboy_Channel",
+                "Forza_Nazzjonali",
+                "FN_(automobile)",
+                "Front_National_(South_Africa)",
+                "FN_Four",
+                "Fn_key",
+                "FN_FAL"
+            ],
+            "scores": [
+                0.8133971291866029,
+                0.03708133971291866,
+                0.03229665071770335,
+                0.02751196172248804,
+                0.02751196172248804,
+                0.0215311004784689,
+                0.01076555023923445,
+                0.009569377990430622,
+                0.0035885167464114833,
+                0.0035885167464114833,
+                0.0023923444976076554,
+                0.0023923444976076554,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277,
+                0.0011961722488038277
+            ]
+        },
+        {
+            "begin": 3172,
+            "end": 3185,
+            "text": "Marine le Pen",
+            "concept": 8,
+            "candidates": [
+                "Marine_Le_Pen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3218,
+            "end": 3223,
+            "text": "April",
+            "concept": 42
+        },
+        {
+            "begin": 3225,
+            "end": 3231,
+            "text": "le Pen",
+            "concept": 8,
+            "candidates": [
+                "Marine_Le_Pen",
+                "Jean-Marie_Le_Pen"
+            ],
+            "scores": [
+                0.5891472868217055,
+                0.4108527131782946
+            ]
+        },
+        {
+            "begin": 3248,
+            "end": 3256,
+            "text": "Opionway",
+            "concept": 46,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3286,
+            "end": 3292,
+            "text": "Macron",
+            "concept": 11,
+            "candidates": [
+                "Macron_(sportswear)",
+                "Macron_(diacritic)",
+                "Emmanuel_Macron",
+                "University_of_Bolton_Stadium",
+                "Macron_(gastropod)"
+            ],
+            "scores": [
+                0.7076372315035799,
+                0.2064439140811456,
+                0.07995226730310262,
+                0.003579952267303103,
+                0.002386634844868735
+            ]
+        },
+        {
+            "begin": 3311,
+            "end": 3326,
+            "text": "Francois Fillon",
+            "concept": 47,
+            "candidates": [
+                "Fran\u00e7ois_Fillon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3368,
+            "end": 3380,
+            "text": "Benoit Hamon",
+            "concept": 48,
+            "candidates": [
+                "Beno\u00eet_Hamon"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3394,
+            "end": 3420,
+            "text": "ipj/kl (AFP, dpa, Reuters)",
+            "concept": 49
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Christian Democrats",
+            "keyword": false,
+            "count": 2,
+            "link": "Christian_Democratic_Union_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Europe",
+            "keyword": true,
+            "count": 8,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Social Democratic",
+            "keyword": false,
+            "count": 3,
+            "link": "Social_Democratic_Party_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Bernard Cazeneuve",
+            "keyword": true,
+            "count": 11,
+            "link": "Bernard_Cazeneuve",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Angela Merkel",
+            "keyword": true,
+            "count": 9,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Berlin",
+            "keyword": true,
+            "count": 7,
+            "link": "Berlin",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Paris",
+            "keyword": true,
+            "count": 3,
+            "link": "Paris",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Martin Schulz",
+            "keyword": false,
+            "count": 3,
+            "link": "Martin_Schulz",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Marine le Pen",
+            "keyword": false,
+            "count": 2,
+            "link": "Marine_Le_Pen",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Sigmar Gabriel",
+            "keyword": false,
+            "count": 2,
+            "link": "Sigmar_Gabriel",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Norbert Lammert",
+            "keyword": false,
+            "count": 3,
+            "link": "Norbert_Lammert",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::head",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Emmanuel Macron",
+            "keyword": false,
+            "count": 2,
+            "link": "Emmanuel_Macron",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "France",
+            "keyword": false,
+            "count": 7,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "premier",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "French",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "German",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Germany",
+            "keyword": false,
+            "count": 5,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "2016",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Aegean",
+            "keyword": false,
+            "count": 1,
+            "link": "Aegean_Sea",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Balkans",
+            "keyword": false,
+            "count": 1,
+            "link": "Balkans",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Scandinavia",
+            "keyword": false,
+            "count": 1,
+            "link": "Scandinavia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "President",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Donald Trump",
+            "keyword": false,
+            "count": 1,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Bundestag",
+            "keyword": false,
+            "count": 1,
+            "link": "Bundestag",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "September",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "European Parliament",
+            "keyword": false,
+            "count": 1,
+            "link": "European_Parliament",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "2013",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Bavaria",
+            "keyword": false,
+            "count": 1,
+            "link": "Bavaria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "CSU",
+            "keyword": false,
+            "count": 1,
+            "link": "Christian_Social_Union_in_Bavaria",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Frank-Walter Steinmeier",
+            "keyword": false,
+            "count": 1,
+            "link": "Frank-Walter_Steinmeier",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Francois Hollande",
+            "keyword": false,
+            "count": 2,
+            "link": "Fran\u00e7ois_Hollande",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "December",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Manuel Valls",
+            "keyword": false,
+            "count": 1,
+            "link": "Manuel_Valls",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "Socialists",
+            "keyword": false,
+            "count": 1,
+            "link": "Socialist_Party_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "April",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "May",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 44,
+            "text": "Minister of Economy",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 45,
+            "text": "FN",
+            "keyword": false,
+            "count": 1,
+            "link": "National_Rally_(France)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 46,
+            "text": "Opionway",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 47,
+            "text": "Francois Fillon",
+            "keyword": false,
+            "count": 1,
+            "link": "Fran\u00e7ois_Fillon",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 48,
+            "text": "Benoit Hamon",
+            "keyword": false,
+            "count": 1,
+            "link": "Beno\u00eet_Hamon",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 49,
+            "text": "ipj/kl (AFP, dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 15
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 15
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov",
+            "o": 12
+        },
+        {
+            "s": 3,
+            "p": "head_of_gov-x",
+            "o": 14
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 4,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov-x",
+            "o": 15
+        },
+        {
+            "s": 4,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 15
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 7,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 7,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 8,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 8,
+            "p": "head_of",
+            "o": 45
+        },
+        {
+            "s": 8,
+            "p": "member_of",
+            "o": 45
+        },
+        {
+            "s": 9,
+            "p": "agent_of",
+            "o": 18
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 9,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 9,
+            "p": "minister_of",
+            "o": 18
+        },
+        {
+            "s": 9,
+            "p": "minister_of-x",
+            "o": 15
+        },
+        {
+            "s": 10,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 10,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 10,
+            "p": "head_of",
+            "o": 29
+        },
+        {
+            "s": 10,
+            "p": "is_meeting",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "member_of",
+            "o": 29
+        },
+        {
+            "s": 11,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 11,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 11,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 11,
+            "p": "minister_of",
+            "o": 12
+        },
+        {
+            "s": 11,
+            "p": "minister_of-x",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 12
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 18
+        },
+        {
+            "s": 26,
+            "p": "agent_of",
+            "o": 24
+        },
+        {
+            "s": 26,
+            "p": "citizen_of",
+            "o": 24
+        },
+        {
+            "s": 26,
+            "p": "head_of_state",
+            "o": 24
+        },
+        {
+            "s": 29,
+            "p": "agency_of",
+            "o": 18
+        },
+        {
+            "s": 29,
+            "p": "agency_of-x",
+            "o": 15
+        },
+        {
+            "s": 29,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 29,
+            "p": "based_in0-x",
+            "o": 15
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 18
+        },
+        {
+            "s": 34,
+            "p": "in0-x",
+            "o": 15
+        },
+        {
+            "s": 35,
+            "p": "based_in0",
+            "o": 18
+        },
+        {
+            "s": 35,
+            "p": "based_in0-x",
+            "o": 15
+        },
+        {
+            "s": 37,
+            "p": "agent_of",
+            "o": 18
+        },
+        {
+            "s": 37,
+            "p": "citizen_of",
+            "o": 18
+        },
+        {
+            "s": 37,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 37,
+            "p": "head_of_state",
+            "o": 18
+        },
+        {
+            "s": 37,
+            "p": "head_of_state-x",
+            "o": 15
+        },
+        {
+            "s": 38,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 38,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 38,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 38,
+            "p": "head_of_state",
+            "o": 12
+        },
+        {
+            "s": 38,
+            "p": "head_of_state-x",
+            "o": 14
+        },
+        {
+            "s": 40,
+            "p": "agent_of",
+            "o": 12
+        },
+        {
+            "s": 40,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 40,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 40,
+            "p": "head_of_gov",
+            "o": 12
+        },
+        {
+            "s": 40,
+            "p": "head_of_gov-x",
+            "o": 14
+        },
+        {
+            "s": 40,
+            "p": "member_of",
+            "o": 41
+        },
+        {
+            "s": 41,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 41,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 45,
+            "p": "based_in0",
+            "o": 12
+        },
+        {
+            "s": 45,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 47,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 47,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 48,
+            "p": "citizen_of",
+            "o": 12
+        },
+        {
+            "s": 48,
+            "p": "citizen_of-x",
+            "o": 14
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000638",
+        "20000639"
+    ]
+}

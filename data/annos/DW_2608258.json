@@ -1,0 +1,2746 @@
+{
+    "id": "DW_2608258",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 31,
+            "end": 46,
+            "text": "EU Constitution",
+            "concept": 0,
+            "candidates": [
+                "Treaty_establishing_a_Constitution_for_Europe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 49,
+            "text": "UK",
+            "concept": 7,
+            "candidates": [
+                "United_Kingdom",
+                "UK_Singles_Chart",
+                "UK_Albums_Chart",
+                "British_Phonographic_Industry",
+                "Official_Charts_Company",
+                "U.K._(band)",
+                "ISU_Junior_Grand_Prix_in_the_United_Kingdom",
+                ".uk",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "British_Overseas_Territories",
+                "List_of_British_films_of_1967",
+                "UK_Video_Charts",
+                "List_of_British_films_of_1999",
+                "List_of_British_films_of_1960",
+                "List_of_British_films_of_2003",
+                "List_of_British_films_of_1968"
+            ],
+            "scores": [
+                0.5038734184787486,
+                0.2370113361050459,
+                0.1652857954715401,
+                0.029132892650973588,
+                0.004875422486764574,
+                0.0033798941165913915,
+                0.002273203122663237,
+                0.0018544551790147458,
+                0.0017946340442078186,
+                0.001674991774593964,
+                0.001256243830945473,
+                0.0011366015613316184,
+                0.0011066909939281549,
+                0.0010468698591212275,
+                0.0010169592917177639,
+                0.0009870487243143003
+            ]
+        },
+        {
+            "begin": 50,
+            "end": 64,
+            "text": "Prime Minister",
+            "concept": 8
+        },
+        {
+            "begin": 65,
+            "end": 75,
+            "text": "Tony Blair",
+            "concept": 2,
+            "candidates": [
+                "Tony_Blair",
+                "Shadow_Cabinet_of_Tony_Blair",
+                "Tony_Blair_(song)",
+                "Prime_Minister_of_the_United_Kingdom",
+                "Blair_ministry",
+                "Shadow_Cabinet_of_John_Smith",
+                "Premiership_of_Tony_Blair"
+            ],
+            "scores": [
+                0.9941860465116279,
+                0.0036997885835095136,
+                0.0007928118393234672,
+                0.0005285412262156448,
+                0.0002642706131078224,
+                0.0002642706131078224,
+                0.0002642706131078224
+            ]
+        },
+        {
+            "begin": 95,
+            "end": 104,
+            "text": "Wednesday",
+            "concept": 9
+        },
+        {
+            "begin": 164,
+            "end": 166,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 213,
+            "end": 226,
+            "text": "Angela Merkel",
+            "concept": 10,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 241,
+            "end": 243,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 283,
+            "end": 289,
+            "text": "London",
+            "concept": 11,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 295,
+            "end": 300,
+            "text": "Czech",
+            "concept": 12
+        },
+        {
+            "begin": 301,
+            "end": 315,
+            "text": "Prime Minister",
+            "concept": 8
+        },
+        {
+            "begin": 316,
+            "end": 331,
+            "text": "Mirek Topolanek",
+            "concept": 6,
+            "candidates": [
+                "Mirek_Topol\u00e1nek",
+                "Mirek_Topol\u00e1nek's_Second_Cabinet"
+            ],
+            "scores": [
+                0.9941860465116279,
+                0.005813953488372093
+            ]
+        },
+        {
+            "begin": 333,
+            "end": 338,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 374,
+            "end": 382,
+            "text": "Brussels",
+            "concept": 13,
+            "candidates": [
+                "Brussels",
+                "City_of_Brussels",
+                "R.W.D.M._Brussels_F.C.",
+                "King_Baudouin_Stadium",
+                "Brussels_Airport",
+                "Memorial_Van_Damme",
+                "Brussels-South_railway_station",
+                "Donnay_Indoor_Championships",
+                "Arrondissement_of_Brussels",
+                "Brussels,_Ontario",
+                "Belgian_Open_Championships",
+                "Free_University_of_Brussels",
+                "Brussels,_Illinois",
+                "Brussels,_Wisconsin",
+                "Trams_in_Brussels",
+                "Brussels_and_the_European_Union"
+            ],
+            "scores": [
+                0.9528857479387515,
+                0.009069493521790341,
+                0.0055948174322732625,
+                0.0042991755005889285,
+                0.003297997644287397,
+                0.0030035335689045936,
+                0.0028857479387514725,
+                0.0028268551236749115,
+                0.002237926972909305,
+                0.0013545347467608952,
+                0.001177856301531213,
+                0.0008244994110718492,
+                0.0007656065959952886,
+                0.0006478209658421672,
+                0.0006478209658421672,
+                0.0004711425206124853
+            ]
+        },
+        {
+            "begin": 393,
+            "end": 400,
+            "text": "June 21",
+            "concept": 14
+        },
+        {
+            "begin": 405,
+            "end": 407,
+            "text": "22",
+            "concept": 15
+        },
+        {
+            "begin": 429,
+            "end": 431,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 429,
+            "end": 444,
+            "text": "EU constitution",
+            "concept": 0,
+            "candidates": [
+                "Treaty_establishing_a_Constitution_for_Europe"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 493,
+            "end": 499,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 500,
+            "end": 510,
+            "text": "Chancellor",
+            "concept": 17
+        },
+        {
+            "begin": 511,
+            "end": 524,
+            "text": "Angela Merkel",
+            "concept": 10,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 551,
+            "end": 553,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 615,
+            "end": 621,
+            "text": "French",
+            "concept": 18
+        },
+        {
+            "begin": 630,
+            "end": 635,
+            "text": "Dutch",
+            "concept": 19
+        },
+        {
+            "begin": 650,
+            "end": 657,
+            "text": "Germany",
+            "concept": 20,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 660,
+            "end": 662,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 698,
+            "end": 703,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 730,
+            "end": 744,
+            "text": "Downing Street",
+            "concept": 21,
+            "candidates": [
+                "Downing_Street",
+                "10_Downing_Street",
+                "Downing_Street,_Cambridge",
+                "Downing_Street,_George_Town",
+                "Government_of_the_United_Kingdom"
+            ],
+            "scores": [
+                0.8766066838046273,
+                0.08226221079691516,
+                0.033419023136246784,
+                0.005141388174807198,
+                0.002570694087403599
+            ]
+        },
+        {
+            "begin": 808,
+            "end": 810,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 862,
+            "end": 868,
+            "text": "French",
+            "concept": 18
+        },
+        {
+            "begin": 869,
+            "end": 875,
+            "text": "German",
+            "concept": 16
+        },
+        {
+            "begin": 910,
+            "end": 918,
+            "text": "European",
+            "concept": 22
+        },
+        {
+            "begin": 966,
+            "end": 972,
+            "text": "France",
+            "concept": 23,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 981,
+            "end": 992,
+            "text": "Netherlands",
+            "concept": 24,
+            "candidates": [
+                "Netherlands",
+                "Netherlands_national_football_team",
+                "Netherlands_national_cricket_team",
+                "Royal_Dutch_Football_Association",
+                "Netherlands_women's_national_football_team",
+                "A1_Team_Netherlands",
+                "Netherlands_women's_national_cricket_team",
+                "Same-sex_marriage_in_the_Netherlands",
+                "Netherlands_national_under-21_football_team",
+                "Kingdom_of_the_Netherlands",
+                "Netherlands_national_baseball_team",
+                "List_of_non-marine_molluscs_of_the_Netherlands",
+                "Dutch_Top_40",
+                "Netherlands_national_cerebral_palsy_football_team",
+                "ISU_Junior_Grand_Prix_in_the_Netherlands",
+                "Dutch_Republic"
+            ],
+            "scores": [
+                0.8586002372479241,
+                0.04102232287285668,
+                0.011280060390380675,
+                0.006276285991588483,
+                0.004184190661058989,
+                0.003235198964736331,
+                0.0030410870268521516,
+                0.002997951040655667,
+                0.0027175671303785185,
+                0.002674431144182034,
+                0.002350911247708401,
+                0.0019411193788417987,
+                0.0019411193788417987,
+                0.0018979833926453143,
+                0.0017470074409576188,
+                0.0017470074409576188
+            ]
+        },
+        {
+            "begin": 1008,
+            "end": 1013,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 1226,
+            "end": 1235,
+            "text": "Topolanek",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1310,
+            "end": 1315,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 1327,
+            "end": 1332,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 1409,
+            "end": 1411,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1542,
+            "end": 1548,
+            "text": "Europe",
+            "concept": 25,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1690,
+            "end": 1697,
+            "text": "Sarkozy",
+            "concept": 4,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1712,
+            "end": 1721,
+            "text": "Wednesday",
+            "concept": 9
+        },
+        {
+            "begin": 1723,
+            "end": 1728,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 1753,
+            "end": 1759,
+            "text": "French",
+            "concept": 18
+        },
+        {
+            "begin": 1760,
+            "end": 1769,
+            "text": "President",
+            "concept": 26
+        },
+        {
+            "begin": 1770,
+            "end": 1785,
+            "text": "Nicolas Sarkozy",
+            "concept": 4,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1798,
+            "end": 1804,
+            "text": "London",
+            "concept": 11,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 1837,
+            "end": 1844,
+            "text": "June 19",
+            "concept": 27
+        },
+        {
+            "begin": 1866,
+            "end": 1871,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 1880,
+            "end": 1889,
+            "text": "successor",
+            "concept": 28
+        },
+        {
+            "begin": 1891,
+            "end": 1903,
+            "text": "Gordon Brown",
+            "concept": 5,
+            "candidates": [
+                "Gordon_Brown",
+                "Gordon_Brown_(rugby_union)",
+                "Gordon_Brown_(Australian_politician)",
+                "Gordon_Brown_(guard)",
+                "Gordon_Brown_(rugby_league)",
+                "Gordon_Brown_(footballer,_born_1933)",
+                "Gordon_Brown_(footballer,_born_1932)",
+                "Gordon_Brown_(television_presenter)",
+                "Premiership_of_Gordon_Brown",
+                "Gordon_Brown_(footballer,_born_1929)",
+                "Gordon_Brown_(Canadian_football)",
+                "Gordon_Brown_(running_back)",
+                "Brown_ministry"
+            ],
+            "scores": [
+                0.9547432550043516,
+                0.014795474325500435,
+                0.01174934725848564,
+                0.005221932114882507,
+                0.004786771105308964,
+                0.002175805047867711,
+                0.0013054830287206266,
+                0.0013054830287206266,
+                0.0013054830287206266,
+                0.0008703220191470844,
+                0.0008703220191470844,
+                0.0004351610095735422,
+                0.0004351610095735422
+            ]
+        },
+        {
+            "begin": 1946,
+            "end": 1953,
+            "text": "Sarkozy",
+            "concept": 4,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2084,
+            "end": 2086,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 2224,
+            "end": 2230,
+            "text": "London",
+            "concept": 11,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 2236,
+            "end": 2241,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 2242,
+            "end": 2247,
+            "text": "Brown",
+            "concept": 5,
+            "candidates": [
+                "Brown_Bears_men's_ice_hockey",
+                "Brown",
+                "Brown_University",
+                "Brown_Bears_football",
+                "Jerry_Brown",
+                "Brown_trout",
+                "Brown_Bears",
+                "Brown_County,_Wisconsin",
+                "Brown_County,_Texas",
+                "Club_Atl\u00e9tico_Brown",
+                "Brown_County,_Ohio",
+                "Brown_County,_South_Dakota",
+                "Brown_County,_Minnesota",
+                "Brown_County,_Kansas",
+                "Brown_Bears_men's_basketball",
+                "Brown_Line_(CTA)"
+            ],
+            "scores": [
+                0.10235837588135181,
+                0.08096280087527352,
+                0.06856309263311451,
+                0.040846097738876735,
+                0.03476780938487722,
+                0.03257962557743739,
+                0.030634573304157548,
+                0.029175784099197667,
+                0.0262582056892779,
+                0.020909311937758326,
+                0.019693654266958426,
+                0.01774860199367858,
+                0.017019207391198637,
+                0.015074155117918793,
+                0.014831023583758814,
+                0.01312910284463895
+            ]
+        },
+        {
+            "begin": 2282,
+            "end": 2287,
+            "text": "Brown",
+            "concept": 5,
+            "candidates": [
+                "Brown_Bears_men's_ice_hockey",
+                "Brown",
+                "Brown_University",
+                "Brown_Bears_football",
+                "Jerry_Brown",
+                "Brown_trout",
+                "Brown_Bears",
+                "Brown_County,_Wisconsin",
+                "Brown_County,_Texas",
+                "Club_Atl\u00e9tico_Brown",
+                "Brown_County,_Ohio",
+                "Brown_County,_South_Dakota",
+                "Brown_County,_Minnesota",
+                "Brown_County,_Kansas",
+                "Brown_Bears_men's_basketball",
+                "Brown_Line_(CTA)"
+            ],
+            "scores": [
+                0.10235837588135181,
+                0.08096280087527352,
+                0.06856309263311451,
+                0.040846097738876735,
+                0.03476780938487722,
+                0.03257962557743739,
+                0.030634573304157548,
+                0.029175784099197667,
+                0.0262582056892779,
+                0.020909311937758326,
+                0.019693654266958426,
+                0.01774860199367858,
+                0.017019207391198637,
+                0.015074155117918793,
+                0.014831023583758814,
+                0.01312910284463895
+            ]
+        },
+        {
+            "begin": 2314,
+            "end": 2326,
+            "text": "Labour Party",
+            "concept": 29,
+            "candidates": [
+                "Labour_Party_(UK)",
+                "Labour_Party_(Ireland)",
+                "Labour_Party_(Norway)",
+                "Labour_Party_(Netherlands)",
+                "New_Zealand_Labour_Party",
+                "Labour_Party_(Malta)",
+                "Scottish_Labour_Party",
+                "Welsh_Labour",
+                "Labour_Party_(Lithuania)",
+                "Labour_Party_(Mauritius)",
+                "Labour_Party_(Hong_Kong)",
+                "Labour_Party_(Turkey)",
+                "Australian_Labor_Party_(Queensland_Branch)",
+                "Israeli_Labor_Party",
+                "Australian_Labor_Party",
+                "Labour_Party_(Nigeria)"
+            ],
+            "scores": [
+                0.551673082617708,
+                0.12466686408054486,
+                0.08990228013029317,
+                0.07823511992893101,
+                0.06852235712170565,
+                0.017411904056855197,
+                0.010364228605270951,
+                0.008113710393840687,
+                0.005803968018951732,
+                0.0046787089132366,
+                0.0035534498075214687,
+                0.0033165531536867043,
+                0.0027243115190997928,
+                0.0027243115190997928,
+                0.0026650873556411016,
+                0.0024281907018063368
+            ]
+        },
+        {
+            "begin": 2347,
+            "end": 2352,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 2385,
+            "end": 2392,
+            "text": "June 27",
+            "concept": 30
+        },
+        {
+            "begin": 2394,
+            "end": 2399,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 2434,
+            "end": 2441,
+            "text": "Sarkozy",
+            "concept": 4,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2445,
+            "end": 2452,
+            "text": "June 19",
+            "concept": 27
+        },
+        {
+            "begin": 2478,
+            "end": 2492,
+            "text": "Group of Eight",
+            "concept": 1,
+            "candidates": [
+                "Group_of_Eight",
+                "Group_of_Eight_(Australian_universities)",
+                "Group_of_Eight_(music)"
+            ],
+            "scores": [
+                0.5925925925925926,
+                0.3425925925925926,
+                0.06481481481481481
+            ]
+        },
+        {
+            "begin": 2494,
+            "end": 2496,
+            "text": "G8",
+            "concept": 1,
+            "candidates": [
+                "Group_of_Eight",
+                "Pontiac_G8",
+                "EMD_G8",
+                "36th_G8_summit",
+                "Abitur_after_twelve_years",
+                "HMS_G8",
+                "Prussian_G_8",
+                "European_Union_and_the_G7",
+                "39th_G8_summit",
+                "33rd_G8_summit",
+                "31st_G8_summit",
+                "26th_G8_summit",
+                "32nd_G8_summit",
+                "SRAM_G8",
+                "Group_of_Seven",
+                "37th_G8_summit"
+            ],
+            "scores": [
+                0.9242902208201893,
+                0.022082018927444796,
+                0.012618296529968454,
+                0.00946372239747634,
+                0.00473186119873817,
+                0.0031545741324921135,
+                0.0031545741324921135,
+                0.0031545741324921135,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567,
+                0.0015772870662460567
+            ]
+        },
+        {
+            "begin": 2508,
+            "end": 2515,
+            "text": "Germany",
+            "concept": 20,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2517,
+            "end": 2524,
+            "text": "Sarkozy",
+            "concept": 4,
+            "candidates": [
+                "Nicolas_Sarkozy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2545,
+            "end": 2550,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 2652,
+            "end": 2658,
+            "text": "London",
+            "concept": 11,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        },
+        {
+            "begin": 2702,
+            "end": 2708,
+            "text": "French",
+            "concept": 18
+        },
+        {
+            "begin": 2868,
+            "end": 2873,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 2896,
+            "end": 2908,
+            "text": "Gordon Brown",
+            "concept": 5,
+            "candidates": [
+                "Gordon_Brown",
+                "Gordon_Brown_(rugby_union)",
+                "Gordon_Brown_(Australian_politician)",
+                "Gordon_Brown_(guard)",
+                "Gordon_Brown_(rugby_league)",
+                "Gordon_Brown_(footballer,_born_1933)",
+                "Gordon_Brown_(footballer,_born_1932)",
+                "Gordon_Brown_(television_presenter)",
+                "Premiership_of_Gordon_Brown",
+                "Gordon_Brown_(footballer,_born_1929)",
+                "Gordon_Brown_(Canadian_football)",
+                "Gordon_Brown_(running_back)",
+                "Brown_ministry"
+            ],
+            "scores": [
+                0.9547432550043516,
+                0.014795474325500435,
+                0.01174934725848564,
+                0.005221932114882507,
+                0.004786771105308964,
+                0.002175805047867711,
+                0.0013054830287206266,
+                0.0013054830287206266,
+                0.0013054830287206266,
+                0.0008703220191470844,
+                0.0008703220191470844,
+                0.0004351610095735422,
+                0.0004351610095735422
+            ]
+        },
+        {
+            "begin": 2951,
+            "end": 2956,
+            "text": "Brown",
+            "concept": 5,
+            "candidates": [
+                "Brown_Bears_men's_ice_hockey",
+                "Brown",
+                "Brown_University",
+                "Brown_Bears_football",
+                "Jerry_Brown",
+                "Brown_trout",
+                "Brown_Bears",
+                "Brown_County,_Wisconsin",
+                "Brown_County,_Texas",
+                "Club_Atl\u00e9tico_Brown",
+                "Brown_County,_Ohio",
+                "Brown_County,_South_Dakota",
+                "Brown_County,_Minnesota",
+                "Brown_County,_Kansas",
+                "Brown_Bears_men's_basketball",
+                "Brown_Line_(CTA)"
+            ],
+            "scores": [
+                0.10235837588135181,
+                0.08096280087527352,
+                0.06856309263311451,
+                0.040846097738876735,
+                0.03476780938487722,
+                0.03257962557743739,
+                0.030634573304157548,
+                0.029175784099197667,
+                0.0262582056892779,
+                0.020909311937758326,
+                0.019693654266958426,
+                0.01774860199367858,
+                0.017019207391198637,
+                0.015074155117918793,
+                0.014831023583758814,
+                0.01312910284463895
+            ]
+        },
+        {
+            "begin": 3175,
+            "end": 3189,
+            "text": "Prime Minister",
+            "concept": 8
+        },
+        {
+            "begin": 3211,
+            "end": 3221,
+            "text": "Government",
+            "concept": 31,
+            "candidates": [
+                "Government",
+                "Government_of_the_United_Kingdom",
+                "Government_of_New_South_Wales",
+                "Federal_government_of_the_United_States",
+                "Government_of_Pakistan",
+                "Government_of_Ireland",
+                "Government_of_Singapore",
+                "Government_of_Sweden",
+                "Government_of_Sri_Lanka",
+                "Government_of_India",
+                "Cabinet_of_Turkey",
+                "Head_of_government",
+                "Government_of_Australia",
+                "Government_of_Hong_Kong",
+                "Government_of_New_Zealand",
+                "Government_of_Spain"
+            ],
+            "scores": [
+                0.3844602769189407,
+                0.0431509611506923,
+                0.018819733835192903,
+                0.016803333781422233,
+                0.016668907111170857,
+                0.015459067078908456,
+                0.01451808038714881,
+                0.01330824035488641,
+                0.012367253663126763,
+                0.011560693641618497,
+                0.011560693641618497,
+                0.009006586906842317,
+                0.008737733566339561,
+                0.008334453555585429,
+                0.00820002688533405,
+                0.006183626831563382
+            ]
+        },
+        {
+            "begin": 3251,
+            "end": 3256,
+            "text": "Brown",
+            "concept": 5,
+            "candidates": [
+                "Brown_Bears_men's_ice_hockey",
+                "Brown",
+                "Brown_University",
+                "Brown_Bears_football",
+                "Jerry_Brown",
+                "Brown_trout",
+                "Brown_Bears",
+                "Brown_County,_Wisconsin",
+                "Brown_County,_Texas",
+                "Club_Atl\u00e9tico_Brown",
+                "Brown_County,_Ohio",
+                "Brown_County,_South_Dakota",
+                "Brown_County,_Minnesota",
+                "Brown_County,_Kansas",
+                "Brown_Bears_men's_basketball",
+                "Brown_Line_(CTA)"
+            ],
+            "scores": [
+                0.10235837588135181,
+                0.08096280087527352,
+                0.06856309263311451,
+                0.040846097738876735,
+                0.03476780938487722,
+                0.03257962557743739,
+                0.030634573304157548,
+                0.029175784099197667,
+                0.0262582056892779,
+                0.020909311937758326,
+                0.019693654266958426,
+                0.01774860199367858,
+                0.017019207391198637,
+                0.015074155117918793,
+                0.014831023583758814,
+                0.01312910284463895
+            ]
+        },
+        {
+            "begin": 3287,
+            "end": 3292,
+            "text": "Blair",
+            "concept": 2,
+            "candidates": [
+                "Blair_County,_Pennsylvania",
+                "Tony_Blair",
+                "Blair,_Nebraska",
+                "Division_of_Blair",
+                "Blair_station",
+                "Blair,_Oklahoma",
+                "Blair",
+                "Blair_ministry",
+                "Cheyse_Blair",
+                "Matty_Blair",
+                "Blair_Waldorf",
+                "Blair_Cramer",
+                "Robert_Blair_(badminton)",
+                "Adam_Blair",
+                "Blair,_Wisconsin",
+                "Robert_Blair_(poet)"
+            ],
+            "scores": [
+                0.27234927234927236,
+                0.13721413721413722,
+                0.1101871101871102,
+                0.06652806652806653,
+                0.035343035343035345,
+                0.035343035343035345,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.016632016632016633,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.014553014553014554,
+                0.012474012474012475,
+                0.012474012474012475,
+                0.012474012474012475
+            ]
+        },
+        {
+            "begin": 3353,
+            "end": 3355,
+            "text": "EU",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "EU Constitution",
+            "keyword": false,
+            "count": 2,
+            "link": "Treaty_establishing_a_Constitution_for_Europe",
+            "tags": [
+                "iptc::11000000",
+                "meta::redo",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Group of Eight",
+            "keyword": false,
+            "count": 2,
+            "link": "Group_of_Eight",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Tony Blair",
+            "keyword": true,
+            "count": 15,
+            "link": "Tony_Blair",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "EU",
+            "keyword": true,
+            "count": 9,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Nicolas Sarkozy",
+            "keyword": false,
+            "count": 5,
+            "link": "Nicolas_Sarkozy",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Gordon Brown",
+            "keyword": false,
+            "count": 6,
+            "link": "Gordon_Brown",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Mirek Topolanek",
+            "keyword": false,
+            "count": 2,
+            "link": "Mirek_Topol\u00e1nek",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "UK",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Kingdom",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Angela Merkel",
+            "keyword": false,
+            "count": 2,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "London",
+            "keyword": false,
+            "count": 4,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Czech",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Brussels",
+            "keyword": false,
+            "count": 1,
+            "link": "Brussels",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "June 21",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "22",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "French",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Downing Street",
+            "keyword": false,
+            "count": 1,
+            "link": "Downing_Street",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::politics_facility"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Netherlands",
+            "keyword": false,
+            "count": 1,
+            "link": "Netherlands",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "June 19",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "successor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Labour Party",
+            "keyword": false,
+            "count": 1,
+            "link": "Labour_Party_(UK)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "June 27",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Government",
+            "keyword": false,
+            "count": 1,
+            "link": "Government_of_the_United_Kingdom",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 32,
+            "keyword": false,
+            "count": 0,
+            "link": "Belgium",
+            "tags": []
+        },
+        {
+            "concept": 33,
+            "keyword": false,
+            "count": 0,
+            "link": "Czech_Republic",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "signed_by",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 23
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 23
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 18
+        },
+        {
+            "s": 4,
+            "p": "head_of_state",
+            "o": 23
+        },
+        {
+            "s": 4,
+            "p": "head_of_state-x",
+            "o": 18
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 29
+        },
+        {
+            "s": 5,
+            "p": "head_of_gov",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 29
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 33
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "head_of_gov",
+            "o": 33
+        },
+        {
+            "s": 6,
+            "p": "head_of_gov-x",
+            "o": 12
+        },
+        {
+            "s": 10,
+            "p": "agent_of",
+            "o": 20
+        },
+        {
+            "s": 10,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 10,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 10,
+            "p": "head_of_gov",
+            "o": 20
+        },
+        {
+            "s": 10,
+            "p": "head_of_gov-x",
+            "o": 16
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 33
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 32
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 20
+        },
+        {
+            "s": 18,
+            "p": "gpe0",
+            "o": 23
+        },
+        {
+            "s": 19,
+            "p": "gpe0",
+            "o": 24
+        },
+        {
+            "s": 21,
+            "p": "agency_of",
+            "o": 7
+        },
+        {
+            "s": 21,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 21,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 29,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 31,
+            "p": "agency_of",
+            "o": 7
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 7
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000593",
+        "20000597"
+    ]
+}

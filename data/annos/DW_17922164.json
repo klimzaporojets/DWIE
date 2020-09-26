@@ -1,0 +1,1286 @@
+{
+    "id": "DW_17922164",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 54,
+            "end": 60,
+            "text": "Moscow",
+            "concept": 0,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 147,
+            "end": 154,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 192,
+            "end": 199,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 238,
+            "end": 245,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 263,
+            "end": 270,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 271,
+            "end": 287,
+            "text": "Finance Minister",
+            "concept": 8
+        },
+        {
+            "begin": 288,
+            "end": 302,
+            "text": "Anton Siluanov",
+            "concept": 1,
+            "candidates": [
+                "Anton_Siluanov"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 319,
+            "end": 325,
+            "text": "Monday",
+            "concept": 9
+        },
+        {
+            "begin": 406,
+            "end": 413,
+            "text": "Western",
+            "concept": 10
+        },
+        {
+            "begin": 425,
+            "end": 431,
+            "text": "Moscow",
+            "concept": 0,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 438,
+            "end": 449,
+            "text": "news agency",
+            "concept": 11
+        },
+        {
+            "begin": 450,
+            "end": 453,
+            "text": "RIA",
+            "concept": 2,
+            "candidates": [
+                "Ria",
+                "Royal_Irish_Academy",
+                "Rich_web_application",
+                "Radioimmunoassay",
+                "PSPS_Riau",
+                "Registered_Investment_Adviser",
+                "Ria_(singer)",
+                "RIA_(restaurant)",
+                "Ria_de_Vigo",
+                "Ria_Atayde",
+                "Ria_Money_Transfer",
+                "Ria_89.7FM",
+                "Aveiro_Lagoon",
+                "Imperial_Russian_Army",
+                "Kokborok",
+                "Rock_Island_Arsenal"
+            ],
+            "scores": [
+                0.6623931623931624,
+                0.13247863247863248,
+                0.05128205128205128,
+                0.038461538461538464,
+                0.02564102564102564,
+                0.017094017094017096,
+                0.01282051282051282,
+                0.008547008547008548,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274
+            ]
+        },
+        {
+            "begin": 461,
+            "end": 469,
+            "text": "Siluanov",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 570,
+            "end": 588,
+            "text": "State Pension Fund",
+            "concept": 5,
+            "candidates": [
+                "Ministry_of_Finance_(Finland)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 646,
+            "end": 649,
+            "text": "RIA",
+            "concept": 2,
+            "candidates": [
+                "Ria",
+                "Royal_Irish_Academy",
+                "Rich_web_application",
+                "Radioimmunoassay",
+                "PSPS_Riau",
+                "Registered_Investment_Adviser",
+                "Ria_(singer)",
+                "RIA_(restaurant)",
+                "Ria_de_Vigo",
+                "Ria_Atayde",
+                "Ria_Money_Transfer",
+                "Ria_89.7FM",
+                "Aveiro_Lagoon",
+                "Imperial_Russian_Army",
+                "Kokborok",
+                "Rock_Island_Arsenal"
+            ],
+            "scores": [
+                0.6623931623931624,
+                0.13247863247863248,
+                0.05128205128205128,
+                0.038461538461538464,
+                0.02564102564102564,
+                0.017094017094017096,
+                0.01282051282051282,
+                0.008547008547008548,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274
+            ]
+        },
+        {
+            "begin": 651,
+            "end": 657,
+            "text": "Moscow",
+            "concept": 0,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 691,
+            "end": 710,
+            "text": "100 billion roubles",
+            "concept": 12
+        },
+        {
+            "begin": 713,
+            "end": 728,
+            "text": "2 billion euros",
+            "concept": 13
+        },
+        {
+            "begin": 794,
+            "end": 801,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 838,
+            "end": 857,
+            "text": "100 billion roubles",
+            "concept": 12
+        },
+        {
+            "begin": 938,
+            "end": 941,
+            "text": "RIA",
+            "concept": 2,
+            "candidates": [
+                "Ria",
+                "Royal_Irish_Academy",
+                "Rich_web_application",
+                "Radioimmunoassay",
+                "PSPS_Riau",
+                "Registered_Investment_Adviser",
+                "Ria_(singer)",
+                "RIA_(restaurant)",
+                "Ria_de_Vigo",
+                "Ria_Atayde",
+                "Ria_Money_Transfer",
+                "Ria_89.7FM",
+                "Aveiro_Lagoon",
+                "Imperial_Russian_Army",
+                "Kokborok",
+                "Rock_Island_Arsenal"
+            ],
+            "scores": [
+                0.6623931623931624,
+                0.13247863247863248,
+                0.05128205128205128,
+                0.038461538461538464,
+                0.02564102564102564,
+                0.017094017094017096,
+                0.01282051282051282,
+                0.008547008547008548,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274
+            ]
+        },
+        {
+            "begin": 949,
+            "end": 957,
+            "text": "Siluanov",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1048,
+            "end": 1062,
+            "text": "European Union",
+            "concept": 3,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 1071,
+            "end": 1084,
+            "text": "United States",
+            "concept": 14,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 1123,
+            "end": 1129,
+            "text": "Moscow",
+            "concept": 0,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 1134,
+            "end": 1140,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1162,
+            "end": 1169,
+            "text": "Ukraine",
+            "concept": 4,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 1212,
+            "end": 1219,
+            "text": "Russian",
+            "concept": 7
+        },
+        {
+            "begin": 1352,
+            "end": 1358,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1361,
+            "end": 1370,
+            "text": "oil giant",
+            "concept": 15
+        },
+        {
+            "begin": 1371,
+            "end": 1378,
+            "text": "Rosneft",
+            "concept": 16,
+            "candidates": [
+                "Rosneft"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1398,
+            "end": 1418,
+            "text": "1.5 trillion roubles",
+            "concept": 17
+        },
+        {
+            "begin": 1420,
+            "end": 1434,
+            "text": "$39.70 billion",
+            "concept": 18
+        },
+        {
+            "begin": 1470,
+            "end": 1478,
+            "text": "Siluanov",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1489,
+            "end": 1492,
+            "text": "RIA",
+            "concept": 2,
+            "candidates": [
+                "Ria",
+                "Royal_Irish_Academy",
+                "Rich_web_application",
+                "Radioimmunoassay",
+                "PSPS_Riau",
+                "Registered_Investment_Adviser",
+                "Ria_(singer)",
+                "RIA_(restaurant)",
+                "Ria_de_Vigo",
+                "Ria_Atayde",
+                "Ria_Money_Transfer",
+                "Ria_89.7FM",
+                "Aveiro_Lagoon",
+                "Imperial_Russian_Army",
+                "Kokborok",
+                "Rock_Island_Arsenal"
+            ],
+            "scores": [
+                0.6623931623931624,
+                0.13247863247863248,
+                0.05128205128205128,
+                0.038461538461538464,
+                0.02564102564102564,
+                0.017094017094017096,
+                0.01282051282051282,
+                0.008547008547008548,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274,
+                0.004273504273504274
+            ]
+        },
+        {
+            "begin": 1557,
+            "end": 1569,
+            "text": "Pension Fund",
+            "concept": 5,
+            "candidates": [
+                "Pension_fund",
+                "Pension",
+                "Pension_Fund_of_the_Russian_Federation",
+                "Government_Pension_Fund_of_Norway"
+            ],
+            "scores": [
+                0.9436619718309859,
+                0.028169014084507043,
+                0.014084507042253521,
+                0.014084507042253521
+            ]
+        },
+        {
+            "begin": 1601,
+            "end": 1620,
+            "text": "309 billion roubles",
+            "concept": 19
+        },
+        {
+            "begin": 1662,
+            "end": 1668,
+            "text": "Moscow",
+            "concept": 0,
+            "candidates": [
+                "Moscow",
+                "Moscow,_Idaho",
+                "Kremlin_Cup",
+                "Moscow_Oblast",
+                "Moscow_Governorate",
+                "FC_Moscow",
+                "Luzhniki_Stadium",
+                "Grand_Duchy_of_Moscow",
+                "Moscow_State_University",
+                "Moscow,_Pennsylvania",
+                "Moscow_Metro",
+                "1980_Summer_Olympics",
+                "Moscow_Raceway",
+                "Battle_of_Moscow",
+                "Moscow,_Tennessee",
+                "Megasport_Sport_Palace"
+            ],
+            "scores": [
+                0.9525986168412929,
+                0.01291146003383693,
+                0.006797067466088867,
+                0.0015137573832774331,
+                0.0014543943486391025,
+                0.0013653497966816064,
+                0.0009498085542132914,
+                0.0008310824849366299,
+                0.0007123564156599685,
+                0.0006826748983408032,
+                0.0006826748983408032,
+                0.0006233118637024725,
+                0.0005639488290641418,
+                0.0005639488290641418,
+                0.0004749042771066457,
+                0.00041554124246831497
+            ]
+        },
+        {
+            "begin": 1723,
+            "end": 1735,
+            "text": "Pension Fund",
+            "concept": 5,
+            "candidates": [
+                "Pension_fund",
+                "Pension",
+                "Pension_Fund_of_the_Russian_Federation",
+                "Government_Pension_Fund_of_Norway"
+            ],
+            "scores": [
+                0.9436619718309859,
+                0.028169014084507043,
+                0.014084507042253521,
+                0.014084507042253521
+            ]
+        },
+        {
+            "begin": 1765,
+            "end": 1771,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1847,
+            "end": 1868,
+            "text": "uhe/nz (Reuters, RIA)",
+            "concept": 20
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Moscow",
+            "keyword": true,
+            "count": 5,
+            "link": "Moscow",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Anton Siluanov",
+            "keyword": true,
+            "count": 4,
+            "link": "Anton_Siluanov",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::finance",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "RIA",
+            "keyword": true,
+            "count": 4,
+            "link": "RIA_Novosti",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "European Union",
+            "keyword": true,
+            "count": 1,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Ukraine",
+            "keyword": true,
+            "count": 2,
+            "link": "Ukraine",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "State Pension Fund",
+            "keyword": false,
+            "count": 3,
+            "link": "Pension_Fund_of_the_Russian_Federation",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Russia",
+            "keyword": false,
+            "count": 4,
+            "link": "Russia",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Russian",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Finance Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Monday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Western",
+            "keyword": false,
+            "count": 1,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "news agency",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "100 billion roubles",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "2 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "United States",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "oil giant",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Rosneft",
+            "keyword": false,
+            "count": 1,
+            "link": "Rosneft",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000266",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "1.5 trillion roubles",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$39.70 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "309 billion roubles",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "uhe/nz (Reuters, RIA)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "minister_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "minister_of-x",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "based_in2",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "agency_of",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "agency_of-x",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 7
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "09000000",
+        "20000531",
+        "20000532"
+    ]
+}

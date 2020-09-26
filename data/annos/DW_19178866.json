@@ -1,0 +1,191 @@
+{
+    "id": "DW_19178866",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 22,
+            "end": 31,
+            "text": "Barcelona",
+            "concept": 0,
+            "candidates": [
+                "Barcelona",
+                "FC_Barcelona",
+                "Province_of_Barcelona",
+                "Barcelona_S.C.",
+                "FC_Barcelona_Handbol",
+                "FC_Barcelona_B\u00e0squet",
+                "Barcelona_Open_(tennis)",
+                "Circuit_de_Barcelona-Catalunya",
+                "FC_Barcelona_Hoquei",
+                "FC_Barcelona_Femen\u00ed",
+                "CN_Barcelona",
+                "Barcelona_(Congress_of_Deputies_constituency)",
+                "Barcelona_(Parliament_of_Catalonia_constituency)",
+                "Barcelona\u2013El_Prat_Airport",
+                "Barcelona,_Venezuela",
+                "House_of_Barcelona"
+            ],
+            "scores": [
+                0.6385554188420738,
+                0.21499118752286256,
+                0.04376309401084101,
+                0.017225898706394866,
+                0.00781483821622161,
+                0.00781483821622161,
+                0.007016727079245785,
+                0.006484652987928569,
+                0.005420504805294137,
+                0.004888430713976921,
+                0.004389611253367031,
+                0.0032256991786106214,
+                0.0031259352864886434,
+                0.0028598982408300356,
+                0.0028266436101227095,
+                0.0019952778424395597
+            ]
+        },
+        {
+            "begin": 32,
+            "end": 41,
+            "text": "Barcelona",
+            "concept": 0,
+            "candidates": [
+                "Barcelona",
+                "FC_Barcelona",
+                "Province_of_Barcelona",
+                "Barcelona_S.C.",
+                "FC_Barcelona_Handbol",
+                "FC_Barcelona_B\u00e0squet",
+                "Barcelona_Open_(tennis)",
+                "Circuit_de_Barcelona-Catalunya",
+                "FC_Barcelona_Hoquei",
+                "FC_Barcelona_Femen\u00ed",
+                "CN_Barcelona",
+                "Barcelona_(Congress_of_Deputies_constituency)",
+                "Barcelona_(Parliament_of_Catalonia_constituency)",
+                "Barcelona\u2013El_Prat_Airport",
+                "Barcelona,_Venezuela",
+                "House_of_Barcelona"
+            ],
+            "scores": [
+                0.6385554188420738,
+                0.21499118752286256,
+                0.04376309401084101,
+                0.017225898706394866,
+                0.00781483821622161,
+                0.00781483821622161,
+                0.007016727079245785,
+                0.006484652987928569,
+                0.005420504805294137,
+                0.004888430713976921,
+                0.004389611253367031,
+                0.0032256991786106214,
+                0.0031259352864886434,
+                0.0028598982408300356,
+                0.0028266436101227095,
+                0.0019952778424395597
+            ]
+        },
+        {
+            "begin": 93,
+            "end": 99,
+            "text": "Europe",
+            "concept": 1,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Barcelona",
+            "keyword": true,
+            "count": 2,
+            "link": "Barcelona",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Europe",
+            "keyword": true,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": false,
+            "count": 0,
+            "link": "Spain",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 2
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "10000000",
+        "20000538",
+        "20000551",
+        "20000563",
+        "20000564"
+    ]
+}

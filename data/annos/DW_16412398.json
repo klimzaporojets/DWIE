@@ -1,0 +1,1603 @@
+{
+    "id": "DW_16412398",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Hungary",
+            "concept": 2,
+            "candidates": [
+                "Hungary",
+                "Hungary_national_football_team",
+                "Kingdom_of_Hungary",
+                "Kingdom_of_Hungary_(1920\u20131946)",
+                "Hungarian_People's_Republic",
+                "Hungarian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Hungary",
+                "Recognition_of_same-sex_unions_in_Hungary",
+                "Hungary_national_under-21_football_team",
+                "Kingdom_of_Hungary_(1526\u20131867)",
+                "Hungary_women's_national_football_team",
+                "Hungary_national_handball_team",
+                "Hungary_in_World_War_II",
+                "Hungary_women's_national_basketball_team",
+                "Hungary_Fed_Cup_team",
+                "Hungary_national_speedway_team"
+            ],
+            "scores": [
+                0.8100289296046287,
+                0.05085895924854459,
+                0.019643558698524948,
+                0.013107610986106646,
+                0.008678881388621022,
+                0.00860745026608093,
+                0.004964463016536305,
+                0.004071573984785171,
+                0.0032501160755741276,
+                0.0029286760241437194,
+                0.0028572449016036287,
+                0.0024286581663630845,
+                0.002178649237472767,
+                0.001964355869852495,
+                0.0015357691346119505,
+                0.001392906889531769
+            ]
+        },
+        {
+            "begin": 10,
+            "end": 15,
+            "text": "Orban",
+            "concept": 0,
+            "candidates": [
+                "Orban",
+                "Viktor_Orb\u00e1n",
+                "Orban,_Tarn",
+                "Willi_Orban",
+                "Orban_(audio_processing)",
+                "\u00c1rp\u00e1d_Orb\u00e1n",
+                "Adrienn_Orb\u00e1n",
+                "Ludovic_Orban",
+                "Gy\u00f6rgy_Orb\u00e1n",
+                "Orban_(name)"
+            ],
+            "scores": [
+                0.4864864864864865,
+                0.1891891891891892,
+                0.08108108108108109,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 60,
+            "end": 69,
+            "text": "Hungarian",
+            "concept": 5
+        },
+        {
+            "begin": 254,
+            "end": 263,
+            "text": "Hungarian",
+            "concept": 5
+        },
+        {
+            "begin": 669,
+            "end": 683,
+            "text": "Prime Minister",
+            "concept": 6
+        },
+        {
+            "begin": 684,
+            "end": 696,
+            "text": "Viktor Orban",
+            "concept": 0,
+            "candidates": [
+                "Viktor_Orb\u00e1n"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 705,
+            "end": 711,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 753,
+            "end": 765,
+            "text": "Peter Juhasz",
+            "concept": 7,
+            "candidates": [
+                "P\u00e9ter_Juh\u00e1sz",
+                "P\u00e9ter_Juh\u00e1sz_(politician)"
+            ],
+            "scores": [
+                0.5555555555555556,
+                0.4444444444444444
+            ]
+        },
+        {
+            "begin": 825,
+            "end": 830,
+            "text": "Milla",
+            "concept": 8,
+            "candidates": [
+                "Milla",
+                "Luis_Milla",
+                "Milla,_Illinois",
+                "Pere_Milla",
+                "Roger_Milla",
+                "Milla,_Burkina_Faso"
+            ],
+            "scores": [
+                0.5,
+                0.13636363636363635,
+                0.13636363636363635,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 843,
+            "end": 845,
+            "text": "DW",
+            "concept": 9,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 868,
+            "end": 874,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 884,
+            "end": 894,
+            "text": "26.11.2012",
+            "concept": 11
+        },
+        {
+            "begin": 1005,
+            "end": 1013,
+            "text": "Internet",
+            "concept": 12,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 1077,
+            "end": 1087,
+            "text": "Hungarians",
+            "concept": 13
+        },
+        {
+            "begin": 1260,
+            "end": 1268,
+            "text": "European",
+            "concept": 14
+        },
+        {
+            "begin": 1314,
+            "end": 1324,
+            "text": "Hungarians",
+            "concept": 13
+        },
+        {
+            "begin": 1395,
+            "end": 1404,
+            "text": "Hungarian",
+            "concept": 5
+        },
+        {
+            "begin": 1419,
+            "end": 1426,
+            "text": "Romania",
+            "concept": 15,
+            "candidates": [
+                "Romania",
+                "Romania_national_football_team",
+                "Romania_national_rugby_union_team",
+                "Kingdom_of_Romania",
+                "Socialist_Republic_of_Romania",
+                "Romanian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Romania",
+                "Recognition_of_same-sex_unions_in_Romania",
+                "Romania_women's_national_football_team",
+                "Romania_national_under-21_football_team",
+                "Romania_women's_national_basketball_team",
+                "Romania_Fed_Cup_team",
+                "United_Principalities",
+                "Romania_Davis_Cup_team",
+                "Romania_men's_national_handball_team",
+                "Football_in_Romania"
+            ],
+            "scores": [
+                0.897320542507443,
+                0.030808247877384495,
+                0.013739111258132099,
+                0.010387032748924909,
+                0.005094277208071452,
+                0.0038151946190318666,
+                0.0028007498070349544,
+                0.002359686845297166,
+                0.0017863049950380416,
+                0.001587826662256037,
+                0.0009482853677362443,
+                0.0009482853677362443,
+                0.0009262322196493549,
+                0.0008380196273017974,
+                0.0007718601830411291,
+                0.0007498070349542397
+            ]
+        },
+        {
+            "begin": 1428,
+            "end": 1434,
+            "text": "Serbia",
+            "concept": 16,
+            "candidates": [
+                "Serbia",
+                "Serbia_national_football_team",
+                "Kingdom_of_Serbia",
+                "Principality_of_Serbia",
+                "Republic_of_Serbia_(1992\u20132006)",
+                "Socialist_Republic_of_Serbia",
+                "Football_Association_of_Serbia",
+                "Serbia_men's_national_basketball_team",
+                "Basketball_League_of_Serbia",
+                "Serbia_national_rugby_league_team",
+                "Serbia_national_under-21_football_team",
+                "Serbia_national_under-19_football_team",
+                "Serbia_Davis_Cup_team",
+                "Serbia_in_the_Middle_Ages",
+                "Serbia_Fed_Cup_team",
+                "ISU_Junior_Grand_Prix_in_Serbia"
+            ],
+            "scores": [
+                0.8553473285881611,
+                0.025137399765744663,
+                0.015722137129471122,
+                0.006757365528425984,
+                0.0066672673213803045,
+                0.006216776286151905,
+                0.006171727182629066,
+                0.005270745112172267,
+                0.004955401387512388,
+                0.003468780971258672,
+                0.003423731867735832,
+                0.0029281917289845933,
+                0.0024326515902333545,
+                0.0022524551761419946,
+                0.0019821605550049554,
+                0.0019371114514821154
+            ]
+        },
+        {
+            "begin": 1436,
+            "end": 1444,
+            "text": "Slovakia",
+            "concept": 17,
+            "candidates": [
+                "Slovakia",
+                "Slovakia_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Slovakia",
+                "Slovakia_men's_national_ice_hockey_team",
+                "List_of_non-marine_molluscs_of_Slovakia",
+                "Slovak_Football_Association",
+                "Slovak_Republic_(1939\u20131945)",
+                "Recognition_of_same-sex_unions_in_Slovakia",
+                "Slovakia_Fed_Cup_team",
+                "Slovakia_men's_national_junior_ice_hockey_team",
+                "Slovakia_national_under-21_football_team",
+                "Slovakia_women's_national_football_team",
+                "Slovakia_Davis_Cup_team",
+                "Acceleration_Team_Slovakia",
+                "Slovakia_women's_national_ice_hockey_team",
+                "History_of_Slovakia"
+            ],
+            "scores": [
+                0.8425229741019215,
+                0.03717627401837928,
+                0.014440864064924215,
+                0.011039503520706527,
+                0.010502446592672156,
+                0.010144408640649243,
+                0.007817161952500299,
+                0.006265664160401002,
+                0.0037593984962406013,
+                0.0036400525122329635,
+                0.003282014560210049,
+                0.0031029955841985917,
+                0.0022079007041413056,
+                0.0020288817281298483,
+                0.001670843776106934,
+                0.0015514977920992959
+            ]
+        },
+        {
+            "begin": 1449,
+            "end": 1456,
+            "text": "Ukraine",
+            "concept": 18,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 1503,
+            "end": 1507,
+            "text": "2010",
+            "concept": 19
+        },
+        {
+            "begin": 1895,
+            "end": 1901,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2101,
+            "end": 2108,
+            "text": "Hungary",
+            "concept": 2,
+            "candidates": [
+                "Hungary",
+                "Hungary_national_football_team",
+                "Kingdom_of_Hungary",
+                "Kingdom_of_Hungary_(1920\u20131946)",
+                "Hungarian_People's_Republic",
+                "Hungarian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Hungary",
+                "Recognition_of_same-sex_unions_in_Hungary",
+                "Hungary_national_under-21_football_team",
+                "Kingdom_of_Hungary_(1526\u20131867)",
+                "Hungary_women's_national_football_team",
+                "Hungary_national_handball_team",
+                "Hungary_in_World_War_II",
+                "Hungary_women's_national_basketball_team",
+                "Hungary_Fed_Cup_team",
+                "Hungary_national_speedway_team"
+            ],
+            "scores": [
+                0.8100289296046287,
+                0.05085895924854459,
+                0.019643558698524948,
+                0.013107610986106646,
+                0.008678881388621022,
+                0.00860745026608093,
+                0.004964463016536305,
+                0.004071573984785171,
+                0.0032501160755741276,
+                0.0029286760241437194,
+                0.0028572449016036287,
+                0.0024286581663630845,
+                0.002178649237472767,
+                0.001964355869852495,
+                0.0015357691346119505,
+                0.001392906889531769
+            ]
+        },
+        {
+            "begin": 2162,
+            "end": 2175,
+            "text": "United States",
+            "concept": 20,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 2244,
+            "end": 2250,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 2263,
+            "end": 2269,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2355,
+            "end": 2369,
+            "text": "Gergely Gulyas",
+            "concept": 21,
+            "candidates": [
+                "Gergely_Guly\u00e1s"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2469,
+            "end": 2482,
+            "text": "Jozsef Tobias",
+            "concept": 22,
+            "candidates": [
+                "J\u00f3zsef_T\u00f3bi\u00e1s"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2519,
+            "end": 2545,
+            "text": "Socialist opposition party",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2547,
+            "end": 2551,
+            "text": "MSZP",
+            "concept": 3,
+            "candidates": [
+                "Hungarian_Socialist_Party",
+                "Hungarian_Communist_Party"
+            ],
+            "scores": [
+                0.9881796690307328,
+                0.01182033096926714
+            ]
+        },
+        {
+            "begin": 2610,
+            "end": 2619,
+            "text": "colleague",
+            "concept": 23
+        },
+        {
+            "begin": 2620,
+            "end": 2635,
+            "text": "Tamas Harangozo",
+            "concept": 24,
+            "candidates": [
+                "Tam\u00e1s_Harangoz\u00f3"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2835,
+            "end": 2846,
+            "text": "Egy\u00fctt 2014",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2848,
+            "end": 2861,
+            "text": "Together 2014",
+            "concept": 4,
+            "candidates": [
+                "Together_(Hungary)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3001,
+            "end": 3006,
+            "text": "Milla",
+            "concept": 8,
+            "candidates": [
+                "Milla",
+                "Luis_Milla",
+                "Milla,_Illinois",
+                "Pere_Milla",
+                "Roger_Milla",
+                "Milla,_Burkina_Faso"
+            ],
+            "scores": [
+                0.5,
+                0.13636363636363635,
+                0.13636363636363635,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.045454545454545456
+            ]
+        },
+        {
+            "begin": 3189,
+            "end": 3194,
+            "text": "Orban",
+            "concept": 0,
+            "candidates": [
+                "Orban",
+                "Viktor_Orb\u00e1n",
+                "Orban,_Tarn",
+                "Willi_Orban",
+                "Orban_(audio_processing)",
+                "\u00c1rp\u00e1d_Orb\u00e1n",
+                "Adrienn_Orb\u00e1n",
+                "Ludovic_Orban",
+                "Gy\u00f6rgy_Orb\u00e1n",
+                "Orban_(name)"
+            ],
+            "scores": [
+                0.4864864864864865,
+                0.1891891891891892,
+                0.08108108108108109,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 3320,
+            "end": 3326,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3461,
+            "end": 3466,
+            "text": "Orban",
+            "concept": 0,
+            "candidates": [
+                "Orban",
+                "Viktor_Orb\u00e1n",
+                "Orban,_Tarn",
+                "Willi_Orban",
+                "Orban_(audio_processing)",
+                "\u00c1rp\u00e1d_Orb\u00e1n",
+                "Adrienn_Orb\u00e1n",
+                "Ludovic_Orban",
+                "Gy\u00f6rgy_Orb\u00e1n",
+                "Orban_(name)"
+            ],
+            "scores": [
+                0.4864864864864865,
+                0.1891891891891892,
+                0.08108108108108109,
+                0.05405405405405406,
+                0.05405405405405406,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703,
+                0.02702702702702703
+            ]
+        },
+        {
+            "begin": 3690,
+            "end": 3696,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3811,
+            "end": 3817,
+            "text": "Fidesz",
+            "concept": 1,
+            "candidates": [
+                "Fidesz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3853,
+            "end": 3860,
+            "text": "Hungary",
+            "concept": 2,
+            "candidates": [
+                "Hungary",
+                "Hungary_national_football_team",
+                "Kingdom_of_Hungary",
+                "Kingdom_of_Hungary_(1920\u20131946)",
+                "Hungarian_People's_Republic",
+                "Hungarian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Hungary",
+                "Recognition_of_same-sex_unions_in_Hungary",
+                "Hungary_national_under-21_football_team",
+                "Kingdom_of_Hungary_(1526\u20131867)",
+                "Hungary_women's_national_football_team",
+                "Hungary_national_handball_team",
+                "Hungary_in_World_War_II",
+                "Hungary_women's_national_basketball_team",
+                "Hungary_Fed_Cup_team",
+                "Hungary_national_speedway_team"
+            ],
+            "scores": [
+                0.8100289296046287,
+                0.05085895924854459,
+                0.019643558698524948,
+                0.013107610986106646,
+                0.008678881388621022,
+                0.00860745026608093,
+                0.004964463016536305,
+                0.004071573984785171,
+                0.0032501160755741276,
+                0.0029286760241437194,
+                0.0028572449016036287,
+                0.0024286581663630845,
+                0.002178649237472767,
+                0.001964355869852495,
+                0.0015357691346119505,
+                0.001392906889531769
+            ]
+        },
+        {
+            "begin": 3863,
+            "end": 3881,
+            "text": "left-liberal daily",
+            "concept": 25
+        },
+        {
+            "begin": 3882,
+            "end": 3894,
+            "text": "Nepszabadsag",
+            "concept": 26,
+            "candidates": [
+                "N\u00e9pszabads\u00e1g"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3900,
+            "end": 3907,
+            "text": "Hungary",
+            "concept": 2,
+            "candidates": [
+                "Hungary",
+                "Hungary_national_football_team",
+                "Kingdom_of_Hungary",
+                "Kingdom_of_Hungary_(1920\u20131946)",
+                "Hungarian_People's_Republic",
+                "Hungarian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Hungary",
+                "Recognition_of_same-sex_unions_in_Hungary",
+                "Hungary_national_under-21_football_team",
+                "Kingdom_of_Hungary_(1526\u20131867)",
+                "Hungary_women's_national_football_team",
+                "Hungary_national_handball_team",
+                "Hungary_in_World_War_II",
+                "Hungary_women's_national_basketball_team",
+                "Hungary_Fed_Cup_team",
+                "Hungary_national_speedway_team"
+            ],
+            "scores": [
+                0.8100289296046287,
+                0.05085895924854459,
+                0.019643558698524948,
+                0.013107610986106646,
+                0.008678881388621022,
+                0.00860745026608093,
+                0.004964463016536305,
+                0.004071573984785171,
+                0.0032501160755741276,
+                0.0029286760241437194,
+                0.0028572449016036287,
+                0.0024286581663630845,
+                0.002178649237472767,
+                0.001964355869852495,
+                0.0015357691346119505,
+                0.001392906889531769
+            ]
+        },
+        {
+            "begin": 3923,
+            "end": 3931,
+            "text": "Internet",
+            "concept": 12,
+            "candidates": [
+                "Internet",
+                "Internet_radio",
+                "Streaming_television",
+                "Internet_service_provider",
+                "Internet_access",
+                "World_Wide_Web",
+                "Cable_Internet_access",
+                "Internet_protocol_suite",
+                "Internet_culture",
+                "Internet_Party_(New_Zealand)",
+                "Internet_pornography",
+                "Internet_art",
+                "Dot-com_company",
+                "Top_Internet_Albums",
+                "Webcomic",
+                "Online_banking"
+            ],
+            "scores": [
+                0.9769585253456221,
+                0.0028278173439463764,
+                0.0020946795140343527,
+                0.0013615416841223293,
+                0.0010473397570171764,
+                0.0010473397570171764,
+                0.0007331378299120235,
+                0.0007331378299120235,
+                0.0006284038542103058,
+                0.0005236698785085882,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.00041893590280687055,
+                0.0003142019271051529,
+                0.0003142019271051529,
+                0.0003142019271051529
+            ]
+        },
+        {
+            "begin": 3932,
+            "end": 3944,
+            "text": "news service",
+            "concept": 27
+        },
+        {
+            "begin": 3946,
+            "end": 3954,
+            "text": "index.hu",
+            "concept": 28,
+            "candidates": [
+                "Index_(Hungarian_website)"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4227,
+            "end": 4233,
+            "text": "Monday",
+            "concept": 10
+        },
+        {
+            "begin": 4243,
+            "end": 4250,
+            "text": "Hungary",
+            "concept": 2,
+            "candidates": [
+                "Hungary",
+                "Hungary_national_football_team",
+                "Kingdom_of_Hungary",
+                "Kingdom_of_Hungary_(1920\u20131946)",
+                "Hungarian_People's_Republic",
+                "Hungarian_Football_Federation",
+                "ISU_Junior_Grand_Prix_in_Hungary",
+                "Recognition_of_same-sex_unions_in_Hungary",
+                "Hungary_national_under-21_football_team",
+                "Kingdom_of_Hungary_(1526\u20131867)",
+                "Hungary_women's_national_football_team",
+                "Hungary_national_handball_team",
+                "Hungary_in_World_War_II",
+                "Hungary_women's_national_basketball_team",
+                "Hungary_Fed_Cup_team",
+                "Hungary_national_speedway_team"
+            ],
+            "scores": [
+                0.8100289296046287,
+                0.05085895924854459,
+                0.019643558698524948,
+                0.013107610986106646,
+                0.008678881388621022,
+                0.00860745026608093,
+                0.004964463016536305,
+                0.004071573984785171,
+                0.0032501160755741276,
+                0.0029286760241437194,
+                0.0028572449016036287,
+                0.0024286581663630845,
+                0.002178649237472767,
+                0.001964355869852495,
+                0.0015357691346119505,
+                0.001392906889531769
+            ]
+        },
+        {
+            "begin": 4296,
+            "end": 4300,
+            "text": "1990",
+            "concept": 29
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Viktor Orban",
+            "keyword": true,
+            "count": 4,
+            "link": "Viktor_Orb\u00e1n",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Fidesz",
+            "keyword": true,
+            "count": 6,
+            "link": "Fidesz",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Hungary",
+            "keyword": true,
+            "count": 5,
+            "link": "Hungary",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Socialist opposition party",
+            "keyword": false,
+            "count": 2,
+            "link": "Hungarian_Socialist_Party",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Together 2014",
+            "keyword": false,
+            "count": 2,
+            "link": "Together_(Hungary)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Hungarian",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Peter Juhasz",
+            "keyword": false,
+            "count": 1,
+            "link": "P\u00e9ter_Juh\u00e1sz_(politician)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Milla",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::movement",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Monday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "26.11.2012",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Internet",
+            "keyword": false,
+            "count": 2,
+            "link": "Internet",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Hungarians",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Romania",
+            "keyword": false,
+            "count": 1,
+            "link": "Romania",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Serbia",
+            "keyword": false,
+            "count": 1,
+            "link": "Serbia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Slovakia",
+            "keyword": false,
+            "count": 1,
+            "link": "Slovakia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Ukraine",
+            "keyword": false,
+            "count": 1,
+            "link": "Ukraine",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "2010",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "United States",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Gergely Gulyas",
+            "keyword": false,
+            "count": 1,
+            "link": "Gergely_Guly\u00e1s",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Jozsef Tobias",
+            "keyword": false,
+            "count": 1,
+            "link": "J\u00f3zsef_T\u00f3bi\u00e1s",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "colleague",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Tamas Harangozo",
+            "keyword": false,
+            "count": 1,
+            "link": "Tam\u00e1s_Harangoz\u00f3",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "left-liberal daily",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Nepszabadsag",
+            "keyword": false,
+            "count": 1,
+            "link": "N\u00e9pszabads\u00e1g",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "news service",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "index.hu",
+            "keyword": false,
+            "count": 1,
+            "link": "Index_(Hungarian_website)",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "1990",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov-x",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 7,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 7,
+            "p": "head_of",
+            "o": 8
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 30
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 22,
+            "p": "head_of",
+            "o": 3
+        },
+        {
+            "s": 22,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 24,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 26,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 26,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 28,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 28,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 28,
+            "p": "based_in0-x",
+            "o": 13
+        }
+    ],
+    "frames": [
+        {
+            "type": "demonstrate",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 2
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "11000000",
+        "20000574",
+        "20000576"
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "id": "DW_6617756",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 10,
+            "text": "Hausdrache",
+            "concept": 3
+        },
+        {
+            "begin": 33,
+            "end": 39,
+            "text": "German",
+            "concept": 2
+        },
+        {
+            "begin": 60,
+            "end": 62,
+            "text": "DW",
+            "concept": 4,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 65,
+            "end": 81,
+            "text": "Word of the Week",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 102,
+            "end": 112,
+            "text": "Hausdrache",
+            "concept": 3
+        },
+        {
+            "begin": 350,
+            "end": 360,
+            "text": "Hausdrache",
+            "concept": 3
+        },
+        {
+            "begin": 429,
+            "end": 435,
+            "text": "Drache",
+            "concept": 5
+        },
+        {
+            "begin": 544,
+            "end": 554,
+            "text": "Hausdrache",
+            "concept": 3
+        },
+        {
+            "begin": 770,
+            "end": 780,
+            "text": "Hausdrache",
+            "concept": 3
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Word of the Week",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "German",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Hausdrache",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "DW",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Drache",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 6,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 2
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000304",
+        "20000310"
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "id": "DW_17817138",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 46,
+            "end": 62,
+            "text": "marine biologist",
+            "concept": 2
+        },
+        {
+            "begin": 63,
+            "end": 78,
+            "text": "Barbara Gratzer",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 153,
+            "end": 161,
+            "text": "Maldives",
+            "concept": 1,
+            "candidates": [
+                "Maldives",
+                "Maldives_national_football_team",
+                "Football_Association_of_Maldives",
+                "Maldives_national_cricket_team",
+                "Maldives_women's_national_football_team",
+                "Maldives_National_Defence_Force",
+                "Elections_in_the_Maldives",
+                "Football_in_the_Maldives",
+                "2006_Commonwealth_Games",
+                "LGBT_rights_in_the_Maldives",
+                "Maldives_national_under-23_football_team",
+                "Maldives_at_the_2010_Commonwealth_Games",
+                "Maldives_national_under-17_football_team",
+                "List_of_sultans_of_the_Maldives",
+                "Flag_of_the_Maldives",
+                "Maldivian_Coast_Guard"
+            ],
+            "scores": [
+                0.8844517184942717,
+                0.049754500818330605,
+                0.012438625204582651,
+                0.00851063829787234,
+                0.005237315875613748,
+                0.00425531914893617,
+                0.00425531914893617,
+                0.003600654664484452,
+                0.0029459901800327334,
+                0.002618657937806874,
+                0.0019639934533551553,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0006546644844517185
+            ]
+        },
+        {
+            "begin": 203,
+            "end": 219,
+            "text": "marine biologist",
+            "concept": 2
+        },
+        {
+            "begin": 220,
+            "end": 235,
+            "text": "Barbara Gratzer",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 310,
+            "end": 318,
+            "text": "Maldives",
+            "concept": 1,
+            "candidates": [
+                "Maldives",
+                "Maldives_national_football_team",
+                "Football_Association_of_Maldives",
+                "Maldives_national_cricket_team",
+                "Maldives_women's_national_football_team",
+                "Maldives_National_Defence_Force",
+                "Elections_in_the_Maldives",
+                "Football_in_the_Maldives",
+                "2006_Commonwealth_Games",
+                "LGBT_rights_in_the_Maldives",
+                "Maldives_national_under-23_football_team",
+                "Maldives_at_the_2010_Commonwealth_Games",
+                "Maldives_national_under-17_football_team",
+                "List_of_sultans_of_the_Maldives",
+                "Flag_of_the_Maldives",
+                "Maldivian_Coast_Guard"
+            ],
+            "scores": [
+                0.8844517184942717,
+                0.049754500818330605,
+                0.012438625204582651,
+                0.00851063829787234,
+                0.005237315875613748,
+                0.00425531914893617,
+                0.00425531914893617,
+                0.003600654664484452,
+                0.0029459901800327334,
+                0.002618657937806874,
+                0.0019639934533551553,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0009819967266775777,
+                0.0006546644844517185
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Barbara Gratzer",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::13000000",
+                "slot::keyword",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::science_per"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Maldives",
+            "keyword": true,
+            "count": 4,
+            "link": "Maldives",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::island",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "marine biologist",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [],
+    "frames": [],
+    "iptc": [
+        "08000000",
+        "20000500"
+    ]
+}

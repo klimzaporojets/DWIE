@@ -1,0 +1,1803 @@
+{
+    "id": "DW_19275360",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 12,
+            "end": 18,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 86,
+            "end": 92,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 105,
+            "end": 109,
+            "text": "2017",
+            "concept": 5
+        },
+        {
+            "begin": 204,
+            "end": 220,
+            "text": "Defense Ministry",
+            "concept": 6,
+            "candidates": [
+                "Ministry_of_Defense_(Israel)",
+                "Defence_minister",
+                "Ministry_of_Defence_(Russia)",
+                "Ministry_of_National_Defence_(Romania)",
+                "Ministry_of_National_Defense_of_the_People's_Republic_of_China",
+                "Ministry_of_the_Reichswehr",
+                "Ministry_of_Defense_(Syria)",
+                "Ministry_of_National_Defense_(South_Korea)",
+                "Ministry_of_Defence_(India)",
+                "Ministry_of_Defense_(Austria)",
+                "Department_of_National_Defense_(Philippines)",
+                "Ministry_of_National_Defense_(Lebanon)",
+                "Armed_Forces_of_Armenia",
+                "Ministry_of_Defence_(Czech_Republic)",
+                "Ministry_of_Defence_(Iraq)",
+                "Ministry_of_Defense_(Afghanistan)"
+            ],
+            "scores": [
+                0.17142857142857143,
+                0.11428571428571428,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05714285714285714,
+                0.04285714285714286,
+                0.04285714285714286,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.02857142857142857,
+                0.014285714285714285,
+                0.014285714285714285,
+                0.014285714285714285,
+                0.014285714285714285
+            ]
+        },
+        {
+            "begin": 241,
+            "end": 250,
+            "text": "newspaper",
+            "concept": 7
+        },
+        {
+            "begin": 252,
+            "end": 256,
+            "text": "Bild",
+            "concept": 2,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 259,
+            "end": 266,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 287,
+            "end": 295,
+            "text": "Saturday",
+            "concept": 8
+        },
+        {
+            "begin": 321,
+            "end": 328,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 364,
+            "end": 368,
+            "text": "2017",
+            "concept": 5
+        },
+        {
+            "begin": 441,
+            "end": 449,
+            "text": "November",
+            "concept": 9
+        },
+        {
+            "begin": 511,
+            "end": 528,
+            "text": "1.7 billion euros",
+            "concept": 10
+        },
+        {
+            "begin": 547,
+            "end": 557,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 669,
+            "end": 676,
+            "text": "tabloid",
+            "concept": 11
+        },
+        {
+            "begin": 678,
+            "end": 682,
+            "text": "Bild",
+            "concept": 2,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 693,
+            "end": 698,
+            "text": "March",
+            "concept": 12
+        },
+        {
+            "begin": 700,
+            "end": 710,
+            "text": "Chancellor",
+            "concept": 13
+        },
+        {
+            "begin": 711,
+            "end": 724,
+            "text": "Angela Merkel",
+            "concept": 14,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 765,
+            "end": 781,
+            "text": "325-billion-euro",
+            "concept": 15
+        },
+        {
+            "begin": 801,
+            "end": 805,
+            "text": "2017",
+            "concept": 5
+        },
+        {
+            "begin": 812,
+            "end": 830,
+            "text": "36.6 billion euros",
+            "concept": 16
+        },
+        {
+            "begin": 880,
+            "end": 897,
+            "text": "171 billion euros",
+            "concept": 17
+        },
+        {
+            "begin": 931,
+            "end": 935,
+            "text": "Bild",
+            "concept": 2,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 983,
+            "end": 993,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 1038,
+            "end": 1047,
+            "text": "Leopard 2",
+            "concept": 18,
+            "candidates": [
+                "Leopard_2"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1140,
+            "end": 1144,
+            "text": "TLVS",
+            "concept": 19,
+            "candidates": [
+                "Type-length-value"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1258,
+            "end": 1262,
+            "text": "Bild",
+            "concept": 2,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 1311,
+            "end": 1321,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 1336,
+            "end": 1340,
+            "text": "2020",
+            "concept": 20
+        },
+        {
+            "begin": 1368,
+            "end": 1386,
+            "text": "10.2 billion euros",
+            "concept": 21
+        },
+        {
+            "begin": 1433,
+            "end": 1439,
+            "text": "French",
+            "concept": 22
+        },
+        {
+            "begin": 1440,
+            "end": 1451,
+            "text": "news agency",
+            "concept": 23
+        },
+        {
+            "begin": 1452,
+            "end": 1455,
+            "text": "AFP",
+            "concept": 24,
+            "candidates": [
+                "Associa\u00e7\u00e3o_Fonogr\u00e1fica_Portuguesa",
+                "Agence_France-Presse",
+                "Australia_First_Party",
+                "Armed_Forces_of_the_Philippines",
+                "Apple_Filing_Protocol",
+                "Australian_Federal_Police",
+                "Alpha-fetoprotein",
+                "Advanced_Function_Presentation",
+                "AFP_(TV_series)",
+                "Alliance_of_the_Forces_of_Progress_(Senegal)",
+                "Philippine_Army",
+                "Americans_for_Prosperity",
+                "American_Free_Press",
+                "Marinef\u00e4hrprahm",
+                "Tapei_language",
+                "AFP"
+            ],
+            "scores": [
+                0.4733009708737864,
+                0.2961165048543689,
+                0.0691747572815534,
+                0.05339805825242718,
+                0.0412621359223301,
+                0.021844660194174758,
+                0.01820388349514563,
+                0.009708737864077669,
+                0.006067961165048544,
+                0.0024271844660194173,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086,
+                0.0012135922330097086
+            ]
+        },
+        {
+            "begin": 1550,
+            "end": 1553,
+            "text": "GDP",
+            "concept": 25
+        },
+        {
+            "begin": 1554,
+            "end": 1558,
+            "text": "NATO",
+            "concept": 26,
+            "candidates": [
+                "NATO",
+                "NATO_reporting_name",
+                "NATO_summit",
+                "Ranks_and_insignia_of_NATO_navies_enlisted",
+                "NATO_(album)",
+                "International_Security_Assistance_Force",
+                "Ranks_and_insignia_of_NATO_armies_enlisted",
+                "Nato_wood",
+                "N.A.T.o._(singer)",
+                "Enlargement_of_NATO",
+                ".nato",
+                "2002_Prague_summit",
+                "Army_officer_ranks",
+                "Ukraine\u2013NATO_relations",
+                "Ranks_and_insignia_of_NATO_navies'_officers",
+                "United_States_Permanent_Representative_to_NATO"
+            ],
+            "scores": [
+                0.9870747006272572,
+                0.0028511689792815056,
+                0.0012355065576886524,
+                0.001045428625736552,
+                0.0009503896597605018,
+                0.0009503896597605018,
+                0.0007603117278084015,
+                0.0005702337958563011,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00038015586390420075,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053,
+                0.00028511689792815053
+            ]
+        },
+        {
+            "begin": 1579,
+            "end": 1585,
+            "text": "Russia",
+            "concept": 27,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1599,
+            "end": 1606,
+            "text": "Ukraine",
+            "concept": 28,
+            "candidates": [
+                "Ukraine",
+                "Ukraine_national_football_team",
+                "Ukrainian_Soviet_Socialist_Republic",
+                "List_of_non-marine_molluscs_of_Ukraine",
+                "Football_Federation_of_Ukraine",
+                "ISU_Junior_Grand_Prix_in_Ukraine",
+                "Ukraine_women's_national_football_team",
+                "Ukraine_national_cerebral_palsy_football_team",
+                "Ukraine_national_under-21_football_team",
+                "Ukraine_national_under-19_football_team",
+                "Ukraine_Fed_Cup_team",
+                "Ukrainian_Basketball_SuperLeague",
+                "Ukraine_national_rugby_union_team",
+                "Ukraine_national_basketball_team",
+                "Ukraine_at_the_2008_Summer_Olympics",
+                "Ukrainian_People's_Republic"
+            ],
+            "scores": [
+                0.8991954396218927,
+                0.022585416892160048,
+                0.007215788144460078,
+                0.005159288523288956,
+                0.0041851571237868455,
+                0.0031749467835624347,
+                0.0030667099613955334,
+                0.0030667099613955334,
+                0.002309052206227225,
+                0.001659631273225818,
+                0.0015874733917812173,
+                0.0014070786881697154,
+                0.0013349208067251145,
+                0.0012266839845582133,
+                0.0011545261031136126,
+                0.0011184471623913123
+            ]
+        },
+        {
+            "begin": 1634,
+            "end": 1639,
+            "text": "Wales",
+            "concept": 29,
+            "candidates": [
+                "Wales",
+                "Wales_national_rugby_union_team",
+                "Wales_national_football_team",
+                "Wales_national_rugby_league_team",
+                "Welsh_Rugby_Union",
+                "Wales_national_cricket_team",
+                "Wales_women's_national_football_team",
+                "Football_Association_of_Wales",
+                "Wales_(European_Parliament_constituency)",
+                "Wales_national_under-21_football_team",
+                "Wales_national_under-18_rugby_union_team",
+                "Wales_national_under-20_rugby_union_team",
+                "Wales_men's_national_squash_team",
+                "Wales,_New_York",
+                "Wales_women's_national_rugby_union_team",
+                "Football_in_Wales"
+            ],
+            "scores": [
+                0.6873349491733893,
+                0.10776688492565929,
+                0.08765329378142749,
+                0.04149332561588829,
+                0.012733784321528054,
+                0.004377238360525269,
+                0.004341062836884564,
+                0.0032919726513041276,
+                0.0027131642730528526,
+                0.0027131642730528526,
+                0.002025829323879463,
+                0.0015917230401910067,
+                0.0013746698983467785,
+                0.0013023188510653692,
+                0.0012299678037839597,
+                0.001193792280143255
+            ]
+        },
+        {
+            "begin": 1643,
+            "end": 1647,
+            "text": "2014",
+            "concept": 30
+        },
+        {
+            "begin": 1715,
+            "end": 1737,
+            "text": "gross domestic product",
+            "concept": 31
+        },
+        {
+            "begin": 1739,
+            "end": 1742,
+            "text": "GDP",
+            "concept": 25
+        },
+        {
+            "begin": 1766,
+            "end": 1770,
+            "text": "Bild",
+            "concept": 2,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 1825,
+            "end": 1829,
+            "text": "DBwV",
+            "concept": 32,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1875,
+            "end": 1882,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1935,
+            "end": 1941,
+            "text": "Munich",
+            "concept": 33,
+            "candidates": [
+                "Munich",
+                "Ludwig_Maximilian_University_of_Munich",
+                "Munich_(film)",
+                "M\u00fcnchen_Hauptbahnhof",
+                "Bavarian_International_Tennis_Championships",
+                "Munich_Airport",
+                "Munich_(district)",
+                "Munich_Agreement",
+                "Munich_(song)",
+                "1972_Summer_Olympics",
+                "Bavarian_State_Opera",
+                "Olympiapark_(Munich)",
+                "Munich,_North_Dakota",
+                "Technical_University_of_Munich",
+                "EHC_Red_Bull_M\u00fcnchen",
+                "Academy_of_Fine_Arts,_Munich"
+            ],
+            "scores": [
+                0.925635823149153,
+                0.017458594819044024,
+                0.016137403859765018,
+                0.014438729769263437,
+                0.007879960364271221,
+                0.003491718963808805,
+                0.0014155617420846505,
+                0.0014155617420846505,
+                0.001368376350681829,
+                0.000896522436653612,
+                0.000613410088236682,
+                0.0005662246968338602,
+                0.0004718539140282169,
+                0.00042466852262539517,
+                0.0002831123484169301,
+                0.0002831123484169301
+            ]
+        },
+        {
+            "begin": 1948,
+            "end": 1961,
+            "text": "news magazine",
+            "concept": 34
+        },
+        {
+            "begin": 1963,
+            "end": 1968,
+            "text": "Focus",
+            "concept": 35,
+            "candidates": [
+                "Focus_(band)",
+                "Focus_(optics)",
+                "Focus_(German_magazine)",
+                "Ford_Focus",
+                "Focus_(linguistics)",
+                "Focus_(2015_film)",
+                "Focus...",
+                "Ford_Focus_(third_generation)",
+                "Ford_Focus_(first_generation)",
+                "Ford_Focus_(second_generation,_Europe)",
+                "Focus_(geometry)",
+                "Focus_(song)",
+                "Focus_(Cynic_album)",
+                "Focus_(computing)",
+                "Focus_(2001_film)",
+                "Focus_(Stan_Getz_album)"
+            ],
+            "scores": [
+                0.1582622187742436,
+                0.12179984484096198,
+                0.08766485647788984,
+                0.07137315748642359,
+                0.04965089216446858,
+                0.048875096974398756,
+                0.04344453064391001,
+                0.04189294026377036,
+                0.04034134988363072,
+                0.037238169123351435,
+                0.035686578743211794,
+                0.028704422032583398,
+                0.02404965089216447,
+                0.022498060512024826,
+                0.02017067494181536,
+                0.015515903801396431
+            ]
+        },
+        {
+            "begin": 1975,
+            "end": 1981,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 1982,
+            "end": 1998,
+            "text": "Defense Minister",
+            "concept": 36
+        },
+        {
+            "begin": 1999,
+            "end": 2019,
+            "text": "Ursula von der Leyen",
+            "concept": 3,
+            "candidates": [
+                "Ursula_von_der_Leyen"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2084,
+            "end": 2091,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2103,
+            "end": 2107,
+            "text": "1956",
+            "concept": 37
+        },
+        {
+            "begin": 2123,
+            "end": 2127,
+            "text": "2011",
+            "concept": 38
+        },
+        {
+            "begin": 2133,
+            "end": 2143,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2429,
+            "end": 2439,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2481,
+            "end": 2494,
+            "text": "von der Leyen",
+            "concept": 3,
+            "candidates": [
+                "House_of_Leyen",
+                "Von_der_Leyen_(family_from_Krefeld)",
+                "Ursula_von_der_Leyen"
+            ],
+            "scores": [
+                0.75,
+                0.16666666666666666,
+                0.08333333333333333
+            ]
+        },
+        {
+            "begin": 2663,
+            "end": 2673,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2756,
+            "end": 2763,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2831,
+            "end": 2835,
+            "text": "1990",
+            "concept": 39
+        },
+        {
+            "begin": 2852,
+            "end": 2858,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 2907,
+            "end": 2918,
+            "text": "Berlin Wall",
+            "concept": 40
+        },
+        {
+            "begin": 2924,
+            "end": 2934,
+            "text": "Bundeswehr",
+            "concept": 0,
+            "candidates": [
+                "Bundeswehr",
+                "German_Army"
+            ],
+            "scores": [
+                0.9991503823279524,
+                0.0008496176720475786
+            ]
+        },
+        {
+            "begin": 2990,
+            "end": 3002,
+            "text": "West Germany",
+            "concept": 41,
+            "candidates": [
+                "West_Germany",
+                "Germany_national_football_team",
+                "Germany",
+                "List_of_German_films_of_the_1970s",
+                "List_of_German_films_of_the_1980s",
+                "German_Football_Association",
+                "List_of_German_films_of_the_1960s",
+                "Germany_women's_national_basketball_team",
+                "Germany_Davis_Cup_team",
+                "List_of_German_films_of_1945\u20131959",
+                "Germany_women's_national_football_team",
+                "West_Germany_at_the_1972_Summer_Olympics",
+                "West_Germany_national_ice_hockey_team",
+                "Germany_national_badminton_team",
+                "Germany_Fed_Cup_team",
+                "Germany_national_speedway_team"
+            ],
+            "scores": [
+                0.8612706389088298,
+                0.08623474515434315,
+                0.005384063173007897,
+                0.0052943287867910985,
+                0.004845656855707107,
+                0.0033201722900215364,
+                0.0026920315865039484,
+                0.001974156496769562,
+                0.001974156496769562,
+                0.0018844221105527637,
+                0.0017946877243359654,
+                0.0017946877243359654,
+                0.0014357501794687725,
+                0.001256281407035176,
+                0.0011665470208183776,
+                0.0010768126346015793
+            ]
+        },
+        {
+            "begin": 3028,
+            "end": 3040,
+            "text": "East Germany",
+            "concept": 42,
+            "candidates": [
+                "East_Germany",
+                "East_Germany_national_football_team",
+                "Deutscher_Fu\u00dfball-Verband_der_DDR",
+                "East_German_Figure_Skating_Championships",
+                "East_Germany_women's_national_football_team",
+                "East_Germany_at_the_1972_Summer_Olympics",
+                "East_Germany_at_the_Olympics",
+                "East_Germany_at_the_1968_Summer_Olympics",
+                "East_Germany_women's_national_basketball_team",
+                "East_Germany_at_the_1976_Summer_Olympics",
+                "East_Germany_men's_national_volleyball_team",
+                "East_Germany_at_the_1988_Summer_Olympics",
+                "East_Germany_national_under-21_football_team",
+                "East_Germany_national_ice_hockey_team",
+                "East_Germany_national_rugby_union_team",
+                "East_Germany_national_handball_team"
+            ],
+            "scores": [
+                0.9125699591589774,
+                0.05354711843896536,
+                0.00287399788231735,
+                0.002420208743004084,
+                0.0021176826501285734,
+                0.0021176826501285734,
+                0.001815156557253063,
+                0.0016638935108153079,
+                0.0015126304643775525,
+                0.0015126304643775525,
+                0.0013613674179397974,
+                0.0013613674179397974,
+                0.0013613674179397974,
+                0.0010588413250642867,
+                0.0007563152321887763,
+                0.000605052185751021
+            ]
+        },
+        {
+            "begin": 3042,
+            "end": 3068,
+            "text": "ipj/bw (dpa, AFP, Reuters)",
+            "concept": 43
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Bundeswehr",
+            "keyword": true,
+            "count": 7,
+            "link": "Bundeswehr",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Germany",
+            "keyword": true,
+            "count": 5,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Bild",
+            "keyword": true,
+            "count": 5,
+            "link": "Bild",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Ursula von der Leyen",
+            "keyword": false,
+            "count": 2,
+            "link": "Ursula_von_der_Leyen",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "policy::defense",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "2017",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Defense Ministry",
+            "keyword": false,
+            "count": 1,
+            "link": "Federal_Ministry_of_Defence_(Germany)",
+            "tags": [
+                "iptc::11000000",
+                "policy::defense",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "newspaper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "November",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "1.7 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "tabloid",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "March",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Angela Merkel",
+            "keyword": false,
+            "count": 1,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "325-billion-euro",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "36.6 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "171 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Leopard 2",
+            "keyword": false,
+            "count": 1,
+            "link": "Leopard_2",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_equipment",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "TLVS",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_equipment",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "2020",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "10.2 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "news agency",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "AFP",
+            "keyword": false,
+            "count": 1,
+            "link": "Agence_France-Presse",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "GDP",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "NATO",
+            "keyword": false,
+            "count": 1,
+            "link": "NATO",
+            "tags": [
+                "iptc::11000000",
+                "iptc::16000000",
+                "topic::conflict",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::military_alliance",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Russia",
+            "keyword": false,
+            "count": 1,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Ukraine",
+            "keyword": false,
+            "count": 1,
+            "link": "Ukraine",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Wales",
+            "keyword": false,
+            "count": 1,
+            "link": "Wales",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "gross domestic product",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "DBwV",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1204688",
+            "tags": [
+                "topic::labour",
+                "type::entity",
+                "type::organization",
+                "type::union"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Munich",
+            "keyword": false,
+            "count": 1,
+            "link": "Munich",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "news magazine",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Focus",
+            "keyword": false,
+            "count": 1,
+            "link": "Focus_(German_magazine)",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Defense Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "1956",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "1990",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Berlin Wall",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin_Wall",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 41,
+            "text": "West Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "West_Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 42,
+            "text": "East Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "East_Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 43,
+            "text": "ipj/bw (dpa, AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 44,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agency_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "minister_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "minister_of-x",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "agency_of",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "agency_of-x",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "ministry_of",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "agent_of",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 14,
+            "p": "head_of_gov",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "head_of_gov-x",
+            "o": 4
+        },
+        {
+            "s": 22,
+            "p": "gpe0",
+            "o": 44
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 44
+        },
+        {
+            "s": 24,
+            "p": "based_in0-x",
+            "o": 22
+        },
+        {
+            "s": 32,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 32,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 33,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 33,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 35,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 35,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 35,
+            "p": "based_in2",
+            "o": 33
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000348"
+    ]
+}

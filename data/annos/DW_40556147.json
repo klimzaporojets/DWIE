@@ -1,0 +1,2836 @@
+{
+    "id": "DW_40556147",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Indian",
+            "concept": 10
+        },
+        {
+            "begin": 24,
+            "end": 37,
+            "text": "Supreme Court",
+            "concept": 6,
+            "candidates": [
+                "Supreme_Court_of_the_United_States",
+                "Supreme_court",
+                "Supreme_Court_of_the_Philippines",
+                "Supreme_Court_of_India",
+                "Supreme_Court_of_Ireland",
+                "Supreme_Court_of_Norway",
+                "Supreme_Court_of_Pakistan",
+                "Supreme_Court_of_the_United_Kingdom",
+                "Supreme_Court_of_Canada",
+                "Supreme_Court_of_Israel",
+                "Supreme_Court_of_Japan",
+                "Supreme_Court_of_Spain",
+                "Supreme_Court_of_Sri_Lanka",
+                "Supreme_Court_of_New_South_Wales",
+                "Supreme_Court_of_New_Zealand",
+                "Supreme_Court_of_Singapore"
+            ],
+            "scores": [
+                0.39750762970498477,
+                0.08176500508646999,
+                0.05366225839267548,
+                0.04806714140386572,
+                0.02695829094608342,
+                0.025178026449643946,
+                0.024669379450661243,
+                0.021363173957273652,
+                0.02034587995930824,
+                0.01780264496439471,
+                0.015132248219735503,
+                0.009664292980671414,
+                0.009664292980671414,
+                0.008519837232960325,
+                0.00839267548321465,
+                0.008265513733468972
+            ]
+        },
+        {
+            "begin": 38,
+            "end": 46,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 94,
+            "end": 102,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 104,
+            "end": 109,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 137,
+            "end": 139,
+            "text": "PM",
+            "concept": 11
+        },
+        {
+            "begin": 140,
+            "end": 153,
+            "text": "Narendra Modi",
+            "concept": 12,
+            "candidates": [
+                "Narendra_Modi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 183,
+            "end": 191,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 195,
+            "end": 200,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 266,
+            "end": 274,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 290,
+            "end": 304,
+            "text": "Prime Minister",
+            "concept": 13
+        },
+        {
+            "begin": 305,
+            "end": 318,
+            "text": "Narendra Modi",
+            "concept": 12,
+            "candidates": [
+                "Narendra_Modi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 341,
+            "end": 354,
+            "text": "Supreme Court",
+            "concept": 6,
+            "candidates": [
+                "Supreme_Court_of_the_United_States",
+                "Supreme_court",
+                "Supreme_Court_of_the_Philippines",
+                "Supreme_Court_of_India",
+                "Supreme_Court_of_Ireland",
+                "Supreme_Court_of_Norway",
+                "Supreme_Court_of_Pakistan",
+                "Supreme_Court_of_the_United_Kingdom",
+                "Supreme_Court_of_Canada",
+                "Supreme_Court_of_Israel",
+                "Supreme_Court_of_Japan",
+                "Supreme_Court_of_Spain",
+                "Supreme_Court_of_Sri_Lanka",
+                "Supreme_Court_of_New_South_Wales",
+                "Supreme_Court_of_New_Zealand",
+                "Supreme_Court_of_Singapore"
+            ],
+            "scores": [
+                0.39750762970498477,
+                0.08176500508646999,
+                0.05366225839267548,
+                0.04806714140386572,
+                0.02695829094608342,
+                0.025178026449643946,
+                0.024669379450661243,
+                0.021363173957273652,
+                0.02034587995930824,
+                0.01780264496439471,
+                0.015132248219735503,
+                0.009664292980671414,
+                0.009664292980671414,
+                0.008519837232960325,
+                0.00839267548321465,
+                0.008265513733468972
+            ]
+        },
+        {
+            "begin": 358,
+            "end": 363,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 367,
+            "end": 373,
+            "text": "Monday",
+            "concept": 14
+        },
+        {
+            "begin": 383,
+            "end": 391,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 450,
+            "end": 458,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 496,
+            "end": 503,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 523,
+            "end": 531,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 545,
+            "end": 555,
+            "text": "Bangladesh",
+            "concept": 15,
+            "candidates": [
+                "Bangladesh",
+                "Bangladesh_national_cricket_team",
+                "Bangladesh_national_football_team",
+                "Bangladesh_(record_producer)",
+                "Bangladesh_women's_national_cricket_team",
+                "Bangladesh_Football_Federation",
+                "Bangladesh_national_under-19_cricket_team",
+                "Bangladeshi_cuisine",
+                "Bangladesh_women's_national_football_team",
+                "Bangladesh_Navy",
+                "Cinema_of_Bangladesh",
+                "Football_in_Bangladesh",
+                "Bangladesh_national_under-23_football_team",
+                "Bangladesh_Army",
+                "LGBT_rights_in_Bangladesh",
+                "Bangladesh_Air_Force"
+            ],
+            "scores": [
+                0.8860820113738401,
+                0.06662675845555223,
+                0.010475905417539658,
+                0.006046093983837175,
+                0.0040107752170008976,
+                0.0022747680335228975,
+                0.00161628255013469,
+                0.0011373840167614487,
+                0.000957797066746483,
+                0.0008979347500748278,
+                0.0008380724334031727,
+                0.0007183478000598624,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0004788985333732415
+            ]
+        },
+        {
+            "begin": 629,
+            "end": 643,
+            "text": "United Nations",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "United_Nations_Command",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_(band)",
+                "United_States_Ambassador_to_the_United_Nations",
+                "United_Nations_System",
+                "United_Nations_Office_at_Geneva",
+                "United_Nations_General_Assembly",
+                "United_Nations_(gang)",
+                "United_Nations_Office_at_Vienna",
+                "Allies_of_World_War_II",
+                "United_Nations_(Rui_En_album)",
+                "United_Nations_peacekeeping",
+                "Declaration_by_United_Nations",
+                "United_Nations_(United_Nations_album)",
+                "United_Nations_Stakes"
+            ],
+            "scores": [
+                0.9882591474915127,
+                0.0016031686156167484,
+                0.0014145605431912485,
+                0.001131648434552999,
+                0.0006129762353828744,
+                0.0004715201810637495,
+                0.0004243681629573746,
+                0.0003772161448509996,
+                0.00033006412674462465,
+                0.00028291210863824973,
+                0.00028291210863824973,
+                0.00023576009053187475,
+                0.00023576009053187475,
+                0.00023576009053187475,
+                0.0001886080724254998,
+                0.00014145605431912486
+            ]
+        },
+        {
+            "begin": 690,
+            "end": 696,
+            "text": "Monday",
+            "concept": 14
+        },
+        {
+            "begin": 698,
+            "end": 705,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 811,
+            "end": 821,
+            "text": "Bangladesh",
+            "concept": 15,
+            "candidates": [
+                "Bangladesh",
+                "Bangladesh_national_cricket_team",
+                "Bangladesh_national_football_team",
+                "Bangladesh_(record_producer)",
+                "Bangladesh_women's_national_cricket_team",
+                "Bangladesh_Football_Federation",
+                "Bangladesh_national_under-19_cricket_team",
+                "Bangladeshi_cuisine",
+                "Bangladesh_women's_national_football_team",
+                "Bangladesh_Navy",
+                "Cinema_of_Bangladesh",
+                "Football_in_Bangladesh",
+                "Bangladesh_national_under-23_football_team",
+                "Bangladesh_Army",
+                "LGBT_rights_in_Bangladesh",
+                "Bangladesh_Air_Force"
+            ],
+            "scores": [
+                0.8860820113738401,
+                0.06662675845555223,
+                0.010475905417539658,
+                0.006046093983837175,
+                0.0040107752170008976,
+                0.0022747680335228975,
+                0.00161628255013469,
+                0.0011373840167614487,
+                0.000957797066746483,
+                0.0008979347500748278,
+                0.0008380724334031727,
+                0.0007183478000598624,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0004788985333732415
+            ]
+        },
+        {
+            "begin": 843,
+            "end": 850,
+            "text": "Rakhine",
+            "concept": 16,
+            "candidates": [
+                "Rakhine_people",
+                "Rakhine_State",
+                "Arakanese_language",
+                "List_of_ethnic_groups_in_Myanmar"
+            ],
+            "scores": [
+                0.6775956284153005,
+                0.2786885245901639,
+                0.03825136612021858,
+                0.00546448087431694
+            ]
+        },
+        {
+            "begin": 1044,
+            "end": 1054,
+            "text": "Thaung Tun",
+            "concept": 17,
+            "candidates": [
+                "Thaung_Tun"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1060,
+            "end": 1067,
+            "text": "Reuters",
+            "concept": 18,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1101,
+            "end": 1108,
+            "text": "British",
+            "concept": 19
+        },
+        {
+            "begin": 1109,
+            "end": 1126,
+            "text": "Foreign Secretary",
+            "concept": 20
+        },
+        {
+            "begin": 1127,
+            "end": 1140,
+            "text": "Boris Johnson",
+            "concept": 21,
+            "candidates": [
+                "Boris_Johnson"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1165,
+            "end": 1167,
+            "text": "UN",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 1168,
+            "end": 1184,
+            "text": "General Assembly",
+            "concept": 22,
+            "candidates": [
+                "New_Jersey_General_Assembly",
+                "United_Nations_General_Assembly",
+                "New_Jersey_General_Assembly,_2018\u201319_term",
+                "General_Assembly_of_the_Church_of_Scotland",
+                "General_Assembly_(presbyterian_church)",
+                "Virginia_General_Assembly",
+                "South_Carolina_General_Assembly",
+                "Kentucky_General_Assembly",
+                "General_assembly",
+                "North_Carolina_General_Assembly",
+                "Tennessee_General_Assembly",
+                "Connecticut_General_Assembly",
+                "Maryland_General_Assembly",
+                "Delaware_General_Assembly",
+                "General_Assembly_of_Uruguay",
+                "Pennsylvania_General_Assembly"
+            ],
+            "scores": [
+                0.27726485862665895,
+                0.20600115406809003,
+                0.20455856895556837,
+                0.03375649163300635,
+                0.02827466820542412,
+                0.02452394691286786,
+                0.01933064050778996,
+                0.015291402192729371,
+                0.015002885170225043,
+                0.015002885170225043,
+                0.012983266012694748,
+                0.01154068090017311,
+                0.010675129832660127,
+                0.010098095787651471,
+                0.009809578765147143,
+                0.009809578765147143
+            ]
+        },
+        {
+            "begin": 1244,
+            "end": 1252,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 1281,
+            "end": 1286,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1337,
+            "end": 1339,
+            "text": "UN",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 1369,
+            "end": 1376,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 1379,
+            "end": 1387,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 1423,
+            "end": 1429,
+            "text": "Indian",
+            "concept": 10
+        },
+        {
+            "begin": 1517,
+            "end": 1525,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 1526,
+            "end": 1533,
+            "text": "Muslims",
+            "concept": 23
+        },
+        {
+            "begin": 1538,
+            "end": 1546,
+            "text": "Pakistan",
+            "concept": 24,
+            "candidates": [
+                "Pakistan",
+                "Pakistan_national_cricket_team",
+                "Pakistan_women's_national_cricket_team",
+                "Pakistan_national_football_team",
+                "A1_Team_Pakistan",
+                "Dominion_of_Pakistan",
+                "Pakistan_men's_national_squash_team",
+                "Pakistan_men's_national_field_hockey_team",
+                "Pakistan_national_under-19_cricket_team",
+                "Pakistan_Football_Federation",
+                "Pakistan_Navy",
+                "Pakistan_Army",
+                "Pakistani_cuisine",
+                "Government_of_Pakistan",
+                "Pakistan_and_weapons_of_mass_destruction",
+                "Pakistan_Fed_Cup_team"
+            ],
+            "scores": [
+                0.895000850195545,
+                0.06073230176273876,
+                0.005101173269852066,
+                0.004421016833871791,
+                0.0035708212888964463,
+                0.0030607039619112396,
+                0.0018704301989457576,
+                0.0018704301989457576,
+                0.0010202346539704133,
+                0.0007651759904778099,
+                0.0006518165844810974,
+                0.0006234767329819192,
+                0.000595136881482741,
+                0.0005384571784843847,
+                0.0005384571784843847,
+                0.0005101173269852066
+            ]
+        },
+        {
+            "begin": 1780,
+            "end": 1789,
+            "text": "Buddhists",
+            "concept": 2
+        },
+        {
+            "begin": 1793,
+            "end": 1798,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 1814,
+            "end": 1822,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 1825,
+            "end": 1831,
+            "text": "Lawyer",
+            "concept": 25
+        },
+        {
+            "begin": 1832,
+            "end": 1847,
+            "text": "Colin Gonsalves",
+            "concept": 7,
+            "candidates": [
+                "Colin_Gonsalves"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1900,
+            "end": 1908,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 1932,
+            "end": 1938,
+            "text": "Indian",
+            "concept": 10
+        },
+        {
+            "begin": 1947,
+            "end": 1952,
+            "text": "Jammu",
+            "concept": 26,
+            "candidates": [
+                "Jammu",
+                "Jammu_Division",
+                "Jammu_(Lok_Sabha_constituency)",
+                "Jammu_district",
+                "Jammu_and_Kashmir",
+                "Jammu_Tawi_railway_station",
+                "Indian_Institute_of_Technology_Jammu",
+                "Jammu_Cantonment",
+                "Jammu_and_Kashmir_(princely_state)",
+                "Dogri_cinema",
+                "Music_of_Kashmir,_Jammu_and_Ladakh"
+            ],
+            "scores": [
+                0.888125613346418,
+                0.04416094210009813,
+                0.042198233562315994,
+                0.012757605495583905,
+                0.0068694798822374874,
+                0.0009813542688910696,
+                0.0009813542688910696,
+                0.0009813542688910696,
+                0.0009813542688910696,
+                0.0009813542688910696,
+                0.0009813542688910696
+            ]
+        },
+        {
+            "begin": 2239,
+            "end": 2241,
+            "text": "DW",
+            "concept": 27,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2296,
+            "end": 2305,
+            "text": "October 3",
+            "concept": 28
+        },
+        {
+            "begin": 2324,
+            "end": 2329,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 2358,
+            "end": 2360,
+            "text": "UN",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 2611,
+            "end": 2616,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 2627,
+            "end": 2636,
+            "text": "Gonsalves",
+            "concept": 7,
+            "candidates": [
+                "Gonsalves",
+                "Garfield_Gonsalves",
+                "Gon\u00e7alves"
+            ],
+            "scores": [
+                0.5,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "begin": 2642,
+            "end": 2644,
+            "text": "DW",
+            "concept": 27,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 2844,
+            "end": 2850,
+            "text": "August",
+            "concept": 29
+        },
+        {
+            "begin": 2856,
+            "end": 2869,
+            "text": "Home Ministry",
+            "concept": 8,
+            "candidates": [
+                "Home_Ministry",
+                "Ministry_of_Home_Affairs_(India)",
+                "Minister_of_Home_Affairs_(India)",
+                "Ministry_of_Home_Affairs_(Malaysia)",
+                "Ministry_of_Home_Affairs_(Nepal)",
+                "Ministry_of_Home_Affairs_(Japan)",
+                "Minister_of_Home_Affairs_(Malaysia)",
+                "Ministry_of_Home_and_Cultural_Affairs_(Bhutan)",
+                "Ministry_of_Home_Affairs_(Bangladesh)"
+            ],
+            "scores": [
+                0.75,
+                0.1282051282051282,
+                0.038461538461538464,
+                0.03205128205128205,
+                0.019230769230769232,
+                0.01282051282051282,
+                0.00641025641025641,
+                0.00641025641025641,
+                0.00641025641025641
+            ]
+        },
+        {
+            "begin": 2871,
+            "end": 2888,
+            "text": "interior ministry",
+            "concept": 8,
+            "candidates": [
+                "Interior_minister",
+                "Ministry_of_Internal_Affairs_(Romania)",
+                "Ministry_of_Interior_(Israel)",
+                "Ministry_of_Internal_Affairs_(Russia)",
+                "Ministry_of_Interior_(Egypt)",
+                "Ministry_of_Interior_(Iraq)",
+                "Minister_of_the_Interior_(France)",
+                "Ministry_of_Interior_(Iran)",
+                "Ministry_of_Interior_(Pakistan)",
+                "Federal_Ministry_of_the_Interior,_Building_and_Community",
+                "Ministry_of_Interior_(Thailand)",
+                "Ministry_of_Internal_Affairs_(Tajikistan)",
+                "Ministry_of_Interior_(Bahrain)",
+                "Interior_Minister_of_the_Palestinian_National_Authority",
+                "Ministry_of_Internal_Affairs_(Ukraine)",
+                "Secretariat_of_the_Interior"
+            ],
+            "scores": [
+                0.35294117647058826,
+                0.0748663101604278,
+                0.06684491978609626,
+                0.06684491978609626,
+                0.045454545454545456,
+                0.034759358288770054,
+                0.034759358288770054,
+                0.026737967914438502,
+                0.0213903743315508,
+                0.01871657754010695,
+                0.016042780748663103,
+                0.016042780748663103,
+                0.013368983957219251,
+                0.013368983957219251,
+                0.0106951871657754,
+                0.0106951871657754
+            ]
+        },
+        {
+            "begin": 2996,
+            "end": 3002,
+            "text": "Indian",
+            "concept": 10
+        },
+        {
+            "begin": 3003,
+            "end": 3014,
+            "text": "broadcaster",
+            "concept": 30
+        },
+        {
+            "begin": 3015,
+            "end": 3019,
+            "text": "NDTV",
+            "concept": 31,
+            "candidates": [
+                "NDTV",
+                "NDTV_India"
+            ],
+            "scores": [
+                0.9874651810584958,
+                0.012534818941504178
+            ]
+        },
+        {
+            "begin": 3117,
+            "end": 3125,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 3305,
+            "end": 3313,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 3356,
+            "end": 3370,
+            "text": "Prime Minister",
+            "concept": 13
+        },
+        {
+            "begin": 3371,
+            "end": 3384,
+            "text": "Narendra Modi",
+            "concept": 12,
+            "candidates": [
+                "Narendra_Modi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3387,
+            "end": 3392,
+            "text": "Hindu",
+            "concept": 32
+        },
+        {
+            "begin": 3578,
+            "end": 3587,
+            "text": "Rohingyas",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_people_in_Pakistan"
+            ],
+            "scores": [
+                0.9714285714285714,
+                0.02857142857142857
+            ]
+        },
+        {
+            "begin": 3592,
+            "end": 3599,
+            "text": "Muslims",
+            "concept": 23
+        },
+        {
+            "begin": 3607,
+            "end": 3613,
+            "text": "lawyer",
+            "concept": 33
+        },
+        {
+            "begin": 3614,
+            "end": 3630,
+            "text": "Prashant Bhushan",
+            "concept": 34,
+            "candidates": [
+                "Prashant_Bhushan"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3668,
+            "end": 3676,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 3798,
+            "end": 3804,
+            "text": "Muslim",
+            "concept": 35
+        },
+        {
+            "begin": 3898,
+            "end": 3900,
+            "text": "UN",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 3941,
+            "end": 3947,
+            "text": "Indian",
+            "concept": 10
+        },
+        {
+            "begin": 3976,
+            "end": 3984,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 3996,
+            "end": 4001,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 4124,
+            "end": 4145,
+            "text": "Zeid Ra'ad al-Hussein",
+            "concept": 9,
+            "candidates": [
+                "Zeid_Raad_Al_Hussein"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4156,
+            "end": 4164,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 4172,
+            "end": 4182,
+            "text": "Indo-Aryan",
+            "concept": 36,
+            "candidates": [
+                "Indo-Aryan_languages",
+                "Indo-Aryan_peoples",
+                "Indo-Aryan_migration",
+                "List_of_Spanish_words_of_Indo-Aryan_origin",
+                "Old_Indo-Aryan",
+                "Indo-Aryan_migration_to_Assam",
+                "Proto-Indo-Aryan_language",
+                "Proto-Indo-Europeans",
+                "List_of_Rigvedic_tribes",
+                "Mitanni-Aryan"
+            ],
+            "scores": [
+                0.625,
+                0.35507246376811596,
+                0.005434782608695652,
+                0.0036231884057971015,
+                0.0018115942028985507,
+                0.0018115942028985507,
+                0.0018115942028985507,
+                0.0018115942028985507,
+                0.0018115942028985507,
+                0.0018115942028985507
+            ]
+        },
+        {
+            "begin": 4221,
+            "end": 4228,
+            "text": "Muslims",
+            "concept": 23
+        },
+        {
+            "begin": 4254,
+            "end": 4259,
+            "text": "India",
+            "concept": 4,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 4329,
+            "end": 4336,
+            "text": "Rakhine",
+            "concept": 16,
+            "candidates": [
+                "Rakhine_people",
+                "Rakhine_State",
+                "Arakanese_language",
+                "List_of_ethnic_groups_in_Myanmar"
+            ],
+            "scores": [
+                0.6775956284153005,
+                0.2786885245901639,
+                0.03825136612021858,
+                0.00546448087431694
+            ]
+        },
+        {
+            "begin": 4346,
+            "end": 4353,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 4471,
+            "end": 4481,
+            "text": "Bangladesh",
+            "concept": 15,
+            "candidates": [
+                "Bangladesh",
+                "Bangladesh_national_cricket_team",
+                "Bangladesh_national_football_team",
+                "Bangladesh_(record_producer)",
+                "Bangladesh_women's_national_cricket_team",
+                "Bangladesh_Football_Federation",
+                "Bangladesh_national_under-19_cricket_team",
+                "Bangladeshi_cuisine",
+                "Bangladesh_women's_national_football_team",
+                "Bangladesh_Navy",
+                "Cinema_of_Bangladesh",
+                "Football_in_Bangladesh",
+                "Bangladesh_national_under-23_football_team",
+                "Bangladesh_Army",
+                "LGBT_rights_in_Bangladesh",
+                "Bangladesh_Air_Force"
+            ],
+            "scores": [
+                0.8860820113738401,
+                0.06662675845555223,
+                0.010475905417539658,
+                0.006046093983837175,
+                0.0040107752170008976,
+                0.0022747680335228975,
+                0.00161628255013469,
+                0.0011373840167614487,
+                0.000957797066746483,
+                0.0008979347500748278,
+                0.0008380724334031727,
+                0.0007183478000598624,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0005387608500448968,
+                0.0004788985333732415
+            ]
+        },
+        {
+            "begin": 4483,
+            "end": 4490,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 4493,
+            "end": 4501,
+            "text": "Buddhist",
+            "concept": 2
+        },
+        {
+            "begin": 4590,
+            "end": 4598,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 4609,
+            "end": 4616,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 4712,
+            "end": 4721,
+            "text": "August 25",
+            "concept": 37
+        },
+        {
+            "begin": 4725,
+            "end": 4732,
+            "text": "Rakhine",
+            "concept": 16,
+            "candidates": [
+                "Rakhine_people",
+                "Rakhine_State",
+                "Arakanese_language",
+                "List_of_ethnic_groups_in_Myanmar"
+            ],
+            "scores": [
+                0.6775956284153005,
+                0.2786885245901639,
+                0.03825136612021858,
+                0.00546448087431694
+            ]
+        },
+        {
+            "begin": 4833,
+            "end": 4841,
+            "text": "Rohingya",
+            "concept": 0,
+            "candidates": [
+                "Rohingya_people",
+                "Rohingya_language",
+                "2016_Rohingya_persecution_in_Myanmar",
+                "Rohingya_conflict"
+            ],
+            "scores": [
+                0.8307692307692308,
+                0.1576923076923077,
+                0.007692307692307693,
+                0.0038461538461538464
+            ]
+        },
+        {
+            "begin": 4945,
+            "end": 4952,
+            "text": "Myanmar",
+            "concept": 5,
+            "candidates": [
+                "Myanmar",
+                "Myanmar_national_football_team",
+                "Myanmar_Football_Federation",
+                "Burmese_language",
+                "Myanmar_women's_national_football_team",
+                "Myanmar_at_the_2005_Southeast_Asian_Games",
+                "Myanmar_national_under-23_football_team",
+                "Myanmar_national_under-20_football_team",
+                "List_of_non-marine_molluscs_of_Myanmar",
+                "Football_in_Myanmar",
+                "Myanmar_national_cricket_team",
+                "Miss_Universe_Myanmar",
+                "State_Peace_and_Development_Council",
+                "Myanmar_at_the_2013_Southeast_Asian_Games",
+                "Buddhism_in_Myanmar",
+                "Myanmar_(Unicode_block)"
+            ],
+            "scores": [
+                0.9355492501013376,
+                0.02168625861370085,
+                0.00526955816781516,
+                0.0029387920551276854,
+                0.002837454398054317,
+                0.0027361167409809487,
+                0.002128090798540738,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.001722740170247264,
+                0.0011147142278070531,
+                0.0008107012565869477,
+                0.0008107012565869477,
+                0.0007093635995135793,
+                0.0007093635995135793,
+                0.0006080259424402108
+            ]
+        },
+        {
+            "begin": 5038,
+            "end": 5040,
+            "text": "UN",
+            "concept": 3,
+            "candidates": [
+                "United_Nations",
+                "UN_(band)",
+                "Un_(album)",
+                "United_Nations_Command",
+                "U.N._(group)",
+                "Union_Nationale_(Quebec)",
+                "National_Unity_(Peru)",
+                "UN_(album)",
+                "National_Union_(Spain)",
+                "Parti_Unit\u00e9_Nationale",
+                "United_Nations_Interim_Administration_Mission_in_Kosovo",
+                "United_Nations_System",
+                "Peacekeeping",
+                "United_Nations_Mission_in_Sierra_Leone",
+                "Headquarters_of_the_United_Nations",
+                "United_Nations_Security_Council_Resolution_1874"
+            ],
+            "scores": [
+                0.9731182795698925,
+                0.005583126550868486,
+                0.002274607113316791,
+                0.0018610421836228288,
+                0.0012406947890818859,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0008271298593879239,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.0006203473945409429,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195,
+                0.00041356492969396195
+            ]
+        },
+        {
+            "begin": 5043,
+            "end": 5053,
+            "text": "al-Hussein",
+            "concept": 9,
+            "candidates": [
+                "Al-Hussein_SC_(Irbid)",
+                "Al-Hussein_SC_(Baghdad)",
+                "Al_Hussein_(missile)",
+                "Challenger_1",
+                "Al-Hussein_Mosque",
+                "Al_Hussein_District",
+                "Hussein",
+                "Al-Abdali"
+            ],
+            "scores": [
+                0.664,
+                0.152,
+                0.104,
+                0.048,
+                0.008,
+                0.008,
+                0.008,
+                0.008
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Rohingyas",
+            "keyword": true,
+            "count": 20,
+            "link": "Rohingya_people",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "Buddhists",
+            "keyword": false,
+            "count": 2,
+            "link": "Buddhism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "United Nations",
+            "keyword": true,
+            "count": 6,
+            "link": "United_Nations",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "India",
+            "keyword": true,
+            "count": 9,
+            "link": "India",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Myanmar",
+            "keyword": true,
+            "count": 7,
+            "link": "Myanmar",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Supreme Court",
+            "keyword": true,
+            "count": 2,
+            "link": "Supreme_Court_of_India",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Colin Gonsalves",
+            "keyword": false,
+            "count": 2,
+            "link": "Colin_Gonsalves",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "interior ministry",
+            "keyword": false,
+            "count": 2,
+            "link": "Ministry_of_Home_Affairs_(India)",
+            "tags": [
+                "iptc::11000000",
+                "policy::interior",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Zeid Ra'ad al-Hussein",
+            "keyword": false,
+            "count": 2,
+            "link": "Zeid_Raad_Al_Hussein",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Indian",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "PM",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Narendra Modi",
+            "keyword": false,
+            "count": 3,
+            "link": "Narendra_Modi",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Monday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Bangladesh",
+            "keyword": false,
+            "count": 3,
+            "link": "Bangladesh",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Rakhine",
+            "keyword": false,
+            "count": 3,
+            "link": "Rakhine_State",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Thaung Tun",
+            "keyword": false,
+            "count": 1,
+            "link": "Thaung_Tun",
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Foreign Secretary",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Boris Johnson",
+            "keyword": false,
+            "count": 1,
+            "link": "Boris_Johnson",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "General Assembly",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Nations_General_Assembly",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Pakistan",
+            "keyword": false,
+            "count": 1,
+            "link": "Pakistan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Lawyer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Jammu",
+            "keyword": false,
+            "count": 1,
+            "link": "Jammu",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "October 3",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "August",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "NDTV",
+            "keyword": false,
+            "count": 1,
+            "link": "NDTV_India",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Hindu",
+            "keyword": false,
+            "count": 1,
+            "link": "Hinduism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "lawyer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Prashant Bhushan",
+            "keyword": false,
+            "count": 1,
+            "link": "Prashant_Bhushan",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Muslim",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Indo-Aryan",
+            "keyword": false,
+            "count": 1,
+            "link": "Indo-Aryan_peoples",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "August 25",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 38,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 39,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "present_in0",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "agency_of",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "agency_of-x",
+            "o": 10
+        },
+        {
+            "s": 6,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 6,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 7,
+            "p": "advisor_of",
+            "o": 0
+        },
+        {
+            "s": 8,
+            "p": "agency_of",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "agency_of-x",
+            "o": 10
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 8,
+            "p": "ministry_of",
+            "o": 4
+        },
+        {
+            "s": 9,
+            "p": "member_of",
+            "o": 3
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 12,
+            "p": "head_of_gov",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "head_of_gov-x",
+            "o": 10
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 19,
+            "p": "gpe0",
+            "o": 38
+        },
+        {
+            "s": 21,
+            "p": "citizen_of",
+            "o": 38
+        },
+        {
+            "s": 21,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 21,
+            "p": "minister_of",
+            "o": 38
+        },
+        {
+            "s": 21,
+            "p": "minister_of-x",
+            "o": 19
+        },
+        {
+            "s": 22,
+            "p": "institution_of",
+            "o": 3
+        },
+        {
+            "s": 22,
+            "p": "part_of",
+            "o": 3
+        },
+        {
+            "s": 26,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 26,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 27,
+            "p": "based_in0",
+            "o": 39
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 31,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 34,
+            "p": "advisor_of",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "14000000",
+        "20000770",
+        "20000771",
+        "20000773"
+    ]
+}

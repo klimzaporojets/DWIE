@@ -1,0 +1,1251 @@
+{
+    "id": "DW_1572715",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 50,
+            "end": 57,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 279,
+            "end": 286,
+            "text": "Dresden",
+            "concept": 5,
+            "candidates": [
+                "Dresden",
+                "Dresden_Hauptbahnhof",
+                "Battle_of_Dresden",
+                "Bombing_of_Dresden_in_World_War_II",
+                "Dresden,_Ontario",
+                "Dresden,_Maine",
+                "Dresden,_Ohio",
+                "Dresden,_Tennessee",
+                "Dresden,_Yates_County,_New_York",
+                "Dresden_Jr._Kings",
+                "Dresden_(2006_film)",
+                "Dresden,_Washington_County,_New_York",
+                "Bezirk_Dresden",
+                "TU_Dresden",
+                "Dresden_Airport",
+                "Dresden,_Kansas"
+            ],
+            "scores": [
+                0.9204050063282239,
+                0.01603150049219519,
+                0.007875123048797637,
+                0.006187596681198144,
+                0.005906342286598228,
+                0.004921951905498523,
+                0.004781324708198566,
+                0.003656307129798903,
+                0.002953171143299114,
+                0.0025312895513992404,
+                0.002390662354099283,
+                0.0021094079594993673,
+                0.001546899170299536,
+                0.0012656447756996202,
+                0.0012656447756996202,
+                0.0012656447756996202
+            ]
+        },
+        {
+            "begin": 310,
+            "end": 328,
+            "text": "Karl-Heinz R\u00f6ttjer",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 454,
+            "end": 468,
+            "text": "Czech Republic",
+            "concept": 6,
+            "candidates": [
+                "Czech_Republic",
+                "Czech_Republic_national_football_team",
+                "Czech_Republic_men's_national_ice_hockey_team",
+                "List_of_non-marine_molluscs_of_the_Czech_Republic",
+                "ISU_Junior_Grand_Prix_in_the_Czech_Republic",
+                "Czech_Republic_men's_national_junior_ice_hockey_team",
+                "A1_Team_Czech_Republic",
+                "Recognition_of_same-sex_unions_in_the_Czech_Republic",
+                "Football_Association_of_the_Czech_Republic",
+                "Czech_Republic_national_under-21_football_team",
+                "Czech_Republic_Fed_Cup_team",
+                "Czech_Republic_Davis_Cup_team",
+                "Czech_Republic_national_under-19_football_team",
+                "Czech_Republic_national_basketball_team",
+                "Czech_Republic_women's_national_football_team",
+                "Czech_Republic_national_speedway_team"
+            ],
+            "scores": [
+                0.8524603801838526,
+                0.03469073665820889,
+                0.014059315336300487,
+                0.009109438043342624,
+                0.008943055613327233,
+                0.0057401938355309675,
+                0.005615407013019425,
+                0.00465870804043093,
+                0.004201156357888607,
+                0.0036604134603385884,
+                0.0026205232727423986,
+                0.002578927665238551,
+                0.002537332057734703,
+                0.002329354020215465,
+                0.00224616280520777,
+                0.0022045671977039224
+            ]
+        },
+        {
+            "begin": 1664,
+            "end": 1671,
+            "text": "R\u00f6ttjer",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2024,
+            "end": 2031,
+            "text": "Dresden",
+            "concept": 5,
+            "candidates": [
+                "Dresden",
+                "Dresden_Hauptbahnhof",
+                "Battle_of_Dresden",
+                "Bombing_of_Dresden_in_World_War_II",
+                "Dresden,_Ontario",
+                "Dresden,_Maine",
+                "Dresden,_Ohio",
+                "Dresden,_Tennessee",
+                "Dresden,_Yates_County,_New_York",
+                "Dresden_Jr._Kings",
+                "Dresden_(2006_film)",
+                "Dresden,_Washington_County,_New_York",
+                "Bezirk_Dresden",
+                "TU_Dresden",
+                "Dresden_Airport",
+                "Dresden,_Kansas"
+            ],
+            "scores": [
+                0.9204050063282239,
+                0.01603150049219519,
+                0.007875123048797637,
+                0.006187596681198144,
+                0.005906342286598228,
+                0.004921951905498523,
+                0.004781324708198566,
+                0.003656307129798903,
+                0.002953171143299114,
+                0.0025312895513992404,
+                0.002390662354099283,
+                0.0021094079594993673,
+                0.001546899170299536,
+                0.0012656447756996202,
+                0.0012656447756996202,
+                0.0012656447756996202
+            ]
+        },
+        {
+            "begin": 2261,
+            "end": 2268,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2462,
+            "end": 2468,
+            "text": "German",
+            "concept": 4
+        },
+        {
+            "begin": 2469,
+            "end": 2475,
+            "text": "French",
+            "concept": 7
+        },
+        {
+            "begin": 2476,
+            "end": 2483,
+            "text": "channel",
+            "concept": 8
+        },
+        {
+            "begin": 2484,
+            "end": 2488,
+            "text": "arte",
+            "concept": 9,
+            "candidates": [
+                "Arte",
+                "Arte_River",
+                "La_Sept",
+                "Art",
+                "Art_(play)"
+            ],
+            "scores": [
+                0.9928571428571429,
+                0.0035714285714285713,
+                0.0011904761904761906,
+                0.0011904761904761906,
+                0.0011904761904761906
+            ]
+        },
+        {
+            "begin": 2547,
+            "end": 2553,
+            "text": "Berlin",
+            "concept": 10,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 2869,
+            "end": 2884,
+            "text": "Heike Gr\u00fcnewald",
+            "concept": 11,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2896,
+            "end": 2911,
+            "text": "Projekt 50 Plus",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2915,
+            "end": 2921,
+            "text": "Berlin",
+            "concept": 10,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 3150,
+            "end": 3157,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3250,
+            "end": 3254,
+            "text": "2050",
+            "concept": 12
+        },
+        {
+            "begin": 3279,
+            "end": 3286,
+            "text": "Germans",
+            "concept": 13
+        },
+        {
+            "begin": 3315,
+            "end": 3323,
+            "text": "European",
+            "concept": 14
+        },
+        {
+            "begin": 3433,
+            "end": 3440,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3579,
+            "end": 3602,
+            "text": "Irmingard Schewe-Gerigk",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3630,
+            "end": 3635,
+            "text": "Green",
+            "concept": 16,
+            "candidates": [
+                "Green",
+                "Green_Party_of_the_United_States",
+                "Green_Party_of_England_and_Wales",
+                "Green_Party_of_Canada",
+                "Green_politics",
+                "Green_Party_of_Aotearoa_New_Zealand",
+                "Green_County,_Wisconsin",
+                "Scottish_Green_Party",
+                "Green_(R.E.M._album)",
+                "Draymond_Green",
+                "Green_County,_Kentucky",
+                "Alliance_90/The_Greens",
+                "Green_sea_turtle",
+                "Groen_(political_party)",
+                "Environmentally_friendly",
+                "Matt_Green_(footballer)"
+            ],
+            "scores": [
+                0.16070826306913996,
+                0.11568296795952783,
+                0.10994940978077572,
+                0.08735244519392918,
+                0.03777403035413154,
+                0.0209106239460371,
+                0.0178752107925801,
+                0.01433389544688027,
+                0.012816188870151771,
+                0.01163575042158516,
+                0.009949409780775716,
+                0.009949409780775716,
+                0.00927487352445194,
+                0.009106239460370995,
+                0.00893760539629005,
+                0.008768971332209106
+            ]
+        },
+        {
+            "begin": 3669,
+            "end": 3676,
+            "text": "Germany",
+            "concept": 1,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3984,
+            "end": 3996,
+            "text": "51,000 euros",
+            "concept": 17
+        },
+        {
+            "begin": 3998,
+            "end": 4005,
+            "text": "$66,000",
+            "concept": 18
+        },
+        {
+            "begin": 4022,
+            "end": 4029,
+            "text": "Dresden",
+            "concept": 5,
+            "candidates": [
+                "Dresden",
+                "Dresden_Hauptbahnhof",
+                "Battle_of_Dresden",
+                "Bombing_of_Dresden_in_World_War_II",
+                "Dresden,_Ontario",
+                "Dresden,_Maine",
+                "Dresden,_Ohio",
+                "Dresden,_Tennessee",
+                "Dresden,_Yates_County,_New_York",
+                "Dresden_Jr._Kings",
+                "Dresden_(2006_film)",
+                "Dresden,_Washington_County,_New_York",
+                "Bezirk_Dresden",
+                "TU_Dresden",
+                "Dresden_Airport",
+                "Dresden,_Kansas"
+            ],
+            "scores": [
+                0.9204050063282239,
+                0.01603150049219519,
+                0.007875123048797637,
+                0.006187596681198144,
+                0.005906342286598228,
+                0.004921951905498523,
+                0.004781324708198566,
+                0.003656307129798903,
+                0.002953171143299114,
+                0.0025312895513992404,
+                0.002390662354099283,
+                0.0021094079594993673,
+                0.001546899170299536,
+                0.0012656447756996202,
+                0.0012656447756996202,
+                0.0012656447756996202
+            ]
+        },
+        {
+            "begin": 4069,
+            "end": 4072,
+            "text": "270",
+            "concept": 19
+        },
+        {
+            "begin": 4076,
+            "end": 4085,
+            "text": "390 euros",
+            "concept": 20
+        },
+        {
+            "begin": 4237,
+            "end": 4257,
+            "text": "Sieglinde Wartenberg",
+            "concept": 21,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4299,
+            "end": 4306,
+            "text": "Dresden",
+            "concept": 5,
+            "candidates": [
+                "Dresden",
+                "Dresden_Hauptbahnhof",
+                "Battle_of_Dresden",
+                "Bombing_of_Dresden_in_World_War_II",
+                "Dresden,_Ontario",
+                "Dresden,_Maine",
+                "Dresden,_Ohio",
+                "Dresden,_Tennessee",
+                "Dresden,_Yates_County,_New_York",
+                "Dresden_Jr._Kings",
+                "Dresden_(2006_film)",
+                "Dresden,_Washington_County,_New_York",
+                "Bezirk_Dresden",
+                "TU_Dresden",
+                "Dresden_Airport",
+                "Dresden,_Kansas"
+            ],
+            "scores": [
+                0.9204050063282239,
+                0.01603150049219519,
+                0.007875123048797637,
+                0.006187596681198144,
+                0.005906342286598228,
+                0.004921951905498523,
+                0.004781324708198566,
+                0.003656307129798903,
+                0.002953171143299114,
+                0.0025312895513992404,
+                0.002390662354099283,
+                0.0021094079594993673,
+                0.001546899170299536,
+                0.0012656447756996202,
+                0.0012656447756996202,
+                0.0012656447756996202
+            ]
+        },
+        {
+            "begin": 4647,
+            "end": 4663,
+            "text": "Irene Rostalskie",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5065,
+            "end": 5077,
+            "text": "Richard Palm",
+            "concept": 23,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5091,
+            "end": 5116,
+            "text": "Forum for Communal Living",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5628,
+            "end": 5642,
+            "text": "Sylvia Behrens",
+            "concept": 24,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5705,
+            "end": 5714,
+            "text": "Parkinson",
+            "concept": 25,
+            "candidates": [
+                "Parkinson_(TV_series)",
+                "Andy_Parkinson",
+                "Parkinson's_disease",
+                "Parkinson,_Queensland",
+                "Bob_Parkinson",
+                "Jack_Parkinson_(footballer,_born_1883)",
+                "Michael_Parkinson",
+                "Joe_Parkinson",
+                "Gary_Parkinson",
+                "Sydney_Parkinson",
+                "Henry_Parkinson",
+                "Calamvale_Ward",
+                "C._Northcote_Parkinson",
+                "Cecil_Parkinson",
+                "Abby-Mae_Parkinson",
+                "Parkinson,_Ontario"
+            ],
+            "scores": [
+                0.5762081784386617,
+                0.1412639405204461,
+                0.06319702602230483,
+                0.03717472118959108,
+                0.026022304832713755,
+                0.026022304832713755,
+                0.026022304832713755,
+                0.01486988847583643,
+                0.011152416356877323,
+                0.011152416356877323,
+                0.007434944237918215,
+                0.007434944237918215,
+                0.007434944237918215,
+                0.007434944237918215,
+                0.0037174721189591076,
+                0.0037174721189591076
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Projekt 50 Plus",
+            "keyword": true,
+            "count": 1,
+            "link": "wikidata:Q1669662",
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Germany",
+            "keyword": true,
+            "count": 5,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Forum for Communal Living",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Karl-Heinz R\u00f6ttjer",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "German",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Dresden",
+            "keyword": false,
+            "count": 4,
+            "link": "Dresden",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Czech Republic",
+            "keyword": false,
+            "count": 1,
+            "link": "Czech_Republic",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "French",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "channel",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "arte",
+            "keyword": false,
+            "count": 1,
+            "link": "Arte",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 2,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Heike Gr\u00fcnewald",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "2050",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Germans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Irmingard Schewe-Gerigk",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1313840",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Green",
+            "keyword": false,
+            "count": 1,
+            "link": "Alliance_90/The_Greens",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "51,000 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "$66,000",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "270",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "390 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Sieglinde Wartenberg",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Irene Rostalskie",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Richard Palm",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "slot::head",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Sylvia Behrens",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Parkinson",
+            "keyword": false,
+            "count": 1,
+            "link": "Parkinson's_disease",
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 26,
+            "keyword": false,
+            "count": 0,
+            "link": "France",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 5,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 26
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 13
+        },
+        {
+            "s": 11,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 0
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 15,
+            "p": "member_of",
+            "o": 16
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 23,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 23,
+            "p": "member_of",
+            "o": 2
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "09000000",
+        "20000531"
+    ]
+}

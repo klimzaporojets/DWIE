@@ -1,0 +1,724 @@
+{
+    "id": "DW_44419989",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 2,
+            "text": "DW",
+            "concept": 5,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 5,
+            "end": 16,
+            "text": "Health News",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 169,
+            "end": 171,
+            "text": "DW",
+            "concept": 5,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 551,
+            "end": 571,
+            "text": "Magdeburg University",
+            "concept": 0,
+            "candidates": [
+                "Otto_von_Guericke_University_Magdeburg"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 575,
+            "end": 582,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 843,
+            "end": 851,
+            "text": "glaucoma",
+            "concept": 8,
+            "candidates": [
+                "Glaucoma",
+                "Canine_glaucoma",
+                "Glaucoma_(ciliate)"
+            ],
+            "scores": [
+                0.9852272727272727,
+                0.0125,
+                0.0022727272727272726
+            ]
+        },
+        {
+            "begin": 853,
+            "end": 885,
+            "text": "age-related macular degeneration",
+            "concept": 9,
+            "candidates": [
+                "Macular_degeneration",
+                "Age-Related_Macular_Degeneration"
+            ],
+            "scores": [
+                0.9655172413793104,
+                0.034482758620689655
+            ]
+        },
+        {
+            "begin": 890,
+            "end": 906,
+            "text": "optic neuropathy",
+            "concept": 10,
+            "candidates": [
+                "Optic_neuropathy"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1550,
+            "end": 1566,
+            "text": "arteriosclerosis",
+            "concept": 11,
+            "candidates": [
+                "Arteriosclerosis",
+                "Atherosclerosis"
+            ],
+            "scores": [
+                0.9922779922779923,
+                0.007722007722007722
+            ]
+        },
+        {
+            "begin": 1625,
+            "end": 1637,
+            "text": "heart attack",
+            "concept": 12,
+            "candidates": [
+                "Myocardial_infarction",
+                "Heart_Attack_(Demi_Lovato_song)",
+                "Heart_Attack_(2014_film)",
+                "Heart_Attack_(Trey_Songz_song)",
+                "Heart_Attack_(EP)",
+                "Heart_Attack_(Enrique_Iglesias_song)",
+                "Heart_Attack_(band)",
+                "Cardiac_arrest",
+                "Heart_Attack_(2015_film)",
+                "Heart_Attack_(Man_Overboard_album)",
+                "Heart_Attack_(Krokus_album)",
+                "Heart_Attack_(Olivia_Newton-John_song)",
+                "Heart_failure",
+                "Heart_Attack_(1960_film)",
+                "Coronary_occlusion",
+                "2016_Ouagadougou_attacks"
+            ],
+            "scores": [
+                0.9566940692894892,
+                0.013799177921315325,
+                0.0057251908396946565,
+                0.0033763945977686436,
+                0.0027891955372871405,
+                0.0026423957721667646,
+                0.0024955960070463887,
+                0.002348796241926013,
+                0.002055196711685261,
+                0.002055196711685261,
+                0.002055196711685261,
+                0.002055196711685261,
+                0.0005871990604815032,
+                0.0002935995302407516,
+                0.0002935995302407516,
+                0.0001467997651203758
+            ]
+        },
+        {
+            "begin": 1642,
+            "end": 1648,
+            "text": "stroke",
+            "concept": 13,
+            "candidates": [
+                "Stroke",
+                "Stroke_(engine)",
+                "Stroke_(rowing)",
+                "Bar_(diacritic)",
+                "Stroke_(CJK_character)",
+                "Drum_stroke",
+                "Slash_(punctuation)",
+                "Stroke_(journal)",
+                "Swimming_stroke",
+                "Intracerebral_hemorrhage",
+                "Stroke_order",
+                "Apoplexy",
+                "Stroke_play",
+                "Anatomy_of_a_rowing_stroke",
+                "Boat_positions",
+                "Stroke_(composition)"
+            ],
+            "scores": [
+                0.8339209500835034,
+                0.10243087771386157,
+                0.047689738355910186,
+                0.0018556318426424198,
+                0.0016700686583781777,
+                0.001298942289849694,
+                0.001113379105585452,
+                0.0009278159213212099,
+                0.0009278159213212099,
+                0.0009278159213212099,
+                0.0007422527370569679,
+                0.0007422527370569679,
+                0.0007422527370569679,
+                0.000556689552792726,
+                0.000556689552792726,
+                0.00037112636852848393
+            ]
+        },
+        {
+            "begin": 1773,
+            "end": 1778,
+            "text": "Japan",
+            "concept": 14,
+            "candidates": [
+                "Japan",
+                "Japan_national_football_team",
+                "Empire_of_Japan",
+                "Japan_national_rugby_union_team",
+                "Japan_women's_national_football_team",
+                "Japan_Football_Association",
+                "Japan_(band)",
+                "Japan_national_baseball_team",
+                "ISU_Junior_Grand_Prix_in_Japan",
+                "Cinema_of_Japan",
+                "Recognition_of_same-sex_unions_in_Japan",
+                "Tokugawa_shogunate",
+                "Elections_in_Japan",
+                "List_of_non-marine_molluscs_of_Japan",
+                "Japan_national_under-23_football_team",
+                "Japan_national_basketball_team"
+            ],
+            "scores": [
+                0.9021239003202415,
+                0.013153212844014184,
+                0.012208439160255703,
+                0.007018318793634434,
+                0.003852713463638483,
+                0.003828173887436964,
+                0.0029570189322830395,
+                0.002331259739144305,
+                0.002110403553330634,
+                0.0017545796984086085,
+                0.0012883277505797476,
+                0.0011656298695721524,
+                0.001006122624262279,
+                0.0008220758027508865,
+                0.000711647709844051,
+                0.0006502987693402535
+            ]
+        },
+        {
+            "begin": 2069,
+            "end": 2085,
+            "text": "arteriosclerosis",
+            "concept": 11,
+            "candidates": [
+                "Arteriosclerosis",
+                "Atherosclerosis"
+            ],
+            "scores": [
+                0.9922779922779923,
+                0.007722007722007722
+            ]
+        },
+        {
+            "begin": 2326,
+            "end": 2330,
+            "text": "MRSA",
+            "concept": 3,
+            "candidates": [
+                "Methicillin-resistant_Staphylococcus_aureus",
+                "Staphylococcus_aureus"
+            ],
+            "scores": [
+                0.9962546816479401,
+                0.003745318352059925
+            ]
+        },
+        {
+            "begin": 2513,
+            "end": 2556,
+            "text": "Methicillin-resistant Staphylococcus aureus",
+            "concept": 3,
+            "candidates": [
+                "Methicillin-resistant_Staphylococcus_aureus"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2567,
+            "end": 2571,
+            "text": "MRSA",
+            "concept": 3,
+            "candidates": [
+                "Methicillin-resistant_Staphylococcus_aureus",
+                "Staphylococcus_aureus"
+            ],
+            "scores": [
+                0.9962546816479401,
+                0.003745318352059925
+            ]
+        },
+        {
+            "begin": 2662,
+            "end": 2666,
+            "text": "MRSA",
+            "concept": 3,
+            "candidates": [
+                "Methicillin-resistant_Staphylococcus_aureus",
+                "Staphylococcus_aureus"
+            ],
+            "scores": [
+                0.9962546816479401,
+                0.003745318352059925
+            ]
+        },
+        {
+            "begin": 2780,
+            "end": 2800,
+            "text": "Technical University",
+            "concept": 15,
+            "candidates": [
+                "Institute_of_technology",
+                "Technical_University_of_Berlin",
+                "Budapest_University_of_Technology_and_Economics",
+                "Technical_University_of_Munich",
+                "Czech_Technical_University_in_Prague",
+                "TU_Wien",
+                "Lviv_Polytechnic",
+                "TU_Dresden",
+                "Technical_University_of_Cluj-Napoca",
+                "Technical_University_of_Braunschweig",
+                "Delft_University_of_Technology",
+                "Technical_University_of_Denmark",
+                "Technical_University_of_Ostrava",
+                "Gda\u0144sk_University_of_Technology",
+                "University_of_Hanover",
+                "Technische_Universit\u00e4t_Ilmenau"
+            ],
+            "scores": [
+                0.4057971014492754,
+                0.12318840579710146,
+                0.07246376811594203,
+                0.06521739130434782,
+                0.036231884057971016,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.021739130434782608,
+                0.014492753623188406,
+                0.014492753623188406,
+                0.014492753623188406,
+                0.014492753623188406,
+                0.014492753623188406,
+                0.007246376811594203,
+                0.007246376811594203
+            ]
+        },
+        {
+            "begin": 2804,
+            "end": 2810,
+            "text": "Berlin",
+            "concept": 16,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 3191,
+            "end": 3195,
+            "text": "MRSA",
+            "concept": 3,
+            "candidates": [
+                "Methicillin-resistant_Staphylococcus_aureus",
+                "Staphylococcus_aureus"
+            ],
+            "scores": [
+                0.9962546816479401,
+                0.003745318352059925
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Magdeburg University",
+            "keyword": true,
+            "count": 1,
+            "link": "Otto_von_Guericke_University_Magdeburg",
+            "tags": [
+                "iptc::05000000",
+                "slot::keyword",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "text": "Methicillin-resistant Staphylococcus aureus",
+            "keyword": true,
+            "count": 5,
+            "link": "Methicillin-resistant_Staphylococcus_aureus",
+            "tags": [
+                "iptc::07000000",
+                "slot::keyword",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 5,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Health News",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "glaucoma",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "age-related macular degeneration",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "optic neuropathy",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "arteriosclerosis",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "heart attack",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "stroke",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_disease",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Japan",
+            "keyword": false,
+            "count": 1,
+            "link": "Japan",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Technical University",
+            "keyword": false,
+            "count": 1,
+            "link": "Technical_University_of_Berlin",
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 16
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "07000000",
+        "13000000",
+        "20000446",
+        "20000735",
+        "20000737"
+    ]
+}

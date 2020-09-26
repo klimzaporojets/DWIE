@@ -1,0 +1,1071 @@
+{
+    "id": "DW_1847303",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 65,
+            "end": 73,
+            "text": "Thursday",
+            "concept": 3
+        },
+        {
+            "begin": 220,
+            "end": 228,
+            "text": "Buchardi",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 239,
+            "end": 250,
+            "text": "Halberstadt",
+            "concept": 1,
+            "candidates": [
+                "Halberstadt",
+                "Roman_Catholic_Diocese_of_Halberstadt",
+                "Halberst\u00e4dter_Flugzeugwerke",
+                "Principality_of_Halberstadt",
+                "Halberstadt_station",
+                "Halberstadt_(district)",
+                "Halberstadt_D.II",
+                "Battle_of_Halberstadt",
+                "Halberstadt_CL.II",
+                "Halberstadt_CL.IV"
+            ],
+            "scores": [
+                0.7504332755632582,
+                0.11611785095320624,
+                0.058925476603119586,
+                0.024263431542461005,
+                0.02079722703639515,
+                0.012131715771230503,
+                0.012131715771230503,
+                0.0017331022530329288,
+                0.0017331022530329288,
+                0.0017331022530329288
+            ]
+        },
+        {
+            "begin": 260,
+            "end": 267,
+            "text": "Germany",
+            "concept": 5,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 351,
+            "end": 353,
+            "text": "US",
+            "concept": 6,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 354,
+            "end": 375,
+            "text": "experimental composer",
+            "concept": 7
+        },
+        {
+            "begin": 376,
+            "end": 385,
+            "text": "John Cage",
+            "concept": 2,
+            "candidates": [
+                "John_Cage",
+                "John_Cage_(character)",
+                "John_Cage_(Totteridge)",
+                "Number_Pieces"
+            ],
+            "scores": [
+                0.9796954314720813,
+                0.01903553299492386,
+                0.0006345177664974619,
+                0.0006345177664974619
+            ]
+        },
+        {
+            "begin": 387,
+            "end": 391,
+            "text": "1912",
+            "concept": 8
+        },
+        {
+            "begin": 392,
+            "end": 396,
+            "text": "1992",
+            "concept": 9
+        },
+        {
+            "begin": 409,
+            "end": 421,
+            "text": "organ2/ASLSP",
+            "concept": 0,
+            "candidates": [
+                "As_Slow_as_Possible"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 428,
+            "end": 447,
+            "text": "As SLow aS Possible",
+            "concept": 0,
+            "candidates": [
+                "As_Slow_as_Possible"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 476,
+            "end": 493,
+            "text": "September 5, 2001",
+            "concept": 10
+        },
+        {
+            "begin": 525,
+            "end": 529,
+            "text": "2639",
+            "concept": 11
+        },
+        {
+            "begin": 617,
+            "end": 627,
+            "text": "G-sharp, B",
+            "concept": 12
+        },
+        {
+            "begin": 632,
+            "end": 639,
+            "text": "G-sharp",
+            "concept": 13
+        },
+        {
+            "begin": 662,
+            "end": 678,
+            "text": "February 2, 2003",
+            "concept": 14
+        },
+        {
+            "begin": 688,
+            "end": 697,
+            "text": "July 2004",
+            "concept": 15
+        },
+        {
+            "begin": 800,
+            "end": 805,
+            "text": "May 5",
+            "concept": 16
+        },
+        {
+            "begin": 863,
+            "end": 871,
+            "text": "Thursday",
+            "concept": 3
+        },
+        {
+            "begin": 1056,
+            "end": 1060,
+            "text": "Cage",
+            "concept": 2,
+            "candidates": [
+                "Cage_(rapper)",
+                "Cage",
+                "Brian_Cage",
+                "John_Cage",
+                "Cage_(band)",
+                "Luke_Cage",
+                "Cage_(film)",
+                "Cage_(graph_theory)",
+                "Cage_(organisation)",
+                "Commercial_and_Government_Entity_code",
+                "Birdcage",
+                "Cap_analysis_gene_expression",
+                "Gibbeting",
+                "Cage_(Srebrenik)",
+                "Litter_(vehicle)",
+                "John_Cage_Day"
+            ],
+            "scores": [
+                0.3713527851458886,
+                0.13527851458885942,
+                0.09549071618037135,
+                0.07957559681697612,
+                0.07161803713527852,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.029177718832891247,
+                0.01856763925729443,
+                0.010610079575596816,
+                0.007957559681697613,
+                0.007957559681697613,
+                0.005305039787798408,
+                0.002652519893899204,
+                0.002652519893899204
+            ]
+        },
+        {
+            "begin": 1083,
+            "end": 1088,
+            "text": "ASLSP",
+            "concept": 0,
+            "candidates": [
+                "As_Slow_as_Possible"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1093,
+            "end": 1097,
+            "text": "1985",
+            "concept": 17
+        },
+        {
+            "begin": 1171,
+            "end": 1175,
+            "text": "1987",
+            "concept": 18
+        },
+        {
+            "begin": 1199,
+            "end": 1222,
+            "text": "John Cage Organ Project",
+            "concept": 19,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1317,
+            "end": 1321,
+            "text": "Cage",
+            "concept": 2,
+            "candidates": [
+                "Cage_(rapper)",
+                "Cage",
+                "Brian_Cage",
+                "John_Cage",
+                "Cage_(band)",
+                "Luke_Cage",
+                "Cage_(film)",
+                "Cage_(graph_theory)",
+                "Cage_(organisation)",
+                "Commercial_and_Government_Entity_code",
+                "Birdcage",
+                "Cap_analysis_gene_expression",
+                "Gibbeting",
+                "Cage_(Srebrenik)",
+                "Litter_(vehicle)",
+                "John_Cage_Day"
+            ],
+            "scores": [
+                0.3713527851458886,
+                0.13527851458885942,
+                0.09549071618037135,
+                0.07957559681697612,
+                0.07161803713527852,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.029177718832891247,
+                0.01856763925729443,
+                0.010610079575596816,
+                0.007957559681697613,
+                0.007957559681697613,
+                0.005305039787798408,
+                0.002652519893899204,
+                0.002652519893899204
+            ]
+        },
+        {
+            "begin": 1417,
+            "end": 1428,
+            "text": "Halberstadt",
+            "concept": 1,
+            "candidates": [
+                "Halberstadt",
+                "Roman_Catholic_Diocese_of_Halberstadt",
+                "Halberst\u00e4dter_Flugzeugwerke",
+                "Principality_of_Halberstadt",
+                "Halberstadt_station",
+                "Halberstadt_(district)",
+                "Halberstadt_D.II",
+                "Battle_of_Halberstadt",
+                "Halberstadt_CL.II",
+                "Halberstadt_CL.IV"
+            ],
+            "scores": [
+                0.7504332755632582,
+                0.11611785095320624,
+                0.058925476603119586,
+                0.024263431542461005,
+                0.02079722703639515,
+                0.012131715771230503,
+                0.012131715771230503,
+                0.0017331022530329288,
+                0.0017331022530329288,
+                0.0017331022530329288
+            ]
+        },
+        {
+            "begin": 1440,
+            "end": 1449,
+            "text": "Blockwerk",
+            "concept": 20,
+            "candidates": [
+                "Blockwerk"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1459,
+            "end": 1463,
+            "text": "1361",
+            "concept": 21
+        },
+        {
+            "begin": 1543,
+            "end": 1557,
+            "text": "Nikolaus Faber",
+            "concept": 22,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1562,
+            "end": 1573,
+            "text": "Halberstadt",
+            "concept": 1,
+            "candidates": [
+                "Halberstadt",
+                "Roman_Catholic_Diocese_of_Halberstadt",
+                "Halberst\u00e4dter_Flugzeugwerke",
+                "Principality_of_Halberstadt",
+                "Halberstadt_station",
+                "Halberstadt_(district)",
+                "Halberstadt_D.II",
+                "Battle_of_Halberstadt",
+                "Halberstadt_CL.II",
+                "Halberstadt_CL.IV"
+            ],
+            "scores": [
+                0.7504332755632582,
+                0.11611785095320624,
+                0.058925476603119586,
+                0.024263431542461005,
+                0.02079722703639515,
+                0.012131715771230503,
+                0.012131715771230503,
+                0.0017331022530329288,
+                0.0017331022530329288,
+                0.0017331022530329288
+            ]
+        },
+        {
+            "begin": 1791,
+            "end": 1802,
+            "text": "Halberstadt",
+            "concept": 1,
+            "candidates": [
+                "Halberstadt",
+                "Roman_Catholic_Diocese_of_Halberstadt",
+                "Halberst\u00e4dter_Flugzeugwerke",
+                "Principality_of_Halberstadt",
+                "Halberstadt_station",
+                "Halberstadt_(district)",
+                "Halberstadt_D.II",
+                "Battle_of_Halberstadt",
+                "Halberstadt_CL.II",
+                "Halberstadt_CL.IV"
+            ],
+            "scores": [
+                0.7504332755632582,
+                0.11611785095320624,
+                0.058925476603119586,
+                0.024263431542461005,
+                0.02079722703639515,
+                0.012131715771230503,
+                0.012131715771230503,
+                0.0017331022530329288,
+                0.0017331022530329288,
+                0.0017331022530329288
+            ]
+        },
+        {
+            "begin": 1805,
+            "end": 1828,
+            "text": "John Cage Organ Project",
+            "concept": 19,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1946,
+            "end": 1950,
+            "text": "Cage",
+            "concept": 2,
+            "candidates": [
+                "Cage_(rapper)",
+                "Cage",
+                "Brian_Cage",
+                "John_Cage",
+                "Cage_(band)",
+                "Luke_Cage",
+                "Cage_(film)",
+                "Cage_(graph_theory)",
+                "Cage_(organisation)",
+                "Commercial_and_Government_Entity_code",
+                "Birdcage",
+                "Cap_analysis_gene_expression",
+                "Gibbeting",
+                "Cage_(Srebrenik)",
+                "Litter_(vehicle)",
+                "John_Cage_Day"
+            ],
+            "scores": [
+                0.3713527851458886,
+                0.13527851458885942,
+                0.09549071618037135,
+                0.07957559681697612,
+                0.07161803713527852,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.029177718832891247,
+                0.01856763925729443,
+                0.010610079575596816,
+                0.007957559681697613,
+                0.007957559681697613,
+                0.005305039787798408,
+                0.002652519893899204,
+                0.002652519893899204
+            ]
+        },
+        {
+            "begin": 2020,
+            "end": 2036,
+            "text": "Arnold Sch\u00f6nberg",
+            "concept": 23,
+            "candidates": [
+                "Arnold_Schoenberg"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2038,
+            "end": 2042,
+            "text": "1874",
+            "concept": 24
+        },
+        {
+            "begin": 2043,
+            "end": 2047,
+            "text": "1951",
+            "concept": 25
+        },
+        {
+            "begin": 2050,
+            "end": 2054,
+            "text": "Cage",
+            "concept": 2,
+            "candidates": [
+                "Cage_(rapper)",
+                "Cage",
+                "Brian_Cage",
+                "John_Cage",
+                "Cage_(band)",
+                "Luke_Cage",
+                "Cage_(film)",
+                "Cage_(graph_theory)",
+                "Cage_(organisation)",
+                "Commercial_and_Government_Entity_code",
+                "Birdcage",
+                "Cap_analysis_gene_expression",
+                "Gibbeting",
+                "Cage_(Srebrenik)",
+                "Litter_(vehicle)",
+                "John_Cage_Day"
+            ],
+            "scores": [
+                0.3713527851458886,
+                0.13527851458885942,
+                0.09549071618037135,
+                0.07957559681697612,
+                0.07161803713527852,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.042440318302387266,
+                0.029177718832891247,
+                0.01856763925729443,
+                0.010610079575596816,
+                0.007957559681697613,
+                0.007957559681697613,
+                0.005305039787798408,
+                0.002652519893899204,
+                0.002652519893899204
+            ]
+        },
+        {
+            "begin": 2114,
+            "end": 2118,
+            "text": "4'33",
+            "concept": 26,
+            "candidates": [
+                "4\u203233\u2033",
+                "400_(number)",
+                "433",
+                "Gerald_Thomas_Bergan",
+                "Jawad_Jabbar_Sadkhan_Al-Sahlani",
+                "5th_century_in_poetry",
+                "London_Buses_route_433",
+                "433_symmetry",
+                "Ardey_Railway",
+                "Category:Zimbabwean_chess_players",
+                "La_tempesta_di_mare_(flute_concerto)",
+                "Minuscule_433",
+                "NGC_433",
+                "United_Nations_Security_Council_Resolution_433",
+                "Japan_National_Route_433",
+                "Pennsylvania_Route_433"
+            ],
+            "scores": [
+                0.40298507462686567,
+                0.208955223880597,
+                0.07462686567164178,
+                0.05970149253731343,
+                0.04477611940298507,
+                0.029850746268656716,
+                0.029850746268656716,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358,
+                0.014925373134328358
+            ]
+        },
+        {
+            "begin": 2248,
+            "end": 2271,
+            "text": "John Cage Organ Project",
+            "concept": 19,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2311,
+            "end": 2322,
+            "text": "Halberstadt",
+            "concept": 1,
+            "candidates": [
+                "Halberstadt",
+                "Roman_Catholic_Diocese_of_Halberstadt",
+                "Halberst\u00e4dter_Flugzeugwerke",
+                "Principality_of_Halberstadt",
+                "Halberstadt_station",
+                "Halberstadt_(district)",
+                "Halberstadt_D.II",
+                "Battle_of_Halberstadt",
+                "Halberstadt_CL.II",
+                "Halberstadt_CL.IV"
+            ],
+            "scores": [
+                0.7504332755632582,
+                0.11611785095320624,
+                0.058925476603119586,
+                0.024263431542461005,
+                0.02079722703639515,
+                0.012131715771230503,
+                0.012131715771230503,
+                0.0017331022530329288,
+                0.0017331022530329288,
+                0.0017331022530329288
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "As SLow aS Possible",
+            "keyword": true,
+            "count": 3,
+            "link": "As_Slow_as_Possible",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000018",
+                "slot::keyword",
+                "topic::culture",
+                "type::entity",
+                "type::misc",
+                "type::music_title",
+                "type::work_of_art"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Halberstadt",
+            "keyword": true,
+            "count": 5,
+            "link": "Halberstadt",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "John Cage",
+            "keyword": true,
+            "count": 5,
+            "link": "John_Cage",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000018",
+                "slot::keyword",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::musician",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Buchardi",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1776071",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::religion_facility"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "experimental composer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "1912",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "1992",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "September 5, 2001",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "2639",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "G-sharp, B",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "G-sharp",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "February 2, 2003",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "July 2004",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "May 5",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "1985",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "1987",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "John Cage Organ Project",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "iptc::01000000",
+                "topic::culture",
+                "type::culture_misc",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Blockwerk",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::misc",
+                "type::object"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "1361",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Nikolaus Faber",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Arnold Sch\u00f6nberg",
+            "keyword": false,
+            "count": 1,
+            "link": "Arnold_Schoenberg",
+            "tags": [
+                "gender::male",
+                "iptc::01000000",
+                "iptc::20000018",
+                "topic::culture",
+                "type::artist",
+                "type::entity",
+                "type::musician",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "1874",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "1951",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "4'33",
+            "keyword": false,
+            "count": 1,
+            "link": "4\u203233\u2033",
+            "tags": [
+                "iptc::01000000",
+                "iptc::20000018",
+                "topic::culture",
+                "type::entity",
+                "type::misc",
+                "type::music_title",
+                "type::work_of_art"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "created_by",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "in2",
+            "o": 1
+        },
+        {
+            "s": 19,
+            "p": "event_in0",
+            "o": 5
+        },
+        {
+            "s": 19,
+            "p": "event_in2",
+            "o": 1
+        },
+        {
+            "s": 20,
+            "p": "created_by",
+            "o": 22
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "01000000",
+        "20000002",
+        "20000018",
+        "20000020"
+    ]
+}

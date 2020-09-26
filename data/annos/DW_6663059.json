@@ -1,0 +1,1298 @@
+{
+    "id": "DW_6663059",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 13,
+            "end": 23,
+            "text": "20.11.2011",
+            "concept": 2
+        },
+        {
+            "begin": 24,
+            "end": 36,
+            "text": "Jochen Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Jochen_Zeitz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 62,
+            "text": "Talking Germany",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 66,
+            "end": 75,
+            "text": "Presenter",
+            "concept": 4
+        },
+        {
+            "begin": 76,
+            "end": 88,
+            "text": "Peter Craven",
+            "concept": 5,
+            "candidates": [
+                "Peter_Craven",
+                "Peter_Craven_(literary_critic)"
+            ],
+            "scores": [
+                0.8125,
+                0.1875
+            ]
+        },
+        {
+            "begin": 99,
+            "end": 111,
+            "text": "Jochen Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Jochen_Zeitz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 158,
+            "end": 170,
+            "text": "Jochen Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Jochen_Zeitz"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 182,
+            "end": 190,
+            "text": "Mannheim",
+            "concept": 6,
+            "candidates": [
+                "Mannheim",
+                "Mannheim_Hauptbahnhof",
+                "University_of_Mannheim",
+                "SAP_Arena",
+                "Adler_Mannheim",
+                "Siege_of_Mannheim_(1795)",
+                "Wilmot,_Ontario",
+                "Mannheim_Palace",
+                "Mannheim_station_(Illinois)",
+                "International_Filmfestival_Mannheim-Heidelberg",
+                "VfR_Mannheim",
+                "Mannheim_National_Theatre",
+                "Battle_of_Mannheim_(1799)",
+                "Mannheim_(electoral_district)",
+                "Mannheim_(Linville,_Virginia)",
+                "Capture_of_Mannheim"
+            ],
+            "scores": [
+                0.894037478705281,
+                0.08074957410562181,
+                0.006132879045996593,
+                0.003747870528109029,
+                0.00272572402044293,
+                0.0020442930153321977,
+                0.0017035775127768314,
+                0.001362862010221465,
+                0.001362862010221465,
+                0.0010221465076660989,
+                0.0006814310051107325,
+                0.0006814310051107325,
+                0.00034071550255536625,
+                0.00034071550255536625,
+                0.00034071550255536625,
+                0.00034071550255536625
+            ]
+        },
+        {
+            "begin": 230,
+            "end": 234,
+            "text": "1980",
+            "concept": 7
+        },
+        {
+            "begin": 266,
+            "end": 270,
+            "text": "1982",
+            "concept": 8
+        },
+        {
+            "begin": 278,
+            "end": 302,
+            "text": "European Business School",
+            "concept": 9,
+            "candidates": [
+                "EBS_University_of_Business_and_Law",
+                "European_Business_School_London",
+                "European_Business_School_Paris",
+                "EU_Business_School"
+            ],
+            "scores": [
+                0.5714285714285714,
+                0.25,
+                0.14285714285714285,
+                0.03571428571428571
+            ]
+        },
+        {
+            "begin": 306,
+            "end": 329,
+            "text": "Schloss Reichartshausen",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 337,
+            "end": 345,
+            "text": "Rheingau",
+            "concept": 11,
+            "candidates": [
+                "Rheingau",
+                "Rheingau_(wine_region)",
+                "Rheingau_Musik_Festival"
+            ],
+            "scores": [
+                0.6907894736842105,
+                0.2894736842105263,
+                0.019736842105263157
+            ]
+        },
+        {
+            "begin": 409,
+            "end": 434,
+            "text": "consumer products company",
+            "concept": 12
+        },
+        {
+            "begin": 436,
+            "end": 453,
+            "text": "Colgate-Palmolive",
+            "concept": 13,
+            "candidates": [
+                "Colgate-Palmolive",
+                "Colgate_Clock_(Jersey_City)"
+            ],
+            "scores": [
+                0.9964912280701754,
+                0.0035087719298245615
+            ]
+        },
+        {
+            "begin": 457,
+            "end": 464,
+            "text": "Hamburg",
+            "concept": 14,
+            "candidates": [
+                "Hamburg",
+                "Hamburger_SV",
+                "German_Open_Tennis_Championships",
+                "Hamburg_Hauptbahnhof",
+                "Hamburg,_New_York",
+                "University_of_Hamburg",
+                "WTA_Hamburg",
+                "Hamburg,_Pennsylvania",
+                "Hamburg,_Arkansas",
+                "Hamburg,_New_Jersey",
+                "Hamburg_Airport",
+                "Hamburg_(horse)",
+                "Hamburg_(village),_New_York",
+                "Handball_Hamburg",
+                "Bombing_of_Hamburg_in_World_War_II",
+                "Hamburg,_Iowa"
+            ],
+            "scores": [
+                0.8640258150662068,
+                0.040781128296428173,
+                0.02631578947368421,
+                0.010737732279959942,
+                0.006453766551685768,
+                0.00561922777345054,
+                0.0035606987871369756,
+                0.0032825191943918995,
+                0.0021698008234115945,
+                0.0021698008234115945,
+                0.0021141649048625794,
+                0.0020585289863135642,
+                0.0018359853121175031,
+                0.0017803493935684878,
+                0.0016690775564704573,
+                0.0014465338822743964
+            ]
+        },
+        {
+            "begin": 468,
+            "end": 472,
+            "text": "1986",
+            "concept": 15
+        },
+        {
+            "begin": 491,
+            "end": 505,
+            "text": "Herzogenaurach",
+            "concept": 16,
+            "candidates": [
+                "Herzogenaurach"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 513,
+            "end": 523,
+            "text": "Franconian",
+            "concept": 17
+        },
+        {
+            "begin": 548,
+            "end": 575,
+            "text": "sporting goods manufacturer",
+            "concept": 18
+        },
+        {
+            "begin": 576,
+            "end": 580,
+            "text": "Puma",
+            "concept": 1,
+            "candidates": [
+                "Puma_(brand)",
+                "Cougar",
+                "Puma_(genus)",
+                "A\u00e9rospatiale_SA_330_Puma",
+                "Puma_King",
+                "Ford_Puma",
+                "T._J._Perkins",
+                "Puma_(comics)",
+                "Puma_(microarchitecture)",
+                "Puma_(IFV)",
+                "Puma_(band)",
+                "Puma_(car_manufacturer)",
+                "Puma_armored_engineering_vehicle",
+                "Puma_(AFV)",
+                "Puma_language",
+                "Patriotic_Union_of_Mandebeleland"
+            ],
+            "scores": [
+                0.6841640935156594,
+                0.07454786060873402,
+                0.044993383325981476,
+                0.030877812086457873,
+                0.02646669607410675,
+                0.025143361270401413,
+                0.01940891045434495,
+                0.018967798853109837,
+                0.014997794441993825,
+                0.013674459638288486,
+                0.009704455227172474,
+                0.0070577856197618,
+                0.0030877812086457872,
+                0.0022055580061755625,
+                0.0022055580061755625,
+                0.00176444640494045
+            ]
+        },
+        {
+            "begin": 584,
+            "end": 588,
+            "text": "1988",
+            "concept": 19
+        },
+        {
+            "begin": 666,
+            "end": 670,
+            "text": "1991",
+            "concept": 20
+        },
+        {
+            "begin": 814,
+            "end": 818,
+            "text": "Puma",
+            "concept": 1,
+            "candidates": [
+                "Puma_(brand)",
+                "Cougar",
+                "Puma_(genus)",
+                "A\u00e9rospatiale_SA_330_Puma",
+                "Puma_King",
+                "Ford_Puma",
+                "T._J._Perkins",
+                "Puma_(comics)",
+                "Puma_(microarchitecture)",
+                "Puma_(IFV)",
+                "Puma_(band)",
+                "Puma_(car_manufacturer)",
+                "Puma_armored_engineering_vehicle",
+                "Puma_(AFV)",
+                "Puma_language",
+                "Patriotic_Union_of_Mandebeleland"
+            ],
+            "scores": [
+                0.6841640935156594,
+                0.07454786060873402,
+                0.044993383325981476,
+                0.030877812086457873,
+                0.02646669607410675,
+                0.025143361270401413,
+                0.01940891045434495,
+                0.018967798853109837,
+                0.014997794441993825,
+                0.013674459638288486,
+                0.009704455227172474,
+                0.0070577856197618,
+                0.0030877812086457872,
+                0.0022055580061755625,
+                0.0022055580061755625,
+                0.00176444640494045
+            ]
+        },
+        {
+            "begin": 819,
+            "end": 823,
+            "text": "1993",
+            "concept": 21
+        },
+        {
+            "begin": 849,
+            "end": 852,
+            "text": "CEO",
+            "concept": 22
+        },
+        {
+            "begin": 856,
+            "end": 862,
+            "text": "German",
+            "concept": 23
+        },
+        {
+            "begin": 901,
+            "end": 906,
+            "text": "Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Zeitz",
+                "March_of_Zeitz",
+                "Zeitz_station",
+                "Bishopric_of_Naumburg-Zeitz",
+                "Manuel_Zeitz"
+            ],
+            "scores": [
+                0.875,
+                0.057692307692307696,
+                0.03365384615384615,
+                0.019230769230769232,
+                0.014423076923076924
+            ]
+        },
+        {
+            "begin": 929,
+            "end": 934,
+            "text": "China",
+            "concept": 24,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 979,
+            "end": 983,
+            "text": "Puma",
+            "concept": 1,
+            "candidates": [
+                "Puma_(brand)",
+                "Cougar",
+                "Puma_(genus)",
+                "A\u00e9rospatiale_SA_330_Puma",
+                "Puma_King",
+                "Ford_Puma",
+                "T._J._Perkins",
+                "Puma_(comics)",
+                "Puma_(microarchitecture)",
+                "Puma_(IFV)",
+                "Puma_(band)",
+                "Puma_(car_manufacturer)",
+                "Puma_armored_engineering_vehicle",
+                "Puma_(AFV)",
+                "Puma_language",
+                "Patriotic_Union_of_Mandebeleland"
+            ],
+            "scores": [
+                0.6841640935156594,
+                0.07454786060873402,
+                0.044993383325981476,
+                0.030877812086457873,
+                0.02646669607410675,
+                0.025143361270401413,
+                0.01940891045434495,
+                0.018967798853109837,
+                0.014997794441993825,
+                0.013674459638288486,
+                0.009704455227172474,
+                0.0070577856197618,
+                0.0030877812086457872,
+                0.0022055580061755625,
+                0.0022055580061755625,
+                0.00176444640494045
+            ]
+        },
+        {
+            "begin": 1013,
+            "end": 1017,
+            "text": "2005",
+            "concept": 25
+        },
+        {
+            "begin": 1084,
+            "end": 1089,
+            "text": "Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Zeitz",
+                "March_of_Zeitz",
+                "Zeitz_station",
+                "Bishopric_of_Naumburg-Zeitz",
+                "Manuel_Zeitz"
+            ],
+            "scores": [
+                0.875,
+                0.057692307692307696,
+                0.03365384615384615,
+                0.019230769230769232,
+                0.014423076923076924
+            ]
+        },
+        {
+            "begin": 1110,
+            "end": 1117,
+            "text": "Germany",
+            "concept": 26,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1219,
+            "end": 1223,
+            "text": "Puma",
+            "concept": 1,
+            "candidates": [
+                "Puma_(brand)",
+                "Cougar",
+                "Puma_(genus)",
+                "A\u00e9rospatiale_SA_330_Puma",
+                "Puma_King",
+                "Ford_Puma",
+                "T._J._Perkins",
+                "Puma_(comics)",
+                "Puma_(microarchitecture)",
+                "Puma_(IFV)",
+                "Puma_(band)",
+                "Puma_(car_manufacturer)",
+                "Puma_armored_engineering_vehicle",
+                "Puma_(AFV)",
+                "Puma_language",
+                "Patriotic_Union_of_Mandebeleland"
+            ],
+            "scores": [
+                0.6841640935156594,
+                0.07454786060873402,
+                0.044993383325981476,
+                0.030877812086457873,
+                0.02646669607410675,
+                0.025143361270401413,
+                0.01940891045434495,
+                0.018967798853109837,
+                0.014997794441993825,
+                0.013674459638288486,
+                0.009704455227172474,
+                0.0070577856197618,
+                0.0030877812086457872,
+                0.0022055580061755625,
+                0.0022055580061755625,
+                0.00176444640494045
+            ]
+        },
+        {
+            "begin": 1263,
+            "end": 1282,
+            "text": "Together for Africa",
+            "concept": 27,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1294,
+            "end": 1299,
+            "text": "Zeitz",
+            "concept": 0,
+            "candidates": [
+                "Zeitz",
+                "March_of_Zeitz",
+                "Zeitz_station",
+                "Bishopric_of_Naumburg-Zeitz",
+                "Manuel_Zeitz"
+            ],
+            "scores": [
+                0.875,
+                0.057692307692307696,
+                0.03365384615384615,
+                0.019230769230769232,
+                0.014423076923076924
+            ]
+        },
+        {
+            "begin": 1343,
+            "end": 1349,
+            "text": "Africa",
+            "concept": 28,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 1409,
+            "end": 1418,
+            "text": "Nuremberg",
+            "concept": 29,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 1428,
+            "end": 1432,
+            "text": "wife",
+            "concept": 30
+        },
+        {
+            "begin": 1434,
+            "end": 1446,
+            "text": "Birgit J\u00f6ris",
+            "concept": 31,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1458,
+            "end": 1462,
+            "text": "2005",
+            "concept": 25
+        },
+        {
+            "begin": 1531,
+            "end": 1536,
+            "text": "Kenya",
+            "concept": 32,
+            "candidates": [
+                "Kenya",
+                "Kenya_national_cricket_team",
+                "Kenya_national_football_team",
+                "Kenya_Colony",
+                "Football_Kenya_Federation",
+                "Kenya_national_rugby_union_team",
+                "Kenya_national_rugby_sevens_team",
+                "Kenya_at_the_2006_Commonwealth_Games",
+                "Kenya_national_under-19_cricket_team",
+                "List_of_non-marine_molluscs_of_Kenya",
+                "Kenya_Rugby_Union",
+                "Kenya_(1963\u20131964)",
+                "Kenya_at_the_2014_Commonwealth_Games",
+                "Kenya_women's_national_football_team",
+                "Anglican_Church_of_Kenya",
+                "Rugby_union_in_Kenya"
+            ],
+            "scores": [
+                0.9143270024772915,
+                0.031327415359207265,
+                0.011715524360033031,
+                0.006554500412881916,
+                0.00402559867877787,
+                0.002477291494632535,
+                0.0018063583815028901,
+                0.001754748142031379,
+                0.001032204789430223,
+                0.001032204789430223,
+                0.0008257638315441783,
+                0.0007741535920726672,
+                0.0006709331131296449,
+                0.0006709331131296449,
+                0.0006193228736581337,
+                0.0005677126341866227
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Jochen Zeitz",
+            "keyword": true,
+            "count": 6,
+            "link": "Jochen_Zeitz",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Puma",
+            "keyword": true,
+            "count": 4,
+            "link": "Puma_(brand)",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000245",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "20.11.2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Talking Germany",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Presenter",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Peter Craven",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Mannheim",
+            "keyword": false,
+            "count": 1,
+            "link": "Mannheim",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "1980",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "1982",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "European Business School",
+            "keyword": false,
+            "count": 1,
+            "link": "EBS_University_of_Business_and_Law",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Schloss Reichartshausen",
+            "keyword": false,
+            "count": 1,
+            "link": "wikidata:Q1618390",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Rheingau",
+            "keyword": false,
+            "count": 1,
+            "link": "Rheingau",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "consumer products company",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Colgate-Palmolive",
+            "keyword": false,
+            "count": 1,
+            "link": "Colgate-Palmolive",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Hamburg",
+            "keyword": false,
+            "count": 1,
+            "link": "Hamburg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "1986",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Herzogenaurach",
+            "keyword": false,
+            "count": 1,
+            "link": "Herzogenaurach",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Franconian",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "sporting goods manufacturer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "1988",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "1991",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "1993",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "CEO",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "2005",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Together for Africa",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Nuremberg",
+            "keyword": false,
+            "count": 1,
+            "link": "Nuremberg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "wife",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Birgit J\u00f6ris",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "type::entity",
+                "type::person",
+                "type::relative"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Kenya",
+            "keyword": false,
+            "count": 1,
+            "link": "Kenya",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 26
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 23
+        },
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 13
+        },
+        {
+            "s": 0,
+            "p": "spouse_of",
+            "o": 31
+        },
+        {
+            "s": 6,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 6,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 10,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 10,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 13,
+            "p": "based_in0",
+            "o": 26
+        },
+        {
+            "s": 13,
+            "p": "based_in0-x",
+            "o": 23
+        },
+        {
+            "s": 13,
+            "p": "based_in2",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 14,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 16,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 23,
+            "p": "gpe0",
+            "o": 26
+        },
+        {
+            "s": 29,
+            "p": "in0",
+            "o": 26
+        },
+        {
+            "s": 29,
+            "p": "in0-x",
+            "o": 23
+        },
+        {
+            "s": 31,
+            "p": "spouse_of",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000188",
+        "20000190"
+    ]
+}

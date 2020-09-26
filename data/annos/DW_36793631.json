@@ -1,0 +1,844 @@
+{
+    "id": "DW_36793631",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 4,
+            "end": 18,
+            "text": "New York Wheel",
+            "concept": 1,
+            "candidates": [
+                "New_York_Wheel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 103,
+            "end": 116,
+            "text": "New York City",
+            "concept": 0,
+            "candidates": [
+                "New_York_City",
+                "Fort_Washington_Avenue_Armory",
+                "New_York_metropolitan_area",
+                "New_York_City_FC",
+                "USTA_Billie_Jean_King_National_Tennis_Center",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York",
+                "Madison_Square_Garden",
+                "New_York_City_English",
+                "Manhattan",
+                "New_York_and_New_Jersey_campaign",
+                "History_of_New_York_City",
+                "New_York_City_Marathon",
+                "The_Real_Housewives_of_New_York_City",
+                "Chinese_in_New_York_City",
+                "New_York_City_(band)"
+            ],
+            "scores": [
+                0.9891864931977843,
+                0.0017509603752361143,
+                0.0012628138463824097,
+                0.0011566950357620393,
+                0.00042447524248148227,
+                0.00042447524248148227,
+                0.00030774455079907463,
+                0.00028652078867500054,
+                0.00022284950230277818,
+                0.00021223762124074114,
+                0.0002016257401787041,
+                0.0002016257401787041,
+                0.0001697900969925929,
+                0.00015917821593055585,
+                0.00015917821593055585,
+                0.0001485663348685188
+            ]
+        },
+        {
+            "begin": 259,
+            "end": 272,
+            "text": "Staten Island",
+            "concept": 3,
+            "candidates": [
+                "Staten_Island",
+                "Staten_Island_(film)",
+                "Isla_de_los_Estados",
+                "Staten_Island_Yankees",
+                "College_of_Staten_Island",
+                "National_Register_of_Historic_Places_listings_in_Staten_Island",
+                "Battle_of_Staten_Island",
+                "Staten_Island_(California)",
+                "Staten_Island_Dolphins",
+                "Flags_of_New_York_City",
+                "List_of_bus_routes_in_Staten_Island",
+                "List_of_Staten_Island_neighborhoods",
+                "Fort_Tompkins_(Staten_Island)"
+            ],
+            "scores": [
+                0.9776219104876419,
+                0.006012024048096192,
+                0.0056780227120908485,
+                0.0033400133600534404,
+                0.0026720106880427524,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405
+            ]
+        },
+        {
+            "begin": 274,
+            "end": 285,
+            "text": "spokeswoman",
+            "concept": 4
+        },
+        {
+            "begin": 286,
+            "end": 302,
+            "text": "Tiffany Townsand",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 337,
+            "end": 356,
+            "text": "590 million dollars",
+            "concept": 6
+        },
+        {
+            "begin": 364,
+            "end": 381,
+            "text": "555 million euros",
+            "concept": 7
+        },
+        {
+            "begin": 404,
+            "end": 418,
+            "text": "New York Wheel",
+            "concept": 1,
+            "candidates": [
+                "New_York_Wheel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 520,
+            "end": 539,
+            "text": "250 million dollars",
+            "concept": 8
+        },
+        {
+            "begin": 563,
+            "end": 567,
+            "text": "2015",
+            "concept": 9
+        },
+        {
+            "begin": 615,
+            "end": 626,
+            "text": "spring 2018",
+            "concept": 10
+        },
+        {
+            "begin": 897,
+            "end": 910,
+            "text": "Staten Island",
+            "concept": 3,
+            "candidates": [
+                "Staten_Island",
+                "Staten_Island_(film)",
+                "Isla_de_los_Estados",
+                "Staten_Island_Yankees",
+                "College_of_Staten_Island",
+                "National_Register_of_Historic_Places_listings_in_Staten_Island",
+                "Battle_of_Staten_Island",
+                "Staten_Island_(California)",
+                "Staten_Island_Dolphins",
+                "Flags_of_New_York_City",
+                "List_of_bus_routes_in_Staten_Island",
+                "List_of_Staten_Island_neighborhoods",
+                "Fort_Tompkins_(Staten_Island)"
+            ],
+            "scores": [
+                0.9776219104876419,
+                0.006012024048096192,
+                0.0056780227120908485,
+                0.0033400133600534404,
+                0.0026720106880427524,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.001002004008016032,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405,
+                0.00033400133600534405
+            ]
+        },
+        {
+            "begin": 941,
+            "end": 959,
+            "text": "Upper New York Bay",
+            "concept": 11,
+            "candidates": [
+                "Upper_New_York_Bay",
+                "New_York_Bay"
+            ],
+            "scores": [
+                0.9903846153846154,
+                0.009615384615384616
+            ]
+        },
+        {
+            "begin": 965,
+            "end": 982,
+            "text": "Statue of Liberty",
+            "concept": 12,
+            "candidates": [
+                "Statue_of_Liberty",
+                "Statue_of_Liberty_(song)",
+                "Statue_of_Liberty_play",
+                "Statue_of_Liberty_(Seattle)",
+                "Replicas_of_the_Statue_of_Liberty",
+                "Libertas",
+                "Vanishing_the_Statue_of_Liberty",
+                "Statue_of_Liberty_National_Monument"
+            ],
+            "scores": [
+                0.988479262672811,
+                0.005376344086021506,
+                0.002304147465437788,
+                0.0007680491551459293,
+                0.0007680491551459293,
+                0.0007680491551459293,
+                0.0007680491551459293,
+                0.0007680491551459293
+            ]
+        },
+        {
+            "begin": 1042,
+            "end": 1051,
+            "text": "Manhattan",
+            "concept": 13,
+            "candidates": [
+                "Manhattan",
+                "Manhattan,_Kansas",
+                "Manhattan_(film)",
+                "Manhattan_(TV_series)",
+                "Manhattan_College",
+                "Manhattan_Jaspers_basketball",
+                "Manhattan_(song)",
+                "Manhattan_Jaspers_and_Lady_Jaspers",
+                "Manhattan_Records",
+                "Manhattan_Jaspers_baseball",
+                "Manhattan_(cocktail)",
+                "New_York_City",
+                "Manhattan,_Illinois",
+                "List_of_New_York_City_Subway_stations_in_Manhattan",
+                "Manhattan_Bridge",
+                "Manhattan,_Montana"
+            ],
+            "scores": [
+                0.9225209775218962,
+                0.018864457646842653,
+                0.013229619648435107,
+                0.005696086237520671,
+                0.004777362650823789,
+                0.0038586390641269066,
+                0.0037361425859006553,
+                0.0030624119556562747,
+                0.0026336742818643963,
+                0.0020211918907331416,
+                0.0020211918907331416,
+                0.0015312059778281374,
+                0.0014087094996018865,
+                0.001102468304036259,
+                0.0010412200649231335,
+                0.0008574753475837569
+            ]
+        },
+        {
+            "begin": 1073,
+            "end": 1087,
+            "text": "New York Wheel",
+            "concept": 1,
+            "candidates": [
+                "New_York_Wheel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1404,
+            "end": 1422,
+            "text": "High Roller Ferris",
+            "concept": 14,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1432,
+            "end": 1441,
+            "text": "Las Vegas",
+            "concept": 15,
+            "candidates": [
+                "Las_Vegas",
+                "Las_Vegas_Valley",
+                "Las_Vegas_(TV_series)",
+                "Las_Vegas_Strip",
+                "Las_Vegas,_New_Mexico",
+                "Las_Vegas_Motor_Speedway",
+                "Las_Vegas_Wranglers",
+                "Alan_King_Tennis_Classic",
+                "McCarran_International_Airport",
+                "2018_Las_Vegas_Aces_season",
+                "Las_Vegas_51s",
+                "Las_Vegas_(Modern_Family)",
+                "Paradise,_Nevada",
+                "MGM_Grand_Garden_Arena",
+                "Thomas_&_Mack_Center",
+                "Las_Vegas_Locomotives"
+            ],
+            "scores": [
+                0.5660622647964421,
+                0.2845022237427301,
+                0.04666438590489223,
+                0.037564146424905916,
+                0.009237085186452275,
+                0.007594936708860759,
+                0.004447485460143688,
+                0.00376325692781389,
+                0.0036264112213479304,
+                0.0027369141293191925,
+                0.0022579541566883337,
+                0.0015737256243585358,
+                0.0013684570646595963,
+                0.0013000342114266165,
+                0.0013000342114266165,
+                0.0013000342114266165
+            ]
+        },
+        {
+            "begin": 1443,
+            "end": 1449,
+            "text": "Nevada",
+            "concept": 16,
+            "candidates": [
+                "Nevada",
+                "Nevada_Wolf_Pack_football",
+                "Nevada_Wolf_Pack_men's_basketball",
+                "Nevada_County,_California",
+                "List_of_United_States_Senators_from_Nevada",
+                "University_of_Nevada,_Reno",
+                "List_of_United_States_Representatives_from_Nevada",
+                "Miss_Nevada_USA",
+                "National_Register_of_Historic_Places_listings_in_Nevada_County,_Arkansas",
+                "Nevada_County,_Arkansas",
+                "Nevada,_Missouri",
+                "Miss_Nevada",
+                "Nevada_Wolf_Pack",
+                "Miss_Nevada_Teen_USA",
+                "2010_Nevada_Wolf_Pack_football_team",
+                "2017\u201318_Nevada_Wolf_Pack_men's_basketball_team"
+            ],
+            "scores": [
+                0.8289667156797219,
+                0.022657398743483492,
+                0.017176848014971262,
+                0.01630798021654859,
+                0.01129528137949472,
+                0.009089693891191018,
+                0.007351958294345676,
+                0.006483090495923005,
+                0.005213206790536024,
+                0.004879026868065767,
+                0.0038764871006549927,
+                0.0037428151316668897,
+                0.0030744552867263734,
+                0.0029407833177382704,
+                0.0022055874883037028,
+                0.0017377355968453416
+            ]
+        },
+        {
+            "begin": 1481,
+            "end": 1495,
+            "text": "New York Wheel",
+            "concept": 1,
+            "candidates": [
+                "New_York_Wheel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1728,
+            "end": 1741,
+            "text": "Starneth B.V.",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1771,
+            "end": 1781,
+            "text": "London Eye",
+            "concept": 17,
+            "candidates": [
+                "London_Eye",
+                "London_Eye_Pier"
+            ],
+            "scores": [
+                0.9886363636363636,
+                0.011363636363636364
+            ]
+        },
+        {
+            "begin": 1785,
+            "end": 1789,
+            "text": "1999",
+            "concept": 18
+        },
+        {
+            "begin": 1823,
+            "end": 1825,
+            "text": "UK",
+            "concept": 19,
+            "candidates": [
+                "United_Kingdom",
+                "UK_Singles_Chart",
+                "UK_Albums_Chart",
+                "British_Phonographic_Industry",
+                "Official_Charts_Company",
+                "U.K._(band)",
+                "ISU_Junior_Grand_Prix_in_the_United_Kingdom",
+                ".uk",
+                "United_Kingdom_of_Great_Britain_and_Ireland",
+                "British_Overseas_Territories",
+                "List_of_British_films_of_1967",
+                "UK_Video_Charts",
+                "List_of_British_films_of_1999",
+                "List_of_British_films_of_1960",
+                "List_of_British_films_of_2003",
+                "List_of_British_films_of_1968"
+            ],
+            "scores": [
+                0.5038734184787486,
+                0.2370113361050459,
+                0.1652857954715401,
+                0.029132892650973588,
+                0.004875422486764574,
+                0.0033798941165913915,
+                0.002273203122663237,
+                0.0018544551790147458,
+                0.0017946340442078186,
+                0.001674991774593964,
+                0.001256243830945473,
+                0.0011366015613316184,
+                0.0011066909939281549,
+                0.0010468698591212275,
+                0.0010169592917177639,
+                0.0009870487243143003
+            ]
+        },
+        {
+            "begin": 1877,
+            "end": 1915,
+            "text": "is/cho/ms (dpa, afp, newyorkwheel.com)",
+            "concept": 20
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "New York City",
+            "keyword": true,
+            "count": 1,
+            "link": "New_York_City",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "New York Wheel",
+            "keyword": true,
+            "count": 4,
+            "link": "New_York_Wheel",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Starneth B.V.",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000238",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Staten Island",
+            "keyword": false,
+            "count": 2,
+            "link": "Staten_Island",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "spokeswoman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Tiffany Townsand",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::20000170",
+                "topic::business",
+                "type::employee",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "590 million dollars",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "555 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "250 million dollars",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "2015",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "spring 2018",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Upper New York Bay",
+            "keyword": false,
+            "count": 1,
+            "link": "Upper_New_York_Bay",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Statue of Liberty",
+            "keyword": false,
+            "count": 1,
+            "link": "Statue_of_Liberty",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Manhattan",
+            "keyword": false,
+            "count": 1,
+            "link": "Manhattan",
+            "tags": [
+                "topic::none",
+                "type::district",
+                "type::entity",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "High Roller Ferris",
+            "keyword": false,
+            "count": 1,
+            "link": "High_Roller_(Ferris_wheel)",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Las Vegas",
+            "keyword": false,
+            "count": 1,
+            "link": "Las_Vegas",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Nevada",
+            "keyword": false,
+            "count": 1,
+            "link": "Nevada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "London Eye",
+            "keyword": false,
+            "count": 1,
+            "link": "London_Eye",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::business_facility",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "1999",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "UK",
+            "keyword": false,
+            "count": 1,
+            "link": "United_Kingdom",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "is/cho/ms (dpa, afp, newyorkwheel.com)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "United_States",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 1,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 3,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 11,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 12,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 13,
+            "p": "in2",
+            "o": 0
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 14,
+            "p": "in2",
+            "o": 15
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 19
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "10000000",
+        "20000538",
+        "20000563",
+        "20000564"
+    ]
+}

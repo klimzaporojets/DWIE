@@ -1,0 +1,937 @@
+{
+    "id": "DW_37351636",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 5,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 12,
+            "end": 21,
+            "text": "North Sea",
+            "concept": 2,
+            "candidates": [
+                "North_Sea",
+                "North_Sea_oil",
+                "North_Sea,_New_York",
+                "Fishing_in_the_North_Sea",
+                "North_Sea_(1938_film)",
+                "North_Sea_Jazz_Festival",
+                "Ingaevones",
+                "Caribbean_Sea",
+                "North_Sea_flood_of_1962",
+                "Baltic_Sea",
+                "NS_class_airship",
+                "Gulf_of_Mexico",
+                "North_Sea_Fleet",
+                "Caribbean",
+                "North_Sea_Germanic",
+                "Doggerland"
+            ],
+            "scores": [
+                0.9908284928156527,
+                0.003974319779883827,
+                0.001681442983797004,
+                0.0009171507184347294,
+                0.0006114338122898196,
+                0.0004585753592173647,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549
+            ]
+        },
+        {
+            "begin": 49,
+            "end": 66,
+            "text": "Royal Dutch Shell",
+            "concept": 0,
+            "candidates": [
+                "Royal_Dutch_Shell"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 86,
+            "end": 103,
+            "text": "3.6 billion euros",
+            "concept": 4
+        },
+        {
+            "begin": 105,
+            "end": 117,
+            "text": "$3.8 billion",
+            "concept": 5
+        },
+        {
+            "begin": 132,
+            "end": 141,
+            "text": "North Sea",
+            "concept": 2,
+            "candidates": [
+                "North_Sea",
+                "North_Sea_oil",
+                "North_Sea,_New_York",
+                "Fishing_in_the_North_Sea",
+                "North_Sea_(1938_film)",
+                "North_Sea_Jazz_Festival",
+                "Ingaevones",
+                "Caribbean_Sea",
+                "North_Sea_flood_of_1962",
+                "Baltic_Sea",
+                "NS_class_airship",
+                "Gulf_of_Mexico",
+                "North_Sea_Fleet",
+                "Caribbean",
+                "North_Sea_Germanic",
+                "Doggerland"
+            ],
+            "scores": [
+                0.9908284928156527,
+                0.003974319779883827,
+                0.001681442983797004,
+                0.0009171507184347294,
+                0.0006114338122898196,
+                0.0004585753592173647,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549
+            ]
+        },
+        {
+            "begin": 152,
+            "end": 164,
+            "text": "oil explorer",
+            "concept": 6
+        },
+        {
+            "begin": 165,
+            "end": 173,
+            "text": "Chrysaor",
+            "concept": 1,
+            "candidates": [
+                "Chrysaor",
+                "The_Faerie_Queene"
+            ],
+            "scores": [
+                0.9354838709677419,
+                0.06451612903225806
+            ]
+        },
+        {
+            "begin": 256,
+            "end": 261,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 286,
+            "end": 295,
+            "text": "North Sea",
+            "concept": 2,
+            "candidates": [
+                "North_Sea",
+                "North_Sea_oil",
+                "North_Sea,_New_York",
+                "Fishing_in_the_North_Sea",
+                "North_Sea_(1938_film)",
+                "North_Sea_Jazz_Festival",
+                "Ingaevones",
+                "Caribbean_Sea",
+                "North_Sea_flood_of_1962",
+                "Baltic_Sea",
+                "NS_class_airship",
+                "Gulf_of_Mexico",
+                "North_Sea_Fleet",
+                "Caribbean",
+                "North_Sea_Germanic",
+                "Doggerland"
+            ],
+            "scores": [
+                0.9908284928156527,
+                0.003974319779883827,
+                0.001681442983797004,
+                0.0009171507184347294,
+                0.0006114338122898196,
+                0.0004585753592173647,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549,
+                0.0001528584530724549
+            ]
+        },
+        {
+            "begin": 315,
+            "end": 326,
+            "text": "rival group",
+            "concept": 7
+        },
+        {
+            "begin": 327,
+            "end": 335,
+            "text": "Chrysaor",
+            "concept": 1,
+            "candidates": [
+                "Chrysaor",
+                "The_Faerie_Queene"
+            ],
+            "scores": [
+                0.9354838709677419,
+                0.06451612903225806
+            ]
+        },
+        {
+            "begin": 460,
+            "end": 468,
+            "text": "Chrysaor",
+            "concept": 1,
+            "candidates": [
+                "Chrysaor",
+                "The_Faerie_Queene"
+            ],
+            "scores": [
+                0.9354838709677419,
+                0.06451612903225806
+            ]
+        },
+        {
+            "begin": 582,
+            "end": 586,
+            "text": "2017",
+            "concept": 8
+        },
+        {
+            "begin": 620,
+            "end": 625,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 722,
+            "end": 727,
+            "text": "rival",
+            "concept": 9
+        },
+        {
+            "begin": 728,
+            "end": 736,
+            "text": "BG group",
+            "concept": 3,
+            "candidates": [
+                "BG_Group"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 781,
+            "end": 786,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 810,
+            "end": 821,
+            "text": "$30 billion",
+            "concept": 10
+        },
+        {
+            "begin": 848,
+            "end": 859,
+            "text": "Simon Henry",
+            "concept": 11,
+            "candidates": [
+                "Simon_Henry,_Count_of_Lippe",
+                "Simon_Henry"
+            ],
+            "scores": [
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "begin": 861,
+            "end": 866,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 1026,
+            "end": 1028,
+            "text": "BG",
+            "concept": 3,
+            "candidates": [
+                "B.G._(rapper)",
+                "Brigadier_general_(United_States)",
+                "BG_Group",
+                ".bg",
+                "Province_of_Bergamo",
+                "Bulgaria",
+                "Bulgarian_language",
+                "Broad-gauge_railway",
+                "Brigadier_general",
+                "Beijing_Enterprises_Group_F.C.",
+                "Great_Lakes_BG",
+                "IEEE_802.11",
+                "Brake_Gangwayed",
+                "Ultratop",
+                "Vehicle_registration_plates_of_Bulgaria",
+                "Road_Dogg"
+            ],
+            "scores": [
+                0.5976470588235294,
+                0.15529411764705883,
+                0.03294117647058824,
+                0.03058823529411765,
+                0.02588235294117647,
+                0.023529411764705882,
+                0.021176470588235293,
+                0.018823529411764704,
+                0.018823529411764704,
+                0.007058823529411765,
+                0.007058823529411765,
+                0.007058823529411765,
+                0.004705882352941176,
+                0.004705882352941176,
+                0.004705882352941176,
+                0.004705882352941176
+            ]
+        },
+        {
+            "begin": 1043,
+            "end": 1048,
+            "text": "Shell",
+            "concept": 0,
+            "candidates": [
+                "Gastropod_shell",
+                "Royal_Dutch_Shell",
+                "Shell_Turbo_Chargers",
+                "Shell_(projectile)",
+                "Shell_(computing)",
+                "Shell_Oil_Company",
+                "Exoskeleton",
+                "Mollusc_shell",
+                "Unix_shell",
+                "Seashell",
+                "Shell_(film)",
+                "Shell_corporation",
+                "Bivalve_shell",
+                "Shell_Nigeria",
+                "Shell_Australia",
+                "Shell_Canada"
+            ],
+            "scores": [
+                0.3395772009633396,
+                0.31335295691731335,
+                0.056997591651057,
+                0.04923735616804924,
+                0.04736419587904737,
+                0.04281509232004282,
+                0.03157613058603158,
+                0.015252876639015252,
+                0.012576933369012578,
+                0.01230933904201231,
+                0.005084292213005084,
+                0.005084292213005084,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004816697886004816,
+                0.004549103559004549
+            ]
+        },
+        {
+            "begin": 1059,
+            "end": 1067,
+            "text": "BG Group",
+            "concept": 3,
+            "candidates": [
+                "BG_Group"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1072,
+            "end": 1085,
+            "text": "$52.6 billion",
+            "concept": 12
+        },
+        {
+            "begin": 1264,
+            "end": 1269,
+            "text": "China",
+            "concept": 13,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1302,
+            "end": 1304,
+            "text": "US",
+            "concept": 14,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1353,
+            "end": 1358,
+            "text": "Brent",
+            "concept": 15
+        },
+        {
+            "begin": 1386,
+            "end": 1389,
+            "text": "$50",
+            "concept": 16
+        },
+        {
+            "begin": 1400,
+            "end": 1417,
+            "text": "hch/uhe (AP, DPA)",
+            "concept": 17
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Royal Dutch Shell",
+            "keyword": true,
+            "count": 7,
+            "link": "Royal_Dutch_Shell",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000267",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Chrysaor",
+            "keyword": true,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000267",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "North Sea",
+            "keyword": true,
+            "count": 3,
+            "link": "North_Sea",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "BG group",
+            "keyword": false,
+            "count": 3,
+            "link": "BG_Group",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000267",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "3.6 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "$3.8 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "oil explorer",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "rival group",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "2017",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "rival",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "$30 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Simon Henry",
+            "keyword": false,
+            "count": 1,
+            "link": "Simon_Henry",
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "$52.6 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "China",
+            "keyword": false,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Brent",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::none",
+                "type::other",
+                "type::skip"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "$50",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "hch/uhe (AP, DPA)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "part_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "head_of",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "transfer-ownership",
+            "slots": [
+                {
+                    "name": "seller",
+                    "value": 0
+                },
+                {
+                    "name": "buyer",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000170",
+        "20000171",
+        "20000184"
+    ]
+}

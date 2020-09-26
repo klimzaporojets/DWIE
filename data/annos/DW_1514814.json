@@ -1,0 +1,2686 @@
+{
+    "id": "DW_1514814",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 9,
+            "end": 22,
+            "text": "Transatlantic",
+            "concept": 5
+        },
+        {
+            "begin": 37,
+            "end": 51,
+            "text": "March 11, 2004",
+            "concept": 6
+        },
+        {
+            "begin": 86,
+            "end": 91,
+            "text": "Spain",
+            "concept": 7,
+            "candidates": [
+                "Spain",
+                "Spain_national_football_team",
+                "Royal_Spanish_Football_Federation",
+                "Liga_ACB",
+                "Spanish_Empire",
+                "Spain_men's_national_basketball_team",
+                "Spain_national_rugby_union_team",
+                "Restoration_(Spain)",
+                "Habsburg_Spain",
+                "Francoist_Spain",
+                "Royal_Spanish_Cycling_Federation",
+                "Spain_women's_national_football_team",
+                "Same-sex_marriage_in_Spain",
+                "Spain_national_under-21_football_team",
+                "Spanish_poetry",
+                "Spain_national_beach_soccer_team"
+            ],
+            "scores": [
+                0.8500364403231558,
+                0.03932453596737428,
+                0.005504814774612725,
+                0.005349749569694057,
+                0.003969669245917909,
+                0.003582006233621238,
+                0.002651615004109228,
+                0.0026361084836173613,
+                0.00254306936066616,
+                0.0025120563196824263,
+                0.0021709128688613562,
+                0.002108886786893889,
+                0.002015847663942688,
+                0.0019383150614833537,
+                0.0019228085409914869,
+                0.0018762889795158864
+            ]
+        },
+        {
+            "begin": 96,
+            "end": 102,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 108,
+            "end": 116,
+            "text": "al Qaeda",
+            "concept": 2,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 159,
+            "end": 165,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 188,
+            "end": 190,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 305,
+            "end": 307,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 308,
+            "end": 317,
+            "text": "President",
+            "concept": 8
+        },
+        {
+            "begin": 318,
+            "end": 332,
+            "text": "George W. Bush",
+            "concept": 4,
+            "candidates": [
+                "George_W._Bush",
+                "Presidency_of_George_W._Bush",
+                "George_W._Bush_military_service_controversy",
+                "George_H._W._Bush",
+                "List_of_federal_judges_appointed_by_George_W._Bush",
+                "George_W._Bush_presidential_campaign,_2000",
+                "George_W._Bush_presidential_campaign,_2004",
+                "George_W._Bush_Presidential_Center",
+                "Efforts_to_impeach_George_W._Bush"
+            ],
+            "scores": [
+                0.997705573236622,
+                0.0017023166308933462,
+                0.00014802753312116054,
+                7.401376656058027e-05,
+                7.401376656058027e-05,
+                7.401376656058027e-05,
+                7.401376656058027e-05,
+                7.401376656058027e-05,
+                7.401376656058027e-05
+            ]
+        },
+        {
+            "begin": 351,
+            "end": 359,
+            "text": "March 11",
+            "concept": 9
+        },
+        {
+            "begin": 382,
+            "end": 390,
+            "text": "al Qaeda",
+            "concept": 2,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 433,
+            "end": 446,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 455,
+            "end": 461,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 565,
+            "end": 569,
+            "text": "Iraq",
+            "concept": 10,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 663,
+            "end": 673,
+            "text": "Guantanamo",
+            "concept": 11,
+            "candidates": [
+                "Guant\u00e1namo",
+                "Guantanamo_Bay_detention_camp",
+                "Guant\u00e1namo_Province",
+                "Guant\u00e1namo_(baseball)",
+                "Guantanamo_Bay_Naval_Base",
+                "Guant\u00e1namo_Bay",
+                "Timeline_of_Guant\u00e1namo",
+                "FC_Guant\u00e1namo",
+                "Guant\u00e1namo_CB",
+                "Guantanamo_(TV_series)",
+                "Camp_X-Ray_(Guantanamo)",
+                "List_of_Yemeni_detainees_at_Guantanamo_Bay",
+                "Haitian_refugees_held_at_the_Guantanamo_Bay_Naval_Base",
+                "Mariana_Grajales_Airport"
+            ],
+            "scores": [
+                0.49809885931558934,
+                0.17300380228136883,
+                0.11977186311787072,
+                0.07224334600760456,
+                0.060836501901140684,
+                0.03231939163498099,
+                0.011406844106463879,
+                0.011406844106463879,
+                0.0076045627376425855,
+                0.0038022813688212928,
+                0.0038022813688212928,
+                0.0019011406844106464,
+                0.0019011406844106464,
+                0.0019011406844106464
+            ]
+        },
+        {
+            "begin": 753,
+            "end": 759,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 775,
+            "end": 779,
+            "text": "Bush",
+            "concept": 4,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 866,
+            "end": 879,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 942,
+            "end": 948,
+            "text": "Madrid",
+            "concept": 12,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 1029,
+            "end": 1044,
+            "text": "Osama Bin Laden",
+            "concept": 13,
+            "candidates": [
+                "Osama_bin_Laden",
+                "Death_of_Osama_bin_Laden",
+                "Manhunt_for_Osama_bin_Laden",
+                "Osama_bin_Laden_(elephant)",
+                "Bin_Laden_family"
+            ],
+            "scores": [
+                0.9967712177121771,
+                0.0018450184501845018,
+                0.00046125461254612545,
+                0.00046125461254612545,
+                0.00046125461254612545
+            ]
+        },
+        {
+            "begin": 1098,
+            "end": 1104,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1138,
+            "end": 1152,
+            "text": "Sept. 11, 2001",
+            "concept": 14
+        },
+        {
+            "begin": 1184,
+            "end": 1186,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1223,
+            "end": 1229,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1247,
+            "end": 1253,
+            "text": "Madrid",
+            "concept": 12,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 1309,
+            "end": 1317,
+            "text": "New York",
+            "concept": 15,
+            "candidates": [
+                "New_York_(state)",
+                "New_York_City",
+                "New_York_(magazine)",
+                "New_York_Knicks",
+                "New_York_Liberty",
+                "Manhattan",
+                "List_of_United_States_Senators_from_New_York",
+                "New_York_GAA",
+                "Province_of_New_York",
+                "List_of_United_States_Representatives_from_New_York",
+                "United_States_congressional_delegations_from_New_York",
+                "Pennsylvania_Station_(New_York_City)",
+                "Miss_New_York_USA",
+                "Miss_New_York",
+                "2015\u201316_New_York_Knicks_season",
+                "2016\u201317_New_York_Knicks_season"
+            ],
+            "scores": [
+                0.5868936312942854,
+                0.22854387656702024,
+                0.0213408242840971,
+                0.014352997079088228,
+                0.00907019971210152,
+                0.008077928248990259,
+                0.004038964124495129,
+                0.003619694492194597,
+                0.0034939136025044374,
+                0.003130546587843976,
+                0.002934887426103727,
+                0.001663102874792112,
+                0.0015512976395119702,
+                0.0014814193674618813,
+                0.0012578088969015975,
+                0.001229857588081562
+            ]
+        },
+        {
+            "begin": 1322,
+            "end": 1332,
+            "text": "Washington",
+            "concept": 16,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1337,
+            "end": 1345,
+            "text": "al Qaeda",
+            "concept": 2,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 1363,
+            "end": 1372,
+            "text": "Christmas",
+            "concept": 17,
+            "candidates": [
+                "Christmas",
+                "Christmas_music",
+                "Christmas_(Michael_Bubl\u00e9_album)",
+                "Christmas_by_medium",
+                "Christmas_film",
+                "Christmas,_Florida",
+                "Christmas_(Hillsong_album)",
+                "Christmas_Island",
+                "Christmas_in_the_Philippines",
+                "List_of_Christmas_films",
+                "Christmas_(song)",
+                "Christmas_(Old_Man_Gloom_album)",
+                "Christmas_(Kimberley_Locke_album)",
+                "Au_Train_Township,_Michigan",
+                "Christmas_(Rockapella_album)",
+                "Nativity_of_Jesus"
+            ],
+            "scores": [
+                0.8940002771234585,
+                0.029652210059581543,
+                0.0211999445753083,
+                0.007205209921019814,
+                0.0052653457115144795,
+                0.002771234585007621,
+                0.0024941111265068586,
+                0.002355549397256478,
+                0.0018013024802549535,
+                0.0016627407510045726,
+                0.0015241790217541914,
+                0.0013856172925038105,
+                0.0013856172925038105,
+                0.0013856172925038105,
+                0.0012470555632534293,
+                0.0012470555632534293
+            ]
+        },
+        {
+            "begin": 1383,
+            "end": 1393,
+            "text": "Strasbourg",
+            "concept": 18,
+            "candidates": [
+                "Strasbourg",
+                "Racing_Club_de_Strasbourg_Alsace",
+                "University_of_Strasbourg",
+                "Internationaux_de_Strasbourg",
+                "Gare_de_Strasbourg-Ville",
+                "SIG_Basket",
+                "Prince-Bishopric_of_Strasbourg",
+                "Strasbourg,_Saskatchewan",
+                "Roman_Catholic_Archdiocese_of_Strasbourg",
+                "French_battleship_Strasbourg",
+                "Strasbourg_Cathedral",
+                "2014_Internationaux_de_Strasbourg",
+                "2011_Internationaux_de_Strasbourg",
+                "Strasbourg_Airport",
+                "Strasbourg_tramway",
+                "List_of_bishops,_prince-bishops_and_archbishops_of_Strasbourg"
+            ],
+            "scores": [
+                0.793394777265745,
+                0.11044546850998464,
+                0.01935483870967742,
+                0.016897081413210446,
+                0.015053763440860216,
+                0.013671274961597542,
+                0.0030721966205837174,
+                0.0027649769585253456,
+                0.0027649769585253456,
+                0.002304147465437788,
+                0.0013824884792626728,
+                0.001075268817204301,
+                0.001075268817204301,
+                0.0009216589861751152,
+                0.0009216589861751152,
+                0.0007680491551459293
+            ]
+        },
+        {
+            "begin": 1438,
+            "end": 1442,
+            "text": "Bush",
+            "concept": 4,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 1547,
+            "end": 1555,
+            "text": "al Qaeda",
+            "concept": 2,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 1606,
+            "end": 1615,
+            "text": "Europeans",
+            "concept": 19
+        },
+        {
+            "begin": 1660,
+            "end": 1662,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 1702,
+            "end": 1716,
+            "text": "Sept. 11, 2001",
+            "concept": 14
+        },
+        {
+            "begin": 1826,
+            "end": 1833,
+            "text": "EUROPOL",
+            "concept": 20,
+            "candidates": [
+                "Europol"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1859,
+            "end": 1865,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1887,
+            "end": 1895,
+            "text": "EUROJUST",
+            "concept": 21,
+            "candidates": [
+                "Eurojust"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2150,
+            "end": 2156,
+            "text": "Madrid",
+            "concept": 12,
+            "candidates": [
+                "Madrid",
+                "Community_of_Madrid",
+                "Madrid_Open_(tennis)",
+                "Madrid_(Congress_of_Deputies_constituency)",
+                "Madrid_Tennis_Grand_Prix",
+                "Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport",
+                "Madrid,_Cundinamarca",
+                "Madrid,_New_York",
+                "WTA_Madrid_Open_(tennis)",
+                "2015_Mutua_Madrid_Open",
+                "Real_Madrid_C.F.",
+                "2016_Mutua_Madrid_Open",
+                "Madrid,_Iowa",
+                "2013_Mutua_Madrid_Open",
+                "2018_Mutua_Madrid_Open",
+                "2011_Mutua_Madrid_Open"
+            ],
+            "scores": [
+                0.8928831121614252,
+                0.04212870387202327,
+                0.017360479912743136,
+                0.00640792583166697,
+                0.004999091074350118,
+                0.002681330667151427,
+                0.0019087438647518633,
+                0.0014997273223050355,
+                0.0014542810398109434,
+                0.0012270496273404836,
+                0.0011361570623522996,
+                0.0010452644973641156,
+                0.0010452644973641156,
+                0.0009543719323759316,
+                0.0009089256498818396,
+                0.0009089256498818396
+            ]
+        },
+        {
+            "begin": 2225,
+            "end": 2233,
+            "text": "European",
+            "concept": 22
+        },
+        {
+            "begin": 2366,
+            "end": 2368,
+            "text": "EU",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "Europe",
+                "List_of_European_records_in_swimming",
+                "Eu,_Seine-Maritime",
+                "E.U._(TV_series)",
+                "European_Hot_100_Singles",
+                ".eu",
+                "European_Top_100_Albums",
+                "Europium",
+                "International_Federation_of_the_Phonographic_Industry",
+                "United_Left_(Galicia)",
+                "Experience_Unlimited",
+                "United_Left_of_the_Balearic_Islands",
+                "Esquerra_de_Menorca",
+                "United_Extremadura",
+                "Citizenship_of_the_European_Union"
+            ],
+            "scores": [
+                0.7844269870609981,
+                0.066543438077634,
+                0.02356746765249538,
+                0.015480591497227357,
+                0.01432532347504621,
+                0.013863216266173753,
+                0.013632162661737524,
+                0.008086876155268022,
+                0.008086876155268022,
+                0.006469500924214418,
+                0.005545286506469501,
+                0.005545286506469501,
+                0.004390018484288355,
+                0.003234750462107209,
+                0.0027726432532347504,
+                0.0016173752310536045
+            ]
+        },
+        {
+            "begin": 2387,
+            "end": 2401,
+            "text": "March 11, 2004",
+            "concept": 6
+        },
+        {
+            "begin": 2461,
+            "end": 2475,
+            "text": "European Union",
+            "concept": 1,
+            "candidates": [
+                "European_Union",
+                "European_Boxing_Union",
+                "Member_state_of_the_European_Union",
+                "European_Union_(resistance_group)",
+                "Citizenship_of_the_European_Union",
+                "Renewable_energy_in_the_European_Union",
+                "European_Union_law",
+                "Accession_of_Albania_to_the_European_Union",
+                "Elections_to_the_European_Parliament",
+                "Solar_energy_in_the_European_Union",
+                "European_Union_Special_Representative",
+                "European_Economic_Community",
+                "Flag_of_Europe",
+                "Pakistan\u2013European_Union_relations",
+                "LGBT_rights_in_the_European_Union",
+                "History_of_the_European_Union"
+            ],
+            "scores": [
+                0.9873388713835577,
+                0.0025207676883414495,
+                0.0016614150673159554,
+                0.0006301919220853624,
+                0.00045832139788026354,
+                0.0004010312231452306,
+                0.0004010312231452306,
+                0.00034374104841019767,
+                0.0002864508736751647,
+                0.00022916069894013177,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884,
+                0.00017187052420509884
+            ]
+        },
+        {
+            "begin": 2548,
+            "end": 2554,
+            "text": "Europe",
+            "concept": 3,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2708,
+            "end": 2712,
+            "text": "Iraq",
+            "concept": 10,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 2740,
+            "end": 2742,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2812,
+            "end": 2817,
+            "text": "Spain",
+            "concept": 7,
+            "candidates": [
+                "Spain",
+                "Spain_national_football_team",
+                "Royal_Spanish_Football_Federation",
+                "Liga_ACB",
+                "Spanish_Empire",
+                "Spain_men's_national_basketball_team",
+                "Spain_national_rugby_union_team",
+                "Restoration_(Spain)",
+                "Habsburg_Spain",
+                "Francoist_Spain",
+                "Royal_Spanish_Cycling_Federation",
+                "Spain_women's_national_football_team",
+                "Same-sex_marriage_in_Spain",
+                "Spain_national_under-21_football_team",
+                "Spanish_poetry",
+                "Spain_national_beach_soccer_team"
+            ],
+            "scores": [
+                0.8500364403231558,
+                0.03932453596737428,
+                0.005504814774612725,
+                0.005349749569694057,
+                0.003969669245917909,
+                0.003582006233621238,
+                0.002651615004109228,
+                0.0026361084836173613,
+                0.00254306936066616,
+                0.0025120563196824263,
+                0.0021709128688613562,
+                0.002108886786893889,
+                0.002015847663942688,
+                0.0019383150614833537,
+                0.0019228085409914869,
+                0.0018762889795158864
+            ]
+        },
+        {
+            "begin": 2820,
+            "end": 2824,
+            "text": "Bush",
+            "concept": 4,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 2834,
+            "end": 2843,
+            "text": "president",
+            "concept": 23
+        },
+        {
+            "begin": 2845,
+            "end": 2861,
+            "text": "Jose Maria Aznar",
+            "concept": 24,
+            "candidates": [
+                "Jos\u00e9_Mar\u00eda_Aznar"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2905,
+            "end": 2913,
+            "text": "March 11",
+            "concept": 9
+        },
+        {
+            "begin": 3018,
+            "end": 3024,
+            "text": "Basque",
+            "concept": 25,
+            "candidates": [
+                "Basque_language",
+                "Basques",
+                "Basque_Country_(autonomous_community)",
+                "Basque_Country_(greater_region)",
+                "Basque_nationalism",
+                "French_Basque_Country",
+                "Basque_music",
+                "Basque_cuisine",
+                "Basque_Americans",
+                "Basque_mythology",
+                "Basque_(clothing)",
+                "Basque_regional_election,_2016",
+                "Basque_Argentines",
+                "Basque_alphabet",
+                "Vascones",
+                "Basque_Americans_in_Nevada"
+            ],
+            "scores": [
+                0.45139300533491405,
+                0.3209839952578542,
+                0.0978067575577949,
+                0.044754001185536456,
+                0.02222880853586248,
+                0.013930053349140487,
+                0.005631298162418494,
+                0.005334914048606995,
+                0.004742145820983995,
+                0.004149377593360996,
+                0.0035566093657379964,
+                0.0023710729104919974,
+                0.0014819205690574985,
+                0.0014819205690574985,
+                0.0011855364552459987,
+                0.0008891523414344991
+            ]
+        },
+        {
+            "begin": 3042,
+            "end": 3051,
+            "text": "successor",
+            "concept": 26
+        },
+        {
+            "begin": 3053,
+            "end": 3071,
+            "text": "Jose Luis Zapatero",
+            "concept": 27,
+            "candidates": [
+                "Jos\u00e9_Luis_Rodr\u00edguez_Zapatero"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3121,
+            "end": 3128,
+            "text": "Spanish",
+            "concept": 28
+        },
+        {
+            "begin": 3143,
+            "end": 3147,
+            "text": "Iraq",
+            "concept": 10,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3210,
+            "end": 3217,
+            "text": "Germany",
+            "concept": 29,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3222,
+            "end": 3228,
+            "text": "France",
+            "concept": 30,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 3250,
+            "end": 3256,
+            "text": "Poland",
+            "concept": 31,
+            "candidates": [
+                "Poland",
+                "Poland_national_football_team",
+                "Second_Polish_Republic",
+                "Polish_People's_Republic",
+                "ISU_Junior_Grand_Prix_in_Poland",
+                "Polish_Football_Association",
+                "Poland_national_speedway_team",
+                "Polish\u2013Lithuanian_Commonwealth",
+                "List_of_non-marine_molluscs_of_Poland",
+                "Recognition_of_same-sex_unions_in_Poland",
+                "Kingdom_of_Poland_(1025\u20131385)",
+                "Poland_women's_national_football_team",
+                "Congress_Poland",
+                "Poland_national_under-21_football_team",
+                "Poland_men's_national_volleyball_team",
+                "Poland_national_handball_team"
+            ],
+            "scores": [
+                0.8540980765898458,
+                0.03132039507884249,
+                0.01999220239126668,
+                0.008014208975914053,
+                0.006974527811471148,
+                0.004570265118696933,
+                0.004028764512216254,
+                0.0036172240512909373,
+                0.0027508230809218507,
+                0.002404262692774216,
+                0.002014382256108127,
+                0.0017544619649974007,
+                0.001646161843701265,
+                0.0014945416738866748,
+                0.0014512216253682205,
+                0.0013645815283313118
+            ]
+        },
+        {
+            "begin": 3397,
+            "end": 3405,
+            "text": "Atlantic",
+            "concept": 32,
+            "candidates": [
+                "Atlantic_Ocean",
+                "Atlantic_Records",
+                "Atlantic_County,_New_Jersey",
+                "Atlantic_Division_(NBA)",
+                "Battle_of_the_Atlantic",
+                "Atlantic_Division_(NHL)",
+                "Atlantic,_Iowa",
+                "Atlantic_(film)",
+                "Atlantic_Time_Zone",
+                "Atlantic_Terminal",
+                "The_Atlantic",
+                "National_Register_of_Historic_Places_listings_in_Atlantic_County,_New_Jersey",
+                "Atlantic_station_(Los_Angeles_Metro)",
+                "United_States_Fleet_Forces_Command",
+                "Atlantic_(train)",
+                "Atlantic_Canada"
+            ],
+            "scores": [
+                0.5529229670198833,
+                0.3062269317775926,
+                0.02059769020121443,
+                0.01404929158233123,
+                0.01369210620311942,
+                0.007381831170377426,
+                0.005714966067388975,
+                0.005119657102035957,
+                0.004762471722824146,
+                0.0038099773782593166,
+                0.0038099773782593166,
+                0.0032146684129062985,
+                0.002976544826765091,
+                0.0028574830336944874,
+                0.0027384212406238837,
+                0.002381235861412073
+            ]
+        },
+        {
+            "begin": 3490,
+            "end": 3494,
+            "text": "Bush",
+            "concept": 4,
+            "candidates": [
+                "George_W._Bush",
+                "Bush_(British_band)",
+                "George_H._W._Bush",
+                "Dave_Bush",
+                "The_bush",
+                "Evan_Bush",
+                "Bush_(album)",
+                "Shrub",
+                "Bush,_Louisiana",
+                "Bush_(Canadian_band)",
+                "Bush_(brand)",
+                "Presidency_of_George_W._Bush",
+                "Bush_Rugby_Football_Union",
+                "The_Bush_(Alaska)",
+                "Bush_Theatre",
+                "Bush_family"
+            ],
+            "scores": [
+                0.4145671094823637,
+                0.2180485570316079,
+                0.12963811268896014,
+                0.054970224461749886,
+                0.03618873110398534,
+                0.014200641319285386,
+                0.014200641319285386,
+                0.01282638570774164,
+                0.00961978928080623,
+                0.008245533669262483,
+                0.007329363261566651,
+                0.007329363261566651,
+                0.006871278057718736,
+                0.005955107650022904,
+                0.005497022446174988,
+                0.005038937242327073
+            ]
+        },
+        {
+            "begin": 3511,
+            "end": 3518,
+            "text": "Germany",
+            "concept": 29,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 3582,
+            "end": 3587,
+            "text": "Iraqi",
+            "concept": 33
+        },
+        {
+            "begin": 3638,
+            "end": 3642,
+            "text": "Iraq",
+            "concept": 10,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 3697,
+            "end": 3705,
+            "text": "al Qaeda",
+            "concept": 2,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 3755,
+            "end": 3769,
+            "text": "March 11, 2004",
+            "concept": 6
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 6,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "European Union",
+            "keyword": false,
+            "count": 3,
+            "link": "European_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "al Qaeda",
+            "keyword": true,
+            "count": 5,
+            "link": "Al-Qaeda",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Europe",
+            "keyword": true,
+            "count": 8,
+            "link": "Europe",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::location",
+                "type::organization",
+                "type::regio",
+                "type::so"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "George W. Bush",
+            "keyword": false,
+            "count": 5,
+            "link": "George_W._Bush",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Transatlantic",
+            "keyword": false,
+            "count": 1,
+            "link": "Transatlantic_relations",
+            "tags": [
+                "meta::todo"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "March 11, 2004",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Spain",
+            "keyword": false,
+            "count": 2,
+            "link": "Spain",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "March 11",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 4,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Guantanamo",
+            "keyword": false,
+            "count": 1,
+            "link": "Guantanamo_Bay_detention_camp",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::prison"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Madrid",
+            "keyword": false,
+            "count": 3,
+            "link": "Madrid",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Osama Bin Laden",
+            "keyword": false,
+            "count": 1,
+            "link": "Osama_bin_Laden",
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_rebel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Sept. 11, 2001",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "New York",
+            "keyword": false,
+            "count": 1,
+            "link": "New_York_City",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Christmas",
+            "keyword": false,
+            "count": 1,
+            "link": "Christmas",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::entity",
+                "type::event",
+                "type::religious_event"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Strasbourg",
+            "keyword": false,
+            "count": 1,
+            "link": "Strasbourg",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Europeans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "EUROPOL",
+            "keyword": false,
+            "count": 1,
+            "link": "Europol",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "EUROJUST",
+            "keyword": false,
+            "count": 1,
+            "link": "Eurojust",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Jose Maria Aznar",
+            "keyword": false,
+            "count": 1,
+            "link": "Jos\u00e9_Mar\u00eda_Aznar",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Basque",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "successor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Jose Luis Zapatero",
+            "keyword": false,
+            "count": 1,
+            "link": "Jos\u00e9_Luis_Rodr\u00edguez_Zapatero",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Spanish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Poland",
+            "keyword": false,
+            "count": 1,
+            "link": "Poland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Atlantic",
+            "keyword": false,
+            "count": 1,
+            "link": "Atlantic_Ocean",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Iraqi",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 34,
+            "keyword": false,
+            "count": 0,
+            "link": "Cuba",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 11,
+            "p": "in0",
+            "o": 34
+        },
+        {
+            "s": 12,
+            "p": "in0",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "in0-x",
+            "o": 28
+        },
+        {
+            "s": 13,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 15,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 16,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 18,
+            "p": "in0",
+            "o": 30
+        },
+        {
+            "s": 20,
+            "p": "institution_of",
+            "o": 1
+        },
+        {
+            "s": 20,
+            "p": "part_of",
+            "o": 1
+        },
+        {
+            "s": 21,
+            "p": "institution_of",
+            "o": 1
+        },
+        {
+            "s": 21,
+            "p": "part_of",
+            "o": 1
+        },
+        {
+            "s": 24,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 24,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 24,
+            "p": "citizen_of-x",
+            "o": 28
+        },
+        {
+            "s": 24,
+            "p": "head_of_state",
+            "o": 7
+        },
+        {
+            "s": 24,
+            "p": "head_of_state-x",
+            "o": 28
+        },
+        {
+            "s": 27,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 27,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 27,
+            "p": "citizen_of-x",
+            "o": 28
+        },
+        {
+            "s": 27,
+            "p": "head_of_state",
+            "o": 7
+        },
+        {
+            "s": 27,
+            "p": "head_of_state-x",
+            "o": 28
+        },
+        {
+            "s": 28,
+            "p": "gpe0",
+            "o": 7
+        },
+        {
+            "s": 33,
+            "p": "gpe0",
+            "o": 10
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "attacker",
+                    "value": 2
+                },
+                {
+                    "name": "place",
+                    "value": 12
+                },
+                {
+                    "name": "time",
+                    "value": 6
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

@@ -1,0 +1,972 @@
+{
+    "id": "DW_19078542",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 27,
+            "end": 36,
+            "text": "Mogadishu",
+            "concept": 0,
+            "candidates": [
+                "Mogadishu",
+                "Mogadishu_under_Italian_rule",
+                "Mogadishu_(play)",
+                "Battle_of_Mogadishu_(1993)",
+                "Lufthansa_Flight_181",
+                "History_of_Mogadishu",
+                "Fall_of_Mogadishu",
+                "Aden_Adde_International_Airport",
+                "Roman_Catholic_Diocese_of_Mogadiscio",
+                "Apostolic_Vicariate_of_Mogadishu",
+                "Port_of_Mogadishu"
+            ],
+            "scores": [
+                0.9799219185722253,
+                0.006134969325153374,
+                0.005577244841048522,
+                0.0016731734523145567,
+                0.0016731734523145567,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0005577244841048522,
+                0.0005577244841048522,
+                0.0005577244841048522
+            ]
+        },
+        {
+            "begin": 78,
+            "end": 87,
+            "text": "Mogadishu",
+            "concept": 0,
+            "candidates": [
+                "Mogadishu",
+                "Mogadishu_under_Italian_rule",
+                "Mogadishu_(play)",
+                "Battle_of_Mogadishu_(1993)",
+                "Lufthansa_Flight_181",
+                "History_of_Mogadishu",
+                "Fall_of_Mogadishu",
+                "Aden_Adde_International_Airport",
+                "Roman_Catholic_Diocese_of_Mogadiscio",
+                "Apostolic_Vicariate_of_Mogadishu",
+                "Port_of_Mogadishu"
+            ],
+            "scores": [
+                0.9799219185722253,
+                0.006134969325153374,
+                0.005577244841048522,
+                0.0016731734523145567,
+                0.0016731734523145567,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0005577244841048522,
+                0.0005577244841048522,
+                0.0005577244841048522
+            ]
+        },
+        {
+            "begin": 91,
+            "end": 97,
+            "text": "Somali",
+            "concept": 4
+        },
+        {
+            "begin": 195,
+            "end": 201,
+            "text": "Somali",
+            "concept": 4
+        },
+        {
+            "begin": 329,
+            "end": 335,
+            "text": "Friday",
+            "concept": 5
+        },
+        {
+            "begin": 618,
+            "end": 621,
+            "text": "SYL",
+            "concept": 3,
+            "candidates": [
+                "Somali_Youth_League",
+                "Syl",
+                "Sylheti_language",
+                "Syl_Apps",
+                "Syl_Johnson",
+                "Sutlej_Yamuna_link_canal",
+                "Scottish_Young_Liberals"
+            ],
+            "scores": [
+                0.5333333333333333,
+                0.13333333333333333,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 642,
+            "end": 662,
+            "text": "7:45 p.m. local time",
+            "concept": 6
+        },
+        {
+            "begin": 664,
+            "end": 672,
+            "text": "1645 GMT",
+            "concept": 7
+        },
+        {
+            "begin": 838,
+            "end": 844,
+            "text": "German",
+            "concept": 8
+        },
+        {
+            "begin": 845,
+            "end": 856,
+            "text": "news agency",
+            "concept": 9
+        },
+        {
+            "begin": 857,
+            "end": 860,
+            "text": "dpa",
+            "concept": 10,
+            "candidates": [
+                "Deutsche_Presse-Agentur",
+                "Democratic_Party_of_Albanians",
+                "DPA_Microphones",
+                "Doctor_of_Public_Administration",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_of_Artsakh",
+                "United_Nations_Department_of_Political_Affairs",
+                "Drug_Policy_Alliance",
+                "Democratic_Progressive_Alliance",
+                "National_data_protection_authority",
+                "Defence_Procurement_Agency",
+                "Dayton_Agreement",
+                "DPA",
+                "Docosapentaenoic_acid",
+                "9,10-Diphenylanthracene",
+                "Hexanitrodiphenylamine"
+            ],
+            "scores": [
+                0.5,
+                0.15625,
+                0.078125,
+                0.046875,
+                0.03125,
+                0.03125,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625,
+                0.015625
+            ]
+        },
+        {
+            "begin": 977,
+            "end": 989,
+            "text": "Police Major",
+            "concept": 11
+        },
+        {
+            "begin": 990,
+            "end": 1002,
+            "text": "Ahmad Ismail",
+            "concept": 12,
+            "candidates": [
+                "Ahmad_Ismail_(Malaysian_politician)",
+                "Ismail_Ahmed_Ismail"
+            ],
+            "scores": [
+                0.6,
+                0.4
+            ]
+        },
+        {
+            "begin": 1012,
+            "end": 1019,
+            "text": "Reuters",
+            "concept": 13,
+            "candidates": [
+                "Reuters",
+                "Reuters_Group",
+                "Thomson_Reuters",
+                "Paul_Reuter",
+                "Reuter"
+            ],
+            "scores": [
+                0.9972560975609757,
+                0.0012195121951219512,
+                0.0009146341463414635,
+                0.0003048780487804878,
+                0.0003048780487804878
+            ]
+        },
+        {
+            "begin": 1107,
+            "end": 1116,
+            "text": "Al-Shabab",
+            "concept": 1,
+            "candidates": [
+                "Al-Shabab_FC_(Riyadh)",
+                "Al_Shabab_(Dubai)",
+                "Al-Shabab_SC_(Al_Ahmadi)",
+                "Al-Shabab_SC_(Seeb)",
+                "Al-Shabaab_(militant_group)",
+                "Al-Shabab_SC_(Baghdad)",
+                "Al-Shabab_Club_(Manama)",
+                "CR_Belouizdad",
+                "Al-Shabab_SC_(Syria)",
+                "Shabaab_al_Jabal",
+                "Muaither_SC",
+                "Al_Sahel_SC"
+            ],
+            "scores": [
+                0.5192592592592593,
+                0.2162962962962963,
+                0.08592592592592592,
+                0.0637037037037037,
+                0.04888888888888889,
+                0.03777777777777778,
+                0.022962962962962963,
+                0.0014814814814814814,
+                0.0014814814814814814,
+                0.0007407407407407407,
+                0.0007407407407407407,
+                0.0007407407407407407
+            ]
+        },
+        {
+            "begin": 1143,
+            "end": 1146,
+            "text": "SYL",
+            "concept": 3,
+            "candidates": [
+                "Somali_Youth_League",
+                "Syl",
+                "Sylheti_language",
+                "Syl_Apps",
+                "Syl_Johnson",
+                "Sutlej_Yamuna_link_canal",
+                "Scottish_Young_Liberals"
+            ],
+            "scores": [
+                0.5333333333333333,
+                0.13333333333333333,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667,
+                0.06666666666666667
+            ]
+        },
+        {
+            "begin": 1172,
+            "end": 1191,
+            "text": "Somali Youth League",
+            "concept": 3,
+            "candidates": [
+                "Somali_Youth_League"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1249,
+            "end": 1258,
+            "text": "Mogadishu",
+            "concept": 0,
+            "candidates": [
+                "Mogadishu",
+                "Mogadishu_under_Italian_rule",
+                "Mogadishu_(play)",
+                "Battle_of_Mogadishu_(1993)",
+                "Lufthansa_Flight_181",
+                "History_of_Mogadishu",
+                "Fall_of_Mogadishu",
+                "Aden_Adde_International_Airport",
+                "Roman_Catholic_Diocese_of_Mogadiscio",
+                "Apostolic_Vicariate_of_Mogadishu",
+                "Port_of_Mogadishu"
+            ],
+            "scores": [
+                0.9799219185722253,
+                0.006134969325153374,
+                0.005577244841048522,
+                0.0016731734523145567,
+                0.0016731734523145567,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0005577244841048522,
+                0.0005577244841048522,
+                0.0005577244841048522
+            ]
+        },
+        {
+            "begin": 1330,
+            "end": 1337,
+            "text": "Islamic",
+            "concept": 14
+        },
+        {
+            "begin": 1348,
+            "end": 1357,
+            "text": "al-Shabab",
+            "concept": 1,
+            "candidates": [
+                "Al-Shabab_FC_(Riyadh)",
+                "Al_Shabab_(Dubai)",
+                "Al-Shabab_SC_(Al_Ahmadi)",
+                "Al-Shabab_SC_(Seeb)",
+                "Al-Shabaab_(militant_group)",
+                "Al-Shabab_SC_(Baghdad)",
+                "Al-Shabab_Club_(Manama)",
+                "CR_Belouizdad",
+                "Al-Shabab_SC_(Syria)",
+                "Shabaab_al_Jabal",
+                "Muaither_SC",
+                "Al_Sahel_SC"
+            ],
+            "scores": [
+                0.5192592592592593,
+                0.2162962962962963,
+                0.08592592592592592,
+                0.0637037037037037,
+                0.04888888888888889,
+                0.03777777777777778,
+                0.022962962962962963,
+                0.0014814814814814814,
+                0.0014814814814814814,
+                0.0007407407407407407,
+                0.0007407407407407407,
+                0.0007407407407407407
+            ]
+        },
+        {
+            "begin": 1394,
+            "end": 1402,
+            "text": "al Qaeda",
+            "concept": 15,
+            "candidates": [
+                "Al-Qaeda",
+                "Tanzim_Qaidat_al-Jihad_fi_Bilad_al-Rafidayn",
+                "Al-Qaeda_in_the_Arabian_Peninsula",
+                "Al-Qaeda_in_the_Islamic_Maghreb",
+                "Al-Qaeda_in_the_Indian_Subcontinent",
+                "Islamic_Jihad_of_Yemen",
+                "Al-Nusra_Front",
+                "Internal_conflict_in_Azawad",
+                "Al-Qaeda_involvement_in_Africa",
+                "Al-Qaeda_in_Bosnia_and_Herzegovina"
+            ],
+            "scores": [
+                0.9888772298006296,
+                0.003777544596012592,
+                0.003777544596012592,
+                0.0016789087093389296,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0004197271773347324,
+                0.0002098635886673662,
+                0.0002098635886673662,
+                0.0002098635886673662
+            ]
+        },
+        {
+            "begin": 1511,
+            "end": 1517,
+            "text": "Daallo",
+            "concept": 16,
+            "candidates": [
+                "Daallo_Mountain"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1548,
+            "end": 1557,
+            "text": "Mogadishu",
+            "concept": 0,
+            "candidates": [
+                "Mogadishu",
+                "Mogadishu_under_Italian_rule",
+                "Mogadishu_(play)",
+                "Battle_of_Mogadishu_(1993)",
+                "Lufthansa_Flight_181",
+                "History_of_Mogadishu",
+                "Fall_of_Mogadishu",
+                "Aden_Adde_International_Airport",
+                "Roman_Catholic_Diocese_of_Mogadiscio",
+                "Apostolic_Vicariate_of_Mogadishu",
+                "Port_of_Mogadishu"
+            ],
+            "scores": [
+                0.9799219185722253,
+                0.006134969325153374,
+                0.005577244841048522,
+                0.0016731734523145567,
+                0.0016731734523145567,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0005577244841048522,
+                0.0005577244841048522,
+                0.0005577244841048522
+            ]
+        },
+        {
+            "begin": 1561,
+            "end": 1569,
+            "text": "Djibouti",
+            "concept": 17,
+            "candidates": [
+                "Djibouti",
+                "Djibouti_(city)",
+                "Djiboutian_Football_Federation",
+                "Djibouti_national_football_team",
+                "Elections_in_Djibouti",
+                "LGBT_rights_in_Djibouti",
+                "Djiboutian_Army",
+                "Djibouti_Air_Force",
+                "Djibouti\u2013Ambouli_International_Airport",
+                "Football_in_Djibouti",
+                "Djiboutian_Navy",
+                "Flag_of_Djibouti",
+                "Djibouti_Region",
+                "List_of_political_parties_in_Djibouti",
+                "French_Somaliland_in_World_War_II",
+                "Djibouti_Armed_Forces"
+            ],
+            "scores": [
+                0.8484848484848485,
+                0.08028335301062574,
+                0.013774104683195593,
+                0.011019283746556474,
+                0.0035419126328217238,
+                0.0035419126328217238,
+                0.003148366784730421,
+                0.0027548209366391185,
+                0.0027548209366391185,
+                0.0023612750885478157,
+                0.0015741833923652105,
+                0.0015741833923652105,
+                0.0011806375442739079,
+                0.0011806375442739079,
+                0.0011806375442739079,
+                0.0011806375442739079
+            ]
+        },
+        {
+            "begin": 1666,
+            "end": 1675,
+            "text": "Al-Shabab",
+            "concept": 1,
+            "candidates": [
+                "Al-Shabab_FC_(Riyadh)",
+                "Al_Shabab_(Dubai)",
+                "Al-Shabab_SC_(Al_Ahmadi)",
+                "Al-Shabab_SC_(Seeb)",
+                "Al-Shabaab_(militant_group)",
+                "Al-Shabab_SC_(Baghdad)",
+                "Al-Shabab_Club_(Manama)",
+                "CR_Belouizdad",
+                "Al-Shabab_SC_(Syria)",
+                "Shabaab_al_Jabal",
+                "Muaither_SC",
+                "Al_Sahel_SC"
+            ],
+            "scores": [
+                0.5192592592592593,
+                0.2162962962962963,
+                0.08592592592592592,
+                0.0637037037037037,
+                0.04888888888888889,
+                0.03777777777777778,
+                0.022962962962962963,
+                0.0014814814814814814,
+                0.0014814814814814814,
+                0.0007407407407407407,
+                0.0007407407407407407,
+                0.0007407407407407407
+            ]
+        },
+        {
+            "begin": 1721,
+            "end": 1730,
+            "text": "Mogadishu",
+            "concept": 0,
+            "candidates": [
+                "Mogadishu",
+                "Mogadishu_under_Italian_rule",
+                "Mogadishu_(play)",
+                "Battle_of_Mogadishu_(1993)",
+                "Lufthansa_Flight_181",
+                "History_of_Mogadishu",
+                "Fall_of_Mogadishu",
+                "Aden_Adde_International_Airport",
+                "Roman_Catholic_Diocese_of_Mogadiscio",
+                "Apostolic_Vicariate_of_Mogadishu",
+                "Port_of_Mogadishu"
+            ],
+            "scores": [
+                0.9799219185722253,
+                0.006134969325153374,
+                0.005577244841048522,
+                0.0016731734523145567,
+                0.0016731734523145567,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0011154489682097045,
+                0.0005577244841048522,
+                0.0005577244841048522,
+                0.0005577244841048522
+            ]
+        },
+        {
+            "begin": 1775,
+            "end": 1783,
+            "text": "Islamist",
+            "concept": 18
+        },
+        {
+            "begin": 1793,
+            "end": 1800,
+            "text": "Somalia",
+            "concept": 2,
+            "candidates": [
+                "Somalia",
+                "Somali_Democratic_Republic",
+                "Somalia_national_football_team",
+                "Somali_Football_Federation",
+                "Italian_Somaliland",
+                "Som\u00e1lia_(footballer)",
+                "Trust_Territory_of_Somaliland",
+                "Unified_Task_Force",
+                "Somali_Civil_War",
+                "Wergiton_do_Rosario_Calmon",
+                "Somali_Republic",
+                "Operation_Solace",
+                "LGBT_rights_in_Somalia",
+                "Somali_Armed_Forces",
+                "Operation_Atalanta",
+                "Somali_Navy"
+            ],
+            "scores": [
+                0.9413469500414021,
+                0.008556444935136628,
+                0.004416229643941485,
+                0.0038642009384487995,
+                0.002622136351090257,
+                0.002070107645597571,
+                0.0019321004692243997,
+                0.0019321004692243997,
+                0.0017940932928512284,
+                0.0016560861164780568,
+                0.0016560861164780568,
+                0.0016560861164780568,
+                0.0015180789401048854,
+                0.0012420645873585426,
+                0.0009660502346121999,
+                0.0008280430582390284
+            ]
+        },
+        {
+            "begin": 1802,
+            "end": 1827,
+            "text": "ss/sms (AFP, AP, Reuters)",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Mogadishu",
+            "keyword": true,
+            "count": 5,
+            "link": "Mogadishu",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "al-Shabab",
+            "keyword": true,
+            "count": 3,
+            "link": "Al-Shabaab_(militant_group)",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Somalia",
+            "keyword": true,
+            "count": 1,
+            "link": "Somalia",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Somali Youth League",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "iptc::20000170",
+                "sector::20000333",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Somali",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "7:45 p.m. local time",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "1645 GMT",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "news agency",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "dpa",
+            "keyword": false,
+            "count": 1,
+            "link": "Deutsche_Presse-Agentur",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Police Major",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Ahmad Ismail",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::police_per"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Reuters",
+            "keyword": false,
+            "count": 1,
+            "link": "Reuters",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "al Qaeda",
+            "keyword": false,
+            "count": 1,
+            "link": "Al-Qaeda",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Daallo",
+            "keyword": false,
+            "count": 1,
+            "link": "Daallo_Airlines",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000338",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Djibouti",
+            "keyword": false,
+            "count": 1,
+            "link": "Djibouti",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "ss/sms (AFP, AP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 21,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 0,
+            "p": "in0-x",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 3,
+            "p": "based_in0-x",
+            "o": 4
+        },
+        {
+            "s": 3,
+            "p": "based_in2",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 21
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 8
+        },
+        {
+            "s": 12,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 12,
+            "p": "agent_of-x",
+            "o": 4
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                },
+                {
+                    "name": "time",
+                    "value": 5
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000103"
+    ]
+}

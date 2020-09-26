@@ -1,0 +1,1548 @@
+{
+    "id": "DW_41053363",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 13,
+            "text": "Archaeologist",
+            "concept": 3
+        },
+        {
+            "begin": 14,
+            "end": 18,
+            "text": "Lutz",
+            "concept": 1,
+            "candidates": [
+                "Lutz,_Florida",
+                "Lutz_jump",
+                "Lutz",
+                "Chris_Lutz",
+                "Adolfo_Lutz",
+                "L\u00fctz",
+                "Christopher_Lutz",
+                "Meyer_Lutz",
+                "Bob_Lutz_(tennis)",
+                "J.D._Lutz",
+                "Lutz_Heck",
+                "Werner_Lutz",
+                "Kellan_Lutz",
+                "Lutz_Hoffmann"
+            ],
+            "scores": [
+                0.32903225806451614,
+                0.24516129032258063,
+                0.12903225806451613,
+                0.09032258064516129,
+                0.07096774193548387,
+                0.03870967741935484,
+                0.025806451612903226,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.0064516129032258064,
+                0.0064516129032258064,
+                0.0064516129032258064
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 115,
+            "text": "Eppelsheim",
+            "concept": 0,
+            "candidates": [
+                "Eppelsheim"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 182,
+            "end": 194,
+            "text": "Herbert Lutz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 231,
+            "end": 233,
+            "text": "DW",
+            "concept": 4,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 364,
+            "end": 371,
+            "text": "Germany",
+            "concept": 5,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 402,
+            "end": 413,
+            "text": "Rhine River",
+            "concept": 6,
+            "candidates": [
+                "Rhine",
+                "Nederrijn"
+            ],
+            "scores": [
+                0.997872340425532,
+                0.002127659574468085
+            ]
+        },
+        {
+            "begin": 443,
+            "end": 453,
+            "text": "Eppelsheim",
+            "concept": 0,
+            "candidates": [
+                "Eppelsheim"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 459,
+            "end": 464,
+            "text": "Mainz",
+            "concept": 7,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 666,
+            "end": 678,
+            "text": "Herbert Lutz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 702,
+            "end": 724,
+            "text": "Natural History Museum",
+            "concept": 2,
+            "candidates": [
+                "Natural_History_Museum,_London",
+                "Natural_history_museum",
+                "Natural_History_Museum_(Ireland)",
+                "Natural_History_Museum,_Vienna",
+                "Natural_History_Museum_of_Los_Angeles_County",
+                "National_Museum_of_Natural_History_(France)",
+                "List_of_natural_history_museums",
+                "Natural_History_Museum,_Berlin",
+                "Natural_History_Museum_of_Denmark",
+                "Natural_History_Museum_at_the_University_of_Oslo",
+                "Natural_History_Museum_Rotterdam",
+                "Natural_History_Museum_of_Basel",
+                "Natural_History_Museum,_Aarhus",
+                "Museo_Civico_di_Storia_Naturale_di_Milano",
+                "San_Diego_Natural_History_Museum",
+                "University_of_Kansas_Natural_History_Museum"
+            ],
+            "scores": [
+                0.809076682316119,
+                0.07355242566510173,
+                0.01643192488262911,
+                0.010954616588419406,
+                0.00782472613458529,
+                0.006259780907668232,
+                0.005477308294209703,
+                0.004694835680751174,
+                0.003912363067292645,
+                0.003912363067292645,
+                0.003912363067292645,
+                0.003129890453834116,
+                0.003129890453834116,
+                0.002347417840375587,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 728,
+            "end": 733,
+            "text": "Mainz",
+            "concept": 7,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 735,
+            "end": 747,
+            "text": "Herbert Lutz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 935,
+            "end": 937,
+            "text": "DW",
+            "concept": 4,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 1037,
+            "end": 1048,
+            "text": "Rhine River",
+            "concept": 6,
+            "candidates": [
+                "Rhine",
+                "Nederrijn"
+            ],
+            "scores": [
+                0.997872340425532,
+                0.002127659574468085
+            ]
+        },
+        {
+            "begin": 1054,
+            "end": 1064,
+            "text": "Eppelsheim",
+            "concept": 0,
+            "candidates": [
+                "Eppelsheim"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1208,
+            "end": 1226,
+            "text": "early 19th century",
+            "concept": 8
+        },
+        {
+            "begin": 1823,
+            "end": 1835,
+            "text": "Homo sapiens",
+            "concept": 9,
+            "candidates": [
+                "Homo_sapiens",
+                "Human",
+                "Archaic_humans",
+                "Homo_Sapiens_(band)",
+                "Homo_Sapiens_(song)",
+                "Homo_sapiens_(novel)",
+                "Anatomically_modern_humans",
+                "European_early_modern_humans",
+                "Homo_sapiens_(disambiguation)",
+                "Homo_Sapiens_(album)",
+                "Mensch",
+                "Homo_Sapiens_Sapiens",
+                "Recent_African_origin_of_modern_humans"
+            ],
+            "scores": [
+                0.8974093264248705,
+                0.06632124352331606,
+                0.007253886010362694,
+                0.007253886010362694,
+                0.0051813471502590676,
+                0.0031088082901554403,
+                0.0031088082901554403,
+                0.0031088082901554403,
+                0.002072538860103627,
+                0.002072538860103627,
+                0.0010362694300518134,
+                0.0010362694300518134,
+                0.0010362694300518134
+            ]
+        },
+        {
+            "begin": 1848,
+            "end": 1860,
+            "text": "Neanderthals",
+            "concept": 10,
+            "candidates": [
+                "Neanderthal",
+                "Neanderthal_genetics",
+                "Neanderthals_(anthology)",
+                "Neanderthals_in_Gibraltar"
+            ],
+            "scores": [
+                0.9790794979079498,
+                0.010460251046025104,
+                0.006276150627615063,
+                0.0041841004184100415
+            ]
+        },
+        {
+            "begin": 1870,
+            "end": 1883,
+            "text": "woolly rhinos",
+            "concept": 11,
+            "candidates": [
+                "Woolly_rhinoceros"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2020,
+            "end": 2031,
+            "text": "East Africa",
+            "concept": 12,
+            "candidates": [
+                "East_Africa",
+                "East_Africa_cricket_team",
+                "East_Africa_rugby_union_team",
+                "East_African_Campaign_(World_War_I)",
+                "East_African_Campaign_(World_War_II)",
+                "German_East_Africa",
+                "East_Africa_Protectorate",
+                "Italian_East_Africa",
+                "Africa",
+                "History_of_East_Africa",
+                "East_African_Community",
+                "CECAFA",
+                "Northeast_Bantu_languages",
+                "East_African_mangroves",
+                "East_African_Railways_and_Harbours_Corporation",
+                "Kenya"
+            ],
+            "scores": [
+                0.8853904282115869,
+                0.049958018471872374,
+                0.02434928631402183,
+                0.011335012594458438,
+                0.010495382031905962,
+                0.0054575986565911,
+                0.004617968094038623,
+                0.0020990764063811922,
+                0.0016792611251049538,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844,
+                0.00041981528127623844
+            ]
+        },
+        {
+            "begin": 2099,
+            "end": 2103,
+            "text": "Ardi",
+            "concept": 13,
+            "candidates": [
+                "Ardi",
+                "ARDI",
+                "Cross-cultural_communication"
+            ],
+            "scores": [
+                0.76,
+                0.2,
+                0.04
+            ]
+        },
+        {
+            "begin": 2108,
+            "end": 2112,
+            "text": "Lucy",
+            "concept": 14,
+            "candidates": [
+                "Lucy_(2014_film)",
+                "Lucy_(Australopithecus)",
+                "Lucy_van_Pelt",
+                "Lucy_(spacecraft)",
+                "Lucy_Pevensie",
+                "Lucy",
+                "Lucy_Beale",
+                "Lucy_Robinson_(Neighbours)",
+                "Lucy_(2003_film)",
+                "Saint_Lucy",
+                "Lucy_(Candlebox_album)",
+                "Daffney",
+                "Lucy_Ewing",
+                "Lucy_and_Ricky_Ricardo",
+                "Lucy_Westenra",
+                "Lucy_Hawking"
+            ],
+            "scores": [
+                0.16241610738255033,
+                0.13288590604026845,
+                0.08859060402684564,
+                0.056375838926174496,
+                0.04697986577181208,
+                0.04429530201342282,
+                0.0348993288590604,
+                0.026845637583892617,
+                0.026845637583892617,
+                0.026845637583892617,
+                0.024161073825503355,
+                0.012080536912751677,
+                0.012080536912751677,
+                0.012080536912751677,
+                0.010738255033557046,
+                0.009395973154362415
+            ]
+        },
+        {
+            "begin": 2171,
+            "end": 2181,
+            "text": "Eppelsheim",
+            "concept": 0,
+            "candidates": [
+                "Eppelsheim"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2249,
+            "end": 2259,
+            "text": "Eppelsheim",
+            "concept": 0,
+            "candidates": [
+                "Eppelsheim"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2357,
+            "end": 2369,
+            "text": "Rhine valley",
+            "concept": 15,
+            "candidates": [
+                "Rhine",
+                "Alpine_Rhine",
+                "Rhine_Valley",
+                "Upper_Rhine",
+                "Middle_Rhine",
+                "Upper_Rhine_Plain",
+                "Mannheim\u2013Karlsruhe\u2013Basel_railway",
+                "High_Rhine",
+                "Rheintal_(Wahlkreis)",
+                "Rhine_Gorge"
+            ],
+            "scores": [
+                0.5982142857142857,
+                0.17857142857142858,
+                0.08928571428571429,
+                0.05357142857142857,
+                0.026785714285714284,
+                0.017857142857142856,
+                0.008928571428571428,
+                0.008928571428571428,
+                0.008928571428571428,
+                0.008928571428571428
+            ]
+        },
+        {
+            "begin": 2397,
+            "end": 2403,
+            "text": "Africa",
+            "concept": 16,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 2414,
+            "end": 2420,
+            "text": "Europe",
+            "concept": 17,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2455,
+            "end": 2461,
+            "text": "Africa",
+            "concept": 16,
+            "candidates": [
+                "Africa",
+                "Africa_(Roman_province)",
+                "Africa_(Toto_song)",
+                "Poverty_in_Africa",
+                "Confederation_of_African_Football",
+                "Confederation_of_African_Athletics",
+                "African_Cricket_Association",
+                "Africa_(TV_series)",
+                "United_Nations_geoscheme_for_Africa",
+                "Africa_(Petrarch)",
+                "Africa_(Karl_Wolf_song)",
+                "Praetorian_prefecture_of_Africa",
+                "Languages_of_Africa",
+                "Squash_Federation_of_Africa",
+                "Music_of_Africa",
+                "Exarchate_of_Africa"
+            ],
+            "scores": [
+                0.9224247562526494,
+                0.026017380245866892,
+                0.006040695209834676,
+                0.00582874099194574,
+                0.004133107248834251,
+                0.00344425604069521,
+                0.0018016108520559559,
+                0.001377702416278084,
+                0.001112759643916914,
+                0.001006782534972446,
+                0.0009537939805002119,
+                0.0009008054260279779,
+                0.0009008054260279779,
+                0.000688851208139042,
+                0.000688851208139042,
+                0.000688851208139042
+            ]
+        },
+        {
+            "begin": 2559,
+            "end": 2565,
+            "text": "Europe",
+            "concept": 17,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 2594,
+            "end": 2600,
+            "text": "Greece",
+            "concept": 18,
+            "candidates": [
+                "Greece",
+                "Greece_national_football_team",
+                "Kingdom_of_Greece",
+                "Ancient_Greece",
+                "Greece_national_basketball_team",
+                "Greek_Basket_League",
+                "Hellenic_Football_Federation",
+                "Battle_of_Greece",
+                "Recognition_of_same-sex_unions_in_Greece",
+                "Greece_(town),_New_York",
+                "Greece_national_under-21_football_team",
+                "Greece_women's_national_football_team",
+                "Greece_in_the_Eurovision_Song_Contest",
+                "Second_Hellenic_Republic",
+                "Greece_Fed_Cup_team",
+                "Greece_(European_Parliament_constituency)"
+            ],
+            "scores": [
+                0.8626874903355497,
+                0.03169939693830215,
+                0.01314365238905211,
+                0.008875831142724602,
+                0.00606154321942168,
+                0.004577083655481676,
+                0.0042678212463275085,
+                0.0039276325962579245,
+                0.0034018865006958405,
+                0.00321632905520334,
+                0.0021029843822483376,
+                0.001979279418586671,
+                0.0013607546002783362,
+                0.0012370496366166692,
+                0.0011133446729550023,
+                0.0011133446729550023
+            ]
+        },
+        {
+            "begin": 2604,
+            "end": 2610,
+            "text": "Turkey",
+            "concept": 19,
+            "candidates": [
+                "Turkey",
+                "Turkey_national_football_team",
+                "Turkey_(bird)",
+                "Basketbol_S\u00fcper_Ligi",
+                "Turkish_Football_Federation",
+                "Turkey_as_food",
+                "Ottoman_Empire",
+                "Wild_turkey",
+                "Turkey_national_basketball_team",
+                "ISU_Junior_Grand_Prix_in_Turkey",
+                "Domestic_turkey",
+                "Turkey_national_under-21_football_team",
+                "Turkey_Fed_Cup_team",
+                "Turkey_national_under-19_football_team",
+                "Turkey_women's_national_football_team",
+                "Turkey_women's_national_volleyball_team"
+            ],
+            "scores": [
+                0.9078307230923026,
+                0.025413750971898255,
+                0.007175385982450294,
+                0.0043763190047761856,
+                0.004243030101077419,
+                0.003754304120848606,
+                0.003043429967788515,
+                0.002488059535710319,
+                0.002132622459180273,
+                0.002021548372764634,
+                0.0017771853826502276,
+                0.0012218149505720316,
+                0.0009552371431744974,
+                0.000866377874041986,
+                0.0007997334221926024,
+                0.0007997334221926024
+            ]
+        },
+        {
+            "begin": 2737,
+            "end": 2746,
+            "text": "Rhineland",
+            "concept": 20,
+            "candidates": [
+                "Rhineland",
+                "Rhineland_(electoral_district)",
+                "Allied_advance_from_Paris_to_the_Rhine",
+                "Rhine_Province",
+                "Rhineland_Campaign",
+                "Rhineland,_Missouri",
+                "Operation_Veritable",
+                "Rural_Municipality_of_Rhineland",
+                "Rhineland_Cup",
+                "Occupation_of_the_Rhineland",
+                "Electoral_Palatinate",
+                "Rhenish_Republic",
+                "Rhine",
+                "Rhineland,_Texas",
+                "Municipality_of_Rhineland",
+                "Western_Allied_invasion_of_Germany"
+            ],
+            "scores": [
+                0.8586278586278586,
+                0.03465003465003465,
+                0.02772002772002772,
+                0.016632016632016633,
+                0.01593901593901594,
+                0.007623007623007623,
+                0.005544005544005544,
+                0.004158004158004158,
+                0.003465003465003465,
+                0.002772002772002772,
+                0.002079002079002079,
+                0.002079002079002079,
+                0.002079002079002079,
+                0.002079002079002079,
+                0.001386001386001386,
+                0.001386001386001386
+            ]
+        },
+        {
+            "begin": 2831,
+            "end": 2837,
+            "text": "Sunday",
+            "concept": 21
+        },
+        {
+            "begin": 2888,
+            "end": 2893,
+            "text": "Mainz",
+            "concept": 7,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 2921,
+            "end": 2929,
+            "text": "November",
+            "concept": 22
+        },
+        {
+            "begin": 2983,
+            "end": 2995,
+            "text": "Landesmuseum",
+            "concept": 23,
+            "candidates": [
+                "Swiss_National_Museum",
+                "Rheinisches_Landesmuseum_Bonn",
+                "Landesmuseum_Mainz",
+                "Landesmuseum_W\u00fcrttemberg",
+                "Universalmuseum_Joanneum"
+            ],
+            "scores": [
+                0.5454545454545454,
+                0.18181818181818182,
+                0.09090909090909091,
+                0.09090909090909091,
+                0.09090909090909091
+            ]
+        },
+        {
+            "begin": 2999,
+            "end": 3004,
+            "text": "Mainz",
+            "concept": 7,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        },
+        {
+            "begin": 3006,
+            "end": 3015,
+            "text": "Professor",
+            "concept": 24
+        },
+        {
+            "begin": 3016,
+            "end": 3020,
+            "text": "Lutz",
+            "concept": 1,
+            "candidates": [
+                "Lutz,_Florida",
+                "Lutz_jump",
+                "Lutz",
+                "Chris_Lutz",
+                "Adolfo_Lutz",
+                "L\u00fctz",
+                "Christopher_Lutz",
+                "Meyer_Lutz",
+                "Bob_Lutz_(tennis)",
+                "J.D._Lutz",
+                "Lutz_Heck",
+                "Werner_Lutz",
+                "Kellan_Lutz",
+                "Lutz_Hoffmann"
+            ],
+            "scores": [
+                0.32903225806451614,
+                0.24516129032258063,
+                0.12903225806451613,
+                0.09032258064516129,
+                0.07096774193548387,
+                0.03870967741935484,
+                0.025806451612903226,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.012903225806451613,
+                0.0064516129032258064,
+                0.0064516129032258064,
+                0.0064516129032258064
+            ]
+        },
+        {
+            "begin": 3307,
+            "end": 3311,
+            "text": "2016",
+            "concept": 25
+        },
+        {
+            "begin": 3641,
+            "end": 3650,
+            "text": "Professor",
+            "concept": 24
+        },
+        {
+            "begin": 3651,
+            "end": 3663,
+            "text": "Herbert Lutz",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3690,
+            "end": 3712,
+            "text": "Natural History Museum",
+            "concept": 2,
+            "candidates": [
+                "Natural_History_Museum,_London",
+                "Natural_history_museum",
+                "Natural_History_Museum_(Ireland)",
+                "Natural_History_Museum,_Vienna",
+                "Natural_History_Museum_of_Los_Angeles_County",
+                "National_Museum_of_Natural_History_(France)",
+                "List_of_natural_history_museums",
+                "Natural_History_Museum,_Berlin",
+                "Natural_History_Museum_of_Denmark",
+                "Natural_History_Museum_at_the_University_of_Oslo",
+                "Natural_History_Museum_Rotterdam",
+                "Natural_History_Museum_of_Basel",
+                "Natural_History_Museum,_Aarhus",
+                "Museo_Civico_di_Storia_Naturale_di_Milano",
+                "San_Diego_Natural_History_Museum",
+                "University_of_Kansas_Natural_History_Museum"
+            ],
+            "scores": [
+                0.809076682316119,
+                0.07355242566510173,
+                0.01643192488262911,
+                0.010954616588419406,
+                0.00782472613458529,
+                0.006259780907668232,
+                0.005477308294209703,
+                0.004694835680751174,
+                0.003912363067292645,
+                0.003912363067292645,
+                0.003912363067292645,
+                0.003129890453834116,
+                0.003129890453834116,
+                0.002347417840375587,
+                0.002347417840375587,
+                0.002347417840375587
+            ]
+        },
+        {
+            "begin": 3716,
+            "end": 3721,
+            "text": "Mainz",
+            "concept": 7,
+            "candidates": [
+                "Mainz",
+                "Electorate_of_Mainz",
+                "Mainz_Hauptbahnhof",
+                "1._FSV_Mainz_05",
+                "Johannes_Gutenberg_University_Mainz",
+                "Roman_Catholic_Diocese_of_Mainz",
+                "Battle_of_Mainz",
+                "Elector_of_Mainz",
+                "Mainz_Cathedral",
+                "Fortress_of_Mainz",
+                "Siege_of_Mainz_(1793)",
+                "SMS_Mainz",
+                "Siege_of_Mainz_(1792)",
+                "Mainz_carnival",
+                "Siege_of_Mainz_(1814)",
+                "Mainz_(journal)"
+            ],
+            "scores": [
+                0.8259109311740891,
+                0.05668016194331984,
+                0.03961827646038173,
+                0.02689415847310584,
+                0.012724117987275883,
+                0.012724117987275883,
+                0.004916136495083863,
+                0.004337767495662233,
+                0.004048582995951417,
+                0.0026026604973973396,
+                0.0014459224985540775,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.0008675534991324465,
+                0.000578368999421631,
+                0.000578368999421631
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Eppelsheim",
+            "keyword": true,
+            "count": 5,
+            "link": "Eppelsheim",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Herbert Lutz",
+            "keyword": true,
+            "count": 7,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::05000000",
+                "slot::head",
+                "slot::keyword",
+                "topic::education",
+                "type::entity",
+                "type::person",
+                "type::teacher"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Natural History Museum",
+            "keyword": true,
+            "count": 2,
+            "link": "R\u00f6misch-Germanisches_Zentralmuseum_(Mainz)",
+            "tags": [
+                "slot::keyword",
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Archaeologist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Rhine River",
+            "keyword": false,
+            "count": 2,
+            "link": "Rhine",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::waterbody"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Mainz",
+            "keyword": false,
+            "count": 5,
+            "link": "Mainz",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "early 19th century",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Homo sapiens",
+            "keyword": false,
+            "count": 1,
+            "link": "Homo_sapiens",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::species"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Neanderthals",
+            "keyword": false,
+            "count": 1,
+            "link": "Neanderthal",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::species"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "woolly rhinos",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::species"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "East Africa",
+            "keyword": false,
+            "count": 1,
+            "link": "East_Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Ardi",
+            "keyword": false,
+            "count": 1,
+            "link": "Ardi",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Lucy",
+            "keyword": false,
+            "count": 1,
+            "link": "Lucy_(Australopithecus)",
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Rhine valley",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Africa",
+            "keyword": false,
+            "count": 2,
+            "link": "Africa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Europe",
+            "keyword": false,
+            "count": 2,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Greece",
+            "keyword": false,
+            "count": 1,
+            "link": "Greece",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Turkey",
+            "keyword": false,
+            "count": 1,
+            "link": "Turkey",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Rhineland",
+            "keyword": false,
+            "count": 1,
+            "link": "Rhineland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "November",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Landesmuseum",
+            "keyword": false,
+            "count": 1,
+            "link": "Landesmuseum_Mainz",
+            "tags": [
+                "type::entity",
+                "type::facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Professor",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "2016",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 2,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "in2",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 23,
+            "p": "in2",
+            "o": 7
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "13000000",
+        "20000735",
+        "20000736"
+    ]
+}

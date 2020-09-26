@@ -1,0 +1,84 @@
+{
+    "id": "DW_15795794",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 137,
+            "end": 143,
+            "text": "German",
+            "concept": 2
+        },
+        {
+            "begin": 404,
+            "end": 447,
+            "text": "Author: Breand\u00e1in O'Shea Editor: Kate Bowen",
+            "concept": 3
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 1,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 2,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Author: Breand\u00e1in O'Shea Editor: Kate Bowen",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": [
+                "slot::in"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "gpe0",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "14000000",
+        "20000799",
+        "20000801"
+    ]
+}

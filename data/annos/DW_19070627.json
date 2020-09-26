@@ -1,0 +1,228 @@
+{
+    "id": "DW_19070627",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 11,
+            "text": "DW Business",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 13,
+            "end": 23,
+            "text": "02/24/2016",
+            "concept": 2
+        },
+        {
+            "begin": 25,
+            "end": 31,
+            "text": "Airbus",
+            "concept": 0,
+            "candidates": [
+                "Airbus",
+                "Airbus_Defence_and_Space",
+                "Airbus_UK_Broughton_F.C.",
+                "Airbus_A320_family",
+                "Airbus_(band)",
+                "Airbus_affair",
+                "Airbus_Helicopters",
+                "Airbus_Group,_Inc.",
+                "London_Buses_Airbus_routes",
+                "Airbus_Military",
+                "Airbus_UK"
+            ],
+            "scores": [
+                0.978756884343037,
+                0.007867820613690008,
+                0.003147128245476003,
+                0.0023603461841070024,
+                0.0015735641227380016,
+                0.0015735641227380016,
+                0.0015735641227380016,
+                0.0007867820613690008,
+                0.0007867820613690008,
+                0.0007867820613690008,
+                0.0007867820613690008
+            ]
+        },
+        {
+            "begin": 47,
+            "end": 51,
+            "text": "Iran",
+            "concept": 3,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 109,
+            "end": 111,
+            "text": "5G",
+            "concept": 4,
+            "candidates": [
+                "5G",
+                "IPod_Touch_(5th_generation)",
+                "5G_(Mad_Men)",
+                "IEEE_802.11",
+                "G-force"
+            ],
+            "scores": [
+                0.9290780141843972,
+                0.0425531914893617,
+                0.014184397163120567,
+                0.0070921985815602835,
+                0.0070921985815602835
+            ]
+        },
+        {
+            "begin": 167,
+            "end": 178,
+            "text": "DW Business",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 180,
+            "end": 190,
+            "text": "02/24/2016",
+            "concept": 2
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Airbus",
+            "keyword": true,
+            "count": 1,
+            "link": "Airbus",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000295",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "DW Business",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "02/24/2016",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Iran",
+            "keyword": false,
+            "count": 1,
+            "link": "Iran",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "5G",
+            "keyword": false,
+            "count": 1,
+            "link": "5G",
+            "tags": [
+                "iptc::13000000",
+                "topic::science",
+                "type::entity",
+                "type::misc",
+                "type::technology"
+            ]
+        },
+        {
+            "concept": 5,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 5
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "01000000",
+        "04000000",
+        "20000045",
+        "20000046",
+        "20000170"
+    ]
+}

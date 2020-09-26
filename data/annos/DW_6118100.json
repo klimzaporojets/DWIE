@@ -1,0 +1,1415 @@
+{
+    "id": "DW_6118100",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 50,
+            "end": 56,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 65,
+            "end": 75,
+            "text": "Chancellor",
+            "concept": 6
+        },
+        {
+            "begin": 76,
+            "end": 89,
+            "text": "Angela Merkel",
+            "concept": 0,
+            "candidates": [
+                "Angela_Merkel"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 141,
+            "end": 148,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 281,
+            "end": 288,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 307,
+            "text": "foreign minister",
+            "concept": 8
+        },
+        {
+            "begin": 312,
+            "end": 329,
+            "text": "deputy chancellor",
+            "concept": 9
+        },
+        {
+            "begin": 331,
+            "end": 348,
+            "text": "Guido Westerwelle",
+            "concept": 1,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 392,
+            "end": 401,
+            "text": "Economics",
+            "concept": 10,
+            "candidates": [
+                "Economics",
+                "Nobel_Memorial_Prize_in_Economic_Sciences",
+                "Economics_(textbook)",
+                "Economy",
+                "Economic_humanitarianism_(Ra\u00eblianism)",
+                "Economics_(Aristotle)",
+                "Outline_of_economics",
+                "AP_Economics",
+                "Bachelor_of_Economics",
+                "Princeton_University_Department_of_Economics",
+                "Federal_Ministry_for_Economic_Affairs_and_Energy",
+                "Economist",
+                "Economics_Network",
+                "Mathematical_economics",
+                "International_economics",
+                "Islamic_economics"
+            ],
+            "scores": [
+                0.9638780885488524,
+                0.014047410008779631,
+                0.0023830427693465445,
+                0.0022576194656967266,
+                0.0010033864291985452,
+                0.000877963125548727,
+                0.0007525398218989088,
+                0.0006271165182490907,
+                0.0005016932145992726,
+                0.0003762699109494544,
+                0.0003762699109494544,
+                0.0003762699109494544,
+                0.0003762699109494544,
+                0.0003762699109494544,
+                0.0003762699109494544,
+                0.0003762699109494544
+            ]
+        },
+        {
+            "begin": 402,
+            "end": 409,
+            "text": "Minster",
+            "concept": 11
+        },
+        {
+            "begin": 410,
+            "end": 426,
+            "text": "Rainer Bruederle",
+            "concept": 3,
+            "candidates": [
+                "Rainer_Br\u00fcderle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 453,
+            "end": 459,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 632,
+            "end": 643,
+            "text": "Westerwelle",
+            "concept": 1,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 653,
+            "end": 673,
+            "text": "Hamburger Abendblatt",
+            "concept": 12,
+            "candidates": [
+                "Hamburger_Abendblatt"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 701,
+            "end": 712,
+            "text": "Westerwelle",
+            "concept": 1,
+            "candidates": [
+                "Guido_Westerwelle"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 723,
+            "end": 742,
+            "text": "free-market liberal",
+            "concept": 13
+        },
+        {
+            "begin": 743,
+            "end": 746,
+            "text": "FDP",
+            "concept": 14,
+            "candidates": [
+                "FDP.The_Liberals",
+                "Free_Democratic_Party_of_Switzerland",
+                "Free_Democratic_Party_(Germany)",
+                "Sons_of_Divine_Providence",
+                "Flexor_digitorum_profundus_muscle",
+                "Popular_Democratic_Front_(Italy)",
+                "Liberal_Democratic_Party_of_Germany",
+                "Fresh_Democratic_Party",
+                "Social_Democratic_Party_of_Germany"
+            ],
+            "scores": [
+                0.4052432090966519,
+                0.30701200252684774,
+                0.28111181301326593,
+                0.00410612760581175,
+                0.0009475679090334807,
+                0.0006317119393556538,
+                0.0003158559696778269,
+                0.0003158559696778269,
+                0.0003158559696778269
+            ]
+        },
+        {
+            "begin": 772,
+            "end": 782,
+            "text": "Chancellor",
+            "concept": 6
+        },
+        {
+            "begin": 783,
+            "end": 789,
+            "text": "Merkel",
+            "concept": 0,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 792,
+            "end": 801,
+            "text": "Christian",
+            "concept": 4,
+            "candidates": [
+                "Christian",
+                "Christianity",
+                "Christian_Cage",
+                "Christian_radio",
+                "Contemporary_Christian_music",
+                "Christian_music",
+                "Christian_school",
+                "Christian_County,_Missouri",
+                "Christian_County,_Kentucky",
+                "Christianity_in_Lebanon",
+                "Christian_metal",
+                "Christian_County,_Illinois",
+                "Christian_film_industry",
+                "Christian_rock",
+                "Arab_Christians",
+                "Celtic_Christianity"
+            ],
+            "scores": [
+                0.615971366543449,
+                0.20935281347180662,
+                0.025406325177492226,
+                0.022531244499207886,
+                0.007569089948952649,
+                0.0070410139060024645,
+                0.006864988558352402,
+                0.006454262747168925,
+                0.006278237399518864,
+                0.006043536935985448,
+                0.005339435545385202,
+                0.004576659038901602,
+                0.0041072581118347705,
+                0.0020536290559173853,
+                0.0018776037082673237,
+                0.0014668778970838468
+            ]
+        },
+        {
+            "begin": 832,
+            "end": 841,
+            "text": "Bruederle",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 851,
+            "end": 854,
+            "text": "FDP",
+            "concept": 14,
+            "candidates": [
+                "FDP.The_Liberals",
+                "Free_Democratic_Party_of_Switzerland",
+                "Free_Democratic_Party_(Germany)",
+                "Sons_of_Divine_Providence",
+                "Flexor_digitorum_profundus_muscle",
+                "Popular_Democratic_Front_(Italy)",
+                "Liberal_Democratic_Party_of_Germany",
+                "Fresh_Democratic_Party",
+                "Social_Democratic_Party_of_Germany"
+            ],
+            "scores": [
+                0.4052432090966519,
+                0.30701200252684774,
+                0.28111181301326593,
+                0.00410612760581175,
+                0.0009475679090334807,
+                0.0006317119393556538,
+                0.0003158559696778269,
+                0.0003158559696778269,
+                0.0003158559696778269
+            ]
+        },
+        {
+            "begin": 880,
+            "end": 887,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1000,
+            "end": 1006,
+            "text": "Merkel",
+            "concept": 0,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1036,
+            "end": 1062,
+            "text": "Christian Democratic Union",
+            "concept": 4,
+            "candidates": [
+                "Christian_Democratic_Union_of_Germany",
+                "Christian_Democratic_Union_(East_Germany)",
+                "Christian_Democratic_Union_(Ukraine)",
+                "Christian_Democratic_Union_(Netherlands)",
+                "Christian_Democratic_Union_(Dominican_Republic)",
+                "Christian_Democratic_Union_(Latvia)",
+                "Christian_Democratic_Union_(Ecuador)",
+                "Christian_Democratic_Union_(Lithuania)",
+                "Nicaraguan_Christian_Democratic_Union",
+                "Christian_Democratic_Union_(Bolivia)",
+                "Christian_Democratic_Union_(Namibia)",
+                "Christian_Democratic_Union",
+                "Christian_and_Democratic_Union_\u2013_Czechoslovak_People's_Party",
+                "Christian_Democratic_Union_(Lebanon)",
+                "CDU_Baden-W\u00fcrttemberg",
+                "CDU/CSU"
+            ],
+            "scores": [
+                0.8891437308868502,
+                0.03287461773700306,
+                0.01529051987767584,
+                0.01529051987767584,
+                0.012232415902140673,
+                0.009174311926605505,
+                0.008409785932721712,
+                0.0045871559633027525,
+                0.00382262996941896,
+                0.0030581039755351682,
+                0.0015290519877675841,
+                0.0015290519877675841,
+                0.0007645259938837921,
+                0.0007645259938837921,
+                0.0007645259938837921,
+                0.0007645259938837921
+            ]
+        },
+        {
+            "begin": 1074,
+            "end": 1083,
+            "text": "Bruederle",
+            "concept": 3,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1170,
+            "end": 1176,
+            "text": "Merkel",
+            "concept": 0,
+            "candidates": [
+                "Angela_Merkel",
+                "Merkel,_Texas",
+                "Max_Merkel",
+                "Merkel_(firearms_manufacturer)",
+                "Alexander_Merkel",
+                "Merkel_nerve_ending",
+                "Flying_Merkel",
+                "Pierre_Merkel",
+                "Merkel_(surname)",
+                "Fred_Merkel",
+                "Ron_Merkel",
+                "Germany"
+            ],
+            "scores": [
+                0.7295081967213115,
+                0.09016393442622951,
+                0.07377049180327869,
+                0.02459016393442623,
+                0.01639344262295082,
+                0.01639344262295082,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541,
+                0.00819672131147541
+            ]
+        },
+        {
+            "begin": 1179,
+            "end": 1188,
+            "text": "spokesman",
+            "concept": 15
+        },
+        {
+            "begin": 1190,
+            "end": 1205,
+            "text": "Steffen Seibert",
+            "concept": 16,
+            "candidates": [
+                "Steffen_Seibert"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1306,
+            "end": 1310,
+            "text": "2011",
+            "concept": 17
+        },
+        {
+            "begin": 1312,
+            "end": 1319,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1462,
+            "end": 1466,
+            "text": "1992",
+            "concept": 18
+        },
+        {
+            "begin": 1509,
+            "end": 1515,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 1635,
+            "end": 1673,
+            "text": "German Institute for Economic Research",
+            "concept": 19,
+            "candidates": [
+                "German_Institute_for_Economic_Research"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1675,
+            "end": 1691,
+            "text": "Klaus Zimmermann",
+            "concept": 2,
+            "candidates": [
+                "Klaus_Zimmermann"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1814,
+            "end": 1824,
+            "text": "Zimmermann",
+            "concept": 2,
+            "candidates": [
+                "Jordan_Zimmermann",
+                "Zimmermann",
+                "Zimmermann_(publisher)",
+                "Arthur_Zimmermann",
+                "Bernd_Alois_Zimmermann",
+                "Zimmermann_(piano)",
+                "Eberhard_August_Wilhelm_von_Zimmermann",
+                "Andr\u00e9a_Zimmermann",
+                "Charles_A._Zimmermann",
+                "Otto_Zimmermann",
+                "Nicole_Zimmermann",
+                "Zimmermann_(disambiguation)",
+                "Udo_Zimmermann",
+                "Matthias_Zimmermann_(footballer,_born_1992)",
+                "Herbert_Zimmermann_(footballer)",
+                "Zimmermann_(fashion_label)"
+            ],
+            "scores": [
+                0.20238095238095238,
+                0.13095238095238096,
+                0.11904761904761904,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05952380952380952,
+                0.05952380952380952,
+                0.047619047619047616,
+                0.03571428571428571,
+                0.03571428571428571,
+                0.023809523809523808,
+                0.023809523809523808,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904
+            ]
+        },
+        {
+            "begin": 1855,
+            "end": 1867,
+            "text": "Handelsblatt",
+            "concept": 20,
+            "candidates": [
+                "Handelsblatt"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1879,
+            "end": 1889,
+            "text": "Zimmermann",
+            "concept": 2,
+            "candidates": [
+                "Jordan_Zimmermann",
+                "Zimmermann",
+                "Zimmermann_(publisher)",
+                "Arthur_Zimmermann",
+                "Bernd_Alois_Zimmermann",
+                "Zimmermann_(piano)",
+                "Eberhard_August_Wilhelm_von_Zimmermann",
+                "Andr\u00e9a_Zimmermann",
+                "Charles_A._Zimmermann",
+                "Otto_Zimmermann",
+                "Nicole_Zimmermann",
+                "Zimmermann_(disambiguation)",
+                "Udo_Zimmermann",
+                "Matthias_Zimmermann_(footballer,_born_1992)",
+                "Herbert_Zimmermann_(footballer)",
+                "Zimmermann_(fashion_label)"
+            ],
+            "scores": [
+                0.20238095238095238,
+                0.13095238095238096,
+                0.11904761904761904,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05952380952380952,
+                0.05952380952380952,
+                0.047619047619047616,
+                0.03571428571428571,
+                0.03571428571428571,
+                0.023809523809523808,
+                0.023809523809523808,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904
+            ]
+        },
+        {
+            "begin": 2118,
+            "end": 2124,
+            "text": "German",
+            "concept": 5
+        },
+        {
+            "begin": 2206,
+            "end": 2216,
+            "text": "Zimmermann",
+            "concept": 2,
+            "candidates": [
+                "Jordan_Zimmermann",
+                "Zimmermann",
+                "Zimmermann_(publisher)",
+                "Arthur_Zimmermann",
+                "Bernd_Alois_Zimmermann",
+                "Zimmermann_(piano)",
+                "Eberhard_August_Wilhelm_von_Zimmermann",
+                "Andr\u00e9a_Zimmermann",
+                "Charles_A._Zimmermann",
+                "Otto_Zimmermann",
+                "Nicole_Zimmermann",
+                "Zimmermann_(disambiguation)",
+                "Udo_Zimmermann",
+                "Matthias_Zimmermann_(footballer,_born_1992)",
+                "Herbert_Zimmermann_(footballer)",
+                "Zimmermann_(fashion_label)"
+            ],
+            "scores": [
+                0.20238095238095238,
+                0.13095238095238096,
+                0.11904761904761904,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05952380952380952,
+                0.05952380952380952,
+                0.047619047619047616,
+                0.03571428571428571,
+                0.03571428571428571,
+                0.023809523809523808,
+                0.023809523809523808,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904
+            ]
+        },
+        {
+            "begin": 2276,
+            "end": 2286,
+            "text": "Zimmermann",
+            "concept": 2,
+            "candidates": [
+                "Jordan_Zimmermann",
+                "Zimmermann",
+                "Zimmermann_(publisher)",
+                "Arthur_Zimmermann",
+                "Bernd_Alois_Zimmermann",
+                "Zimmermann_(piano)",
+                "Eberhard_August_Wilhelm_von_Zimmermann",
+                "Andr\u00e9a_Zimmermann",
+                "Charles_A._Zimmermann",
+                "Otto_Zimmermann",
+                "Nicole_Zimmermann",
+                "Zimmermann_(disambiguation)",
+                "Udo_Zimmermann",
+                "Matthias_Zimmermann_(footballer,_born_1992)",
+                "Herbert_Zimmermann_(footballer)",
+                "Zimmermann_(fashion_label)"
+            ],
+            "scores": [
+                0.20238095238095238,
+                0.13095238095238096,
+                0.11904761904761904,
+                0.07142857142857142,
+                0.07142857142857142,
+                0.05952380952380952,
+                0.05952380952380952,
+                0.047619047619047616,
+                0.03571428571428571,
+                0.03571428571428571,
+                0.023809523809523808,
+                0.023809523809523808,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904,
+                0.011904761904761904
+            ]
+        },
+        {
+            "begin": 2387,
+            "end": 2394,
+            "text": "Germany",
+            "concept": 7,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2396,
+            "end": 2454,
+            "text": "Author: Matt Zuvela (Reuters/dapd/dpa) Editor: Sean Sinico",
+            "concept": 21
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Angela Merkel",
+            "keyword": true,
+            "count": 5,
+            "link": "Angela_Merkel",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::head",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Guido Westerwelle",
+            "keyword": true,
+            "count": 3,
+            "link": "Guido_Westerwelle",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Klaus Zimmermann",
+            "keyword": true,
+            "count": 5,
+            "link": "Klaus_Zimmermann_(economist)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Rainer Bruederle",
+            "keyword": false,
+            "count": 3,
+            "link": "Rainer_Br\u00fcderle",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::economy",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Christian Democratic Union",
+            "keyword": false,
+            "count": 3,
+            "link": "Christian_Democratic_Union_of_Germany",
+            "tags": [
+                "iptc::11000000",
+                "meta::redo",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Chancellor",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Germany",
+            "keyword": false,
+            "count": 5,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "foreign minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "deputy chancellor",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Economics",
+            "keyword": false,
+            "count": 1,
+            "link": "Federal_Ministry_for_Economic_Affairs_and_Energy",
+            "tags": [
+                "iptc::11000000",
+                "policy::economy",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Minster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Hamburger Abendblatt",
+            "keyword": false,
+            "count": 1,
+            "link": "Hamburger_Abendblatt",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "free-market liberal",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "FDP",
+            "keyword": false,
+            "count": 2,
+            "link": "Free_Democratic_Party_(Germany)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Steffen Seibert",
+            "keyword": false,
+            "count": 1,
+            "link": "Steffen_Seibert",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "1992",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "German Institute for Economic Research",
+            "keyword": false,
+            "count": 1,
+            "link": "German_Institute_for_Economic_Research",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Handelsblatt",
+            "keyword": false,
+            "count": 1,
+            "link": "Handelsblatt",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Author: Matt Zuvela (Reuters/dapd/dpa) Editor: Sean Sinico",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "head_of",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "member_of",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "minister_of",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "head_of",
+            "o": 19
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 19
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "minister_of",
+            "o": 7
+        },
+        {
+            "s": 3,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 7
+        },
+        {
+            "s": 10,
+            "p": "agency_of",
+            "o": 7
+        },
+        {
+            "s": 10,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 10,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 10,
+            "p": "ministry_of",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 16,
+            "p": "agent_of",
+            "o": 7
+        },
+        {
+            "s": 16,
+            "p": "agent_of-x",
+            "o": 5
+        },
+        {
+            "s": 16,
+            "p": "citizen_of",
+            "o": 7
+        },
+        {
+            "s": 16,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 19,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 19,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 7
+        },
+        {
+            "s": 20,
+            "p": "based_in0-x",
+            "o": 5
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "09000000",
+        "20000509",
+        "20000518"
+    ]
+}

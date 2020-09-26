@@ -1,0 +1,915 @@
+{
+    "id": "DW_18802943",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 20,
+            "text": "Brazil Supreme Court",
+            "concept": 1,
+            "candidates": [
+                "Supreme_Federal_Court"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 33,
+            "end": 41,
+            "text": "Rousseff",
+            "concept": 3,
+            "candidates": [
+                "Dilma_Rousseff"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 68,
+            "end": 74,
+            "text": "Brazil",
+            "concept": 0,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 149,
+            "end": 158,
+            "text": "Petrobras",
+            "concept": 5,
+            "candidates": [
+                "Petrobras",
+                "Petrobras_Distribuidora"
+            ],
+            "scores": [
+                0.9985693848354793,
+                0.001430615164520744
+            ]
+        },
+        {
+            "begin": 291,
+            "end": 311,
+            "text": "Brazil Supreme Court",
+            "concept": 1,
+            "candidates": [
+                "Supreme_Federal_Court"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 329,
+            "end": 342,
+            "text": "$2.45 million",
+            "concept": 6
+        },
+        {
+            "begin": 344,
+            "end": 362,
+            "text": "2.22 million euros",
+            "concept": 7
+        },
+        {
+            "begin": 369,
+            "end": 374,
+            "text": "Swiss",
+            "concept": 8
+        },
+        {
+            "begin": 407,
+            "end": 426,
+            "text": "Chamber of Deputies",
+            "concept": 9,
+            "candidates": [
+                "Chamber_of_Deputies_(Italy)",
+                "Chamber_of_Deputies_of_Chile",
+                "Chamber_of_Deputies_(France)",
+                "Chamber_of_Deputies_(Mexico)",
+                "Chamber_of_Deputies_(Luxembourg)",
+                "Chamber_of_Deputies_(Romania)",
+                "Chamber_of_Deputies_of_the_Czech_Republic",
+                "Chamber_of_Deputies_(Brazil)",
+                "Chamber_of_Deputies",
+                "Argentine_Chamber_of_Deputies",
+                "Chamber_of_Representatives_of_Uruguay",
+                "Chamber_of_Deputies_(Ottoman_Empire)",
+                "National_Assembly_(Democratic_Republic_of_the_Congo)",
+                "Plurinational_Legislative_Assembly",
+                "Chamber_of_Deputies_(Haiti)",
+                "Chamber_of_Deputies_(Dominican_Republic)"
+            ],
+            "scores": [
+                0.23189161021365295,
+                0.10969254820218864,
+                0.10917144346013549,
+                0.09979155810317875,
+                0.08103178738926524,
+                0.06956748306409588,
+                0.058884835852006254,
+                0.05471599791558103,
+                0.04976550286607608,
+                0.0242313705054716,
+                0.013027618551328817,
+                0.011203751954142784,
+                0.008598228243877019,
+                0.008598228243877019,
+                0.007556018759770714,
+                0.007556018759770714
+            ]
+        },
+        {
+            "begin": 427,
+            "end": 434,
+            "text": "Speaker",
+            "concept": 10
+        },
+        {
+            "begin": 435,
+            "end": 448,
+            "text": "Eduardo Cunha",
+            "concept": 2,
+            "candidates": [
+                "Eduardo_Cunha"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 477,
+            "end": 486,
+            "text": "President",
+            "concept": 11
+        },
+        {
+            "begin": 487,
+            "end": 501,
+            "text": "Dilma Rousseff",
+            "concept": 3,
+            "candidates": [
+                "Dilma_Rousseff"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 516,
+            "end": 523,
+            "text": "Justice",
+            "concept": 12
+        },
+        {
+            "begin": 524,
+            "end": 538,
+            "text": "Teori Zavascki",
+            "concept": 4,
+            "candidates": [
+                "Teori_Zavascki"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 595,
+            "end": 600,
+            "text": "Swiss",
+            "concept": 8
+        },
+        {
+            "begin": 635,
+            "end": 644,
+            "text": "Brazilian",
+            "concept": 13
+        },
+        {
+            "begin": 673,
+            "end": 678,
+            "text": "Cunha",
+            "concept": 2,
+            "candidates": [
+                "Thiago_Cunha",
+                "Pedro_Cunha_(volleyball)",
+                "Osvaldo_Rodrigues_da_Cunha",
+                "Cunha,_S\u00e3o_Paulo",
+                "Cunha",
+                "Cunha_(Paredes_de_Coura)",
+                "Arentim_e_Cunha",
+                "Euclides_da_Cunha"
+            ],
+            "scores": [
+                0.31666666666666665,
+                0.2833333333333333,
+                0.1,
+                0.1,
+                0.08333333333333333,
+                0.06666666666666667,
+                0.03333333333333333,
+                0.016666666666666666
+            ]
+        },
+        {
+            "begin": 806,
+            "end": 817,
+            "text": "Switzerland",
+            "concept": 14,
+            "candidates": [
+                "Switzerland",
+                "Switzerland_national_football_team",
+                "Swiss_Football_Association",
+                "A1_Team_Switzerland",
+                "Switzerland_women's_national_football_team",
+                "Switzerland_men's_national_ice_hockey_team",
+                "Recognition_of_same-sex_unions_in_Switzerland",
+                "Swiss_Hitparade",
+                "Switzerland_national_under-21_football_team",
+                "Switzerland_men's_national_junior_ice_hockey_team",
+                "Switzerland_national_beach_soccer_team",
+                "Switzerland_Fed_Cup_team",
+                "Elections_in_Switzerland",
+                "Switzerland_in_the_Eurovision_Song_Contest",
+                "Switzerland_women's_national_ice_hockey_team",
+                "Switzerland_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8911349122542365,
+                0.03741137426459496,
+                0.006059234675918942,
+                0.005556393623975461,
+                0.00417358073113089,
+                0.0034696032584100164,
+                0.002916478101272188,
+                0.00286619399607784,
+                0.002237642681148489,
+                0.0019107959973852266,
+                0.001483381103233268,
+                0.0014079549454417458,
+                0.0012571026298587016,
+                0.0011565344194700055,
+                0.0011313923668728315,
+                0.0010811082616784835
+            ]
+        },
+        {
+            "begin": 819,
+            "end": 828,
+            "text": "Brazilian",
+            "concept": 13
+        },
+        {
+            "begin": 858,
+            "end": 863,
+            "text": "Cunha",
+            "concept": 2,
+            "candidates": [
+                "Thiago_Cunha",
+                "Pedro_Cunha_(volleyball)",
+                "Osvaldo_Rodrigues_da_Cunha",
+                "Cunha,_S\u00e3o_Paulo",
+                "Cunha",
+                "Cunha_(Paredes_de_Coura)",
+                "Arentim_e_Cunha",
+                "Euclides_da_Cunha"
+            ],
+            "scores": [
+                0.31666666666666665,
+                0.2833333333333333,
+                0.1,
+                0.1,
+                0.08333333333333333,
+                0.06666666666666667,
+                0.03333333333333333,
+                0.016666666666666666
+            ]
+        },
+        {
+            "begin": 880,
+            "end": 886,
+            "text": "Brazil",
+            "concept": 0,
+            "candidates": [
+                "Brazil",
+                "Brazil_national_football_team",
+                "Brazil_(1985_film)",
+                "Brazil_women's_national_football_team",
+                "Brazilian_Football_Confederation",
+                "Brazil_national_beach_soccer_team",
+                "A1_Team_Brazil",
+                "Colonial_Brazil",
+                "Brazil_national_under-20_football_team",
+                "Same-sex_marriage_in_Brazil",
+                "Brazil_national_basketball_team",
+                "List_of_non-marine_molluscs_of_Brazil",
+                "Brazil_national_under-23_football_team",
+                "Empire_of_Brazil",
+                "Brazil_men's_national_volleyball_team",
+                "Brazil_national_under-17_football_team"
+            ],
+            "scores": [
+                0.8736502136821844,
+                0.045558346654487325,
+                0.005431768505529638,
+                0.0047140573516458424,
+                0.004485694711773725,
+                0.003425439598081754,
+                0.0029850259354712427,
+                0.002381496101523505,
+                0.0021205102273839428,
+                0.0020878869931164976,
+                0.0019410824389129938,
+                0.0015985384791048184,
+                0.0015006687763024827,
+                0.0014680455420350374,
+                0.0012723061364303657,
+                0.001255994519296643
+            ]
+        },
+        {
+            "begin": 936,
+            "end": 946,
+            "text": "$2 billion",
+            "concept": 15
+        },
+        {
+            "begin": 1001,
+            "end": 1006,
+            "text": "Cunha",
+            "concept": 2,
+            "candidates": [
+                "Thiago_Cunha",
+                "Pedro_Cunha_(volleyball)",
+                "Osvaldo_Rodrigues_da_Cunha",
+                "Cunha,_S\u00e3o_Paulo",
+                "Cunha",
+                "Cunha_(Paredes_de_Coura)",
+                "Arentim_e_Cunha",
+                "Euclides_da_Cunha"
+            ],
+            "scores": [
+                0.31666666666666665,
+                0.2833333333333333,
+                0.1,
+                0.1,
+                0.08333333333333333,
+                0.06666666666666667,
+                0.03333333333333333,
+                0.016666666666666666
+            ]
+        },
+        {
+            "begin": 1081,
+            "end": 1112,
+            "text": "Brazilian Petroleum Corporation",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1114,
+            "end": 1123,
+            "text": "Petrobras",
+            "concept": 5,
+            "candidates": [
+                "Petrobras",
+                "Petrobras_Distribuidora"
+            ],
+            "scores": [
+                0.9985693848354793,
+                0.001430615164520744
+            ]
+        },
+        {
+            "begin": 1260,
+            "end": 1269,
+            "text": "Brazilian",
+            "concept": 13
+        },
+        {
+            "begin": 1280,
+            "end": 1285,
+            "text": "Judge",
+            "concept": 16
+        },
+        {
+            "begin": 1286,
+            "end": 1294,
+            "text": "Zavascki",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1354,
+            "end": 1363,
+            "text": "Brazilian",
+            "concept": 13
+        },
+        {
+            "begin": 1387,
+            "end": 1393,
+            "text": "Friday",
+            "concept": 17
+        },
+        {
+            "begin": 1460,
+            "end": 1469,
+            "text": "Petrobras",
+            "concept": 5,
+            "candidates": [
+                "Petrobras",
+                "Petrobras_Distribuidora"
+            ],
+            "scores": [
+                0.9985693848354793,
+                0.001430615164520744
+            ]
+        },
+        {
+            "begin": 1674,
+            "end": 1683,
+            "text": "Petrobras",
+            "concept": 5,
+            "candidates": [
+                "Petrobras",
+                "Petrobras_Distribuidora"
+            ],
+            "scores": [
+                0.9985693848354793,
+                0.001430615164520744
+            ]
+        },
+        {
+            "begin": 1735,
+            "end": 1753,
+            "text": "Operation Car Wash",
+            "concept": 18,
+            "candidates": [
+                "Operation_Car_Wash"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1849,
+            "end": 1857,
+            "text": "Rousseff",
+            "concept": 3,
+            "candidates": [
+                "Dilma_Rousseff"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1887,
+            "end": 1896,
+            "text": "Petrobras",
+            "concept": 5,
+            "candidates": [
+                "Petrobras",
+                "Petrobras_Distribuidora"
+            ],
+            "scores": [
+                0.9985693848354793,
+                0.001430615164520744
+            ]
+        },
+        {
+            "begin": 2300,
+            "end": 2324,
+            "text": "ls/bw (AP, Reuters, EFE)",
+            "concept": 19
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Brazil",
+            "keyword": true,
+            "count": 2,
+            "link": "Brazil",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Brazil Supreme Court",
+            "keyword": true,
+            "count": 2,
+            "link": "Supreme_Federal_Court",
+            "tags": [
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::court",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Eduardo Cunha",
+            "keyword": true,
+            "count": 4,
+            "link": "Eduardo_Cunha",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Dilma Rousseff",
+            "keyword": true,
+            "count": 3,
+            "link": "Dilma_Rousseff",
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Teori Zavascki",
+            "keyword": true,
+            "count": 2,
+            "link": "Teori_Zavascki",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::judge",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Brazilian Petroleum Corporation",
+            "keyword": true,
+            "count": 6,
+            "link": "Petrobras",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000266",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "$2.45 million",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "2.22 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Swiss",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Chamber of Deputies",
+            "keyword": false,
+            "count": 1,
+            "link": "Chamber_of_Deputies_(Brazil)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Speaker",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Justice",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Brazilian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Switzerland",
+            "keyword": false,
+            "count": 1,
+            "link": "Switzerland",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "$2 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Judge",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Operation Car Wash",
+            "keyword": false,
+            "count": 1,
+            "link": "Operation_Car_Wash",
+            "tags": [
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "ls/bw (AP, Reuters, EFE)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 13
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 2,
+            "p": "member_of",
+            "o": 9
+        },
+        {
+            "s": 3,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 3,
+            "p": "head_of_state",
+            "o": 0
+        },
+        {
+            "s": 3,
+            "p": "head_of_state-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 13
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 8,
+            "p": "gpe0",
+            "o": 14
+        },
+        {
+            "s": 9,
+            "p": "agency_of",
+            "o": 0
+        },
+        {
+            "s": 9,
+            "p": "agency_of-x",
+            "o": 13
+        },
+        {
+            "s": 9,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 9,
+            "p": "based_in0-x",
+            "o": 13
+        },
+        {
+            "s": 13,
+            "p": "gpe0",
+            "o": 0
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000093",
+        "20000094",
+        "20000106",
+        "20000107",
+        "20000111"
+    ]
+}

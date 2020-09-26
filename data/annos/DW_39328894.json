@@ -1,0 +1,964 @@
+{
+    "id": "DW_39328894",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 28,
+            "end": 35,
+            "text": "Russian",
+            "concept": 2
+        },
+        {
+            "begin": 36,
+            "end": 42,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 225,
+            "end": 234,
+            "text": "Lisa case",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 275,
+            "end": 282,
+            "text": "Germany",
+            "concept": 5,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 287,
+            "end": 293,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 295,
+            "end": 303,
+            "text": "Ismet S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 405,
+            "end": 411,
+            "text": "Berlin",
+            "concept": 7,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 581,
+            "end": 590,
+            "text": "Lisa case",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 666,
+            "end": 672,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 681,
+            "end": 688,
+            "text": "Russian",
+            "concept": 2
+        },
+        {
+            "begin": 761,
+            "end": 775,
+            "text": "Middle Eastern",
+            "concept": 8
+        },
+        {
+            "begin": 827,
+            "end": 831,
+            "text": "Lisa",
+            "concept": 1,
+            "candidates": [
+                "Lisa_Simpson",
+                "Apple_Lisa",
+                "Lisa_(Japanese_musician,_born_1974)",
+                "LiSA_(Japanese_musician,_born_1987)",
+                "Laser_Interferometer_Space_Antenna",
+                "Lisa_(1978_film)",
+                "Lisa_(1990_film)",
+                "Lisa_Dingle",
+                "Lisa_(given_name)",
+                "The_Inspector_(1962_film)",
+                "Lisa_Hunter",
+                "Lisa,_Bra\u0219ov",
+                "Lisa_Origliasso",
+                "Lisa_Henson",
+                "Lisa_(South_Korean_singer)",
+                "Lisa_(2001_film)"
+            ],
+            "scores": [
+                0.5951717734447539,
+                0.059424326833797586,
+                0.057567316620241414,
+                0.04921077065923862,
+                0.02692664809656453,
+                0.02042711234911792,
+                0.018570102135561744,
+                0.013927576601671309,
+                0.008356545961002786,
+                0.008356545961002786,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.004642525533890436,
+                0.004642525533890436
+            ]
+        },
+        {
+            "begin": 876,
+            "end": 886,
+            "text": "January 11",
+            "concept": 9
+        },
+        {
+            "begin": 940,
+            "end": 946,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 1123,
+            "end": 1130,
+            "text": "Russian",
+            "concept": 2
+        },
+        {
+            "begin": 1131,
+            "end": 1147,
+            "text": "Foreign Minister",
+            "concept": 10
+        },
+        {
+            "begin": 1148,
+            "end": 1161,
+            "text": "Sergey Lavrov",
+            "concept": 11,
+            "candidates": [
+                "Sergey_Lavrov"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1170,
+            "end": 1176,
+            "text": "Berlin",
+            "concept": 7,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1257,
+            "end": 1264,
+            "text": "Russian",
+            "concept": 2
+        },
+        {
+            "begin": 1313,
+            "end": 1320,
+            "text": "Germany",
+            "concept": 5,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1325,
+            "end": 1331,
+            "text": "Russia",
+            "concept": 6,
+            "candidates": [
+                "Russia",
+                "Russian_Empire",
+                "Russia_national_football_team",
+                "Russia_men's_national_ice_hockey_team",
+                "Russia_men's_national_junior_ice_hockey_team",
+                "Tsardom_of_Russia",
+                "Russia_national_rugby_union_team",
+                "Russian_Soviet_Federative_Socialist_Republic",
+                "Russian_Football_Union",
+                "Russia_women's_national_football_team",
+                "Russia_national_basketball_team",
+                "Russia_national_rugby_league_team",
+                "Russia_Fed_Cup_team",
+                "Russia_national_cerebral_palsy_football_team",
+                "Russia_national_handball_team",
+                "Russia_Davis_Cup_team"
+            ],
+            "scores": [
+                0.8853767560664112,
+                0.0258301404853129,
+                0.013872924648786717,
+                0.00576309067688378,
+                0.0034323116219667944,
+                0.002921455938697318,
+                0.002825670498084291,
+                0.0027298850574712643,
+                0.002426564495530013,
+                0.0018997445721583653,
+                0.0017879948914431673,
+                0.0015006385696040869,
+                0.0014367816091954023,
+                0.00140485312899106,
+                0.0011334610472541508,
+                0.0009418901660280971
+            ]
+        },
+        {
+            "begin": 1340,
+            "end": 1344,
+            "text": "Lisa",
+            "concept": 1,
+            "candidates": [
+                "Lisa_Simpson",
+                "Apple_Lisa",
+                "Lisa_(Japanese_musician,_born_1974)",
+                "LiSA_(Japanese_musician,_born_1987)",
+                "Laser_Interferometer_Space_Antenna",
+                "Lisa_(1978_film)",
+                "Lisa_(1990_film)",
+                "Lisa_Dingle",
+                "Lisa_(given_name)",
+                "The_Inspector_(1962_film)",
+                "Lisa_Hunter",
+                "Lisa,_Bra\u0219ov",
+                "Lisa_Origliasso",
+                "Lisa_Henson",
+                "Lisa_(South_Korean_singer)",
+                "Lisa_(2001_film)"
+            ],
+            "scores": [
+                0.5951717734447539,
+                0.059424326833797586,
+                0.057567316620241414,
+                0.04921077065923862,
+                0.02692664809656453,
+                0.02042711234911792,
+                0.018570102135561744,
+                0.013927576601671309,
+                0.008356545961002786,
+                0.008356545961002786,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.004642525533890436,
+                0.004642525533890436
+            ]
+        },
+        {
+            "begin": 1552,
+            "end": 1555,
+            "text": "man",
+            "concept": 12
+        },
+        {
+            "begin": 1556,
+            "end": 1563,
+            "text": "Ismet S",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1587,
+            "end": 1591,
+            "text": "Lisa",
+            "concept": 1,
+            "candidates": [
+                "Lisa_Simpson",
+                "Apple_Lisa",
+                "Lisa_(Japanese_musician,_born_1974)",
+                "LiSA_(Japanese_musician,_born_1987)",
+                "Laser_Interferometer_Space_Antenna",
+                "Lisa_(1978_film)",
+                "Lisa_(1990_film)",
+                "Lisa_Dingle",
+                "Lisa_(given_name)",
+                "The_Inspector_(1962_film)",
+                "Lisa_Hunter",
+                "Lisa,_Bra\u0219ov",
+                "Lisa_Origliasso",
+                "Lisa_Henson",
+                "Lisa_(South_Korean_singer)",
+                "Lisa_(2001_film)"
+            ],
+            "scores": [
+                0.5951717734447539,
+                0.059424326833797586,
+                0.057567316620241414,
+                0.04921077065923862,
+                0.02692664809656453,
+                0.02042711234911792,
+                0.018570102135561744,
+                0.013927576601671309,
+                0.008356545961002786,
+                0.008356545961002786,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.004642525533890436,
+                0.004642525533890436
+            ]
+        },
+        {
+            "begin": 1810,
+            "end": 1814,
+            "text": "Lisa",
+            "concept": 1,
+            "candidates": [
+                "Lisa_Simpson",
+                "Apple_Lisa",
+                "Lisa_(Japanese_musician,_born_1974)",
+                "LiSA_(Japanese_musician,_born_1987)",
+                "Laser_Interferometer_Space_Antenna",
+                "Lisa_(1978_film)",
+                "Lisa_(1990_film)",
+                "Lisa_Dingle",
+                "Lisa_(given_name)",
+                "The_Inspector_(1962_film)",
+                "Lisa_Hunter",
+                "Lisa,_Bra\u0219ov",
+                "Lisa_Origliasso",
+                "Lisa_Henson",
+                "Lisa_(South_Korean_singer)",
+                "Lisa_(2001_film)"
+            ],
+            "scores": [
+                0.5951717734447539,
+                0.059424326833797586,
+                0.057567316620241414,
+                0.04921077065923862,
+                0.02692664809656453,
+                0.02042711234911792,
+                0.018570102135561744,
+                0.013927576601671309,
+                0.008356545961002786,
+                0.008356545961002786,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.004642525533890436,
+                0.004642525533890436
+            ]
+        },
+        {
+            "begin": 1881,
+            "end": 1891,
+            "text": "Tiergarten",
+            "concept": 13,
+            "candidates": [
+                "Tiergarten_(park)",
+                "Tiergarten,_Berlin",
+                "Tiergarten_(song)",
+                "Berlin-Tiergarten_station",
+                "Kaliningrad_Zoo",
+                "Tiergarten_(EP)",
+                "Nuremberg_Zoo",
+                "Soviet_War_Memorial_(Tiergarten)",
+                "Lainzer_Tiergarten",
+                "Tiergarten_Sch\u00f6nbrunn",
+                "Release_the_Stars"
+            ],
+            "scores": [
+                0.49074074074074076,
+                0.39351851851851855,
+                0.046296296296296294,
+                0.027777777777777776,
+                0.009259259259259259,
+                0.009259259259259259,
+                0.004629629629629629,
+                0.004629629629629629,
+                0.004629629629629629,
+                0.004629629629629629,
+                0.004629629629629629
+            ]
+        },
+        {
+            "begin": 1997,
+            "end": 2005,
+            "text": "Ismet S.",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2010,
+            "end": 2014,
+            "text": "Lisa",
+            "concept": 1,
+            "candidates": [
+                "Lisa_Simpson",
+                "Apple_Lisa",
+                "Lisa_(Japanese_musician,_born_1974)",
+                "LiSA_(Japanese_musician,_born_1987)",
+                "Laser_Interferometer_Space_Antenna",
+                "Lisa_(1978_film)",
+                "Lisa_(1990_film)",
+                "Lisa_Dingle",
+                "Lisa_(given_name)",
+                "The_Inspector_(1962_film)",
+                "Lisa_Hunter",
+                "Lisa,_Bra\u0219ov",
+                "Lisa_Origliasso",
+                "Lisa_Henson",
+                "Lisa_(South_Korean_singer)",
+                "Lisa_(2001_film)"
+            ],
+            "scores": [
+                0.5951717734447539,
+                0.059424326833797586,
+                0.057567316620241414,
+                0.04921077065923862,
+                0.02692664809656453,
+                0.02042711234911792,
+                0.018570102135561744,
+                0.013927576601671309,
+                0.008356545961002786,
+                0.008356545961002786,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.005571030640668524,
+                0.004642525533890436,
+                0.004642525533890436
+            ]
+        },
+        {
+            "begin": 2022,
+            "end": 2029,
+            "text": "Germany",
+            "concept": 5,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 2130,
+            "end": 2136,
+            "text": "German",
+            "concept": 3
+        },
+        {
+            "begin": 2242,
+            "end": 2249,
+            "text": "Ismet S",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2426,
+            "end": 2437,
+            "text": "3,000 euros",
+            "concept": 14
+        },
+        {
+            "begin": 2489,
+            "end": 2501,
+            "text": "dm/msh (AFP)",
+            "concept": 15
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Ismet S.",
+            "keyword": true,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::offender",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Lisa",
+            "keyword": true,
+            "count": 5,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::02000000",
+                "slot::keyword",
+                "topic::justice",
+                "type::entity",
+                "type::person",
+                "type::victim"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Russian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Lisa case",
+            "keyword": false,
+            "count": 2,
+            "link": "Criminal_case_of_Lisa_F.",
+            "tags": [
+                "iptc::02000000",
+                "topic::justice",
+                "type::case",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Russia",
+            "keyword": false,
+            "count": 2,
+            "link": "Russia",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 2,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Middle Eastern",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "January 11",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Sergey Lavrov",
+            "keyword": false,
+            "count": 1,
+            "link": "Sergey_Lavrov",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "man",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Tiergarten",
+            "keyword": false,
+            "count": 1,
+            "link": "Tiergarten_(park)",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::loc",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "3,000 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "dm/msh (AFP)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 2,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "citizen_of-x",
+            "o": 2
+        },
+        {
+            "s": 11,
+            "p": "minister_of",
+            "o": 6
+        },
+        {
+            "s": 11,
+            "p": "minister_of-x",
+            "o": 2
+        }
+    ],
+    "frames": [
+        {
+            "type": "sentence",
+            "slots": [
+                {
+                    "name": "defendant",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "type": "convict",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000100"
+    ]
+}

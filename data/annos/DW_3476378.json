@@ -1,0 +1,848 @@
+{
+    "id": "DW_3476378",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 4,
+            "end": 11,
+            "text": "Italian",
+            "concept": 5
+        },
+        {
+            "begin": 35,
+            "end": 42,
+            "text": "Premier",
+            "concept": 6
+        },
+        {
+            "begin": 43,
+            "end": 53,
+            "text": "Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 54,
+            "end": 59,
+            "text": "Italy",
+            "concept": 4,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 134,
+            "end": 141,
+            "text": "Premier",
+            "concept": 6
+        },
+        {
+            "begin": 142,
+            "end": 159,
+            "text": "Silvio Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 397,
+            "end": 407,
+            "text": "Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 456,
+            "end": 461,
+            "text": "April",
+            "concept": 7
+        },
+        {
+            "begin": 684,
+            "end": 690,
+            "text": "Senate",
+            "concept": 1,
+            "candidates": [
+                "United_States_Senate",
+                "Australian_Senate",
+                "New_Jersey_Senate,_2018\u201319_term",
+                "Roman_Senate",
+                "Senate_(Netherlands)",
+                "Senate_of_Chile",
+                "Senate_of_Canada",
+                "Senate_(France)",
+                "Senate_of_Spain",
+                "Senate_of_the_Philippines",
+                "Senate_of_the_Republic_(Italy)",
+                "Senate",
+                "Senate_of_Romania",
+                "Minnesota_Senate",
+                "Senate_of_Poland",
+                "Senate_(Belgium)"
+            ],
+            "scores": [
+                0.24814814814814815,
+                0.06811594202898551,
+                0.057085346215781,
+                0.056682769726247986,
+                0.03413848631239936,
+                0.032286634460547504,
+                0.0322061191626409,
+                0.026167471819645734,
+                0.025925925925925925,
+                0.025603864734299518,
+                0.025603864734299518,
+                0.024476650563607084,
+                0.018760064412238327,
+                0.01634460547504026,
+                0.015297906602254429,
+                0.013365539452495974
+            ]
+        },
+        {
+            "begin": 699,
+            "end": 703,
+            "text": "July",
+            "concept": 8
+        },
+        {
+            "begin": 724,
+            "end": 729,
+            "text": "Italy",
+            "concept": 4,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 861,
+            "end": 868,
+            "text": "Italian",
+            "concept": 5
+        },
+        {
+            "begin": 869,
+            "end": 885,
+            "text": "Justice Minister",
+            "concept": 9
+        },
+        {
+            "begin": 886,
+            "end": 901,
+            "text": "Angelino Alfano",
+            "concept": 2,
+            "candidates": [
+                "Angelino_Alfano"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1014,
+            "end": 1031,
+            "text": "Opposition leader",
+            "concept": 10
+        },
+        {
+            "begin": 1032,
+            "end": 1047,
+            "text": "Walter Veltroni",
+            "concept": 3,
+            "candidates": [
+                "Walter_Veltroni"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1055,
+            "end": 1071,
+            "text": "Democratic Party",
+            "concept": 11,
+            "candidates": [
+                "Democratic_Party_(United_States)",
+                "Democratic_Party_(Italy)",
+                "Democratic_Party_(Serbia)",
+                "Democratic_Party_(Hong_Kong)",
+                "Democratic_Party_(Luxembourg)",
+                "Democratic_Party_of_Albania",
+                "Democratic_Party_(Mongolia)",
+                "History_of_the_United_States_Democratic_Party",
+                "Democratic_Party_(Turkey,_current)",
+                "Democratic_Party_(Romania)",
+                "Democratic_Party_(Cyprus)",
+                "Democratic_Party_(Japan,_2016)",
+                "Democratic_Party_(Japan,_1998)",
+                "Democratic_Party_(Cook_Islands)",
+                "Democratic_Party_(South_Africa)",
+                "Democratic_Party_(Bulgaria)"
+            ],
+            "scores": [
+                0.5905482324745357,
+                0.11758538046734572,
+                0.041042540443379266,
+                0.0304823247453565,
+                0.01610245656081486,
+                0.013181545835829839,
+                0.012207908927501497,
+                0.008912522468544038,
+                0.00786399041342121,
+                0.007339724385859796,
+                0.006965248651887358,
+                0.006440982624325944,
+                0.005617136009586579,
+                0.005542240862792091,
+                0.005467345715997603,
+                0.004868184541641701
+            ]
+        },
+        {
+            "begin": 1123,
+            "end": 1133,
+            "text": "Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1195,
+            "end": 1201,
+            "text": "lawyer",
+            "concept": 12
+        },
+        {
+            "begin": 1202,
+            "end": 1217,
+            "text": "Niccolo Ghedini",
+            "concept": 13,
+            "candidates": [
+                "Niccol\u00f2_Ghedini"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1307,
+            "end": 1317,
+            "text": "Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1504,
+            "end": 1510,
+            "text": "Friday",
+            "concept": 14
+        },
+        {
+            "begin": 1618,
+            "end": 1623,
+            "text": "Italy",
+            "concept": 4,
+            "candidates": [
+                "Italy",
+                "Italy_national_football_team",
+                "Italy_national_rugby_union_team",
+                "Kingdom_of_Italy",
+                "Italian_Football_Federation",
+                "Italy_national_rugby_league_team",
+                "Italian_Campaign_(World_War_II)",
+                "Italy_women's_national_football_team",
+                "Lega_Basket_Serie_A",
+                "Italian_Rugby_Federation",
+                "A1_Team_Italy",
+                "ISU_Junior_Grand_Prix_in_Italy",
+                "Italy_national_basketball_team",
+                "Kingdom_of_Italy_(Holy_Roman_Empire)",
+                "Italy_national_under-21_football_team",
+                "Cinema_of_Italy"
+            ],
+            "scores": [
+                0.8396247254960563,
+                0.03460373975076991,
+                0.014189742323635277,
+                0.013786919968293983,
+                0.005990358252010863,
+                0.0032615616513117715,
+                0.0032095845732032172,
+                0.003053653338877555,
+                0.003053653338877555,
+                0.002663825253063399,
+                0.002273997167249243,
+                0.002222020089140689,
+                0.002092077393869304,
+                0.0018711748119079486,
+                0.001832192003326533,
+                0.0018191977337993946
+            ]
+        },
+        {
+            "begin": 1807,
+            "end": 1823,
+            "text": "$600,000 dollars",
+            "concept": 15
+        },
+        {
+            "begin": 1825,
+            "end": 1838,
+            "text": "380,000 euros",
+            "concept": 16
+        },
+        {
+            "begin": 1847,
+            "end": 1854,
+            "text": "British",
+            "concept": 17
+        },
+        {
+            "begin": 1855,
+            "end": 1861,
+            "text": "lawyer",
+            "concept": 12
+        },
+        {
+            "begin": 1862,
+            "end": 1873,
+            "text": "David Mills",
+            "concept": 18,
+            "candidates": [
+                "David_Mills_(TV_writer)",
+                "David_Mills_(Canadian_politician)",
+                "David_Mills_(footballer)",
+                "David_Mills_(rugby_league)",
+                "David_Mills_(lawyer)",
+                "David_Mills_(author)",
+                "David_Mills_(editor)",
+                "David_Mills_(bass)",
+                "David_Mills_(cricketer)",
+                "David_Mills_(solar_researcher)",
+                "David_Mills_(comedian)",
+                "David_L._Mills"
+            ],
+            "scores": [
+                0.35714285714285715,
+                0.19230769230769232,
+                0.12087912087912088,
+                0.09340659340659341,
+                0.09340659340659341,
+                0.03296703296703297,
+                0.03296703296703297,
+                0.027472527472527472,
+                0.02197802197802198,
+                0.016483516483516484,
+                0.005494505494505495,
+                0.005494505494505495
+            ]
+        },
+        {
+            "begin": 1914,
+            "end": 1924,
+            "text": "Berlusconi",
+            "concept": 0,
+            "candidates": [
+                "Silvio_Berlusconi"
+            ],
+            "scores": [
+                1.0
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Silvio Berlusconi",
+            "keyword": true,
+            "count": 6,
+            "link": "Silvio_Berlusconi",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Senate",
+            "keyword": true,
+            "count": 1,
+            "link": "Senate_of_the_Republic_(Italy)",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::agency",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Angelino Alfano",
+            "keyword": true,
+            "count": 1,
+            "link": "Angelino_Alfano",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::justice",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Walter Veltroni",
+            "keyword": true,
+            "count": 1,
+            "link": "Walter_Veltroni",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Italy",
+            "keyword": true,
+            "count": 3,
+            "link": "Italy",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Italian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Premier",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "April",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "July",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Justice Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Opposition leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Democratic Party",
+            "keyword": false,
+            "count": 1,
+            "link": "Democratic_Party_(Italy)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "lawyer",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Niccolo Ghedini",
+            "keyword": false,
+            "count": 1,
+            "link": "Niccol\u00f2_Ghedini",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Friday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "$600,000 dollars",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "380,000 euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "British",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "David Mills",
+            "keyword": false,
+            "count": 1,
+            "link": "David_Mills_(lawyer)",
+            "tags": [
+                "gender::male",
+                "iptc::02000000",
+                "topic::justice",
+                "type::advisor",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 19,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 20,
+            "keyword": false,
+            "count": 0,
+            "link": "Italy\"",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "head_of_gov-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "agency_of",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "agency_of-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 1,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "minister_of",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 3,
+            "p": "head_of",
+            "o": 11
+        },
+        {
+            "s": 3,
+            "p": "member_of",
+            "o": 11
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 13,
+            "p": "advisor_of",
+            "o": 0
+        },
+        {
+            "s": 13,
+            "p": "citizen_of",
+            "o": 20
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "advisor_of",
+            "o": 0
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 19
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 17
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000593",
+        "20000615",
+        "20000616"
+    ]
+}

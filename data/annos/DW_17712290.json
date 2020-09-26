@@ -1,0 +1,184 @@
+{
+    "id": "DW_17712290",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 25,
+            "end": 32,
+            "text": "Germany",
+            "concept": 0,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 96,
+            "end": 100,
+            "text": "2018",
+            "concept": 2
+        },
+        {
+            "begin": 226,
+            "end": 241,
+            "text": "Energy provider",
+            "concept": 3
+        },
+        {
+            "begin": 242,
+            "end": 245,
+            "text": "RAG",
+            "concept": 1,
+            "candidates": [
+                "Ragtime",
+                "Rag_(student_society)",
+                "RAG_AG",
+                "Textile",
+                "Recombination-activating_gene",
+                "Raga",
+                "Fleet_Replacement_Squadron",
+                "Ragging",
+                "Rag_Island",
+                "Ruhrpott_AG",
+                "Cotton_paper",
+                "Logooli_language",
+                "The_Rag",
+                "Rock_(manga)",
+                "RAG",
+                "Roh\u00f6l-Aufsuchungs_Aktiengesellschaft"
+            ],
+            "scores": [
+                0.2727272727272727,
+                0.22727272727272727,
+                0.12121212121212122,
+                0.10606060606060606,
+                0.045454545454545456,
+                0.045454545454545456,
+                0.030303030303030304,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152,
+                0.015151515151515152
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Germany",
+            "keyword": true,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "RAG",
+            "keyword": true,
+            "count": 1,
+            "link": "RAG_AG",
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "2018",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Energy provider",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 0
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "06000000",
+        "20000423",
+        "20000430",
+        "20000431"
+    ]
+}

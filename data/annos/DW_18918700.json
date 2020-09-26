@@ -1,0 +1,1833 @@
+{
+    "id": "DW_18918700",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 14,
+            "end": 22,
+            "text": "Nigerian",
+            "concept": 7
+        },
+        {
+            "begin": 33,
+            "end": 39,
+            "text": "Shiite",
+            "concept": 0
+        },
+        {
+            "begin": 64,
+            "end": 71,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 106,
+            "end": 120,
+            "text": "Shiite Muslims",
+            "concept": 0
+        },
+        {
+            "begin": 312,
+            "end": 326,
+            "text": "Shiite Muslims",
+            "concept": 0
+        },
+        {
+            "begin": 376,
+            "end": 384,
+            "text": "Nigerian",
+            "concept": 7
+        },
+        {
+            "begin": 423,
+            "end": 427,
+            "text": "Shia",
+            "concept": 0
+        },
+        {
+            "begin": 428,
+            "end": 444,
+            "text": "Islamic Movement",
+            "concept": 8,
+            "candidates": [
+                "Islamic_Movement_in_Israel",
+                "Islamic_Movement_(Nigeria)",
+                "Islamism",
+                "Kurdistan_Islamic_Movement",
+                "Islamic_Movement_of_Afghanistan"
+            ],
+            "scores": [
+                0.65625,
+                0.15625,
+                0.125,
+                0.03125,
+                0.03125
+            ]
+        },
+        {
+            "begin": 469,
+            "end": 476,
+            "text": "Witness",
+            "concept": 9
+        },
+        {
+            "begin": 477,
+            "end": 487,
+            "text": "Ojo Momodu",
+            "concept": 10,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 497,
+            "end": 513,
+            "text": "Associated Press",
+            "concept": 11,
+            "candidates": [
+                "Associated_Press",
+                "AP_Poll",
+                "Associated_Press_College_Basketball_Player_of_the_Year",
+                "Associated_Press_College_Football_Coach_of_the_Year_Award",
+                "Associated_Press_College_Basketball_Coach_of_the_Year",
+                "Associated_Press_Athlete_of_the_Year",
+                "AP_Newsfeatures",
+                "College_Football_All-America_Team",
+                "2004_NCAA_Division_I-A_football_rankings",
+                "Associated_Press_NFL_Coach_of_the_Year_Award",
+                "Associated_Press_NFL_Rookie_of_the_Year_Award",
+                "Associated_Press_NFL_Most_Valuable_Player_Award",
+                "Associated_Press_of_Pakistan"
+            ],
+            "scores": [
+                0.9936337914308812,
+                0.004244139046079224,
+                0.0006063055780113178,
+                0.0004042037186742118,
+                0.0002021018593371059,
+                0.0002021018593371059,
+                0.00010105092966855295,
+                0.00010105092966855295,
+                0.00010105092966855295,
+                0.00010105092966855295,
+                0.00010105092966855295,
+                0.00010105092966855295,
+                0.00010105092966855295
+            ]
+        },
+        {
+            "begin": 523,
+            "end": 530,
+            "text": "Shiites",
+            "concept": 0
+        },
+        {
+            "begin": 661,
+            "end": 669,
+            "text": "Nigerian",
+            "concept": 7
+        },
+        {
+            "begin": 670,
+            "end": 699,
+            "text": "Army Corps of Military Police",
+            "concept": 12,
+            "candidates": [
+                "Pakistan_Army_Corps_of_Military_Police"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 705,
+            "end": 711,
+            "text": "Shiite",
+            "concept": 0
+        },
+        {
+            "begin": 930,
+            "end": 944,
+            "text": "Chidi Odinkalu",
+            "concept": 13,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 952,
+            "end": 960,
+            "text": "Nigerian",
+            "concept": 7
+        },
+        {
+            "begin": 961,
+            "end": 984,
+            "text": "Human Rights Commission",
+            "concept": 14,
+            "candidates": [
+                "Human_rights_commission",
+                "Human_Rights_Commission_(New_Zealand)",
+                "United_Nations_Commission_on_Human_Rights",
+                "South_African_Human_Rights_Commission",
+                "Human_Rights_Commission_(Fiji)",
+                "Australian_Human_Rights_Commission",
+                "Human_Rights_Commission_of_Pakistan",
+                "National_Human_Rights_Commission_of_India",
+                "Canadian_Human_Rights_Commission",
+                "Human_Rights_Commission_of_Malaysia",
+                "OutRight_Action_International",
+                "Jammu_&_Kashmir_Human_Rights_Commission",
+                "Northern_Ireland_Human_Rights_Commission",
+                "Ministry_of_Human_Rights_(Pakistan)"
+            ],
+            "scores": [
+                0.577922077922078,
+                0.18831168831168832,
+                0.05844155844155844,
+                0.03896103896103896,
+                0.032467532467532464,
+                0.025974025974025976,
+                0.01948051948051948,
+                0.012987012987012988,
+                0.012987012987012988,
+                0.006493506493506494,
+                0.006493506493506494,
+                0.006493506493506494,
+                0.006493506493506494,
+                0.006493506493506494
+            ]
+        },
+        {
+            "begin": 1051,
+            "end": 1067,
+            "text": "Islamic Movement",
+            "concept": 8,
+            "candidates": [
+                "Islamic_Movement_in_Israel",
+                "Islamic_Movement_(Nigeria)",
+                "Islamism",
+                "Kurdistan_Islamic_Movement",
+                "Islamic_Movement_of_Afghanistan"
+            ],
+            "scores": [
+                0.65625,
+                0.15625,
+                0.125,
+                0.03125,
+                0.03125
+            ]
+        },
+        {
+            "begin": 1071,
+            "end": 1078,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 1102,
+            "end": 1108,
+            "text": "leader",
+            "concept": 15
+        },
+        {
+            "begin": 1109,
+            "end": 1125,
+            "text": "Ibraheem Zakzaky",
+            "concept": 5,
+            "candidates": [
+                "Ibrahim_Zakzaky"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1166,
+            "end": 1173,
+            "text": "Zakzaky",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1284,
+            "end": 1293,
+            "text": "spokesman",
+            "concept": 16
+        },
+        {
+            "begin": 1295,
+            "end": 1307,
+            "text": "Ibrahim Musa",
+            "concept": 17,
+            "candidates": [
+                "Ibrahim_Musa"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1515,
+            "end": 1520,
+            "text": "Zaria",
+            "concept": 18,
+            "candidates": [
+                "Zaria",
+                "FC_Zaria_B\u0103l\u021bi",
+                "Zazzau",
+                "Roman_Catholic_Diocese_of_Zaria"
+            ],
+            "scores": [
+                0.9069767441860465,
+                0.07441860465116279,
+                0.011627906976744186,
+                0.0069767441860465115
+            ]
+        },
+        {
+            "begin": 1564,
+            "end": 1578,
+            "text": "hospital chief",
+            "concept": 19
+        },
+        {
+            "begin": 1579,
+            "end": 1591,
+            "text": "Lawal Khalid",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1702,
+            "end": 1708,
+            "text": "Khalid",
+            "concept": 6,
+            "candidates": [
+                "Khalid_(singer)",
+                "Khalid_of_Saudi_Arabia",
+                "Khalid",
+                "Muhamad_Khalid_Jamlus",
+                "Khalid_ibn_al-Walid",
+                "Khalid_bin_Barghash_of_Zanzibar",
+                "Khalid_ibn_Yazid_al-Shaybani",
+                "Khalid_(disambiguation)",
+                "Chieftain_(tank)",
+                "Khalid_ibn_Barmak",
+                "Calid",
+                "Khalid_El_Bakraoui",
+                "Khalid_bin_Abdullah_Al_Khalifa",
+                "Bin_Laden_family",
+                "Khalid_bin_Faisal_Al_Saud",
+                "Khalid_Shahdan"
+            ],
+            "scores": [
+                0.7616033755274262,
+                0.08860759493670886,
+                0.06540084388185655,
+                0.02109704641350211,
+                0.016877637130801686,
+                0.006329113924050633,
+                0.004219409282700422,
+                0.004219409282700422,
+                0.004219409282700422,
+                0.004219409282700422,
+                0.002109704641350211,
+                0.002109704641350211,
+                0.002109704641350211,
+                0.002109704641350211,
+                0.002109704641350211,
+                0.002109704641350211
+            ]
+        },
+        {
+            "begin": 1726,
+            "end": 1748,
+            "text": "News Agency of Nigeria",
+            "concept": 20,
+            "candidates": [
+                "News_Agency_of_Nigeria"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1871,
+            "end": 1875,
+            "text": "Iran",
+            "concept": 21,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 1880,
+            "end": 1882,
+            "text": "US",
+            "concept": 22,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1986,
+            "end": 1996,
+            "text": "Washington",
+            "concept": 23,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 2001,
+            "end": 2007,
+            "text": "Tehran",
+            "concept": 24,
+            "candidates": [
+                "Tehran",
+                "Tehran_Province",
+                "Tehran_(horse)",
+                "Tehran_Conference",
+                "Aryamehr_Cup",
+                "Tehran_(film)",
+                "Tehran,_Rey,_Shemiranat_and_Eslamshahr_(electoral_district)",
+                "Timeline_of_Tehran",
+                "Mehrabad_International_Airport",
+                "Chaldean_Catholic_Archeparchy_of_Tehran",
+                "Tehran_Imam_Khomeini_International_Airport",
+                "University_of_Tehran",
+                "1975_Aryamehr_Cup",
+                "Islamic_City_Council_of_Tehran",
+                "1974_Aryamehr_Cup",
+                "Azadi_Stadium"
+            ],
+            "scores": [
+                0.9721690140845071,
+                0.010704225352112675,
+                0.003267605633802817,
+                0.003267605633802817,
+                0.001352112676056338,
+                0.001352112676056338,
+                0.0011267605633802818,
+                0.0010140845070422536,
+                0.000676056338028169,
+                0.0005633802816901409,
+                0.0005633802816901409,
+                0.0004507042253521127,
+                0.0003380281690140845,
+                0.0003380281690140845,
+                0.0003380281690140845,
+                0.0003380281690140845
+            ]
+        },
+        {
+            "begin": 2013,
+            "end": 2015,
+            "text": "US",
+            "concept": 22,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2027,
+            "end": 2032,
+            "text": "Abuja",
+            "concept": 25,
+            "candidates": [
+                "Abuja",
+                "Roman_Catholic_Archdiocese_of_Abuja",
+                "Abuja_F.C.",
+                "National_Stadium,_Abuja",
+                "Suleja_Emirate",
+                "Nnamdi_Azikiwe_International_Airport",
+                "2003_All-Africa_Games",
+                "Federal_Capital_Territory,_Nigeria",
+                "Suleja",
+                "Abuja_bid_for_the_2014_Commonwealth_Games",
+                "Category:Films_set_in_Abuja",
+                "Anglican_Province_of_Abuja"
+            ],
+            "scores": [
+                0.976161369193154,
+                0.007946210268948655,
+                0.004889975550122249,
+                0.0024449877750611247,
+                0.0024449877750611247,
+                0.0018337408312958435,
+                0.0012224938875305623,
+                0.0006112469437652812,
+                0.0006112469437652812,
+                0.0006112469437652812,
+                0.0006112469437652812,
+                0.0006112469437652812
+            ]
+        },
+        {
+            "begin": 2062,
+            "end": 2078,
+            "text": "State Department",
+            "concept": 26,
+            "candidates": [
+                "United_States_Department_of_State",
+                "Awards_of_the_United_States_Department_of_State",
+                "Harry_S_Truman_Building",
+                "United_States_Secretary_of_State",
+                "Minister_of_the_Interior_(France)",
+                "Bureau_of_Consular_Affairs",
+                "United_States_Department_of_Homeland_Security",
+                "United_States",
+                "Hillary_Clinton's_tenure_as_Secretary_of_State",
+                "Jen_Psaki",
+                "George_Marshall"
+            ],
+            "scores": [
+                0.9854280510018215,
+                0.007893139040680024,
+                0.0012143290831815423,
+                0.0012143290831815423,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711,
+                0.0006071645415907711
+            ]
+        },
+        {
+            "begin": 2079,
+            "end": 2088,
+            "text": "spokesman",
+            "concept": 16
+        },
+        {
+            "begin": 2089,
+            "end": 2099,
+            "text": "John Kriby",
+            "concept": 27,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2110,
+            "end": 2120,
+            "text": "Washington",
+            "concept": 23,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 2206,
+            "end": 2210,
+            "text": "Iran",
+            "concept": 21,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 2220,
+            "end": 2227,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2273,
+            "end": 2277,
+            "text": "IRNA",
+            "concept": 4,
+            "candidates": [
+                "Islamic_Republic_News_Agency"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2299,
+            "end": 2306,
+            "text": "Tuesday",
+            "concept": 28
+        },
+        {
+            "begin": 2308,
+            "end": 2312,
+            "text": "Iran",
+            "concept": 21,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 2326,
+            "end": 2334,
+            "text": "Nigerian",
+            "concept": 7
+        },
+        {
+            "begin": 2435,
+            "end": 2439,
+            "text": "IRNA",
+            "concept": 4,
+            "candidates": [
+                "Islamic_Republic_News_Agency"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2446,
+            "end": 2452,
+            "text": "Shiite",
+            "concept": 0
+        },
+        {
+            "begin": 2485,
+            "end": 2492,
+            "text": "Zakzaky",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2531,
+            "end": 2535,
+            "text": "1979",
+            "concept": 29
+        },
+        {
+            "begin": 2536,
+            "end": 2554,
+            "text": "Islamic Revolution",
+            "concept": 30,
+            "candidates": [
+                "Iranian_Revolution",
+                "Islam_and_Revolution"
+            ],
+            "scores": [
+                0.997867803837953,
+                0.0021321961620469083
+            ]
+        },
+        {
+            "begin": 2558,
+            "end": 2564,
+            "text": "Shiite",
+            "concept": 0
+        },
+        {
+            "begin": 2565,
+            "end": 2569,
+            "text": "Iran",
+            "concept": 21,
+            "candidates": [
+                "Iran",
+                "Iran_national_football_team",
+                "Pahlavi_dynasty",
+                "Football_Federation_Islamic_Republic_of_Iran",
+                "Iran_national_futsal_team",
+                "Iran_national_basketball_team",
+                "Iran_national_cerebral_palsy_football_team",
+                "Qajar_dynasty",
+                "Islamic_Republic_of_Iran_Volleyball_Federation",
+                "Iran_men's_national_volleyball_team",
+                "Iran_national_beach_soccer_team",
+                "Iran_Fed_Cup_team",
+                "Cinema_of_Iran",
+                "Greater_Iran",
+                "Football_in_Iran",
+                "List_of_non-marine_molluscs_of_Iran"
+            ],
+            "scores": [
+                0.9727134009514407,
+                0.009514406247195045,
+                0.0021990844627950814,
+                0.0021205457319809712,
+                0.0005834305717619603,
+                0.0004936720222601203,
+                0.00047123238488466025,
+                0.00043757292882147026,
+                0.0003029351045687102,
+                0.0003029351045687102,
+                0.00029171528588098014,
+                0.00026927564850552014,
+                0.00025805582981779015,
+                0.00024683601113006015,
+                0.00023561619244233013,
+                0.0002019567363791401
+            ]
+        },
+        {
+            "begin": 2583,
+            "end": 2590,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2613,
+            "end": 2620,
+            "text": "Muslims",
+            "concept": 31
+        },
+        {
+            "begin": 2625,
+            "end": 2630,
+            "text": "Sunni",
+            "concept": 32
+        },
+        {
+            "begin": 2646,
+            "end": 2656,
+            "text": "Boko Haram",
+            "concept": 33,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 2752,
+            "end": 2759,
+            "text": "Nigeria",
+            "concept": 1,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2802,
+            "end": 2808,
+            "text": "Shiite",
+            "concept": 0
+        },
+        {
+            "begin": 2867,
+            "end": 2874,
+            "text": "Zakzaky",
+            "concept": 5,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 2947,
+            "end": 2973,
+            "text": "jar/msh (AP, dpa, Reuters)",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Shiite Muslims",
+            "keyword": true,
+            "count": 9,
+            "link": "Shia_Islam",
+            "tags": [
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Nigeria",
+            "keyword": true,
+            "count": 5,
+            "link": "Nigeria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 3,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 4,
+            "text": "IRNA",
+            "keyword": true,
+            "count": 2,
+            "link": "Islamic_Republic_News_Agency",
+            "tags": [
+                "slot::keyword",
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Ibraheem Zakzaky",
+            "keyword": false,
+            "count": 4,
+            "link": "Ibrahim_Zakzaky",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Lawal Khalid",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::health_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Nigerian",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Islamic Movement",
+            "keyword": false,
+            "count": 2,
+            "link": "Islamic_Movement_(Nigeria)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::movement",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Witness",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Ojo Momodu",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Associated Press",
+            "keyword": false,
+            "count": 1,
+            "link": "Associated_Press",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Army Corps of Military Police",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::army",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Chidi Odinkalu",
+            "keyword": false,
+            "count": 1,
+            "link": "Chidi_Odinkalu",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::activist",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Human Rights Commission",
+            "keyword": false,
+            "count": 1,
+            "link": "National_Human_Rights_Commission_(Nigeria)",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::politics_org"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "spokesman",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Ibrahim Musa",
+            "keyword": false,
+            "count": 1,
+            "link": "Ibrahim_Musa",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Zaria",
+            "keyword": false,
+            "count": 1,
+            "link": "Zaria",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "hospital chief",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "News Agency of Nigeria",
+            "keyword": false,
+            "count": 1,
+            "link": "News_Agency_of_Nigeria",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Iran",
+            "keyword": false,
+            "count": 4,
+            "link": "Iran",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "US",
+            "keyword": false,
+            "count": 2,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Washington",
+            "keyword": false,
+            "count": 2,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Tehran",
+            "keyword": false,
+            "count": 1,
+            "link": "Tehran",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Abuja",
+            "keyword": false,
+            "count": 1,
+            "link": "Abuja",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "State Department",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States_Department_of_State",
+            "tags": [
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::governmental_organisation",
+                "type::ministry",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "John Kriby",
+            "keyword": false,
+            "count": 1,
+            "link": "John_Kirby_(admiral)",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "1979",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Islamic Revolution",
+            "keyword": false,
+            "count": 1,
+            "link": "Iranian_Revolution",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::protest"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Sunni",
+            "keyword": false,
+            "count": 1,
+            "link": "Sunni_Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Boko Haram",
+            "keyword": false,
+            "count": 1,
+            "link": "Boko_Haram",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "jar/msh (AP, dpa, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Islam",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 21
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "head_of",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 8,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 10,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 10,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "agency_of",
+            "o": 1
+        },
+        {
+            "s": 12,
+            "p": "agency_of-x",
+            "o": 7
+        },
+        {
+            "s": 12,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 12,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 13,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 13,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 14,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 17,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 17,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 17,
+            "p": "member_of",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "spokesperson_of",
+            "o": 8
+        },
+        {
+            "s": 18,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 18,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 20,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 20,
+            "p": "based_in0-x",
+            "o": 7
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 21
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 1
+        },
+        {
+            "s": 25,
+            "p": "in0-x",
+            "o": 7
+        },
+        {
+            "s": 26,
+            "p": "agency_of",
+            "o": 22
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 26,
+            "p": "ministry_of",
+            "o": 22
+        },
+        {
+            "s": 27,
+            "p": "citizen_of",
+            "o": 22
+        },
+        {
+            "s": 27,
+            "p": "member_of",
+            "o": 26
+        },
+        {
+            "s": 27,
+            "p": "spokesperson_of",
+            "o": 26
+        },
+        {
+            "s": 30,
+            "p": "event_in0",
+            "o": 21
+        },
+        {
+            "s": 33,
+            "p": "based_in0",
+            "o": 1
+        },
+        {
+            "s": 33,
+            "p": "based_in0-x",
+            "o": 7
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "target",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "16000000",
+        "20000056",
+        "20000062",
+        "20000063"
+    ]
+}

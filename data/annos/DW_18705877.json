@@ -1,0 +1,353 @@
+{
+    "id": "DW_18705877",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 12,
+            "text": "John Crocket",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 14,
+            "end": 21,
+            "text": "British",
+            "concept": 3
+        },
+        {
+            "begin": 36,
+            "end": 43,
+            "text": "Cologne",
+            "concept": 1,
+            "candidates": [
+                "Cologne",
+                "K\u00f6ln_Hauptbahnhof",
+                "Electorate_of_Cologne",
+                "Roman_Catholic_Archdiocese_of_Cologne",
+                "University_of_Cologne",
+                "Cologne_Grand_Prix",
+                "Cologne-Weidenpesch_Racecourse",
+                "1._FC_K\u00f6ln",
+                "Eau_de_Cologne",
+                "Cologne,_Minnesota",
+                "Lanxess_Arena",
+                "Bombing_of_Cologne_in_World_War_II",
+                "Archbishop_of_Cologne",
+                "Cologne_Cathedral",
+                "Cologne_(region)",
+                "Cologne_Bonn_Airport"
+            ],
+            "scores": [
+                0.9019193857965451,
+                0.033685220729366604,
+                0.012859884836852208,
+                0.012667946257197697,
+                0.008253358925143953,
+                0.004222648752399232,
+                0.0025911708253358924,
+                0.0024952015355086373,
+                0.0023032629558541267,
+                0.002015355086372361,
+                0.0015355086372360845,
+                0.0014395393474088292,
+                0.0014395393474088292,
+                0.0012476007677543186,
+                0.001055662188099808,
+                0.0008637236084452975
+            ]
+        },
+        {
+            "begin": 44,
+            "end": 51,
+            "text": "British",
+            "concept": 3
+        },
+        {
+            "begin": 65,
+            "end": 72,
+            "text": "Germany",
+            "concept": 4,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 117,
+            "end": 131,
+            "text": "Thomas Schmitz",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 137,
+            "end": 144,
+            "text": "Cologne",
+            "concept": 1,
+            "candidates": [
+                "Cologne",
+                "K\u00f6ln_Hauptbahnhof",
+                "Electorate_of_Cologne",
+                "Roman_Catholic_Archdiocese_of_Cologne",
+                "University_of_Cologne",
+                "Cologne_Grand_Prix",
+                "Cologne-Weidenpesch_Racecourse",
+                "1._FC_K\u00f6ln",
+                "Eau_de_Cologne",
+                "Cologne,_Minnesota",
+                "Lanxess_Arena",
+                "Bombing_of_Cologne_in_World_War_II",
+                "Archbishop_of_Cologne",
+                "Cologne_Cathedral",
+                "Cologne_(region)",
+                "Cologne_Bonn_Airport"
+            ],
+            "scores": [
+                0.9019193857965451,
+                0.033685220729366604,
+                0.012859884836852208,
+                0.012667946257197697,
+                0.008253358925143953,
+                0.004222648752399232,
+                0.0025911708253358924,
+                0.0024952015355086373,
+                0.0023032629558541267,
+                0.002015355086372361,
+                0.0015355086372360845,
+                0.0014395393474088292,
+                0.0014395393474088292,
+                0.0012476007677543186,
+                0.001055662188099808,
+                0.0008637236084452975
+            ]
+        },
+        {
+            "begin": 157,
+            "end": 162,
+            "text": "label",
+            "concept": 5
+        },
+        {
+            "begin": 163,
+            "end": 175,
+            "text": "John Crocket",
+            "concept": 0,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 184,
+            "end": 188,
+            "text": "1987",
+            "concept": 6
+        },
+        {
+            "begin": 258,
+            "end": 266,
+            "text": "Scottish",
+            "concept": 7
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "John Crocket",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::brand",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Cologne",
+            "keyword": true,
+            "count": 2,
+            "link": "Cologne",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Thomas Schmitz",
+            "keyword": true,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::20000170",
+                "slot::keyword",
+                "topic::business",
+                "type::entity",
+                "type::manager",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "British",
+            "keyword": true,
+            "count": 2,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Germany",
+            "keyword": false,
+            "count": 1,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "label",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "1987",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Scottish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe1-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 9,
+            "keyword": false,
+            "count": 0,
+            "link": "Scotland",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 4
+        },
+        {
+            "s": 0,
+            "p": "based_in2",
+            "o": 1
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 4
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 1
+        },
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 7,
+            "p": "gpe1",
+            "o": 9
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "01000000",
+        "20000002",
+        "20000011"
+    ]
+}

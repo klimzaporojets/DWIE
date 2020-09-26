@@ -1,0 +1,239 @@
+{
+    "id": "DW_18710352",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 62,
+            "end": 67,
+            "text": "Spain",
+            "concept": 0,
+            "candidates": [
+                "Spain",
+                "Spain_national_football_team",
+                "Royal_Spanish_Football_Federation",
+                "Liga_ACB",
+                "Spanish_Empire",
+                "Spain_men's_national_basketball_team",
+                "Spain_national_rugby_union_team",
+                "Restoration_(Spain)",
+                "Habsburg_Spain",
+                "Francoist_Spain",
+                "Royal_Spanish_Cycling_Federation",
+                "Spain_women's_national_football_team",
+                "Same-sex_marriage_in_Spain",
+                "Spain_national_under-21_football_team",
+                "Spanish_poetry",
+                "Spain_national_beach_soccer_team"
+            ],
+            "scores": [
+                0.8500364403231558,
+                0.03932453596737428,
+                0.005504814774612725,
+                0.005349749569694057,
+                0.003969669245917909,
+                0.003582006233621238,
+                0.002651615004109228,
+                0.0026361084836173613,
+                0.00254306936066616,
+                0.0025120563196824263,
+                0.0021709128688613562,
+                0.002108886786893889,
+                0.002015847663942688,
+                0.0019383150614833537,
+                0.0019228085409914869,
+                0.0018762889795158864
+            ]
+        },
+        {
+            "begin": 70,
+            "end": 75,
+            "text": "China",
+            "concept": 1,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 105,
+            "end": 113,
+            "text": "Ethiopia",
+            "concept": 2,
+            "candidates": [
+                "Ethiopia",
+                "Ethiopian_Empire",
+                "Ethiopia_national_football_team",
+                "Ethiopian_Football_Federation",
+                "Derg",
+                "People's_Democratic_Republic_of_Ethiopia",
+                "Ethiopia_women's_national_football_team",
+                "Aethiopia",
+                "History_of_Ethiopia",
+                "List_of_non-marine_molluscs_of_Ethiopia",
+                "Transitional_Government_of_Ethiopia",
+                "Music_of_Ethiopia",
+                "Beta_Israel",
+                "Ethiopian_cuisine",
+                "Ethiopia_at_the_2009_World_Championships_in_Athletics",
+                "Elections_in_Ethiopia"
+            ],
+            "scores": [
+                0.92567791005291,
+                0.01703042328042328,
+                0.01570767195767196,
+                0.004794973544973545,
+                0.004216269841269841,
+                0.0023974867724867724,
+                0.0015707671957671957,
+                0.0015707671957671957,
+                0.001240079365079365,
+                0.0011574074074074073,
+                0.0010747354497354497,
+                0.000992063492063492,
+                0.0008267195767195767,
+                0.0008267195767195767,
+                0.0006613756613756613,
+                0.0006613756613756613
+            ]
+        },
+        {
+            "begin": 132,
+            "end": 138,
+            "text": "German",
+            "concept": 3
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Spain",
+            "keyword": true,
+            "count": 1,
+            "link": "Spain",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "China",
+            "keyword": true,
+            "count": 1,
+            "link": "China",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Ethiopia",
+            "keyword": true,
+            "count": 1,
+            "link": "Ethiopia",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "German",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 4,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 3,
+            "p": "gpe0",
+            "o": 4
+        }
+    ],
+    "frames": [
+        {
+            "type": "demonstrate",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "03000000",
+        "04000000",
+        "09000000",
+        "20000148",
+        "20000151",
+        "20000157",
+        "20000158",
+        "20000170",
+        "20000171",
+        "20000524",
+        "20000529",
+        "20000530"
+    ]
+}

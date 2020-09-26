@@ -1,0 +1,2376 @@
+{
+    "id": "DW_18378635",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 90,
+            "end": 96,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 115,
+            "end": 125,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 171,
+            "end": 173,
+            "text": "DW",
+            "concept": 10,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 193,
+            "end": 200,
+            "text": "Nigeria",
+            "concept": 5,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 202,
+            "end": 216,
+            "text": "Adrian Kriesch",
+            "concept": 11,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 247,
+            "end": 257,
+            "text": "Lawal Emos",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 354,
+            "end": 361,
+            "text": "Comfort",
+            "concept": 12,
+            "candidates": [
+                "Comfort,_Texas",
+                "Comfort",
+                "Comfort_(Failure_album)",
+                "Comfort_(fabric_softener)",
+                "Toyota_Comfort",
+                "Comfort_(Maya_Jane_Coles_album)",
+                "USNS_Comfort_(T-AH-20)",
+                "Comfort,_North_Carolina",
+                "Comfort,_Wisconsin",
+                "Comfort_(Splashh_album)",
+                "Ride_quality",
+                "Comfort,_West_Virginia",
+                "Nathaniel_C._Comfort",
+                "Comfort_object",
+                "Comfort_bicycle",
+                "Comfort_behaviour_in_animals"
+            ],
+            "scores": [
+                0.4429530201342282,
+                0.22818791946308725,
+                0.0738255033557047,
+                0.053691275167785234,
+                0.03355704697986577,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154
+            ]
+        },
+        {
+            "begin": 385,
+            "end": 389,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        },
+        {
+            "begin": 427,
+            "end": 434,
+            "text": "Comfort",
+            "concept": 12,
+            "candidates": [
+                "Comfort,_Texas",
+                "Comfort",
+                "Comfort_(Failure_album)",
+                "Comfort_(fabric_softener)",
+                "Toyota_Comfort",
+                "Comfort_(Maya_Jane_Coles_album)",
+                "USNS_Comfort_(T-AH-20)",
+                "Comfort,_North_Carolina",
+                "Comfort,_Wisconsin",
+                "Comfort_(Splashh_album)",
+                "Ride_quality",
+                "Comfort,_West_Virginia",
+                "Nathaniel_C._Comfort",
+                "Comfort_object",
+                "Comfort_bicycle",
+                "Comfort_behaviour_in_animals"
+            ],
+            "scores": [
+                0.4429530201342282,
+                0.22818791946308725,
+                0.0738255033557047,
+                0.053691275167785234,
+                0.03355704697986577,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154
+            ]
+        },
+        {
+            "begin": 495,
+            "end": 505,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 542,
+            "end": 548,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 563,
+            "end": 570,
+            "text": "Nigeria",
+            "concept": 5,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 602,
+            "end": 606,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        },
+        {
+            "begin": 659,
+            "end": 663,
+            "text": "Yola",
+            "concept": 3,
+            "candidates": [
+                "Yola,_Adamawa",
+                "Forth_and_Bargy_dialect",
+                "Yola_(webhost)",
+                "Yola_(album)",
+                "Roman_Catholic_Diocese_of_Yola",
+                "Yola_(beetle)",
+                "Anglican_Diocese_of_Yola",
+                "Yola_North",
+                "Yawl"
+            ],
+            "scores": [
+                0.6938775510204082,
+                0.10884353741496598,
+                0.05442176870748299,
+                0.05442176870748299,
+                0.034013605442176874,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 712,
+            "end": 718,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 826,
+            "end": 835,
+            "text": "Red Cross",
+            "concept": 4,
+            "candidates": [
+                "International_Red_Cross_and_Red_Crescent_Movement",
+                "American_Red_Cross",
+                "International_Committee_of_the_Red_Cross",
+                "British_Red_Cross",
+                "Australian_Red_Cross",
+                "International_Federation_of_Red_Cross_and_Red_Crescent_Societies",
+                "Canadian_Red_Cross",
+                "Emblems_of_the_International_Red_Cross_and_Red_Crescent_Movement",
+                "German_Red_Cross",
+                "Redd_Kross",
+                "Red_Cross_(EP)",
+                "Philippine_Red_Cross",
+                "New_Zealand_Red_Cross",
+                "Saint_George's_Cross",
+                "List_of_Red_Cross_and_Red_Crescent_Societies",
+                "Indian_Red_Cross_Society"
+            ],
+            "scores": [
+                0.8822648292390654,
+                0.039544637507489516,
+                0.026063511084481725,
+                0.007189934092270821,
+                0.00689035350509287,
+                0.005692031156381066,
+                0.004194128220491312,
+                0.0035949670461354103,
+                0.0032953864589574597,
+                0.002396644697423607,
+                0.002097064110245656,
+                0.0017974835230677051,
+                0.0014979029358897543,
+                0.0014979029358897543,
+                0.0011983223487118035,
+                0.0008987417615338526
+            ]
+        },
+        {
+            "begin": 873,
+            "end": 877,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        },
+        {
+            "begin": 909,
+            "end": 913,
+            "text": "Yola",
+            "concept": 3,
+            "candidates": [
+                "Yola,_Adamawa",
+                "Forth_and_Bargy_dialect",
+                "Yola_(webhost)",
+                "Yola_(album)",
+                "Roman_Catholic_Diocese_of_Yola",
+                "Yola_(beetle)",
+                "Anglican_Diocese_of_Yola",
+                "Yola_North",
+                "Yawl"
+            ],
+            "scores": [
+                0.6938775510204082,
+                0.10884353741496598,
+                0.05442176870748299,
+                0.05442176870748299,
+                0.034013605442176874,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 939,
+            "end": 946,
+            "text": "Comfort",
+            "concept": 12,
+            "candidates": [
+                "Comfort,_Texas",
+                "Comfort",
+                "Comfort_(Failure_album)",
+                "Comfort_(fabric_softener)",
+                "Toyota_Comfort",
+                "Comfort_(Maya_Jane_Coles_album)",
+                "USNS_Comfort_(T-AH-20)",
+                "Comfort,_North_Carolina",
+                "Comfort,_Wisconsin",
+                "Comfort_(Splashh_album)",
+                "Ride_quality",
+                "Comfort,_West_Virginia",
+                "Nathaniel_C._Comfort",
+                "Comfort_object",
+                "Comfort_bicycle",
+                "Comfort_behaviour_in_animals"
+            ],
+            "scores": [
+                0.4429530201342282,
+                0.22818791946308725,
+                0.0738255033557047,
+                0.053691275167785234,
+                0.03355704697986577,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.020134228187919462,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.013422818791946308,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154,
+                0.006711409395973154
+            ]
+        },
+        {
+            "begin": 1012,
+            "end": 1016,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        },
+        {
+            "begin": 1123,
+            "end": 1129,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 1177,
+            "end": 1181,
+            "text": "Yola",
+            "concept": 3,
+            "candidates": [
+                "Yola,_Adamawa",
+                "Forth_and_Bargy_dialect",
+                "Yola_(webhost)",
+                "Yola_(album)",
+                "Roman_Catholic_Diocese_of_Yola",
+                "Yola_(beetle)",
+                "Anglican_Diocese_of_Yola",
+                "Yola_North",
+                "Yawl"
+            ],
+            "scores": [
+                0.6938775510204082,
+                0.10884353741496598,
+                0.05442176870748299,
+                0.05442176870748299,
+                0.034013605442176874,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 1210,
+            "end": 1216,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 1239,
+            "end": 1257,
+            "text": "April 14 -15, 2014",
+            "concept": 13
+        },
+        {
+            "begin": 1304,
+            "end": 1306,
+            "text": "DW",
+            "concept": 10,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 1340,
+            "end": 1350,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 1473,
+            "end": 1483,
+            "text": "Lawal Emos",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1630,
+            "end": 1634,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        },
+        {
+            "begin": 1643,
+            "end": 1647,
+            "text": "wife",
+            "concept": 14
+        },
+        {
+            "begin": 1648,
+            "end": 1653,
+            "text": "Hauwa",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1834,
+            "end": 1839,
+            "text": "Hauwa",
+            "concept": 15,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1852,
+            "end": 1855,
+            "text": "God",
+            "concept": 16,
+            "candidates": [
+                "God",
+                "G.o.d",
+                "God_in_Christianity",
+                "God_in_Islam",
+                "God_in_Judaism",
+                "Deity",
+                "Names_of_God_in_Judaism",
+                "Allah",
+                "God_(male_deity)",
+                "Yahweh",
+                "God_(John_Lennon_song)",
+                "God_in_Abrahamic_religions",
+                "God_(British_band)",
+                "God_the_Father",
+                "\u00c6sir",
+                "Trinity"
+            ],
+            "scores": [
+                0.6864714086471408,
+                0.05843793584379359,
+                0.05801952580195258,
+                0.04546722454672245,
+                0.018549511854951184,
+                0.015341701534170154,
+                0.010599721059972107,
+                0.0099023709902371,
+                0.006276150627615063,
+                0.005578800557880056,
+                0.005439330543933054,
+                0.005160390516039052,
+                0.0048814504881450485,
+                0.004741980474198048,
+                0.0030683403068340305,
+                0.0029288702928870294
+            ]
+        },
+        {
+            "begin": 1973,
+            "end": 1981,
+            "text": "Islamist",
+            "concept": 17
+        },
+        {
+            "begin": 1982,
+            "end": 1997,
+            "text": "terrorist group",
+            "concept": 18
+        },
+        {
+            "begin": 1998,
+            "end": 2008,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 2052,
+            "end": 2059,
+            "text": "Islamic",
+            "concept": 0
+        },
+        {
+            "begin": 2128,
+            "end": 2135,
+            "text": "Nigeria",
+            "concept": 5,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2148,
+            "end": 2158,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 2200,
+            "end": 2208,
+            "text": "Nigerian",
+            "concept": 19
+        },
+        {
+            "begin": 2297,
+            "end": 2307,
+            "text": "Christians",
+            "concept": 20
+        },
+        {
+            "begin": 2312,
+            "end": 2319,
+            "text": "Muslims",
+            "concept": 21
+        },
+        {
+            "begin": 2404,
+            "end": 2414,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 2417,
+            "end": 2423,
+            "text": "leader",
+            "concept": 22
+        },
+        {
+            "begin": 2424,
+            "end": 2439,
+            "text": "Abubakar Shekau",
+            "concept": 23,
+            "candidates": [
+                "Abubakar_Shekau"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2570,
+            "end": 2576,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 2642,
+            "end": 2649,
+            "text": "Twitter",
+            "concept": 24,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 2651,
+            "end": 2658,
+            "text": "Nigeria",
+            "concept": 5,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2687,
+            "end": 2697,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 2706,
+            "end": 2708,
+            "text": "US",
+            "concept": 25,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2770,
+            "end": 2782,
+            "text": "May 26, 2014",
+            "concept": 26
+        },
+        {
+            "begin": 2784,
+            "end": 2794,
+            "text": "Alex Badeh",
+            "concept": 8,
+            "candidates": [
+                "Alex_Sabundu_Badeh"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2796,
+            "end": 2803,
+            "text": "Nigeria",
+            "concept": 5,
+            "candidates": [
+                "Nigeria",
+                "Nigeria_national_football_team",
+                "Nigeria_women's_national_football_team",
+                "Colonial_Nigeria",
+                "Nigeria_national_basketball_team",
+                "Nigeria_Football_Federation",
+                "Nigeria_national_under-17_football_team",
+                "Nigeria_at_the_2006_Commonwealth_Games",
+                "Nigeria_national_under-20_football_team",
+                "Nigeria_national_cricket_team",
+                "Nigeria_national_under-23_football_team",
+                "Nigeria_women's_national_under-20_football_team",
+                "Nigeria_national_beach_soccer_team",
+                "Nigeria_at_the_2014_Commonwealth_Games",
+                "Most_Beautiful_Girl_in_Nigeria",
+                "LGBT_rights_in_Nigeria"
+            ],
+            "scores": [
+                0.8923215808215056,
+                0.050554190280355085,
+                0.009729675510306434,
+                0.0049149907217011886,
+                0.003911931390741762,
+                0.0028085661266863933,
+                0.0026079542604945083,
+                0.002407342394302623,
+                0.002407342394302623,
+                0.001955965695370881,
+                0.0017052008626310246,
+                0.0012036711971513115,
+                0.0010030593309594263,
+                0.000802447464767541,
+                0.000802447464767541,
+                0.0006519885651236271
+            ]
+        },
+        {
+            "begin": 2954,
+            "end": 2961,
+            "text": "October",
+            "concept": 27
+        },
+        {
+            "begin": 2973,
+            "end": 2983,
+            "text": "army chief",
+            "concept": 28
+        },
+        {
+            "begin": 2984,
+            "end": 2989,
+            "text": "Badeh",
+            "concept": 8,
+            "candidates": [
+                "Badeh,_Khorramabad",
+                "Badeh,_Borujerd"
+            ],
+            "scores": [
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "begin": 3138,
+            "end": 3147,
+            "text": "President",
+            "concept": 29
+        },
+        {
+            "begin": 3148,
+            "end": 3165,
+            "text": "Goodluck Jonathan",
+            "concept": 30,
+            "candidates": [
+                "Goodluck_Jonathan"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3415,
+            "end": 3425,
+            "text": "Lawal Emos",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3501,
+            "end": 3511,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 3564,
+            "end": 3570,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 3607,
+            "end": 3616,
+            "text": "Nigerians",
+            "concept": 31
+        },
+        {
+            "begin": 3638,
+            "end": 3646,
+            "text": "March 28",
+            "concept": 32
+        },
+        {
+            "begin": 3652,
+            "end": 3660,
+            "text": "Nigerian",
+            "concept": 19
+        },
+        {
+            "begin": 3709,
+            "end": 3713,
+            "text": "Chad",
+            "concept": 33,
+            "candidates": [
+                "Chad",
+                "Chad_national_football_team",
+                "Chad_of_Mercia",
+                "Chadian_Football_Federation",
+                "French_Chad",
+                "Chad_(paper)",
+                "Elections_in_Chad",
+                "Chad_Basin",
+                "Chadian_Air_Force",
+                "Chad_(rapper)",
+                "LGBT_rights_in_Chad",
+                "Chad_DiMera",
+                "Chadian_ground_forces",
+                "Chad_Harris-Crane",
+                "Football_in_Chad",
+                "Flag_of_Chad"
+            ],
+            "scores": [
+                0.9176620076238882,
+                0.010927573062261754,
+                0.00940279542566709,
+                0.008386277001270648,
+                0.004066073697585769,
+                0.0035578144853875477,
+                0.002287166454891995,
+                0.0020330368487928843,
+                0.0017789072426937739,
+                0.0017789072426937739,
+                0.0017789072426937739,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632,
+                0.0015247776365946632
+            ]
+        },
+        {
+            "begin": 3715,
+            "end": 3723,
+            "text": "Cameroon",
+            "concept": 34,
+            "candidates": [
+                "Cameroon",
+                "Cameroon_national_football_team",
+                "Cameroonian_Football_Federation",
+                "Cameroon_women's_national_football_team",
+                "Kamerun",
+                "Cameroon_women's_national_handball_team",
+                "Cameroon_national_basketball_team",
+                "Cameroon_at_the_2006_Commonwealth_Games",
+                "Cameroon_national_under-20_football_team",
+                "Cameroonian_Armed_Forces",
+                "Cameroon_national_rugby_union_team",
+                "LGBT_rights_in_Cameroon",
+                "Cameroon_Air_Force",
+                "List_of_non-marine_molluscs_of_Cameroon",
+                "Elections_in_Cameroon",
+                "Miss_Cameroon"
+            ],
+            "scores": [
+                0.8735750327041675,
+                0.07559334703793684,
+                0.011399738366660438,
+                0.007194916837974211,
+                0.0039245000934404785,
+                0.0016819286114744907,
+                0.0016819286114744907,
+                0.0015884881330592412,
+                0.0014016071762287423,
+                0.001308166697813493,
+                0.0009344047841524949,
+                0.0009344047841524949,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0008409643057372453,
+                0.0007475238273219959
+            ]
+        },
+        {
+            "begin": 3728,
+            "end": 3733,
+            "text": "Niger",
+            "concept": 35,
+            "candidates": [
+                "Niger",
+                "Niger_River",
+                "Niger_national_football_team",
+                "Niger_State",
+                "Nigerien_Football_Federation",
+                "Niger_Armed_Forces",
+                "Elections_in_Niger",
+                "LGBT_rights_in_Niger",
+                "Colony_of_Niger",
+                "Music_of_Niger",
+                "Niger_national_rugby_union_team",
+                "Bah\u00e1'\u00ed_Faith_in_Niger",
+                "Football_in_Niger",
+                "Guizotia_abyssinica",
+                "Niger_Delta",
+                "Niger_at_the_Paralympics"
+            ],
+            "scores": [
+                0.8631979695431472,
+                0.0434010152284264,
+                0.025634517766497462,
+                0.013451776649746193,
+                0.01065989847715736,
+                0.003553299492385787,
+                0.0027918781725888324,
+                0.0020304568527918783,
+                0.0020304568527918783,
+                0.0017766497461928934,
+                0.0015228426395939086,
+                0.0015228426395939086,
+                0.0015228426395939086,
+                0.0012690355329949238,
+                0.0010152284263959391,
+                0.0010152284263959391
+            ]
+        },
+        {
+            "begin": 3766,
+            "end": 3776,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 3809,
+            "end": 3818,
+            "text": "Nigerians",
+            "concept": 31
+        },
+        {
+            "begin": 3984,
+            "end": 3994,
+            "text": "journalist",
+            "concept": 36
+        },
+        {
+            "begin": 3995,
+            "end": 4015,
+            "text": "Umar Faruq Baba Inna",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4021,
+            "end": 4025,
+            "text": "Yola",
+            "concept": 3,
+            "candidates": [
+                "Yola,_Adamawa",
+                "Forth_and_Bargy_dialect",
+                "Yola_(webhost)",
+                "Yola_(album)",
+                "Roman_Catholic_Diocese_of_Yola",
+                "Yola_(beetle)",
+                "Anglican_Diocese_of_Yola",
+                "Yola_North",
+                "Yawl"
+            ],
+            "scores": [
+                0.6938775510204082,
+                0.10884353741496598,
+                0.05442176870748299,
+                0.05442176870748299,
+                0.034013605442176874,
+                0.02040816326530612,
+                0.013605442176870748,
+                0.013605442176870748,
+                0.006802721088435374
+            ]
+        },
+        {
+            "begin": 4077,
+            "end": 4083,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 4158,
+            "end": 4166,
+            "text": "Nigerian",
+            "concept": 19
+        },
+        {
+            "begin": 4362,
+            "end": 4378,
+            "text": "Muhammadu Buhari",
+            "concept": 7,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4473,
+            "end": 4482,
+            "text": "Baba Inna",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4489,
+            "end": 4495,
+            "text": "Buhari",
+            "concept": 7,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4509,
+            "end": 4512,
+            "text": "APC",
+            "concept": 37,
+            "candidates": [
+                "All_Progressives_Congress",
+                "Armoured_personnel_carrier",
+                "Adenomatous_polyposis_coli",
+                "A.P.C.",
+                "All_People's_Congress",
+                "APC_by_Schneider_Electric",
+                "Asian_Paralympic_Committee",
+                "Antigen-presenting_cell",
+                "Anaphase-promoting_complex",
+                "APC_(magazine)",
+                "Association_for_Progressive_Communications",
+                "Apc,_Hungary",
+                "Alternative_PHP_Cache",
+                "Australian_Provincial_Championship",
+                "Andorra_for_Change",
+                "Alliance_(Chile)"
+            ],
+            "scores": [
+                0.4808877928483354,
+                0.22441430332922319,
+                0.1060419235511714,
+                0.03822441430332922,
+                0.02342786683107275,
+                0.01726263871763255,
+                0.012330456226880395,
+                0.011097410604192354,
+                0.009864364981504316,
+                0.008631319358816275,
+                0.007398273736128237,
+                0.006165228113440197,
+                0.004932182490752158,
+                0.0036991368680641184,
+                0.0036991368680641184,
+                0.0036991368680641184
+            ]
+        },
+        {
+            "begin": 4593,
+            "end": 4603,
+            "text": "Lawal Emos",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4660,
+            "end": 4670,
+            "text": "Boko Haram",
+            "concept": 2,
+            "candidates": [
+                "Boko_Haram",
+                "Boko_Haram_insurgency"
+            ],
+            "scores": [
+                0.9982394366197183,
+                0.0017605633802816902
+            ]
+        },
+        {
+            "begin": 4700,
+            "end": 4708,
+            "text": "Nigerian",
+            "concept": 19
+        },
+        {
+            "begin": 4709,
+            "end": 4726,
+            "text": "political analyst",
+            "concept": 38
+        },
+        {
+            "begin": 4727,
+            "end": 4737,
+            "text": "Edgar Amos",
+            "concept": 39,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 4748,
+            "end": 4754,
+            "text": "Buhari",
+            "concept": 7,
+            "candidates": [
+                "Muhammadu_Buhari"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 4774,
+            "end": 4780,
+            "text": "Chibok",
+            "concept": 1,
+            "candidates": [
+                "Chibok",
+                "Cibak_language",
+                "Chibok_schoolgirls_kidnapping"
+            ],
+            "scores": [
+                0.9534883720930233,
+                0.023255813953488372,
+                0.023255813953488372
+            ]
+        },
+        {
+            "begin": 5060,
+            "end": 5070,
+            "text": "Lawal Emos",
+            "concept": 6,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 5175,
+            "end": 5179,
+            "text": "Emos",
+            "concept": 6,
+            "candidates": [
+                "Emo's",
+                "Emo",
+                "Emo_(stereotype)"
+            ],
+            "scores": [
+                0.74,
+                0.24,
+                0.02
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Chibok",
+            "keyword": true,
+            "count": 9,
+            "link": "Chibok",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Boko Haram",
+            "keyword": true,
+            "count": 10,
+            "link": "Boko_Haram",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Yola",
+            "keyword": true,
+            "count": 4,
+            "link": "Yola,_Adamawa",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Red Cross",
+            "keyword": true,
+            "count": 1,
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Nigeria",
+            "keyword": true,
+            "count": 5,
+            "link": "Nigeria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Lawal Emos",
+            "keyword": false,
+            "count": 11,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Muhammadu Buhari",
+            "keyword": false,
+            "count": 3,
+            "link": "Muhammadu_Buhari",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Alex Badeh",
+            "keyword": false,
+            "count": 2,
+            "link": "Alex_Badeh",
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::military_personnel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Umar Faruq Baba Inna",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "DW",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Adrian Kriesch",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "topic::media",
+                "type::entity",
+                "type::journalist",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Comfort",
+            "keyword": false,
+            "count": 3,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "April 14 -15, 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "wife",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Hauwa",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "God",
+            "keyword": false,
+            "count": 1,
+            "link": "God",
+            "tags": [
+                "iptc::12000000",
+                "topic::religion",
+                "type::deity",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "terrorist group",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Nigerian",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Christians",
+            "keyword": false,
+            "count": 1,
+            "link": "Christianity",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Muslims",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "leader",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Abubakar Shekau",
+            "keyword": false,
+            "count": 1,
+            "link": "Abubakar_Shekau",
+            "tags": [
+                "gender::male",
+                "iptc::16000000",
+                "slot::head",
+                "topic::conflict",
+                "type::entity",
+                "type::military_rebel",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "May 26, 2014",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "October",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "army chief",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Goodluck Jonathan",
+            "keyword": false,
+            "count": 1,
+            "link": "Goodluck_Jonathan",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Nigerians",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "March 28",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Chad",
+            "keyword": false,
+            "count": 1,
+            "link": "Chad",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Cameroon",
+            "keyword": false,
+            "count": 1,
+            "link": "Cameroon",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Niger",
+            "keyword": false,
+            "count": 1,
+            "link": "Niger",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "journalist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "APC",
+            "keyword": false,
+            "count": 1,
+            "link": "All_Progressives_Congress",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "political analyst",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Edgar Amos",
+            "keyword": false,
+            "count": 1,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "meta::todo",
+                "topic::none",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 40,
+            "keyword": false,
+            "count": 0,
+            "link": "Islamism",
+            "tags": []
+        },
+        {
+            "concept": 41,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 19
+        },
+        {
+            "s": 1,
+            "p": "in0-x",
+            "o": 31
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 5
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 19
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 31
+        },
+        {
+            "s": 3,
+            "p": "in0",
+            "o": 5
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 19
+        },
+        {
+            "s": 3,
+            "p": "in0-x",
+            "o": 31
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 6,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 6,
+            "p": "parent_of",
+            "o": 12
+        },
+        {
+            "s": 6,
+            "p": "spouse_of",
+            "o": 15
+        },
+        {
+            "s": 7,
+            "p": "agent_of",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 7,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 7,
+            "p": "head_of_state",
+            "o": 5
+        },
+        {
+            "s": 7,
+            "p": "head_of_state-x",
+            "o": 19
+        },
+        {
+            "s": 7,
+            "p": "head_of_state-x",
+            "o": 31
+        },
+        {
+            "s": 7,
+            "p": "member_of",
+            "o": 37
+        },
+        {
+            "s": 8,
+            "p": "agent_of",
+            "o": 5
+        },
+        {
+            "s": 8,
+            "p": "agent_of-x",
+            "o": 19
+        },
+        {
+            "s": 8,
+            "p": "agent_of-x",
+            "o": 31
+        },
+        {
+            "s": 8,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 8,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 10,
+            "p": "based_in0",
+            "o": 41
+        },
+        {
+            "s": 11,
+            "p": "member_of",
+            "o": 10
+        },
+        {
+            "s": 12,
+            "p": "child_of",
+            "o": 6
+        },
+        {
+            "s": 12,
+            "p": "child_of",
+            "o": 15
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 12,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 15,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 15,
+            "p": "parent_of",
+            "o": 12
+        },
+        {
+            "s": 15,
+            "p": "spouse_of",
+            "o": 6
+        },
+        {
+            "s": 19,
+            "p": "gpe0",
+            "o": 5
+        },
+        {
+            "s": 23,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 23,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 23,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 23,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 30,
+            "p": "agent_of",
+            "o": 5
+        },
+        {
+            "s": 30,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 30,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 30,
+            "p": "citizen_of-x",
+            "o": 31
+        },
+        {
+            "s": 30,
+            "p": "head_of_state",
+            "o": 5
+        },
+        {
+            "s": 30,
+            "p": "head_of_state-x",
+            "o": 19
+        },
+        {
+            "s": 30,
+            "p": "head_of_state-x",
+            "o": 31
+        },
+        {
+            "s": 31,
+            "p": "gpe0",
+            "o": 5
+        },
+        {
+            "s": 37,
+            "p": "based_in0",
+            "o": 5
+        },
+        {
+            "s": 37,
+            "p": "based_in0-x",
+            "o": 19
+        },
+        {
+            "s": 37,
+            "p": "based_in0-x",
+            "o": 31
+        },
+        {
+            "s": 39,
+            "p": "citizen_of",
+            "o": 5
+        },
+        {
+            "s": 39,
+            "p": "citizen_of-x",
+            "o": 19
+        },
+        {
+            "s": 39,
+            "p": "citizen_of-x",
+            "o": 31
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000100",
+        "20000103"
+    ]
+}

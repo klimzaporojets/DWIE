@@ -1,0 +1,2858 @@
+{
+    "id": "DW_6180268",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 12,
+            "end": 18,
+            "text": "Bremen",
+            "concept": 2,
+            "candidates": [
+                "Bremen",
+                "Bremen_(state)",
+                "Archbishopric_of_Bremen",
+                "Bremen_Hauptbahnhof",
+                "Bremen,_Georgia",
+                "Bremen_(aircraft)",
+                "Bremen,_Indiana",
+                "Bremen,_Maine",
+                "SS_Bremen_(1928)",
+                "Bremen_Airport",
+                "Bremen,_Alabama",
+                "SV_Werder_Bremen",
+                "Bremen-Verden",
+                "Bremen,_Ohio",
+                "Bremen_High_School_(Bremen,_Indiana)",
+                "Bremen_Township,_Cook_County,_Illinois"
+            ],
+            "scores": [
+                0.8561356707317073,
+                0.046684451219512195,
+                0.016577743902439025,
+                0.014672256097560975,
+                0.010670731707317074,
+                0.007240853658536586,
+                0.006669207317073171,
+                0.006097560975609756,
+                0.004573170731707317,
+                0.0026676829268292685,
+                0.002096036585365854,
+                0.0019054878048780487,
+                0.001714939024390244,
+                0.001714939024390244,
+                0.001524390243902439,
+                0.001524390243902439
+            ]
+        },
+        {
+            "begin": 29,
+            "end": 45,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 62,
+            "end": 69,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 72,
+            "end": 88,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 154,
+            "end": 161,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 166,
+            "end": 172,
+            "text": "Werder",
+            "concept": 2,
+            "candidates": [
+                "Werder_(Havel)",
+                "Werder,_Ethiopia",
+                "Werder_(woreda)",
+                "SV_Werder_Bremen",
+                "Werder,_Demmin",
+                "Werder,_Parchim",
+                "Rehfelde",
+                "Balmer_Werder",
+                "Dollo_Zone",
+                "Virtsu"
+            ],
+            "scores": [
+                0.5,
+                0.20967741935483872,
+                0.08064516129032258,
+                0.06451612903225806,
+                0.04838709677419355,
+                0.03225806451612903,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516
+            ]
+        },
+        {
+            "begin": 234,
+            "end": 242,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 260,
+            "end": 276,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 400,
+            "end": 409,
+            "text": "World Cup",
+            "concept": 10,
+            "candidates": [
+                "FIFA_World_Cup",
+                "World_Cup_(men's_golf)",
+                "FIS_Alpine_Ski_World_Cup",
+                "FIS_Ski_Jumping_World_Cup",
+                "Biathlon_World_Cup",
+                "Rugby_League_World_Cup",
+                "FIS_Freestyle_Ski_World_Cup",
+                "ISU_Speed_Skating_World_Cup",
+                "2006_IAAF_World_Cup",
+                "Cricket_World_Cup",
+                "FIS_Cross-Country_World_Cup",
+                "1989_IAAF_World_Cup",
+                "2006_FIFA_World_Cup",
+                "2010_FIFA_World_Cup",
+                "2017\u201318_ISU_Speed_Skating_World_Cup",
+                "Rugby_World_Cup"
+            ],
+            "scores": [
+                0.15123783835853963,
+                0.0750409401791735,
+                0.06743088334457181,
+                0.032848473172141415,
+                0.02331181967055197,
+                0.02042192467007032,
+                0.014642134669107023,
+                0.013871496002311917,
+                0.012330218668721703,
+                0.01136692033522782,
+                0.011174260668529043,
+                0.010981601001830267,
+                0.010981601001830267,
+                0.010403622001733937,
+                0.009632983334938831,
+                0.009440323668240054
+            ]
+        },
+        {
+            "begin": 441,
+            "end": 452,
+            "text": "Real Madrid",
+            "concept": 11,
+            "candidates": [
+                "Real_Madrid_C.F.",
+                "Real_Madrid_Baloncesto",
+                "Real_Madrid_C.F._(youth)",
+                "Real_Madrid_Voleibol",
+                "Real_Madrid_Rugby",
+                "Real_Madrid_Baloncesto_B",
+                "Real_Madrid_(South_Africa)",
+                "2017\u201318_Real_Madrid_Baloncesto_season",
+                "2016\u201317_Real_Madrid_Baloncesto_season",
+                "2015\u201316_Real_Madrid_Baloncesto_season",
+                "Real_Madrid_Balonmano",
+                "La_F\u00e1brica",
+                "2015\u201316_Real_Madrid_C.F._season",
+                "Real_Madrid_C",
+                "Real_Madrid_Castilla",
+                "2010\u201311_Real_Madrid_Baloncesto_season"
+            ],
+            "scores": [
+                0.7536421672941561,
+                0.2375184154526109,
+                0.004174169258471108,
+                0.0017187755770175152,
+                0.0006547716483876248,
+                0.0005729251923391717,
+                0.0004910787362907187,
+                0.0003273858241938124,
+                0.0001636929120969062,
+                0.0001636929120969062,
+                0.0001636929120969062,
+                8.18464560484531e-05,
+                8.18464560484531e-05,
+                8.18464560484531e-05,
+                8.18464560484531e-05,
+                8.18464560484531e-05
+            ]
+        },
+        {
+            "begin": 453,
+            "end": 458,
+            "text": "coach",
+            "concept": 12
+        },
+        {
+            "begin": 459,
+            "end": 472,
+            "text": "Jose Mourinho",
+            "concept": 13,
+            "candidates": [
+                "Jos\u00e9_Mourinho",
+                "Arsenal_F.C.\u2013Chelsea_F.C._rivalry"
+            ],
+            "scores": [
+                0.9988221436984688,
+                0.001177856301531213
+            ]
+        },
+        {
+            "begin": 626,
+            "end": 632,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 686,
+            "end": 693,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 729,
+            "end": 745,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 765,
+            "end": 771,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 855,
+            "end": 864,
+            "text": "Nuremberg",
+            "concept": 15,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 866,
+            "end": 879,
+            "text": "Bayern Munich",
+            "concept": 16,
+            "candidates": [
+                "FC_Bayern_Munich",
+                "FC_Bayern_Munich_(basketball)",
+                "FC_Bayern_Munich_(women)",
+                "FC_Bayern_Munich_Junior_Team",
+                "FC_Bayern_Munich_II",
+                "1975\u201376_FC_Bayern_Munich_season"
+            ],
+            "scores": [
+                0.8923263048738334,
+                0.059108192188040094,
+                0.04459039059799516,
+                0.00276529554096094,
+                0.0010369858278603526,
+                0.00017283097131005876
+            ]
+        },
+        {
+            "begin": 895,
+            "end": 912,
+            "text": "Champion's League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 1022,
+            "end": 1030,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 1048,
+            "end": 1055,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 1072,
+            "end": 1077,
+            "text": "coach",
+            "concept": 12
+        },
+        {
+            "begin": 1078,
+            "end": 1090,
+            "text": "Felix Magath",
+            "concept": 4,
+            "candidates": [
+                "Felix_Magath"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1124,
+            "end": 1131,
+            "text": "Spanish",
+            "concept": 17
+        },
+        {
+            "begin": 1132,
+            "end": 1136,
+            "text": "star",
+            "concept": 18
+        },
+        {
+            "begin": 1137,
+            "end": 1141,
+            "text": "Raul",
+            "concept": 19,
+            "candidates": [
+                "Ra\u00fal_(footballer)",
+                "Ra\u00fal_Castro",
+                "Raul_Plassmann",
+                "Raul",
+                "Ra\u00fal_Fuentes_Cuenca",
+                "Ra\u00fal_Ruiz_Matar\u00edn",
+                "Ra\u00fal_Fern\u00e1ndez-Cavada_Mateos",
+                "Raul_Roco",
+                "Ra\u00fal_Albiol",
+                "R\u0103ul_River",
+                "Ra\u00fal_Salinas_de_Gortari",
+                "Ra\u00fal_Garc\u00eda_de_Mateos",
+                "Les_Huguenots",
+                "Raul_Cuadra_Chamberlain",
+                "Raul_Daza",
+                "Raul_Guilherme_Martins"
+            ],
+            "scores": [
+                0.8360655737704918,
+                0.04553734061930783,
+                0.029143897996357013,
+                0.025500910746812388,
+                0.014571948998178506,
+                0.009107468123861567,
+                0.00546448087431694,
+                0.00546448087431694,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133
+            ]
+        },
+        {
+            "begin": 1199,
+            "end": 1215,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 1241,
+            "end": 1248,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 1395,
+            "end": 1411,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 1452,
+            "end": 1460,
+            "text": "Portugal",
+            "concept": 20,
+            "candidates": [
+                "Portugal",
+                "Portugal_national_football_team",
+                "Kingdom_of_Portugal",
+                "Portuguese_Football_Federation",
+                "Portugal_national_rugby_union_team",
+                "A1_Team_Portugal",
+                "Portugal_national_under-21_football_team",
+                "Portugal_national_beach_soccer_team",
+                "Estado_Novo_(Portugal)",
+                "Same-sex_marriage_in_Portugal",
+                "Portugal_women's_national_football_team",
+                "Portugal_national_under-20_football_team",
+                "Portugal_national_under-19_football_team",
+                "Portuguese_Empire",
+                "Portugal_in_the_Eurovision_Song_Contest",
+                "Portuguese_wine"
+            ],
+            "scores": [
+                0.7819838898763378,
+                0.07306281435540597,
+                0.022047422758385962,
+                0.009076126006882729,
+                0.007714707105850319,
+                0.006315471013122565,
+                0.005407858412434292,
+                0.005256589645652914,
+                0.004954052112090156,
+                0.004727148961918088,
+                0.004159891086487917,
+                0.003063192527322921,
+                0.003063192527322921,
+                0.0027228378020648187,
+                0.0021555799266346483,
+                0.0019664939681579246
+            ]
+        },
+        {
+            "begin": 1463,
+            "end": 1470,
+            "text": "Benfica",
+            "concept": 21,
+            "candidates": [
+                "S.L._Benfica",
+                "S.L._Benfica_(basketball)",
+                "S.L._Benfica_(roller_hockey)",
+                "S.L._Benfica_(futsal)",
+                "S.L._Benfica_(handball)",
+                "S.L._Benfica_(athletics)",
+                "S.L._Benfica_(volleyball)",
+                "S.L._Benfica_(rugby_union)",
+                "S.L._Benfica_Juniors",
+                "S.L._Benfica_(cycling_team)",
+                "Benfica_(Lisbon)",
+                "Benfica_W.S.C.",
+                "Benfica_F.C.",
+                "Benfica_de_Santa_Cruz",
+                "Benfica,_Rio_de_Janeiro",
+                "S.L._Benfica_B"
+            ],
+            "scores": [
+                0.8117565936907429,
+                0.05412859851749698,
+                0.029650060334425098,
+                0.024133770039648336,
+                0.01258403723495949,
+                0.010515428374418203,
+                0.009308739872435787,
+                0.008274435442165143,
+                0.00810205137045337,
+                0.007757283227029822,
+                0.0039648336493707985,
+                0.0034476814342354768,
+                0.003275297362523703,
+                0.0024133770039648336,
+                0.001896224788829512,
+                0.0015514566454059645
+            ]
+        },
+        {
+            "begin": 1475,
+            "end": 1481,
+            "text": "Israel",
+            "concept": 22,
+            "candidates": [
+                "Israel",
+                "Israel_national_football_team",
+                "Kingdom_of_Israel_(Samaria)",
+                "Recognition_of_same-sex_unions_in_Israel",
+                "Unregistered_cohabitation_in_Israel",
+                "Israeli_Basketball_Premier_League",
+                "Israel_national_under-21_football_team",
+                "Israel_Football_Association",
+                "Israelites",
+                "Land_of_Israel",
+                "Israel_Fed_Cup_team",
+                "Israel_national_basketball_team",
+                "Israel_in_the_Eurovision_Song_Contest",
+                "Israel_national_cricket_team",
+                "History_of_ancient_Israel_and_Judah",
+                "Israel_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9029233696592285,
+                0.02117280747275558,
+                0.005016433143054835,
+                0.003943954333160353,
+                0.003528801245459263,
+                0.0033212247016087184,
+                0.0028368794326241137,
+                0.002733091160698841,
+                0.002283341982355994,
+                0.002144957619788964,
+                0.002006573257221934,
+                0.0019719771665801765,
+                0.0019719771665801765,
+                0.001868188894654904,
+                0.001591420169520844,
+                0.0014530358069538142
+            ]
+        },
+        {
+            "begin": 1484,
+            "end": 1499,
+            "text": "Hapoel Tel Aviv",
+            "concept": 0,
+            "candidates": [
+                "Hapoel_Tel_Aviv_F.C.",
+                "Hapoel_Tel_Aviv_B.C.",
+                "Hapoel_Tel_Aviv",
+                "Hapoel_Tel_Aviv_F.C._(women)"
+            ],
+            "scores": [
+                0.7068403908794788,
+                0.23344191096634093,
+                0.04560260586319218,
+                0.014115092290988056
+            ]
+        },
+        {
+            "begin": 1516,
+            "end": 1524,
+            "text": "Tel Aviv",
+            "concept": 23,
+            "candidates": [
+                "Tel_Aviv",
+                "Tel_Aviv_Open",
+                "Tel_Aviv_District",
+                "Ben_Gurion_Airport",
+                "Tel_Aviv_University",
+                "Menora_Mivtachim_Arena",
+                "Timeline_of_Tel_Aviv",
+                "National_Sport_Center_\u2013_Tel_Aviv",
+                "Hapoel_Tel_Aviv_F.C.",
+                "Gush_Dan",
+                "Tel_Aviv_Savidor_Central_railway_station",
+                "1939_Palestine_League",
+                "List_of_ambassadors_of_the_United_Kingdom_to_Israel",
+                "Tel_Aviv_derby",
+                "Tel_Aviv_Museum_of_Art",
+                "1990_Riklis_Classic"
+            ],
+            "scores": [
+                0.9798598949211909,
+                0.009131848886664998,
+                0.002877157868401301,
+                0.0018764073054791093,
+                0.0017513134851138354,
+                0.0015011258443832875,
+                0.0003752814610958219,
+                0.0002501876407305479,
+                0.0002501876407305479,
+                0.0002501876407305479,
+                0.0002501876407305479,
+                0.00012509382036527395,
+                0.00012509382036527395,
+                0.00012509382036527395,
+                0.00012509382036527395,
+                0.00012509382036527395
+            ]
+        },
+        {
+            "begin": 1528,
+            "end": 1535,
+            "text": "Tuesday",
+            "concept": 24
+        },
+        {
+            "begin": 1662,
+            "end": 1668,
+            "text": "Magath",
+            "concept": 4,
+            "candidates": [
+                "Felix_Magath"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1698,
+            "end": 1705,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 1808,
+            "end": 1814,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1843,
+            "end": 1847,
+            "text": "Raul",
+            "concept": 19,
+            "candidates": [
+                "Ra\u00fal_(footballer)",
+                "Ra\u00fal_Castro",
+                "Raul_Plassmann",
+                "Raul",
+                "Ra\u00fal_Fuentes_Cuenca",
+                "Ra\u00fal_Ruiz_Matar\u00edn",
+                "Ra\u00fal_Fern\u00e1ndez-Cavada_Mateos",
+                "Raul_Roco",
+                "Ra\u00fal_Albiol",
+                "R\u0103ul_River",
+                "Ra\u00fal_Salinas_de_Gortari",
+                "Ra\u00fal_Garc\u00eda_de_Mateos",
+                "Les_Huguenots",
+                "Raul_Cuadra_Chamberlain",
+                "Raul_Daza",
+                "Raul_Guilherme_Martins"
+            ],
+            "scores": [
+                0.8360655737704918,
+                0.04553734061930783,
+                0.029143897996357013,
+                0.025500910746812388,
+                0.014571948998178506,
+                0.009107468123861567,
+                0.00546448087431694,
+                0.00546448087431694,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133
+            ]
+        },
+        {
+            "begin": 1853,
+            "end": 1869,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 1938,
+            "end": 1944,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1979,
+            "end": 1983,
+            "text": "Raul",
+            "concept": 19,
+            "candidates": [
+                "Ra\u00fal_(footballer)",
+                "Ra\u00fal_Castro",
+                "Raul_Plassmann",
+                "Raul",
+                "Ra\u00fal_Fuentes_Cuenca",
+                "Ra\u00fal_Ruiz_Matar\u00edn",
+                "Ra\u00fal_Fern\u00e1ndez-Cavada_Mateos",
+                "Raul_Roco",
+                "Ra\u00fal_Albiol",
+                "R\u0103ul_River",
+                "Ra\u00fal_Salinas_de_Gortari",
+                "Ra\u00fal_Garc\u00eda_de_Mateos",
+                "Les_Huguenots",
+                "Raul_Cuadra_Chamberlain",
+                "Raul_Daza",
+                "Raul_Guilherme_Martins"
+            ],
+            "scores": [
+                0.8360655737704918,
+                0.04553734061930783,
+                0.029143897996357013,
+                0.025500910746812388,
+                0.014571948998178506,
+                0.009107468123861567,
+                0.00546448087431694,
+                0.00546448087431694,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0036429872495446266,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133,
+                0.0018214936247723133
+            ]
+        },
+        {
+            "begin": 1997,
+            "end": 2003,
+            "text": "Hapoel",
+            "concept": 0,
+            "candidates": [
+                "Hapoel",
+                "Hapoel_Tel_Aviv_F.C.",
+                "Hapoel_Haifa_F.C.",
+                "Hapoel_Petah_Tikva_F.C.",
+                "Hapoel_Rishon_LeZion_F.C.",
+                "Hapoel_Rishon_LeZion_(handball)",
+                "Hapoel_Tel_Aviv",
+                "Hapoel_Be'er_Sheva_F.C.",
+                "Hapoel_Ashdod_F.C.",
+                "Hapoel_Lod_F.C.",
+                "Hapoel_Jerusalem_B.C."
+            ],
+            "scores": [
+                0.7142857142857143,
+                0.10989010989010989,
+                0.06593406593406594,
+                0.04945054945054945,
+                0.01098901098901099,
+                0.01098901098901099,
+                0.01098901098901099,
+                0.01098901098901099,
+                0.005494505494505495,
+                0.005494505494505495,
+                0.005494505494505495
+            ]
+        },
+        {
+            "begin": 2105,
+            "end": 2113,
+            "text": "Saturday",
+            "concept": 25
+        },
+        {
+            "begin": 2148,
+            "end": 2158,
+            "text": "Leverkusen",
+            "concept": 26,
+            "candidates": [
+                "Leverkusen",
+                "Bayer_04_Leverkusen",
+                "BayArena",
+                "Bayer_Giants_Leverkusen",
+                "Leverkusen_Mitte_station",
+                "Bayer_04_Leverkusen_(women)"
+            ],
+            "scores": [
+                0.9319852941176471,
+                0.04779411764705882,
+                0.009191176470588236,
+                0.0055147058823529415,
+                0.003676470588235294,
+                0.001838235294117647
+            ]
+        },
+        {
+            "begin": 2217,
+            "end": 2224,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 2375,
+            "end": 2387,
+            "text": "Manuel Neuer",
+            "concept": 27,
+            "candidates": [
+                "Manuel_Neuer"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2389,
+            "end": 2408,
+            "text": "Klaas-Jan Huntelaar",
+            "concept": 28,
+            "candidates": [
+                "Klaas-Jan_Huntelaar"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2413,
+            "end": 2432,
+            "text": "Christoph Metzelder",
+            "concept": 29,
+            "candidates": [
+                "Christoph_Metzelder"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2438,
+            "end": 2444,
+            "text": "Magath",
+            "concept": 4,
+            "candidates": [
+                "Felix_Magath"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2583,
+            "end": 2592,
+            "text": "newspaper",
+            "concept": 30
+        },
+        {
+            "begin": 2593,
+            "end": 2597,
+            "text": "Bild",
+            "concept": 31,
+            "candidates": [
+                "Bild",
+                "Harry_Bild"
+            ],
+            "scores": [
+                0.9966996699669967,
+                0.0033003300330033004
+            ]
+        },
+        {
+            "begin": 2605,
+            "end": 2611,
+            "text": "Magath",
+            "concept": 4,
+            "candidates": [
+                "Felix_Magath"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2786,
+            "end": 2799,
+            "text": "Werder Bremen",
+            "concept": 2,
+            "candidates": [
+                "SV_Werder_Bremen",
+                "SV_Werder_Bremen_(women)"
+            ],
+            "scores": [
+                0.9896166134185304,
+                0.010383386581469648
+            ]
+        },
+        {
+            "begin": 2923,
+            "end": 2932,
+            "text": "Nuremberg",
+            "concept": 15,
+            "candidates": [
+                "Nuremberg",
+                "Nuremberg_Central_Station",
+                "Nuremberg_trials",
+                "Nuremberg_(2000_film)",
+                "Burgraviate_of_Nuremberg",
+                "Nuremberg_Airport",
+                "Nuremberg,_Pennsylvania",
+                "Free_Imperial_City_of_Nuremberg",
+                "Nuremberg_U-Bahn",
+                "1._FC_N\u00fcrnberg",
+                "Timeline_of_Nuremberg",
+                "Nuremberg_Open",
+                "Max-Morlock-Stadion",
+                "2014_N\u00fcrnberger_Versicherungscup",
+                "Nuremberg_S-Bahn",
+                "Reichsbahndirektion_N\u00fcrnberg"
+            ],
+            "scores": [
+                0.90294315884071,
+                0.03707032127611773,
+                0.019096832172545496,
+                0.01550213435183105,
+                0.0051673781172770165,
+                0.0031453605931251404,
+                0.0022466861379465287,
+                0.0022466861379465287,
+                0.001797348910357223,
+                0.0015726802965625702,
+                0.0008986744551786115,
+                0.0006740058413839587,
+                0.0006740058413839587,
+                0.00044933722758930576,
+                0.00044933722758930576,
+                0.00044933722758930576
+            ]
+        },
+        {
+            "begin": 2985,
+            "end": 3000,
+            "text": "Claudio Pizarro",
+            "concept": 32,
+            "candidates": [
+                "Claudio_Pizarro"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3002,
+            "end": 3014,
+            "text": "Hugo Almeida",
+            "concept": 33,
+            "candidates": [
+                "Hugo_Almeida",
+                "Hugo_Guimar\u00e3es_Silva_Santos_Almeida"
+            ],
+            "scores": [
+                0.9416666666666667,
+                0.058333333333333334
+            ]
+        },
+        {
+            "begin": 3020,
+            "end": 3031,
+            "text": "Marko Marin",
+            "concept": 6,
+            "candidates": [
+                "Marko_Marin",
+                "Marko_Marin_(professor)"
+            ],
+            "scores": [
+                0.9425287356321839,
+                0.05747126436781609
+            ]
+        },
+        {
+            "begin": 3122,
+            "end": 3128,
+            "text": "Europe",
+            "concept": 14,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 3157,
+            "end": 3164,
+            "text": "Tuesday",
+            "concept": 24
+        },
+        {
+            "begin": 3180,
+            "end": 3185,
+            "text": "Dutch",
+            "concept": 34
+        },
+        {
+            "begin": 3196,
+            "end": 3205,
+            "text": "FC Twente",
+            "concept": 5,
+            "candidates": [
+                "FC_Twente",
+                "FC_Twente_Vrouwen"
+            ],
+            "scores": [
+                0.9069940476190477,
+                0.09300595238095238
+            ]
+        },
+        {
+            "begin": 3319,
+            "end": 3336,
+            "text": "Tottenham Hotspur",
+            "concept": 35,
+            "candidates": [
+                "Tottenham_Hotspur_F.C.",
+                "Tottenham_Hotspur_(Superleague_Formula_team)",
+                "Tottenham_Hotspur_L.F.C.",
+                "Tottenham_Hotspur_F.C._Under-23s_and_Academy",
+                "Everton_F.C.",
+                "1962_FA_Cup_Final"
+            ],
+            "scores": [
+                0.978686104447315,
+                0.013194316294519283,
+                0.004059789629082856,
+                0.003875253736851818,
+                9.226794611551947e-05,
+                9.226794611551947e-05
+            ]
+        },
+        {
+            "begin": 3419,
+            "end": 3425,
+            "text": "Werder",
+            "concept": 2,
+            "candidates": [
+                "Werder_(Havel)",
+                "Werder,_Ethiopia",
+                "Werder_(woreda)",
+                "SV_Werder_Bremen",
+                "Werder,_Demmin",
+                "Werder,_Parchim",
+                "Rehfelde",
+                "Balmer_Werder",
+                "Dollo_Zone",
+                "Virtsu"
+            ],
+            "scores": [
+                0.5,
+                0.20967741935483872,
+                0.08064516129032258,
+                0.06451612903225806,
+                0.04838709677419355,
+                0.03225806451612903,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516
+            ]
+        },
+        {
+            "begin": 3467,
+            "end": 3473,
+            "text": "Werder",
+            "concept": 2,
+            "candidates": [
+                "Werder_(Havel)",
+                "Werder,_Ethiopia",
+                "Werder_(woreda)",
+                "SV_Werder_Bremen",
+                "Werder,_Demmin",
+                "Werder,_Parchim",
+                "Rehfelde",
+                "Balmer_Werder",
+                "Dollo_Zone",
+                "Virtsu"
+            ],
+            "scores": [
+                0.5,
+                0.20967741935483872,
+                0.08064516129032258,
+                0.06451612903225806,
+                0.04838709677419355,
+                0.03225806451612903,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516
+            ]
+        },
+        {
+            "begin": 3584,
+            "end": 3589,
+            "text": "Marin",
+            "concept": 6,
+            "candidates": [
+                "Marin_County,_California",
+                "Mar\u00edn,_Pontevedra",
+                "Marin_Draganja",
+                "Mar\u00edn,_Nuevo_Le\u00f3n",
+                "Marin_(wind)",
+                "Marin_(name)",
+                "Marin_Bikes",
+                "MaRin",
+                "Nicolas_Marin",
+                "Marin,_Haute-Savoie",
+                "Antonio_Marin_(footballer)",
+                "Le_Marin",
+                "Rosario_Marin",
+                "Mihail_Marin",
+                "R\u0103zvan_Marin",
+                "Marko_Marin"
+            ],
+            "scores": [
+                0.7623931623931623,
+                0.06495726495726496,
+                0.020512820512820513,
+                0.018803418803418803,
+                0.018803418803418803,
+                0.013675213675213675,
+                0.008547008547008548,
+                0.008547008547008548,
+                0.006837606837606838,
+                0.006837606837606838,
+                0.005128205128205128,
+                0.005128205128205128,
+                0.005128205128205128,
+                0.005128205128205128,
+                0.003418803418803419,
+                0.003418803418803419
+            ]
+        },
+        {
+            "begin": 3601,
+            "end": 3609,
+            "text": "Saturday",
+            "concept": 25
+        },
+        {
+            "begin": 3691,
+            "end": 3703,
+            "text": "Team captain",
+            "concept": 36
+        },
+        {
+            "begin": 3704,
+            "end": 3718,
+            "text": "Torsten Frings",
+            "concept": 37,
+            "candidates": [
+                "Torsten_Frings"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3749,
+            "end": 3757,
+            "text": "Saturday",
+            "concept": 25
+        },
+        {
+            "begin": 3908,
+            "end": 3924,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 4142,
+            "end": 4154,
+            "text": "Weserstadion",
+            "concept": 38,
+            "candidates": [
+                "Weser-Stadion",
+                "Weserstadion_Platz_11"
+            ],
+            "scores": [
+                0.9938271604938271,
+                0.006172839506172839
+            ]
+        },
+        {
+            "begin": 4208,
+            "end": 4214,
+            "text": "Twente",
+            "concept": 5,
+            "candidates": [
+                "FC_Twente",
+                "Twente",
+                "FC_Twente_Vrouwen",
+                "Enschede_Airport_Twente",
+                "University_of_Twente"
+            ],
+            "scores": [
+                0.8011583011583011,
+                0.14671814671814673,
+                0.04922779922779923,
+                0.0019305019305019305,
+                0.0009652509652509653
+            ]
+        },
+        {
+            "begin": 4216,
+            "end": 4222,
+            "text": "Werder",
+            "concept": 2,
+            "candidates": [
+                "Werder_(Havel)",
+                "Werder,_Ethiopia",
+                "Werder_(woreda)",
+                "SV_Werder_Bremen",
+                "Werder,_Demmin",
+                "Werder,_Parchim",
+                "Rehfelde",
+                "Balmer_Werder",
+                "Dollo_Zone",
+                "Virtsu"
+            ],
+            "scores": [
+                0.5,
+                0.20967741935483872,
+                0.08064516129032258,
+                0.06451612903225806,
+                0.04838709677419355,
+                0.03225806451612903,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516,
+                0.016129032258064516
+            ]
+        },
+        {
+            "begin": 4233,
+            "end": 4241,
+            "text": "European",
+            "concept": 9
+        },
+        {
+            "begin": 4302,
+            "end": 4307,
+            "text": "Dutch",
+            "concept": 34
+        },
+        {
+            "begin": 4350,
+            "end": 4361,
+            "text": "Netherlands",
+            "concept": 39,
+            "candidates": [
+                "Netherlands",
+                "Netherlands_national_football_team",
+                "Netherlands_national_cricket_team",
+                "Royal_Dutch_Football_Association",
+                "Netherlands_women's_national_football_team",
+                "A1_Team_Netherlands",
+                "Netherlands_women's_national_cricket_team",
+                "Same-sex_marriage_in_the_Netherlands",
+                "Netherlands_national_under-21_football_team",
+                "Kingdom_of_the_Netherlands",
+                "Netherlands_national_baseball_team",
+                "List_of_non-marine_molluscs_of_the_Netherlands",
+                "Dutch_Top_40",
+                "Netherlands_national_cerebral_palsy_football_team",
+                "ISU_Junior_Grand_Prix_in_the_Netherlands",
+                "Dutch_Republic"
+            ],
+            "scores": [
+                0.8586002372479241,
+                0.04102232287285668,
+                0.011280060390380675,
+                0.006276285991588483,
+                0.004184190661058989,
+                0.003235198964736331,
+                0.0030410870268521516,
+                0.002997951040655667,
+                0.0027175671303785185,
+                0.002674431144182034,
+                0.002350911247708401,
+                0.0019411193788417987,
+                0.0019411193788417987,
+                0.0018979833926453143,
+                0.0017470074409576188,
+                0.0017470074409576188
+            ]
+        },
+        {
+            "begin": 4367,
+            "end": 4374,
+            "text": "Schalke",
+            "concept": 1,
+            "candidates": [
+                "FC_Schalke_04",
+                "Schalke_(Harz)",
+                "Gelsenkirchen",
+                "FC_Schalke_04_(esports)"
+            ],
+            "scores": [
+                0.9497206703910615,
+                0.0335195530726257,
+                0.0111731843575419,
+                0.00558659217877095
+            ]
+        },
+        {
+            "begin": 4391,
+            "end": 4407,
+            "text": "Champions League",
+            "concept": 3,
+            "candidates": [
+                "UEFA_Champions_League",
+                "UEFA_Women's_Champions_League",
+                "2012\u201313_UEFA_Champions_League",
+                "2013\u201314_UEFA_Champions_League",
+                "2009\u201310_UEFA_Champions_League",
+                "2014\u201315_UEFA_Champions_League",
+                "2010\u201311_UEFA_Champions_League",
+                "Women's_EHF_Champions_League",
+                "2011\u201312_UEFA_Champions_League",
+                "2008\u201309_UEFA_Champions_League",
+                "2015\u201316_UEFA_Champions_League",
+                "2016\u201317_UEFA_Champions_League",
+                "2006\u201307_UEFA_Champions_League",
+                "2017\u201318_UEFA_Champions_League",
+                "2007\u201308_UEFA_Champions_League",
+                "Basketball_Champions_League"
+            ],
+            "scores": [
+                0.3457767722473605,
+                0.06297134238310709,
+                0.03299396681749623,
+                0.028469079939668174,
+                0.027526395173453996,
+                0.026395173453996983,
+                0.025829562594268475,
+                0.024321266968325792,
+                0.02356711915535445,
+                0.020739064856711915,
+                0.01998491704374057,
+                0.018665158371040724,
+                0.01791101055806938,
+                0.016968325791855202,
+                0.01583710407239819,
+                0.014328808446455505
+            ]
+        },
+        {
+            "begin": 4437,
+            "end": 4476,
+            "text": "Author: Ben Knight Editor: Matt Hermann",
+            "concept": 40
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Hapoel Tel Aviv",
+            "keyword": false,
+            "count": 2,
+            "link": "Hapoel_Tel_Aviv_F.C.",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Schalke",
+            "keyword": true,
+            "count": 7,
+            "link": "FC_Schalke_04",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Werder Bremen",
+            "keyword": true,
+            "count": 6,
+            "link": "SV_Werder_Bremen",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Champion's League",
+            "keyword": true,
+            "count": 10,
+            "link": "UEFA_Champions_League",
+            "tags": [
+                "iptc::15000000",
+                "slot::keyword",
+                "sport::20001065",
+                "sport_event::20001110",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Felix Magath",
+            "keyword": false,
+            "count": 4,
+            "link": "Felix_Magath",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "FC Twente",
+            "keyword": false,
+            "count": 2,
+            "link": "FC_Twente",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Marko Marin",
+            "keyword": false,
+            "count": 2,
+            "link": "Marko_Marin",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 7,
+            "keyword": false,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 8,
+            "text": "Germany",
+            "keyword": false,
+            "count": 2,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "European",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "World Cup",
+            "keyword": false,
+            "count": 1,
+            "link": "FIFA_World_Cup",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "sport_event::20001122",
+                "topic::sport",
+                "type::competition",
+                "type::entity",
+                "type::event",
+                "type::sport_competition"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Real Madrid",
+            "keyword": false,
+            "count": 1,
+            "link": "Real_Madrid_C.F.",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "coach",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Jose Mourinho",
+            "keyword": false,
+            "count": 1,
+            "link": "Jos\u00e9_Mourinho",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_coach"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Europe",
+            "keyword": false,
+            "count": 5,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Nuremberg",
+            "keyword": false,
+            "count": 2,
+            "link": "1._FC_N\u00fcrnberg",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Bayern Munich",
+            "keyword": false,
+            "count": 1,
+            "link": "FC_Bayern_Munich",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Spanish",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "star",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Raul",
+            "keyword": false,
+            "count": 3,
+            "link": "Ra\u00fal_(footballer)",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Portugal",
+            "keyword": false,
+            "count": 1,
+            "link": "Portugal",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Benfica",
+            "keyword": false,
+            "count": 1,
+            "link": "S.L._Benfica",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Israel",
+            "keyword": false,
+            "count": 1,
+            "link": "Israel",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Tel Aviv",
+            "keyword": false,
+            "count": 1,
+            "link": "Tel_Aviv",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Saturday",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Leverkusen",
+            "keyword": false,
+            "count": 1,
+            "link": "Bayer_04_Leverkusen",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Manuel Neuer",
+            "keyword": false,
+            "count": 1,
+            "link": "Manuel_Neuer",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Klaas-Jan Huntelaar",
+            "keyword": false,
+            "count": 1,
+            "link": "Klaas-Jan_Huntelaar",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Christoph Metzelder",
+            "keyword": false,
+            "count": 1,
+            "link": "Christoph_Metzelder",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "newspaper",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "Bild",
+            "keyword": false,
+            "count": 1,
+            "link": "Bild",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "Claudio Pizarro",
+            "keyword": false,
+            "count": 1,
+            "link": "Claudio_Pizarro",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Hugo Almeida",
+            "keyword": false,
+            "count": 1,
+            "link": "Hugo_Almeida",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Dutch",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "text": "Tottenham Hotspur",
+            "keyword": false,
+            "count": 1,
+            "link": "Tottenham_Hotspur_F.C.",
+            "tags": [
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::organization",
+                "type::sport_team"
+            ]
+        },
+        {
+            "concept": 36,
+            "text": "Team captain",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 37,
+            "text": "Torsten Frings",
+            "keyword": false,
+            "count": 1,
+            "link": "Torsten_Frings",
+            "tags": [
+                "gender::male",
+                "iptc::15000000",
+                "sport::20001065",
+                "topic::sport",
+                "type::entity",
+                "type::person",
+                "type::sport_player"
+            ]
+        },
+        {
+            "concept": 38,
+            "text": "Weserstadion",
+            "keyword": false,
+            "count": 1,
+            "link": "Weser-Stadion",
+            "tags": [
+                "iptc::15000000",
+                "topic::sport",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::sport_facility"
+            ]
+        },
+        {
+            "concept": 39,
+            "text": "Netherlands",
+            "keyword": false,
+            "count": 1,
+            "link": "Netherlands",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 40,
+            "text": "Author: Ben Knight Editor: Matt Hermann",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 41,
+            "keyword": false,
+            "count": 0,
+            "link": "Spain",
+            "tags": []
+        },
+        {
+            "concept": 42,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 22
+        },
+        {
+            "s": 0,
+            "p": "vs",
+            "o": 1
+        },
+        {
+            "s": 1,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "vs",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "vs",
+            "o": 21
+        },
+        {
+            "s": 1,
+            "p": "won_vs",
+            "o": 0
+        },
+        {
+            "s": 1,
+            "p": "won_vs",
+            "o": 21
+        },
+        {
+            "s": 2,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "vs",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "coach_of",
+            "o": 1
+        },
+        {
+            "s": 4,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 5,
+            "p": "based_in0",
+            "o": 39
+        },
+        {
+            "s": 5,
+            "p": "based_in0-x",
+            "o": 34
+        },
+        {
+            "s": 5,
+            "p": "vs",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "player_of",
+            "o": 2
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 41
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 17
+        },
+        {
+            "s": 13,
+            "p": "coach_of",
+            "o": 11
+        },
+        {
+            "s": 13,
+            "p": "member_of",
+            "o": 11
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 16,
+            "p": "appears_in",
+            "o": 3
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 41
+        },
+        {
+            "s": 19,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 19,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 21,
+            "p": "based_in0",
+            "o": 20
+        },
+        {
+            "s": 21,
+            "p": "vs",
+            "o": 1
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 22
+        },
+        {
+            "s": 26,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 27,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 27,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 28,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 28,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 29,
+            "p": "member_of",
+            "o": 1
+        },
+        {
+            "s": 29,
+            "p": "player_of",
+            "o": 1
+        },
+        {
+            "s": 31,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 32,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 32,
+            "p": "player_of",
+            "o": 2
+        },
+        {
+            "s": 33,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 33,
+            "p": "player_of",
+            "o": 2
+        },
+        {
+            "s": 34,
+            "p": "gpe0",
+            "o": 39
+        },
+        {
+            "s": 35,
+            "p": "based_in0",
+            "o": 42
+        },
+        {
+            "s": 37,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 37,
+            "p": "player_of",
+            "o": 2
+        },
+        {
+            "s": 38,
+            "p": "in0",
+            "o": 8
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-game",
+            "slots": [
+                {
+                    "name": "loser",
+                    "value": 1
+                },
+                {
+                    "name": "loser",
+                    "value": 2
+                },
+                {
+                    "name": "competition",
+                    "value": 3
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "15000000",
+        "20000822",
+        "20001065"
+    ]
+}

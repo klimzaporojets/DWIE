@@ -1,0 +1,1982 @@
+{
+    "id": "DW_37234530",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 7,
+            "text": "Mexican",
+            "concept": 7
+        },
+        {
+            "begin": 24,
+            "end": 30,
+            "text": "Canada",
+            "concept": 8,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 33,
+            "end": 40,
+            "text": "Trudeau",
+            "concept": 2,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 50,
+            "end": 55,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 62,
+            "end": 68,
+            "text": "Mexico",
+            "concept": 9,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 71,
+            "end": 80,
+            "text": "President",
+            "concept": 10
+        },
+        {
+            "begin": 81,
+            "end": 91,
+            "text": "Pena Nieto",
+            "concept": 1,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 102,
+            "end": 108,
+            "text": "Canada",
+            "concept": 8,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 111,
+            "end": 125,
+            "text": "Prime Minister",
+            "concept": 11
+        },
+        {
+            "begin": 126,
+            "end": 133,
+            "text": "Trudeau",
+            "concept": 2,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 148,
+            "end": 160,
+            "text": "Donald Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 182,
+            "end": 187,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 203,
+            "end": 208,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 274,
+            "end": 281,
+            "text": "Mexican",
+            "concept": 7
+        },
+        {
+            "begin": 282,
+            "end": 291,
+            "text": "President",
+            "concept": 10
+        },
+        {
+            "begin": 292,
+            "end": 310,
+            "text": "Enrique Pena Nieto",
+            "concept": 1,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 322,
+            "end": 330,
+            "text": "Canadian",
+            "concept": 12
+        },
+        {
+            "begin": 331,
+            "end": 345,
+            "text": "Prime Minister",
+            "concept": 11
+        },
+        {
+            "begin": 346,
+            "end": 360,
+            "text": "Justin Trudeau",
+            "concept": 2,
+            "candidates": [
+                "Justin_Trudeau"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 364,
+            "end": 370,
+            "text": "Sunday",
+            "concept": 13
+        },
+        {
+            "begin": 419,
+            "end": 421,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 422,
+            "end": 431,
+            "text": "President",
+            "concept": 10
+        },
+        {
+            "begin": 432,
+            "end": 444,
+            "text": "Donald Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Donald_Trump_(song)",
+                "Presidency_of_Donald_Trump",
+                "Donald_Trump_(Last_Week_Tonight)",
+                "Racial_views_of_Donald_Trump",
+                "Saturday_Night_Live_parodies_of_Donald_Trump",
+                "Inauguration_of_Donald_Trump",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Donald_Trump_in_popular_culture",
+                "Efforts_to_impeach_Donald_Trump"
+            ],
+            "scores": [
+                0.9859469817949537,
+                0.010220376876397317,
+                0.0023421697008410517,
+                0.0005323112956456936,
+                0.00031938677738741617,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872,
+                0.00010646225912913872
+            ]
+        },
+        {
+            "begin": 538,
+            "end": 548,
+            "text": "Pena Nieto",
+            "concept": 1,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 568,
+            "end": 574,
+            "text": "Mexico",
+            "concept": 9,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 614,
+            "end": 627,
+            "text": "North America",
+            "concept": 14,
+            "candidates": [
+                "North_America",
+                "CONCACAF",
+                "North_American,_Central_American_and_Caribbean_Athletic_Association",
+                "Indigenous_languages_of_the_Americas",
+                "CONCACAF_Champions_League",
+                "North_American_Football_Union",
+                "Rugby_Americas_North",
+                "United_States",
+                "British_North_America",
+                "Team_North_America_(World_Cup_of_Hockey_2016)",
+                "North,_Central_America_and_Caribbean_Volleyball_Confederation",
+                "List_of_town_tramway_systems_in_North_America",
+                "Outline_of_North_America",
+                "North_American_English",
+                "North_American_Numbering_Plan",
+                "Nearctic_realm"
+            ],
+            "scores": [
+                0.9667550839964633,
+                0.015605658709106985,
+                0.004199823165340406,
+                0.0009725906277630416,
+                0.0008399646330680814,
+                0.0008399646330680814,
+                0.0007957559681697613,
+                0.0004420866489832007,
+                0.0004420866489832007,
+                0.0003978779840848806,
+                0.0003978779840848806,
+                0.0003094606542882405,
+                0.0003094606542882405,
+                0.0003094606542882405,
+                0.0003094606542882405,
+                0.0002652519893899204
+            ]
+        },
+        {
+            "begin": 640,
+            "end": 646,
+            "text": "Sunday",
+            "concept": 13
+        },
+        {
+            "begin": 648,
+            "end": 653,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 683,
+            "end": 693,
+            "text": "Pena Nieto",
+            "concept": 1,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 698,
+            "end": 705,
+            "text": "Trudeau",
+            "concept": 2,
+            "candidates": [
+                "Pierre_Trudeau",
+                "Trudeau_(film)",
+                "Justin_Trudeau",
+                "Trudeau",
+                "Trudeau_Landing",
+                "Garry_Trudeau",
+                "Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
+            ],
+            "scores": [
+                0.9159802306425041,
+                0.054365733113673806,
+                0.018121911037891267,
+                0.004942339373970346,
+                0.0032948929159802307,
+                0.0016474464579901153,
+                0.0016474464579901153
+            ]
+        },
+        {
+            "begin": 733,
+            "end": 768,
+            "text": "North American Free Trade Agreement",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 770,
+            "end": 775,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 778,
+            "end": 783,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 824,
+            "end": 837,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 1144,
+            "end": 1152,
+            "text": "Canadian",
+            "concept": 12
+        },
+        {
+            "begin": 1181,
+            "end": 1183,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1309,
+            "end": 1318,
+            "text": "Americans",
+            "concept": 15
+        },
+        {
+            "begin": 1323,
+            "end": 1332,
+            "text": "Canadians",
+            "concept": 16
+        },
+        {
+            "begin": 1343,
+            "end": 1349,
+            "text": "Canada",
+            "concept": 8,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1366,
+            "end": 1376,
+            "text": "Washington",
+            "concept": 17,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 1378,
+            "end": 1395,
+            "text": "David MacNaughton",
+            "concept": 5,
+            "candidates": [
+                "David_MacNaughton"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1412,
+            "end": 1418,
+            "text": "Sunday",
+            "concept": 13
+        },
+        {
+            "begin": 1511,
+            "end": 1517,
+            "text": "Canada",
+            "concept": 8,
+            "candidates": [
+                "Canada",
+                "Canada_men's_national_ice_hockey_team",
+                "Canada_men's_national_soccer_team",
+                "Canada_national_rugby_union_team",
+                "Canada_national_cricket_team",
+                "Canada_men's_national_junior_ice_hockey_team",
+                "Canadian_poetry",
+                "Canada_women's_national_soccer_team",
+                "Canadian_Open_(tennis)",
+                "RPM_(magazine)",
+                "Canadian_Soccer_Association",
+                "Canada_(New_France)",
+                "A1_Team_Canada",
+                "Music_Canada",
+                "Same-sex_marriage_in_Canada",
+                "Canada_men's_national_basketball_team"
+            ],
+            "scores": [
+                0.8815481992085207,
+                0.012095306316568221,
+                0.009746703148302546,
+                0.00735112791667156,
+                0.006857921251335768,
+                0.006634803950350529,
+                0.003264558403889287,
+                0.0030649271345867045,
+                0.002759608722712167,
+                0.002700893643505525,
+                0.002254659041535047,
+                0.0019375976138191811,
+                0.0018436534870885542,
+                0.0017027372969926136,
+                0.0016557652336273002,
+                0.0011625585682915086
+            ]
+        },
+        {
+            "begin": 1540,
+            "end": 1551,
+            "text": "MacNaughton",
+            "concept": 5,
+            "candidates": [
+                "Clan_Macnaghten",
+                "Ernest_Boyd_MacNaughton"
+            ],
+            "scores": [
+                0.6666666666666666,
+                0.3333333333333333
+            ]
+        },
+        {
+            "begin": 1588,
+            "end": 1593,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 1693,
+            "end": 1700,
+            "text": "Mexican",
+            "concept": 7
+        },
+        {
+            "begin": 1724,
+            "end": 1729,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1778,
+            "end": 1784,
+            "text": "Mexico",
+            "concept": 9,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 1789,
+            "end": 1794,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 1860,
+            "end": 1862,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1918,
+            "end": 1924,
+            "text": "Mexico",
+            "concept": 9,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 1964,
+            "end": 1969,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 2064,
+            "end": 2066,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 2071,
+            "end": 2078,
+            "text": "Mexican",
+            "concept": 7
+        },
+        {
+            "begin": 2110,
+            "end": 2119,
+            "text": "Wednesday",
+            "concept": 18
+        },
+        {
+            "begin": 2124,
+            "end": 2132,
+            "text": "Thursday",
+            "concept": 19
+        },
+        {
+            "begin": 2134,
+            "end": 2139,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 2154,
+            "end": 2164,
+            "text": "Pena Nieto",
+            "concept": 1,
+            "candidates": [
+                "Enrique_Pe\u00f1a_Nieto"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 2179,
+            "end": 2189,
+            "text": "January 31",
+            "concept": 20
+        },
+        {
+            "begin": 2272,
+            "end": 2277,
+            "text": "Trump",
+            "concept": 4,
+            "candidates": [
+                "Donald_Trump",
+                "Trump_(card_games)",
+                "Trump_(magazine)",
+                "Trump_(dog)",
+                "Presidency_of_Donald_Trump",
+                "HMS_Trump_(P333)",
+                "Trump_(video_game_player)",
+                "Cabinet_of_Donald_Trump",
+                "Trump_family",
+                "Trump_(surname)",
+                "List_of_federal_judges_appointed_by_Donald_Trump",
+                "Trump,_Colorado",
+                "Chrystelle_Trump_Bond",
+                "The_Trump_Organization",
+                "Donald_Trump_presidential_campaign,_2016",
+                "Trumpet"
+            ],
+            "scores": [
+                0.7397504456327986,
+                0.1443850267379679,
+                0.0427807486631016,
+                0.017825311942959002,
+                0.016042780748663103,
+                0.008912655971479501,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0035650623885918,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959,
+                0.0017825311942959
+            ]
+        },
+        {
+            "begin": 2290,
+            "end": 2297,
+            "text": "Mexican",
+            "concept": 7
+        },
+        {
+            "begin": 2313,
+            "end": 2319,
+            "text": "Sunday",
+            "concept": 13
+        },
+        {
+            "begin": 2342,
+            "end": 2347,
+            "text": "NAFTA",
+            "concept": 3,
+            "candidates": [
+                "North_American_Free_Trade_Agreement",
+                "NK_Nafta_Lendava",
+                "Nefta,_Tunisia",
+                "NK_Nafta_1903",
+                "National_Amalgamated_Furnishing_Trades_Association",
+                "Naphtha",
+                "Closer_Economic_Relations"
+            ],
+            "scores": [
+                0.9052287581699346,
+                0.06209150326797386,
+                0.013071895424836602,
+                0.00980392156862745,
+                0.0032679738562091504,
+                0.0032679738562091504,
+                0.0032679738562091504
+            ]
+        },
+        {
+            "begin": 2455,
+            "end": 2461,
+            "text": "Mexico",
+            "concept": 9,
+            "candidates": [
+                "Mexico",
+                "Mexico_national_football_team",
+                "Mexican_Football_Federation",
+                "Same-sex_marriage_in_Mexico",
+                "State_of_Mexico",
+                "A1_Team_Mexico",
+                "Mexico_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_Mexico",
+                "Mexico_City",
+                "Mexico,_Missouri",
+                "Mexico_national_baseball_team",
+                "Acceleration_Team_Mexico",
+                "Mexico_national_under-20_football_team",
+                "Mexico_national_under-23_football_team",
+                "Mexico_Davis_Cup_team",
+                "Mexico_national_basketball_team"
+            ],
+            "scores": [
+                0.8937068374960656,
+                0.035714946955249856,
+                0.006554220436577734,
+                0.005980263279702283,
+                0.005776601062746477,
+                0.0031660217363129735,
+                0.0026290940734294867,
+                0.0022773138805058228,
+                0.0016107829886504602,
+                0.0015367240006665308,
+                0.001351576530706708,
+                0.0011479143137509025,
+                0.0010368258317750088,
+                0.0008331636148192035,
+                0.0007591046268352743,
+                0.0007591046268352743
+            ]
+        },
+        {
+            "begin": 2471,
+            "end": 2484,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 2532,
+            "end": 2556,
+            "text": "es/kl (AP, AFP, Reuters)",
+            "concept": 21
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 6,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Enrique Pena Nieto",
+            "keyword": true,
+            "count": 5,
+            "link": "Enrique_Pe\u00f1a_Nieto",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Justin Trudeau",
+            "keyword": true,
+            "count": 4,
+            "link": "Justin_Trudeau",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_gov",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "North American Free Trade Agreement",
+            "keyword": true,
+            "count": 7,
+            "link": "North_American_Free_Trade_Agreement",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::misc",
+                "type::treaty"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Donald Trump",
+            "keyword": true,
+            "count": 9,
+            "link": "Donald_Trump",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "David MacNaughton",
+            "keyword": false,
+            "count": 2,
+            "link": "David_MacNaughton",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::gov_per",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 6,
+            "keyword": false,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 7,
+            "text": "Mexican",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Canada",
+            "keyword": false,
+            "count": 4,
+            "link": "Canada",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Mexico",
+            "keyword": false,
+            "count": 5,
+            "link": "Mexico",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "President",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Prime Minister",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Canadian",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Sunday",
+            "keyword": false,
+            "count": 4,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "North America",
+            "keyword": false,
+            "count": 1,
+            "link": "North_America",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Americans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Canadians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Wednesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "January 31",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "es/kl (AP, AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 7
+        },
+        {
+            "s": 1,
+            "p": "head_of_gov",
+            "o": 9
+        },
+        {
+            "s": 1,
+            "p": "head_of_gov-x",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "agent_of",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 2,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 12
+        },
+        {
+            "s": 2,
+            "p": "head_of_gov-x",
+            "o": 16
+        },
+        {
+            "s": 4,
+            "p": "agent_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "citizen_of-x",
+            "o": 15
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov",
+            "o": 0
+        },
+        {
+            "s": 4,
+            "p": "head_of_gov-x",
+            "o": 15
+        },
+        {
+            "s": 5,
+            "p": "agent_of",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "agent_of-x",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "agent_of-x",
+            "o": 16
+        },
+        {
+            "s": 5,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 12
+        },
+        {
+            "s": 5,
+            "p": "citizen_of-x",
+            "o": 16
+        },
+        {
+            "s": 7,
+            "p": "gpe0",
+            "o": 9
+        },
+        {
+            "s": 12,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 16,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 17,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 17,
+            "p": "in0-x",
+            "o": 15
+        }
+    ],
+    "frames": [
+        {
+            "type": "phone-write",
+            "slots": [
+                {
+                    "name": "entity",
+                    "value": 2
+                },
+                {
+                    "name": "entity",
+                    "value": 1
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000344",
+        "20000346",
+        "20000373",
+        "20000377"
+    ]
+}

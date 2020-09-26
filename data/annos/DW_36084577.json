@@ -1,0 +1,1960 @@
+{
+    "id": "DW_36084577",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 0,
+            "end": 6,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 21,
+            "end": 26,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 32,
+            "end": 42,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 54,
+            "end": 59,
+            "text": "Czech",
+            "concept": 5
+        },
+        {
+            "begin": 129,
+            "end": 136,
+            "text": "Chinese",
+            "concept": 6
+        },
+        {
+            "begin": 159,
+            "end": 169,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 194,
+            "end": 201,
+            "text": "Tibetan",
+            "concept": 7
+        },
+        {
+            "begin": 230,
+            "end": 236,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 240,
+            "end": 246,
+            "text": "Monday",
+            "concept": 8
+        },
+        {
+            "begin": 248,
+            "end": 253,
+            "text": "Czech",
+            "concept": 5
+        },
+        {
+            "begin": 254,
+            "end": 263,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 264,
+            "end": 275,
+            "text": "Milos Zeman",
+            "concept": 1,
+            "candidates": [
+                "Milo\u0161_Zeman"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 346,
+            "end": 351,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 371,
+            "end": 378,
+            "text": "Tibetan",
+            "concept": 7
+        },
+        {
+            "begin": 400,
+            "end": 410,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 435,
+            "end": 441,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 467,
+            "end": 474,
+            "text": "Tuesday",
+            "concept": 10
+        },
+        {
+            "begin": 495,
+            "end": 509,
+            "text": "Czech Republic",
+            "concept": 2,
+            "candidates": [
+                "Czech_Republic",
+                "Czech_Republic_national_football_team",
+                "Czech_Republic_men's_national_ice_hockey_team",
+                "List_of_non-marine_molluscs_of_the_Czech_Republic",
+                "ISU_Junior_Grand_Prix_in_the_Czech_Republic",
+                "Czech_Republic_men's_national_junior_ice_hockey_team",
+                "A1_Team_Czech_Republic",
+                "Recognition_of_same-sex_unions_in_the_Czech_Republic",
+                "Football_Association_of_the_Czech_Republic",
+                "Czech_Republic_national_under-21_football_team",
+                "Czech_Republic_Fed_Cup_team",
+                "Czech_Republic_Davis_Cup_team",
+                "Czech_Republic_national_under-19_football_team",
+                "Czech_Republic_national_basketball_team",
+                "Czech_Republic_women's_national_football_team",
+                "Czech_Republic_national_speedway_team"
+            ],
+            "scores": [
+                0.8524603801838526,
+                0.03469073665820889,
+                0.014059315336300487,
+                0.009109438043342624,
+                0.008943055613327233,
+                0.0057401938355309675,
+                0.005615407013019425,
+                0.00465870804043093,
+                0.004201156357888607,
+                0.0036604134603385884,
+                0.0026205232727423986,
+                0.002578927665238551,
+                0.002537332057734703,
+                0.002329354020215465,
+                0.00224616280520777,
+                0.0022045671977039224
+            ]
+        },
+        {
+            "begin": 566,
+            "end": 571,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 754,
+            "end": 759,
+            "text": "Czech",
+            "concept": 5
+        },
+        {
+            "begin": 802,
+            "end": 816,
+            "text": "Czech Republic",
+            "concept": 2,
+            "candidates": [
+                "Czech_Republic",
+                "Czech_Republic_national_football_team",
+                "Czech_Republic_men's_national_ice_hockey_team",
+                "List_of_non-marine_molluscs_of_the_Czech_Republic",
+                "ISU_Junior_Grand_Prix_in_the_Czech_Republic",
+                "Czech_Republic_men's_national_junior_ice_hockey_team",
+                "A1_Team_Czech_Republic",
+                "Recognition_of_same-sex_unions_in_the_Czech_Republic",
+                "Football_Association_of_the_Czech_Republic",
+                "Czech_Republic_national_under-21_football_team",
+                "Czech_Republic_Fed_Cup_team",
+                "Czech_Republic_Davis_Cup_team",
+                "Czech_Republic_national_under-19_football_team",
+                "Czech_Republic_national_basketball_team",
+                "Czech_Republic_women's_national_football_team",
+                "Czech_Republic_national_speedway_team"
+            ],
+            "scores": [
+                0.8524603801838526,
+                0.03469073665820889,
+                0.014059315336300487,
+                0.009109438043342624,
+                0.008943055613327233,
+                0.0057401938355309675,
+                0.005615407013019425,
+                0.00465870804043093,
+                0.004201156357888607,
+                0.0036604134603385884,
+                0.0026205232727423986,
+                0.002578927665238551,
+                0.002537332057734703,
+                0.002329354020215465,
+                0.00224616280520777,
+                0.0022045671977039224
+            ]
+        },
+        {
+            "begin": 930,
+            "end": 940,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 952,
+            "end": 958,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 962,
+            "end": 968,
+            "text": "Monday",
+            "concept": 8
+        },
+        {
+            "begin": 997,
+            "end": 1007,
+            "text": "Forum 2000",
+            "concept": 11,
+            "candidates": [
+                "Forum_2000"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1034,
+            "end": 1038,
+            "text": "1996",
+            "concept": 12
+        },
+        {
+            "begin": 1051,
+            "end": 1056,
+            "text": "Czech",
+            "concept": 5
+        },
+        {
+            "begin": 1057,
+            "end": 1066,
+            "text": "president",
+            "concept": 13
+        },
+        {
+            "begin": 1067,
+            "end": 1079,
+            "text": "Vaclav Havel",
+            "concept": 14,
+            "candidates": [
+                "V\u00e1clav_Havel",
+                "V\u00e1clav_Havel_(canoeist)"
+            ],
+            "scores": [
+                0.9783080260303688,
+                0.021691973969631236
+            ]
+        },
+        {
+            "begin": 1119,
+            "end": 1136,
+            "text": "Nobel Peace Prize",
+            "concept": 15,
+            "candidates": [
+                "Nobel_Peace_Prize",
+                "2010_Nobel_Peace_Prize",
+                "List_of_Nobel_Peace_Prize_laureates",
+                "2014_Nobel_Peace_Prize",
+                "2009_Nobel_Peace_Prize",
+                "2016_Nobel_Peace_Prize",
+                "2011_Nobel_Peace_Prize",
+                "Nobel_Prize",
+                "2012_Nobel_Peace_Prize",
+                "2007_Nobel_Peace_Prize",
+                "2017_Nobel_Peace_Prize"
+            ],
+            "scores": [
+                0.9870402802101577,
+                0.003852889667250438,
+                0.0028021015761821367,
+                0.0010507880910683013,
+                0.0010507880910683013,
+                0.0010507880910683013,
+                0.0007005253940455342,
+                0.0007005253940455342,
+                0.0007005253940455342,
+                0.0007005253940455342,
+                0.0003502626970227671
+            ]
+        },
+        {
+            "begin": 1203,
+            "end": 1233,
+            "text": "Christian and Democratic Union",
+            "concept": 16,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1301,
+            "end": 1322,
+            "text": "Deputy Prime Minister",
+            "concept": 17
+        },
+        {
+            "begin": 1323,
+            "end": 1339,
+            "text": "Pavel Belobradek",
+            "concept": 18,
+            "candidates": [
+                "Pavel_B\u011blobr\u00e1dek"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1341,
+            "end": 1357,
+            "text": "Culture Minister",
+            "concept": 19
+        },
+        {
+            "begin": 1358,
+            "end": 1371,
+            "text": "Daniel Herman",
+            "concept": 20,
+            "candidates": [
+                "Daniel_Herman",
+                "Daniel_Herman_(publisher)"
+            ],
+            "scores": [
+                0.7857142857142857,
+                0.21428571428571427
+            ]
+        },
+        {
+            "begin": 1443,
+            "end": 1449,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 1455,
+            "end": 1465,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 1470,
+            "end": 1476,
+            "text": "Slovak",
+            "concept": 21
+        },
+        {
+            "begin": 1477,
+            "end": 1486,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 1487,
+            "end": 1499,
+            "text": "Andrej Kiska",
+            "concept": 22,
+            "candidates": [
+                "Andrej_Kiska"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1503,
+            "end": 1513,
+            "text": "Bratislava",
+            "concept": 23,
+            "candidates": [
+                "Bratislava",
+                "\u010cunovo_Water_Sports_Centre",
+                "Bratislava_Region",
+                "Slovak_Open",
+                "Ondrej_Nepela_Arena",
+                "WTA_Bratislava",
+                "Bratislava_hlavn\u00e1_stanica",
+                "Roman_Catholic_Archdiocese_of_Bratislava",
+                "Bratislava_International_Film_Festival",
+                "Aegon_Arena",
+                "2013_Slovak_Open",
+                "Bratislava_Airport",
+                "Bratislava_Music_Festival",
+                "History_of_Bratislava",
+                "\u0160K_Slovan_Bratislava",
+                "2011_Slovak_Open"
+            ],
+            "scores": [
+                0.9382488479262673,
+                0.02175115207373272,
+                0.018801843317972352,
+                0.004055299539170507,
+                0.0033179723502304147,
+                0.0020276497695852535,
+                0.0018433179723502304,
+                0.0016589861751152074,
+                0.0009216589861751152,
+                0.0005529953917050691,
+                0.0005529953917050691,
+                0.0005529953917050691,
+                0.0003686635944700461,
+                0.0003686635944700461,
+                0.0003686635944700461,
+                0.0003686635944700461
+            ]
+        },
+        {
+            "begin": 1541,
+            "end": 1548,
+            "text": "Beijing",
+            "concept": 24,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 1562,
+            "end": 1569,
+            "text": "Chinese",
+            "concept": 6
+        },
+        {
+            "begin": 1570,
+            "end": 1579,
+            "text": "President",
+            "concept": 9
+        },
+        {
+            "begin": 1580,
+            "end": 1590,
+            "text": "Xi Jinping",
+            "concept": 25,
+            "candidates": [
+                "Xi_Jinping"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1599,
+            "end": 1605,
+            "text": "Prague",
+            "concept": 4,
+            "candidates": [
+                "Prague",
+                "Prague-Troja_Canoeing_Centre",
+                "Charles_University",
+                "Prague_Open_(1987\u20131999)",
+                "Praha_hlavn\u00ed_n\u00e1dra\u017e\u00ed",
+                "Prague_Open",
+                "O2_Arena_(Prague)",
+                "Prague,_Oklahoma",
+                "V\u00e1clav_Havel_Airport_Prague",
+                "Roman_Catholic_Archdiocese_of_Prague",
+                "Prague_(2013_film)",
+                "Prague_Offensive",
+                "Prague_Castle",
+                "Prague_(1992_film)",
+                "Prag_(2006_film)",
+                "Battle_of_Prague_(1757)"
+            ],
+            "scores": [
+                0.9551094177413052,
+                0.013481828839390387,
+                0.0037123876514263384,
+                0.0029796795623290347,
+                0.0028819851504493944,
+                0.0028819851504493944,
+                0.002588901914810473,
+                0.0021004298554122705,
+                0.0009280969128565846,
+                0.0008792497069167644,
+                0.0008304025009769441,
+                0.0006838608831574833,
+                0.0006350136772176632,
+                0.0004884720593982024,
+                0.0004396248534583822,
+                0.0004396248534583822
+            ]
+        },
+        {
+            "begin": 1636,
+            "end": 1641,
+            "text": "March",
+            "concept": 26
+        },
+        {
+            "begin": 1659,
+            "end": 1664,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1667,
+            "end": 1671,
+            "text": "CEFC",
+            "concept": 27,
+            "candidates": [
+                "Clean_Energy_Finance_Corporation"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1742,
+            "end": 1755,
+            "text": "billion euros",
+            "concept": 28
+        },
+        {
+            "begin": 1771,
+            "end": 1776,
+            "text": "Czech",
+            "concept": 5
+        },
+        {
+            "begin": 1839,
+            "end": 1846,
+            "text": "Beijing",
+            "concept": 24,
+            "candidates": [
+                "Beijing",
+                "China_Open_(tennis)",
+                "2008_Summer_Olympics",
+                "Beijing_National_Stadium",
+                "Beijing_women's_volleyball_team",
+                "Beijing_Subway",
+                "Government_of_China",
+                "Beijing_Capital_International_Airport",
+                "Beijing_Sinobo_Guoan_F.C.",
+                "Beijing_railway_station",
+                "Beijing_Ducks",
+                "Beijing_Lions",
+                "Roman_Catholic_Archdiocese_of_Beijing",
+                "2013_China_Open_(tennis)",
+                "2014_China_Open_(tennis)",
+                "Beijing_dialect"
+            ],
+            "scores": [
+                0.9558622354550576,
+                0.01050132775408385,
+                0.0037016174458839625,
+                0.0035406775569324857,
+                0.002051983584131327,
+                0.0012875191116118129,
+                0.0012070491671360747,
+                0.0012070491671360747,
+                0.0011668141948982056,
+                0.0010058743059467288,
+                0.0008046994447573831,
+                0.0006437595558059064,
+                0.0006437595558059064,
+                0.0006035245835680373,
+                0.0006035245835680373,
+                0.0005632896113301681
+            ]
+        },
+        {
+            "begin": 1866,
+            "end": 1876,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 1913,
+            "end": 1918,
+            "text": "Tibet",
+            "concept": 29,
+            "candidates": [
+                "Tibet",
+                "Tibet_Autonomous_Region",
+                "Tibet_(1912\u20131951)",
+                "Tibet_(cartoonist)",
+                "Tibetan_Empire",
+                "Neolithic_Tibet",
+                "Tibet_national_football_team",
+                "Music_of_Tibet",
+                "Tibet_under_Qing_rule",
+                "History_of_Tibet",
+                "Geography_of_Tibet",
+                "Tibetan_Plateau",
+                "Tibet_Area_(administrative_division)",
+                "2008_Tibetan_unrest",
+                "Tibetan_people",
+                "Tibetan_Buddhism"
+            ],
+            "scores": [
+                0.8556701030927835,
+                0.0969433894013384,
+                0.015373485259540604,
+                0.005245071441490324,
+                0.004702477844094773,
+                0.0039790197142340385,
+                0.002170374389582203,
+                0.0010851871947911015,
+                0.0010851871947911015,
+                0.0009043226623259179,
+                0.0007234581298607343,
+                0.0007234581298607343,
+                0.0007234581298607343,
+                0.0007234581298607343,
+                0.0005425935973955507,
+                0.0005425935973955507
+            ]
+        },
+        {
+            "begin": 1929,
+            "end": 1934,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1951,
+            "end": 1955,
+            "text": "1951",
+            "concept": 30
+        },
+        {
+            "begin": 1961,
+            "end": 1971,
+            "text": "Dalai Lama",
+            "concept": 0,
+            "candidates": [
+                "Dalai_Lama",
+                "14th_Dalai_Lama",
+                "13th_Dalai_Lama",
+                "7th_Dalai_Lama",
+                "Reise,_Reise",
+                "List_of_Dalai_Lamas"
+            ],
+            "scores": [
+                0.7894431554524362,
+                0.19953596287703015,
+                0.008120649651972157,
+                0.001160092807424594,
+                0.001160092807424594,
+                0.000580046403712297
+            ]
+        },
+        {
+            "begin": 1980,
+            "end": 1985,
+            "text": "India",
+            "concept": 31,
+            "candidates": [
+                "India",
+                "India_national_cricket_team",
+                "British_Raj",
+                "India_national_football_team",
+                "Presidencies_and_provinces_of_British_India",
+                "India_women's_national_cricket_team",
+                "Indian_poetry",
+                "A1_Team_India",
+                "Indian_subcontinent",
+                "History_of_India",
+                "India_men's_national_field_hockey_team",
+                "Dominion_of_India",
+                "Elections_in_India",
+                "Cinema_of_India",
+                "La_India",
+                "India_Davis_Cup_team"
+            ],
+            "scores": [
+                0.9190677755091878,
+                0.026671978487127136,
+                0.00763906179971117,
+                0.004790598077784971,
+                0.003605398137542951,
+                0.002758826751655794,
+                0.00201185199940242,
+                0.0017429410885912056,
+                0.0012648772471490464,
+                0.00106568397988148,
+                0.0008565310492505353,
+                0.0007569344156167522,
+                0.0007370150888899956,
+                0.0006772571087097256,
+                0.000657337781982969,
+                0.0006473781186195907
+            ]
+        },
+        {
+            "begin": 2013,
+            "end": 2017,
+            "text": "1959",
+            "concept": 32
+        },
+        {
+            "begin": 2055,
+            "end": 2063,
+            "text": "Tibetans",
+            "concept": 33
+        },
+        {
+            "begin": 2067,
+            "end": 2072,
+            "text": "China",
+            "concept": 3,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 2085,
+            "end": 2106,
+            "text": "jbh/jr (AFP, Reuters)",
+            "concept": 34
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Dalai Lama",
+            "keyword": true,
+            "count": 7,
+            "link": "Dalai_Lama",
+            "tags": [
+                "gender::male",
+                "iptc::12000000",
+                "slot::keyword",
+                "topic::religion",
+                "type::clergy",
+                "type::entity",
+                "type::person"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Milos Zeman",
+            "keyword": true,
+            "count": 1,
+            "link": "Milo\u0161_Zeman",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Czech Republic",
+            "keyword": true,
+            "count": 2,
+            "link": "Czech_Republic",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "China",
+            "keyword": true,
+            "count": 6,
+            "link": "China",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Prague",
+            "keyword": false,
+            "count": 6,
+            "link": "Prague",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Czech",
+            "keyword": false,
+            "count": 5,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Chinese",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Tibetan",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Monday",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "President",
+            "keyword": false,
+            "count": 3,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Forum 2000",
+            "keyword": false,
+            "count": 1,
+            "link": "Forum_2000",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::summit_meeting"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "1996",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "president",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Vaclav Havel",
+            "keyword": false,
+            "count": 1,
+            "link": "V\u00e1clav_Havel",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Nobel Peace Prize",
+            "keyword": false,
+            "count": 1,
+            "link": "Nobel_Peace_Prize",
+            "tags": [
+                "iptc::08000000",
+                "iptc::20000498",
+                "topic::human_interest",
+                "type::award",
+                "type::entity",
+                "type::misc"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "Christian and Democratic Union",
+            "keyword": false,
+            "count": 1,
+            "link": "Christian_and_Democratic_Union",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::party"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Deputy Prime Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Pavel Belobradek",
+            "keyword": false,
+            "count": 1,
+            "link": "Pavel_B\u011blobr\u00e1dek",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politician",
+                "type::politician_national"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Culture Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Daniel Herman",
+            "keyword": false,
+            "count": 1,
+            "link": "Daniel_Herman",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::culture",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Slovak",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "Andrej Kiska",
+            "keyword": false,
+            "count": 1,
+            "link": "Andrej_Kiska",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "Bratislava",
+            "keyword": false,
+            "count": 1,
+            "link": "Bratislava",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "Beijing",
+            "keyword": false,
+            "count": 2,
+            "link": "Beijing",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Xi Jinping",
+            "keyword": false,
+            "count": 1,
+            "link": "Xi_Jinping",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "March",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "CEFC",
+            "keyword": false,
+            "count": 1,
+            "link": "CEFC_China_Energy",
+            "tags": [
+                "iptc::20000170",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Tibet",
+            "keyword": false,
+            "count": 1,
+            "link": "Tibet",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "1951",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "India",
+            "keyword": false,
+            "count": 1,
+            "link": "India",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "1959",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "Tibetans",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "jbh/jr (AFP, Reuters)",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Slovakia",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "award_received",
+            "o": 15
+        },
+        {
+            "s": 0,
+            "p": "citizen_of",
+            "o": 29
+        },
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 2
+        },
+        {
+            "s": 4,
+            "p": "in0-x",
+            "o": 5
+        },
+        {
+            "s": 5,
+            "p": "gpe0",
+            "o": 2
+        },
+        {
+            "s": 6,
+            "p": "gpe0",
+            "o": 3
+        },
+        {
+            "s": 11,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 11,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 14,
+            "p": "head_of_state",
+            "o": 2
+        },
+        {
+            "s": 14,
+            "p": "head_of_state-x",
+            "o": 5
+        },
+        {
+            "s": 16,
+            "p": "based_in0",
+            "o": 2
+        },
+        {
+            "s": 16,
+            "p": "based_in0-x",
+            "o": 5
+        },
+        {
+            "s": 18,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 18,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 18,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 18,
+            "p": "head_of_gov",
+            "o": 2
+        },
+        {
+            "s": 18,
+            "p": "head_of_gov-x",
+            "o": 5
+        },
+        {
+            "s": 20,
+            "p": "agent_of",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "citizen_of",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "citizen_of-x",
+            "o": 5
+        },
+        {
+            "s": 20,
+            "p": "minister_of",
+            "o": 2
+        },
+        {
+            "s": 20,
+            "p": "minister_of-x",
+            "o": 5
+        },
+        {
+            "s": 21,
+            "p": "gpe0",
+            "o": 35
+        },
+        {
+            "s": 22,
+            "p": "citizen_of",
+            "o": 35
+        },
+        {
+            "s": 22,
+            "p": "citizen_of-x",
+            "o": 21
+        },
+        {
+            "s": 22,
+            "p": "head_of_state",
+            "o": 35
+        },
+        {
+            "s": 22,
+            "p": "head_of_state-x",
+            "o": 21
+        },
+        {
+            "s": 23,
+            "p": "in0",
+            "o": 35
+        },
+        {
+            "s": 23,
+            "p": "in0-x",
+            "o": 21
+        },
+        {
+            "s": 24,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 24,
+            "p": "in0-x",
+            "o": 6
+        },
+        {
+            "s": 25,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 25,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 25,
+            "p": "citizen_of-x",
+            "o": 6
+        },
+        {
+            "s": 25,
+            "p": "head_of_state",
+            "o": 3
+        },
+        {
+            "s": 25,
+            "p": "head_of_state-x",
+            "o": 6
+        },
+        {
+            "s": 27,
+            "p": "based_in0",
+            "o": 3
+        },
+        {
+            "s": 27,
+            "p": "based_in0-x",
+            "o": 6
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "11000000",
+        "20000638"
+    ]
+}

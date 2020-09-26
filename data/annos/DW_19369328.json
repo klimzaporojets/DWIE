@@ -1,0 +1,856 @@
+{
+    "id": "DW_19369328",
+    "tags": [
+        "all",
+        "test"
+    ],
+    "mentions": [
+        {
+            "begin": 52,
+            "end": 59,
+            "text": "Andrews",
+            "concept": 0,
+            "candidates": [
+                "Andrews_County,_Texas",
+                "Andrews,_North_Carolina",
+                "Andrews,_Texas",
+                "Andrews,_South_Carolina",
+                "Wayne_Andrews_(footballer)",
+                "Henry_Charles_Andrews",
+                "J._M._Andrews",
+                "Andrews,_Levy_County,_Florida",
+                "Andrews,_Indiana",
+                "Chris_Andrews_(singer)",
+                "Daniel_Andrews",
+                "Andrews,_South_Australia",
+                "Marvin_Andrews",
+                "Donna_Andrews_(golfer)",
+                "Charles_William_Andrews",
+                "Andrews,_Oregon"
+            ],
+            "scores": [
+                0.19261213720316622,
+                0.11873350923482849,
+                0.11345646437994723,
+                0.07651715039577836,
+                0.06596306068601583,
+                0.05013192612137203,
+                0.03430079155672823,
+                0.0316622691292876,
+                0.026385224274406333,
+                0.023746701846965697,
+                0.021108179419525065,
+                0.018469656992084433,
+                0.013192612137203167,
+                0.013192612137203167,
+                0.013192612137203167,
+                0.013192612137203167
+            ]
+        },
+        {
+            "begin": 82,
+            "end": 84,
+            "text": "US",
+            "concept": 3,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 132,
+            "end": 150,
+            "text": "Joint Base Andrews",
+            "concept": 0,
+            "candidates": [
+                "Joint_Base_Andrews",
+                "Naval_Air_Facility_Washington",
+                "Andrews_Air_Force_Base"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.021052631578947368,
+                0.010526315789473684
+            ]
+        },
+        {
+            "begin": 159,
+            "end": 175,
+            "text": "Washington, D.C.",
+            "concept": 4,
+            "candidates": [
+                "Washington,_D.C.",
+                "Washington_Open_(tennis)",
+                "Washington_Union_Station",
+                "Washington,_D.C.,_in_the_American_Civil_War",
+                "Washington_metropolitan_area",
+                "Virginia_Slims_of_Washington",
+                "Capital_One_Arena",
+                "History_of_Washington,_D.C.",
+                "Washington,_D.C._(novel)",
+                "Ronald_Reagan_Washington_National_Airport",
+                "1968_Washington,_D.C._riots",
+                "Washington_Dulles_International_Airport",
+                "Washington_D.C._Temple",
+                "2012_Citi_Open",
+                "Robert_F._Kennedy_Memorial_Stadium",
+                "Paleontology_in_Washington,_D.C."
+            ],
+            "scores": [
+                0.986630594070567,
+                0.002930898433096607,
+                0.0011723593732386427,
+                0.0010145417653026716,
+                0.0009018149024912637,
+                0.0004734528238079134,
+                0.00033818058843422386,
+                0.0002705444707473791,
+                0.0002705444707473791,
+                0.0002479990981850975,
+                0.00022545372562281593,
+                0.00020290835306053433,
+                0.00018036298049825273,
+                0.00015781760793597113,
+                0.00015781760793597113,
+                0.00013527223537368956
+            ]
+        },
+        {
+            "begin": 230,
+            "end": 243,
+            "text": "Air Force One",
+            "concept": 2,
+            "candidates": [
+                "Air_Force_One",
+                "Air_Force_One_(film)",
+                "VC-137C_SAM_26000",
+                "VC-137C_SAM_27000",
+                "Boeing_VC-25",
+                "Air_Force_(shoe)"
+            ],
+            "scores": [
+                0.6835138387484958,
+                0.30685920577617326,
+                0.0036101083032490976,
+                0.0024067388688327317,
+                0.0024067388688327317,
+                0.0012033694344163659
+            ]
+        },
+        {
+            "begin": 253,
+            "end": 262,
+            "text": "President",
+            "concept": 5
+        },
+        {
+            "begin": 263,
+            "end": 268,
+            "text": "Obama",
+            "concept": 6,
+            "candidates": [
+                "Barack_Obama",
+                "Obama,_Fukui",
+                "Presidency_of_Barack_Obama",
+                "Obama,_Nagasaki",
+                "Obama_Domain",
+                "List_of_federal_judges_appointed_by_Barack_Obama",
+                "Obama_(genus)",
+                "Barack_Obama_presidential_campaign,_2008",
+                "Barack_Obama_Academy_of_International_Studies_6-12",
+                "Confirmations_of_Barack_Obama's_Cabinet"
+            ],
+            "scores": [
+                0.9093137254901961,
+                0.04738562091503268,
+                0.016339869281045753,
+                0.010620915032679739,
+                0.004901960784313725,
+                0.004084967320261438,
+                0.0032679738562091504,
+                0.0024509803921568627,
+                0.0008169934640522876,
+                0.0008169934640522876
+            ]
+        },
+        {
+            "begin": 300,
+            "end": 318,
+            "text": "Joint Base Andrews",
+            "concept": 0,
+            "candidates": [
+                "Joint_Base_Andrews",
+                "Naval_Air_Facility_Washington",
+                "Andrews_Air_Force_Base"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.021052631578947368,
+                0.010526315789473684
+            ]
+        },
+        {
+            "begin": 365,
+            "end": 373,
+            "text": "Thursday",
+            "concept": 7
+        },
+        {
+            "begin": 464,
+            "end": 482,
+            "text": "Joint Base Andrews",
+            "concept": 0,
+            "candidates": [
+                "Joint_Base_Andrews",
+                "Naval_Air_Facility_Washington",
+                "Andrews_Air_Force_Base"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.021052631578947368,
+                0.010526315789473684
+            ]
+        },
+        {
+            "begin": 491,
+            "end": 507,
+            "text": "Washington, D.C.",
+            "concept": 4,
+            "candidates": [
+                "Washington,_D.C.",
+                "Washington_Open_(tennis)",
+                "Washington_Union_Station",
+                "Washington,_D.C.,_in_the_American_Civil_War",
+                "Washington_metropolitan_area",
+                "Virginia_Slims_of_Washington",
+                "Capital_One_Arena",
+                "History_of_Washington,_D.C.",
+                "Washington,_D.C._(novel)",
+                "Ronald_Reagan_Washington_National_Airport",
+                "1968_Washington,_D.C._riots",
+                "Washington_Dulles_International_Airport",
+                "Washington_D.C._Temple",
+                "2012_Citi_Open",
+                "Robert_F._Kennedy_Memorial_Stadium",
+                "Paleontology_in_Washington,_D.C."
+            ],
+            "scores": [
+                0.986630594070567,
+                0.002930898433096607,
+                0.0011723593732386427,
+                0.0010145417653026716,
+                0.0009018149024912637,
+                0.0004734528238079134,
+                0.00033818058843422386,
+                0.0002705444707473791,
+                0.0002705444707473791,
+                0.0002479990981850975,
+                0.00022545372562281593,
+                0.00020290835306053433,
+                0.00018036298049825273,
+                0.00015781760793597113,
+                0.00015781760793597113,
+                0.00013527223537368956
+            ]
+        },
+        {
+            "begin": 596,
+            "end": 625,
+            "text": "Malcolm Grow Medical Facility",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 643,
+            "end": 658,
+            "text": "9 am local time",
+            "concept": 9
+        },
+        {
+            "begin": 677,
+            "end": 684,
+            "text": "Twitter",
+            "concept": 10,
+            "candidates": [
+                "Twitter",
+                "Twitter_usage",
+                "Use_of_Twitter_by_public_figures",
+                "Censorship_of_Twitter",
+                "Twitter_diplomacy"
+            ],
+            "scores": [
+                0.9995356396563734,
+                0.00023218017181332715,
+                7.739339060444238e-05,
+                7.739339060444238e-05,
+                7.739339060444238e-05
+            ]
+        },
+        {
+            "begin": 854,
+            "end": 868,
+            "text": "Vice President",
+            "concept": 11
+        },
+        {
+            "begin": 869,
+            "end": 878,
+            "text": "Joe Biden",
+            "concept": 12,
+            "candidates": [
+                "Joe_Biden",
+                "Joe_Biden_presidential_campaign,_2008"
+            ],
+            "scores": [
+                0.9984268484530676,
+                0.0015731515469323545
+            ]
+        },
+        {
+            "begin": 908,
+            "end": 912,
+            "text": "Ohio",
+            "concept": 13,
+            "candidates": [
+                "Ohio",
+                "Ohio_River",
+                "List_of_United_States_Senators_from_Ohio",
+                "Ohio_Bobcats_men's_basketball",
+                "List_of_United_States_Representatives_from_Ohio",
+                "Ohio_Bobcats_football",
+                "Miss_Ohio",
+                "Ohio_University",
+                "Miss_Ohio_USA",
+                "Ohio_Bobcats",
+                "Ohio_County,_West_Virginia",
+                "Ohio_(Crosby,_Stills,_Nash_&_Young_song)",
+                "National_Register_of_Historic_Places_listings_in_Ohio_County,_West_Virginia",
+                "Ohio_County,_Kentucky",
+                "Ohio,_New_York",
+                "Miss_Ohio_Teen_USA"
+            ],
+            "scores": [
+                0.890478903448507,
+                0.018733871778544856,
+                0.008713428734206911,
+                0.006266966051141124,
+                0.006199939676262609,
+                0.005730755052113006,
+                0.0033178055564864776,
+                0.0032507791816079627,
+                0.0032172659941687052,
+                0.003183752806729448,
+                0.002513489057944301,
+                0.0020778176212339554,
+                0.001910251684037669,
+                0.001742685746841382,
+                0.001742685746841382,
+                0.0017091725594021248
+            ]
+        },
+        {
+            "begin": 939,
+            "end": 957,
+            "text": "Joint Base Andrews",
+            "concept": 0,
+            "candidates": [
+                "Joint_Base_Andrews",
+                "Naval_Air_Facility_Washington",
+                "Andrews_Air_Force_Base"
+            ],
+            "scores": [
+                0.968421052631579,
+                0.021052631578947368,
+                0.010526315789473684
+            ]
+        },
+        {
+            "begin": 972,
+            "end": 984,
+            "text": "Camp Springs",
+            "concept": 14,
+            "candidates": [
+                "Camp_Springs,_Maryland",
+                "Camp_Springs,_Kentucky",
+                "Camp_Spring_(Washington_County,_Utah)",
+                "Camp_Springs,_North_Carolina"
+            ],
+            "scores": [
+                0.8888888888888888,
+                0.05555555555555555,
+                0.027777777777777776,
+                0.027777777777777776
+            ]
+        },
+        {
+            "begin": 986,
+            "end": 994,
+            "text": "Maryland",
+            "concept": 1,
+            "candidates": [
+                "Maryland",
+                "Maryland_Terrapins_football",
+                "Maryland_Terrapins_men's_basketball",
+                "University_of_Maryland,_College_Park",
+                "List_of_United_States_Senators_from_Maryland",
+                "Maryland_Terrapins_men's_soccer",
+                "Maryland_Terrapins",
+                "Maryland_Terrapins_women's_lacrosse",
+                "List_of_United_States_Representatives_from_Maryland",
+                "Maryland_Terrapins_men's_lacrosse",
+                "Maryland_Terrapins_women's_basketball",
+                "Province_of_Maryland",
+                "Miss_Maryland_USA",
+                "Miss_Maryland",
+                "Maryland_Terrapins_baseball",
+                "Miss_Maryland_Teen_USA"
+            ],
+            "scores": [
+                0.7749356070698996,
+                0.02926547650768274,
+                0.02651212363442579,
+                0.019007016608935074,
+                0.012390087929656275,
+                0.010302868816058264,
+                0.007904787281286083,
+                0.007593924860111911,
+                0.007238653521627143,
+                0.007149835687005951,
+                0.007105426769695355,
+                0.005995203836930456,
+                0.004440891731059597,
+                0.0032418509636735057,
+                0.0025313082867039704,
+                0.0023536726174615864
+            ]
+        },
+        {
+            "begin": 1013,
+            "end": 1015,
+            "text": "US",
+            "concept": 3,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 1056,
+            "end": 1069,
+            "text": "Air Force One",
+            "concept": 2,
+            "candidates": [
+                "Air_Force_One",
+                "Air_Force_One_(film)",
+                "VC-137C_SAM_26000",
+                "VC-137C_SAM_27000",
+                "Boeing_VC-25",
+                "Air_Force_(shoe)"
+            ],
+            "scores": [
+                0.6835138387484958,
+                0.30685920577617326,
+                0.0036101083032490976,
+                0.0024067388688327317,
+                0.0024067388688327317,
+                0.0012033694344163659
+            ]
+        },
+        {
+            "begin": 1075,
+            "end": 1077,
+            "text": "US",
+            "concept": 3,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Joint Base Andrews",
+            "keyword": true,
+            "count": 6,
+            "link": "Joint_Base_Andrews",
+            "tags": [
+                "iptc::16000000",
+                "meta::redo",
+                "slot::in",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::military_facility"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Maryland",
+            "keyword": true,
+            "count": 1,
+            "link": "Maryland",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Air Force One",
+            "keyword": true,
+            "count": 2,
+            "link": "Air_Force_One",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::misc",
+                "type::object"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "US",
+            "keyword": false,
+            "count": 3,
+            "link": "United_States",
+            "tags": [
+                "slot::in",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Washington, D.C.",
+            "keyword": false,
+            "count": 2,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Obama",
+            "keyword": false,
+            "count": 1,
+            "link": "Barack_Obama",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Thursday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Malcolm Grow Medical Facility",
+            "keyword": false,
+            "count": 1,
+            "link": "Malcolm_Grow_Medical_Clinic",
+            "tags": [
+                "iptc::07000000",
+                "topic::health",
+                "type::entity",
+                "type::facility",
+                "type::health_facility",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "9 am local time",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Twitter",
+            "keyword": false,
+            "count": 1,
+            "link": "Twitter",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Vice President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Joe Biden",
+            "keyword": false,
+            "count": 1,
+            "link": "Joe_Biden",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Ohio",
+            "keyword": false,
+            "count": 1,
+            "link": "Ohio",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe1",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Camp Springs",
+            "keyword": false,
+            "count": 1,
+            "link": "Camp_Springs,_Maryland",
+            "tags": [
+                "iptc::16000000",
+                "topic::conflict",
+                "type::entity",
+                "type::facility",
+                "type::location",
+                "type::military_facility"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 1,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 4,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 6,
+            "p": "head_of_state",
+            "o": 3
+        },
+        {
+            "s": 8,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "agent_of",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "citizen_of",
+            "o": 3
+        },
+        {
+            "s": 12,
+            "p": "minister_of",
+            "o": 3
+        },
+        {
+            "s": 13,
+            "p": "in0",
+            "o": 3
+        },
+        {
+            "s": 14,
+            "p": "in0",
+            "o": 3
+        }
+    ],
+    "frames": [
+        {
+            "type": "attack",
+            "slots": [
+                {
+                    "name": "place",
+                    "value": 4
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "02000000",
+        "20000082",
+        "20000084"
+    ]
+}

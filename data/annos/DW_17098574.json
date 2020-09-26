@@ -1,0 +1,217 @@
+{
+    "id": "DW_17098574",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 575,
+            "end": 585,
+            "text": "$1 billion",
+            "concept": 1
+        },
+        {
+            "begin": 590,
+            "end": 602,
+            "text": "$1.6 billion",
+            "concept": 2
+        },
+        {
+            "begin": 604,
+            "end": 621,
+            "text": "750 million euros",
+            "concept": 3
+        },
+        {
+            "begin": 626,
+            "end": 643,
+            "text": "1.2 billion euros",
+            "concept": 4
+        },
+        {
+            "begin": 3005,
+            "end": 3030,
+            "text": "European Medicines Agency",
+            "concept": 0,
+            "candidates": [
+                "European_Medicines_Agency"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3034,
+            "end": 3040,
+            "text": "London",
+            "concept": 5,
+            "candidates": [
+                "London",
+                "London,_Ontario",
+                "London_GAA",
+                "London_Cricket_Club",
+                "Greater_London",
+                "London_Records",
+                "London_Stadium",
+                "London_(European_Parliament_constituency)",
+                "County_of_London",
+                "City_of_London",
+                "University_of_London",
+                "West_End_theatre",
+                "London,_Kentucky",
+                "Bishop_of_London",
+                "London_(electoral_district)",
+                "London,_Ohio"
+            ],
+            "scores": [
+                0.9350861657925209,
+                0.015160508723617504,
+                0.007891638366401665,
+                0.002773263790905641,
+                0.001878034777701013,
+                0.001878034777701013,
+                0.0017223427754045559,
+                0.0014888047719598704,
+                0.0014596125215292847,
+                0.0014012280206681133,
+                0.001362305020093999,
+                0.0013039205192328276,
+                0.0010314595152140279,
+                0.0010022672647834422,
+                0.0008368445123434565,
+                0.0007395370109081709
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "European Medicines Agency",
+            "keyword": true,
+            "count": 1,
+            "link": "European_Medicines_Agency",
+            "tags": [
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::igo",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "$1 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "$1.6 billion",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "750 million euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "1.2 billion euros",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::money",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "London",
+            "keyword": false,
+            "count": 1,
+            "link": "London",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 6,
+            "keyword": false,
+            "count": 0,
+            "link": "United_Kingdom",
+            "tags": []
+        },
+        {
+            "concept": 7,
+            "keyword": false,
+            "count": 0,
+            "link": "European_Union",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 0,
+            "p": "based_in2",
+            "o": 5
+        },
+        {
+            "s": 0,
+            "p": "institution_of",
+            "o": 7
+        },
+        {
+            "s": 0,
+            "p": "part_of",
+            "o": 7
+        },
+        {
+            "s": 5,
+            "p": "in0",
+            "o": 6
+        }
+    ],
+    "frames": [
+        {
+            "type": "none",
+            "slots": []
+        }
+    ],
+    "iptc": [
+        "07000000",
+        "13000000",
+        "20000464",
+        "20000469",
+        "20000710",
+        "20000713"
+    ]
+}

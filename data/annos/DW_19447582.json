@@ -1,0 +1,1063 @@
+{
+    "id": "DW_19447582",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 107,
+            "end": 124,
+            "text": "Automotive expert",
+            "concept": 5
+        },
+        {
+            "begin": 125,
+            "end": 139,
+            "text": "Stefan Bratzel",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 146,
+            "end": 148,
+            "text": "DW",
+            "concept": 0,
+            "candidates": [
+                "Drum_Workshop",
+                "Deutsche_Welle",
+                "DW-TV",
+                "Defender_(association_football)",
+                "Dreamworld_(Australian_theme_park)",
+                "Data_warehouse",
+                "Delhi_Wizards",
+                "D.W._Read",
+                "DW",
+                "Discworld"
+            ],
+            "scores": [
+                0.6717557251908397,
+                0.17557251908396945,
+                0.03816793893129771,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.022900763358778626,
+                0.015267175572519083,
+                0.015267175572519083,
+                0.007633587786259542,
+                0.007633587786259542
+            ]
+        },
+        {
+            "begin": 153,
+            "end": 163,
+            "text": "Dieselgate",
+            "concept": 6,
+            "candidates": [
+                "Volkswagen_emissions_scandal"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 247,
+            "end": 261,
+            "text": "Stefan Bratzel",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 281,
+            "end": 312,
+            "text": "Center of Automotive Management",
+            "concept": 2,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 314,
+            "end": 317,
+            "text": "CAM",
+            "concept": 2,
+            "candidates": [
+                "Computer-aided_manufacturing",
+                "Cam",
+                "Cam_(singer)",
+                "Aut\u00f3dromo_Internacional_Orlando_Moura",
+                "Cambridge_United_F.C.",
+                "Central_attacking_midfielder",
+                "Cambridge_Turbos",
+                "Crassulacean_acid_metabolism",
+                "Cambridgeshire",
+                "River_Cam",
+                "Cam,_Gloucestershire",
+                "Attacking_midfielder",
+                "Clube_Atl\u00e9tico_Mineiro",
+                "Cambridge_City_F.C.",
+                "Midfielder",
+                "Camshaft"
+            ],
+            "scores": [
+                0.24134312696747115,
+                0.16789087093389296,
+                0.08709338929695698,
+                0.0472193074501574,
+                0.040923399790136414,
+                0.03987408184679958,
+                0.02938090241343127,
+                0.02833158447009444,
+                0.022035676810073453,
+                0.022035676810073453,
+                0.02098635886673662,
+                0.017838405036726127,
+                0.017838405036726127,
+                0.014690451206715634,
+                0.013641133263378805,
+                0.013641133263378805
+            ]
+        },
+        {
+            "begin": 400,
+            "end": 430,
+            "text": "University of Applied Sciences",
+            "concept": 4,
+            "candidates": [
+                "Fachhochschule",
+                "Vocational_university",
+                "University_of_applied_sciences_(Finland)",
+                "Hogeschool",
+                "Technical_University_of_Cologne",
+                "University_of_Applied_Sciences_Leiden",
+                "Osnabr\u00fcck_University_of_Applied_Sciences",
+                "RheinMain_University_of_Applied_Sciences",
+                "Darmstadt_University_of_Applied_Sciences",
+                "HU_University_of_Applied_Sciences_Utrecht",
+                "Stuttgart_Technology_University_of_Applied_Sciences",
+                "Zurich_University_of_Applied_Sciences/ZHAW",
+                "Hochschule_f\u00fcr_Technik_Rapperswil",
+                "Hochschule_Mittweida",
+                "Reutlingen_University",
+                "Kemi-Tornio_University_of_Applied_Sciences"
+            ],
+            "scores": [
+                0.3865546218487395,
+                0.23529411764705882,
+                0.15126050420168066,
+                0.05042016806722689,
+                0.025210084033613446,
+                0.01680672268907563,
+                0.01680672268907563,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815,
+                0.008403361344537815
+            ]
+        },
+        {
+            "begin": 432,
+            "end": 436,
+            "text": "FHDW",
+            "concept": 4,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 441,
+            "end": 458,
+            "text": "Bergisch Gladbach",
+            "concept": 7,
+            "candidates": [
+                "Bergisch_Gladbach_Observatory",
+                "Bergisch_Gladbach",
+                "Bergisch_Gladbach_station",
+                "SV_Bergisch_Gladbach_09"
+            ],
+            "scores": [
+                0.6736111111111112,
+                0.2795138888888889,
+                0.03298611111111111,
+                0.013888888888888888
+            ]
+        },
+        {
+            "begin": 460,
+            "end": 467,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 469,
+            "end": 483,
+            "text": "Deutsche Welle",
+            "concept": 0,
+            "candidates": [
+                "Deutsche_Welle",
+                "Deutsche_Welle_GmbH",
+                "DW-TV"
+            ],
+            "scores": [
+                0.9953416149068323,
+                0.003105590062111801,
+                0.0015527950310559005
+            ]
+        },
+        {
+            "begin": 624,
+            "end": 638,
+            "text": "Stefan Bratzel",
+            "concept": 1,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 687,
+            "end": 692,
+            "text": "China",
+            "concept": 9,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 863,
+            "end": 865,
+            "text": "US",
+            "concept": 10,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 955,
+            "end": 961,
+            "text": "Europe",
+            "concept": 11,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1000,
+            "end": 1006,
+            "text": "Norway",
+            "concept": 12,
+            "candidates": [
+                "Norway",
+                "Norway_national_football_team",
+                "Norway_women's_national_football_team",
+                "Football_Association_of_Norway",
+                "VG-lista",
+                "Same-sex_marriage_in_Norway",
+                "ISU_Junior_Grand_Prix_in_Norway",
+                "Norway_national_under-21_football_team",
+                "Norway_men's_national_ice_hockey_team",
+                "Norway_women's_national_handball_team",
+                "Norwegian_Campaign",
+                "Norway_national_handball_team",
+                "Norway_Fed_Cup_team",
+                "Norway,_Maine",
+                "Norway_national_cricket_team",
+                "Norway_at_the_1920_Summer_Olympics"
+            ],
+            "scores": [
+                0.8815544177497703,
+                0.03534199816200604,
+                0.011001706708677957,
+                0.005198897203623474,
+                0.0045687278456085076,
+                0.003308389129578574,
+                0.0023106209793882105,
+                0.00223184980963634,
+                0.0018642510174609426,
+                0.001680451621373244,
+                0.0014441381121176316,
+                0.0013391098857818038,
+                0.0013128528291978469,
+                0.0011815675462780622,
+                0.0009452540370224497,
+                0.0008664828672705789
+            ]
+        },
+        {
+            "begin": 1030,
+            "end": 1037,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1344,
+            "end": 1351,
+            "text": "Germany",
+            "concept": 8,
+            "candidates": [
+                "Germany",
+                "Germany_national_football_team",
+                "Nazi_Germany",
+                "German_Empire",
+                "Germany_women's_national_football_team",
+                "Weimar_Republic",
+                "German_Football_Association",
+                "ISU_Junior_Grand_Prix_in_Germany",
+                "GfK_Entertainment_Charts",
+                "Germany_national_youth_football_team",
+                "A1_Team_Germany",
+                "Germany_national_rugby_union_team",
+                "Kingdom_of_Germany",
+                "German_literature",
+                "Germany_men's_national_ice_hockey_team",
+                "Same-sex_marriage_in_Germany"
+            ],
+            "scores": [
+                0.8841501713834503,
+                0.0200455826140014,
+                0.011772517631857582,
+                0.010686790014895106,
+                0.00405577589146313,
+                0.0039570733808301775,
+                0.0036430199379071477,
+                0.0035802092493225418,
+                0.0019561043016348726,
+                0.0017228074583206217,
+                0.0015792401701272365,
+                0.0013549162823250722,
+                0.0013549162823250722,
+                0.001211348994131687,
+                0.0011575112610591677,
+                0.001148538305547081
+            ]
+        },
+        {
+            "begin": 1484,
+            "end": 1489,
+            "text": "China",
+            "concept": 9,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1636,
+            "end": 1641,
+            "text": "China",
+            "concept": 9,
+            "candidates": [
+                "China",
+                "China_national_football_team",
+                "Republic_of_China_(1912\u20131949)",
+                "China_women's_national_football_team",
+                "Qing_dynasty",
+                "Chinese_Basketball_Association",
+                "A1_Team_China",
+                "Cinema_of_China",
+                "China_men's_national_basketball_team",
+                "History_of_China",
+                "China_national_badminton_team",
+                "Recognition_of_same-sex_unions_in_China",
+                "Taiwan",
+                "Chinese_Football_Association",
+                "Porcelain",
+                "China_national_baseball_team"
+            ],
+            "scores": [
+                0.9217741155000069,
+                0.007894482157917295,
+                0.0049496052758921045,
+                0.004244493909773397,
+                0.004092411066100734,
+                0.0025577569163129587,
+                0.0022950683681510872,
+                0.0019079484024388557,
+                0.0017696912718273446,
+                0.0016590855673381355,
+                0.0014240484452985663,
+                0.0014240484452985663,
+                0.001285791314687055,
+                0.0009954513404028813,
+                0.0009124970620359745,
+                0.0008848456359136723
+            ]
+        },
+        {
+            "begin": 1738,
+            "end": 1744,
+            "text": "France",
+            "concept": 13,
+            "candidates": [
+                "France",
+                "France_national_football_team",
+                "France_national_rugby_union_team",
+                "French_poetry",
+                "French_Third_Republic",
+                "France_national_rugby_league_team",
+                "Kingdom_of_France",
+                "French_Rugby_Federation",
+                "French_Football_Federation",
+                "France_women's_national_football_team",
+                "ISU_Junior_Grand_Prix_in_France",
+                "Cinema_of_France",
+                "First_French_Empire",
+                "A1_Team_France",
+                "Early_modern_France",
+                "Second_French_Empire"
+            ],
+            "scores": [
+                0.8737952563780544,
+                0.019010369945100292,
+                0.014403100218881195,
+                0.0068176109655890054,
+                0.005913380458574043,
+                0.005705263913308695,
+                0.0046000932936237394,
+                0.0028992787685241665,
+                0.0024399870824213282,
+                0.0023251641608956187,
+                0.0020381068570813447,
+                0.0019950482615092037,
+                0.0019448132333417059,
+                0.001463992249452797,
+                0.0012917578671642327,
+                0.001277405001973519
+            ]
+        },
+        {
+            "begin": 2831,
+            "end": 2837,
+            "text": "German",
+            "concept": 14
+        },
+        {
+            "begin": 3414,
+            "end": 3424,
+            "text": "Dieselgate",
+            "concept": 6,
+            "candidates": [
+                "Volkswagen_emissions_scandal"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3782,
+            "end": 3784,
+            "text": "VW",
+            "concept": 15,
+            "candidates": [
+                "Volkswagen",
+                "Volkswagen_Group",
+                "Volkswagen_Beetle",
+                "Volkswagen_air-cooled_engine",
+                "List_of_Volkswagen_Group_diesel_engines",
+                "Baja_Bug",
+                "Volkswagen_Scirocco"
+            ],
+            "scores": [
+                0.9120879120879121,
+                0.03296703296703297,
+                0.016483516483516484,
+                0.016483516483516484,
+                0.01098901098901099,
+                0.005494505494505495,
+                0.005494505494505495
+            ]
+        },
+        {
+            "begin": 3884,
+            "end": 3888,
+            "text": "2025",
+            "concept": 16
+        },
+        {
+            "begin": 4324,
+            "end": 4328,
+            "text": "2020",
+            "concept": 17
+        },
+        {
+            "begin": 4383,
+            "end": 4387,
+            "text": "2025",
+            "concept": 16
+        },
+        {
+            "begin": 4709,
+            "end": 4732,
+            "text": "Interview: Klaus Ulrich",
+            "concept": 18
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "Deutsche Welle",
+            "keyword": false,
+            "count": 2,
+            "link": "Deutsche_Welle",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Stefan Bratzel",
+            "keyword": true,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::male",
+                "iptc::13000000",
+                "slot::head",
+                "slot::interviewee",
+                "slot::keyword",
+                "topic::science",
+                "type::entity",
+                "type::person",
+                "type::researcher"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Center of Automotive Management",
+            "keyword": true,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::13000000",
+                "slot::keyword",
+                "topic::science",
+                "type::entity",
+                "type::organization",
+                "type::research_center"
+            ]
+        },
+        {
+            "concept": 3,
+            "keyword": true,
+            "count": 0,
+            "tags": []
+        },
+        {
+            "concept": 4,
+            "text": "University of Applied Sciences",
+            "keyword": false,
+            "count": 2,
+            "link": null,
+            "tags": [
+                "iptc::05000000",
+                "topic::education",
+                "type::education_org",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Automotive expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Dieselgate",
+            "keyword": false,
+            "count": 2,
+            "link": "Volkswagen_emissions_scandal",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::event",
+                "type::scandal"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Bergisch Gladbach",
+            "keyword": false,
+            "count": 1,
+            "link": "Bergisch_Gladbach",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Germany",
+            "keyword": false,
+            "count": 3,
+            "link": "Germany",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "China",
+            "keyword": false,
+            "count": 3,
+            "link": "China",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "US",
+            "keyword": false,
+            "count": 1,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Norway",
+            "keyword": false,
+            "count": 1,
+            "link": "Norway",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "France",
+            "keyword": false,
+            "count": 1,
+            "link": "France",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "German",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "VW",
+            "keyword": false,
+            "count": 1,
+            "link": "Volkswagen",
+            "tags": [
+                "iptc::20000170",
+                "sector::20000296",
+                "topic::business",
+                "type::company",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "2025",
+            "keyword": false,
+            "count": 2,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "2020",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Interview: Klaus Ulrich",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::footer",
+                "type::other"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "s": 0,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 0,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 8
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 14
+        },
+        {
+            "s": 1,
+            "p": "head_of",
+            "o": 2
+        },
+        {
+            "s": 1,
+            "p": "member_of",
+            "o": 2
+        },
+        {
+            "s": 2,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 2,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 2,
+            "p": "based_in2",
+            "o": 7
+        },
+        {
+            "s": 2,
+            "p": "part_of",
+            "o": 4
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 14
+        },
+        {
+            "s": 4,
+            "p": "based_in2",
+            "o": 7
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 8
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 14
+        },
+        {
+            "s": 14,
+            "p": "gpe0",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "based_in0",
+            "o": 8
+        },
+        {
+            "s": 15,
+            "p": "based_in0-x",
+            "o": 14
+        }
+    ],
+    "frames": [
+        {
+            "type": "cpn-interview",
+            "slots": [
+                {
+                    "name": "interviewee",
+                    "value": 1
+                },
+                {
+                    "name": "media",
+                    "value": 0
+                }
+            ]
+        }
+    ],
+    "iptc": [
+        "04000000",
+        "20000209",
+        "20000256",
+        "20000257"
+    ]
+}

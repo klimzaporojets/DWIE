@@ -1,0 +1,2788 @@
+{
+    "id": "DW_17880619",
+    "tags": [
+        "all",
+        "train"
+    ],
+    "mentions": [
+        {
+            "begin": 22,
+            "end": 28,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 29,
+            "end": 38,
+            "text": "President",
+            "concept": 11
+        },
+        {
+            "begin": 39,
+            "end": 54,
+            "text": "Bashir al-Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 113,
+            "end": 117,
+            "text": "West",
+            "concept": 2,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 161,
+            "end": 174,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 232,
+            "end": 243,
+            "text": "Arab Spring",
+            "concept": 5,
+            "candidates": [
+                "Arab_Spring",
+                "2011\u201312_Saudi_Arabian_protests",
+                "Internet_censorship_in_the_Arab_Spring",
+                "Impact_of_the_Arab_Spring"
+            ],
+            "scores": [
+                0.9975429975429976,
+                0.000819000819000819,
+                0.000819000819000819,
+                0.000819000819000819
+            ]
+        },
+        {
+            "begin": 256,
+            "end": 261,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 284,
+            "end": 290,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 348,
+            "end": 352,
+            "text": "Arab",
+            "concept": 12,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 386,
+            "end": 393,
+            "text": "Ben Ali",
+            "concept": 13,
+            "candidates": [
+                "Zine_El_Abidine_Ben_Ali",
+                "Ben_Ali_(horse)",
+                "Ben_Ali_(businessman)",
+                "Ben_Ali,_Sacramento,_California"
+            ],
+            "scores": [
+                0.7865168539325843,
+                0.1348314606741573,
+                0.0449438202247191,
+                0.033707865168539325
+            ]
+        },
+        {
+            "begin": 400,
+            "end": 407,
+            "text": "Mubarak",
+            "concept": 14,
+            "candidates": [
+                "Hosni_Mubarak",
+                "Mubarak_(name)",
+                "Mubarak_Wakaso",
+                "History_of_Egypt_under_Hosni_Mubarak",
+                "Taqi_Mubarak_Al-Siyabi",
+                "Mubarak_Ghanim",
+                "Jehan_Mubarak"
+            ],
+            "scores": [
+                0.9026548672566371,
+                0.035398230088495575,
+                0.017699115044247787,
+                0.017699115044247787,
+                0.008849557522123894,
+                0.008849557522123894,
+                0.008849557522123894
+            ]
+        },
+        {
+            "begin": 420,
+            "end": 427,
+            "text": "Gadhafi",
+            "concept": 15,
+            "candidates": [
+                "Muammar_Gaddafi"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 474,
+            "end": 489,
+            "text": "Bashar al-Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Al-Assad_family"
+            ],
+            "scores": [
+                0.9990892531876139,
+                0.0009107468123861566
+            ]
+        },
+        {
+            "begin": 507,
+            "end": 511,
+            "text": "2011",
+            "concept": 16
+        },
+        {
+            "begin": 526,
+            "end": 533,
+            "text": "Syrians",
+            "concept": 17
+        },
+        {
+            "begin": 618,
+            "end": 623,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 693,
+            "end": 701,
+            "text": "Islamist",
+            "concept": 18
+        },
+        {
+            "begin": 792,
+            "end": 801,
+            "text": "Islamists",
+            "concept": 3
+        },
+        {
+            "begin": 850,
+            "end": 855,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 920,
+            "end": 933,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 1067,
+            "end": 1074,
+            "text": "Islamic",
+            "concept": 19
+        },
+        {
+            "begin": 1141,
+            "end": 1145,
+            "text": "Arab",
+            "concept": 12,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 1156,
+            "end": 1162,
+            "text": "Europe",
+            "concept": 20,
+            "candidates": [
+                "Europe",
+                "UEFA",
+                "Europe_(band)",
+                "UEFA_competitions",
+                "European_Athletic_Association",
+                "European_theatre_of_World_War_II",
+                "European_Union",
+                "Europe_(dinghy)",
+                "European_Cricket_Council",
+                "UEFA_Champions_League",
+                "Senior_League_World_Series_(Europe\u2013Africa_Region)",
+                "Big_League_World_Series_(Europe\u2013Africa_Region)",
+                "Sailing_at_the_2004_Summer_Olympics_\u2013_Europe",
+                "Neolithic_Europe",
+                "History_of_Europe",
+                "Europe_(magazine)"
+            ],
+            "scores": [
+                0.8408304498269896,
+                0.10987312572087658,
+                0.013771626297577855,
+                0.00209919261822376,
+                0.0015916955017301038,
+                0.001568627450980392,
+                0.0015224913494809689,
+                0.001314878892733564,
+                0.001245674740484429,
+                0.0009919261822376008,
+                0.0008073817762399078,
+                0.000784313725490196,
+                0.0007612456747404844,
+                0.0006920415224913495,
+                0.0005536332179930796,
+                0.0005305651672433679
+            ]
+        },
+        {
+            "begin": 1203,
+            "end": 1208,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1213,
+            "end": 1217,
+            "text": "Iraq",
+            "concept": 21,
+            "candidates": [
+                "Iraq",
+                "Iraq_national_football_team",
+                "Iraq_War",
+                "Ba'athist_Iraq",
+                "Kingdom_of_Iraq",
+                "2003_invasion_of_Iraq",
+                "Iraq_Football_Association",
+                "Mandatory_Iraq",
+                "Iraq_national_under-23_football_team",
+                "Iraqi_Republic_(1958\u201368)",
+                "History_of_the_Jews_in_Iraq",
+                "Anglo-Iraqi_War",
+                "Flag_of_Iraq",
+                "Iraq_national_under-20_football_team",
+                "Australian_contribution_to_the_2003_invasion_of_Iraq",
+                "Elections_in_Iraq"
+            ],
+            "scores": [
+                0.8819440996872363,
+                0.031028148736533784,
+                0.02829767164771881,
+                0.013255225140247233,
+                0.006801370203048205,
+                0.0026808320508365188,
+                0.0023829618229657948,
+                0.001886511443181254,
+                0.0017375763292458918,
+                0.0012907709874398054,
+                0.0010425457975475351,
+                0.0009929007595690811,
+                0.0009929007595690811,
+                0.000943255721590627,
+                0.0007446755696768108,
+                0.0007446755696768108
+            ]
+        },
+        {
+            "begin": 1264,
+            "end": 1270,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 1307,
+            "end": 1315,
+            "text": "Damascus",
+            "concept": 7,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 1355,
+            "end": 1360,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1386,
+            "end": 1399,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 1417,
+            "end": 1425,
+            "text": "European",
+            "concept": 22
+        },
+        {
+            "begin": 1430,
+            "end": 1434,
+            "text": "Arab",
+            "concept": 12,
+            "candidates": [
+                "Arabs",
+                "Arab_Canadians",
+                "Arab_citizens_of_Israel",
+                "Arab_world",
+                "Arab_Americans",
+                "Arab_cuisine",
+                "Arab,_Alabama",
+                "Palestinians",
+                "Arabic",
+                "Arabic_music",
+                "Arab_Indonesians",
+                "Arab_culture",
+                "British_Arabs",
+                "Arabian_horse",
+                "Arab_(horse)",
+                "History_of_Arabs_in_Afghanistan"
+            ],
+            "scores": [
+                0.8105479708247616,
+                0.03497288198990088,
+                0.025060781746773893,
+                0.017205909855994014,
+                0.010660183280344118,
+                0.00878997568730129,
+                0.007667851131475594,
+                0.007667851131475594,
+                0.00673274733495418,
+                0.004862539741911353,
+                0.004301477463998503,
+                0.0037404151860856555,
+                0.003553394426781373,
+                0.00336637366747709,
+                0.0024312698709556763,
+                0.0022442491116513932
+            ]
+        },
+        {
+            "begin": 1485,
+            "end": 1498,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 1509,
+            "end": 1514,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1523,
+            "end": 1527,
+            "text": "West",
+            "concept": 2,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        },
+        {
+            "begin": 1607,
+            "end": 1615,
+            "text": "Damascus",
+            "concept": 7,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 1622,
+            "end": 1627,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 1628,
+            "end": 1634,
+            "text": "expert",
+            "concept": 23
+        },
+        {
+            "begin": 1635,
+            "end": 1647,
+            "text": "Petra Becker",
+            "concept": 8,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 1655,
+            "end": 1710,
+            "text": "German Institute for International and Security Affairs",
+            "concept": 24,
+            "candidates": [
+                "German_Institute_for_International_and_Security_Affairs"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 1714,
+            "end": 1720,
+            "text": "Berlin",
+            "concept": 25,
+            "candidates": [
+                "Berlin",
+                "Humboldt_University_of_Berlin",
+                "Berlin_(band)",
+                "German_Open_(WTA)",
+                "Berlin,_New_Hampshire",
+                "Berlin_Hauptbahnhof",
+                "Olympiastadion_(Berlin)",
+                "Berlin,_Connecticut",
+                "Berlin_International_Film_Festival",
+                "Berlin,_Maryland",
+                "Berlin_(Lou_Reed_album)",
+                "Berlin,_New_Jersey",
+                "Berlin,_Massachusetts",
+                "Berlin,_Wisconsin",
+                "East_Berlin",
+                "Battle_of_Berlin"
+            ],
+            "scores": [
+                0.908549969587179,
+                0.02176500145452622,
+                0.006717266548541507,
+                0.005553645571628805,
+                0.004839605426705101,
+                0.004310686800835691,
+                0.0030412820987491076,
+                0.0026710390606405204,
+                0.002591701266760109,
+                0.002062782640890699,
+                0.001428080289847407,
+                0.0013222965646735249,
+                0.0012429587707931135,
+                0.0011371750456192315,
+                0.001110729114325761,
+                0.001110729114325761
+            ]
+        },
+        {
+            "begin": 1748,
+            "end": 1753,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 1855,
+            "end": 1863,
+            "text": "Salafist",
+            "concept": 26
+        },
+        {
+            "begin": 1876,
+            "end": 1882,
+            "text": "Becker",
+            "concept": 8,
+            "candidates": [
+                "Theodor_Becker",
+                "Becker_(TV_series)",
+                "Becker_County,_Minnesota",
+                "Boris_Becker",
+                "Becker,_Minnesota",
+                "Becker",
+                "Cornelius_Becker",
+                "Becker_College",
+                "Becker_High_School",
+                "Becker's_muscular_dystrophy",
+                "Becker_Hawks",
+                "Albert_Becker_(chess_player)",
+                "Gary_Becker",
+                "Becker,_Florida",
+                "Charlotte_Becker",
+                "Nicolas_L\u00e9onard_Beker"
+            ],
+            "scores": [
+                0.5750165234633179,
+                0.23859881031064112,
+                0.07799074686054197,
+                0.021810971579643092,
+                0.01982815598149372,
+                0.007270323859881031,
+                0.006609385327164574,
+                0.005948446794448116,
+                0.004626569729015202,
+                0.0039656311962987445,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.0026437541308658294,
+                0.0019828155981493722,
+                0.0019828155981493722
+            ]
+        },
+        {
+            "begin": 1907,
+            "end": 1913,
+            "text": "Becker",
+            "concept": 8,
+            "candidates": [
+                "Theodor_Becker",
+                "Becker_(TV_series)",
+                "Becker_County,_Minnesota",
+                "Boris_Becker",
+                "Becker,_Minnesota",
+                "Becker",
+                "Cornelius_Becker",
+                "Becker_College",
+                "Becker_High_School",
+                "Becker's_muscular_dystrophy",
+                "Becker_Hawks",
+                "Albert_Becker_(chess_player)",
+                "Gary_Becker",
+                "Becker,_Florida",
+                "Charlotte_Becker",
+                "Nicolas_L\u00e9onard_Beker"
+            ],
+            "scores": [
+                0.5750165234633179,
+                0.23859881031064112,
+                0.07799074686054197,
+                0.021810971579643092,
+                0.01982815598149372,
+                0.007270323859881031,
+                0.006609385327164574,
+                0.005948446794448116,
+                0.004626569729015202,
+                0.0039656311962987445,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.0026437541308658294,
+                0.0019828155981493722,
+                0.0019828155981493722
+            ]
+        },
+        {
+            "begin": 1921,
+            "end": 1926,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 2075,
+            "end": 2080,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 2344,
+            "end": 2357,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 2425,
+            "end": 2431,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 2464,
+            "end": 2470,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 2608,
+            "end": 2613,
+            "text": "Tabqa",
+            "concept": 27,
+            "candidates": [
+                "Al-Thawrah",
+                "List_of_Syrian_Air_Force_bases",
+                "Battle_of_Tabqa_(2017)",
+                "Tabqa_Dam"
+            ],
+            "scores": [
+                0.85,
+                0.05,
+                0.05,
+                0.05
+            ]
+        },
+        {
+            "begin": 2642,
+            "end": 2647,
+            "text": "Raqqa",
+            "concept": 28,
+            "candidates": [
+                "Raqqa",
+                "Raqqa_Governorate",
+                "Raqqa_campaign_(2016\u20132017)",
+                "Raqqa_District",
+                "Rakka_Eyalet",
+                "Battle_of_Raqqa_(2017)"
+            ],
+            "scores": [
+                0.9083044982698962,
+                0.07785467128027682,
+                0.005190311418685121,
+                0.005190311418685121,
+                0.0017301038062283738,
+                0.0017301038062283738
+            ]
+        },
+        {
+            "begin": 2650,
+            "end": 2663,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 2745,
+            "end": 2750,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 2902,
+            "end": 2907,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 2978,
+            "end": 2983,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 3024,
+            "end": 3030,
+            "text": "Becker",
+            "concept": 8,
+            "candidates": [
+                "Theodor_Becker",
+                "Becker_(TV_series)",
+                "Becker_County,_Minnesota",
+                "Boris_Becker",
+                "Becker,_Minnesota",
+                "Becker",
+                "Cornelius_Becker",
+                "Becker_College",
+                "Becker_High_School",
+                "Becker's_muscular_dystrophy",
+                "Becker_Hawks",
+                "Albert_Becker_(chess_player)",
+                "Gary_Becker",
+                "Becker,_Florida",
+                "Charlotte_Becker",
+                "Nicolas_L\u00e9onard_Beker"
+            ],
+            "scores": [
+                0.5750165234633179,
+                0.23859881031064112,
+                0.07799074686054197,
+                0.021810971579643092,
+                0.01982815598149372,
+                0.007270323859881031,
+                0.006609385327164574,
+                0.005948446794448116,
+                0.004626569729015202,
+                0.0039656311962987445,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.003304692663582287,
+                0.0026437541308658294,
+                0.0019828155981493722,
+                0.0019828155981493722
+            ]
+        },
+        {
+            "begin": 3062,
+            "end": 3069,
+            "text": "Western",
+            "concept": 2,
+            "candidates": [
+                "Western_(genre)",
+                "Western_world",
+                "Western_culture",
+                "Western_United_States",
+                "Western_Province,_Sri_Lanka",
+                "Western_Province_(Victoria)",
+                "Western_film",
+                "Western_Europe",
+                "Western_comics",
+                "Western_fiction",
+                "Western_Conference_(NBA)",
+                "Western_music_(North_America)",
+                "Western_Mustangs",
+                "Western_Province_(Papua_New_Guinea)",
+                "American_frontier",
+                "Western_Province_(Kenya)"
+            ],
+            "scores": [
+                0.4424464086152596,
+                0.09814081072843646,
+                0.042060347455044195,
+                0.03830133089505232,
+                0.03088489281723052,
+                0.017779132378339935,
+                0.015747231535101085,
+                0.01422330590267195,
+                0.013613735649700295,
+                0.011073859595651733,
+                0.009041958752412883,
+                0.008838768668088998,
+                0.00853398354160317,
+                0.006806867824850148,
+                0.006705272782688205,
+                0.006298892614040435
+            ]
+        },
+        {
+            "begin": 3186,
+            "end": 3192,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 3193,
+            "end": 3209,
+            "text": "Foreign Minister",
+            "concept": 29
+        },
+        {
+            "begin": 3210,
+            "end": 3223,
+            "text": "Walid Muallem",
+            "concept": 9,
+            "candidates": [
+                "Walid_Muallem"
+            ],
+            "scores": [
+                1.0
+            ]
+        },
+        {
+            "begin": 3278,
+            "end": 3286,
+            "text": "Damascus",
+            "concept": 7,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 3295,
+            "end": 3308,
+            "text": "United States",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "United_States_men's_national_soccer_team",
+                "United_States_men's_national_ice_hockey_team",
+                "United_States_women's_national_soccer_team",
+                "United_States_national_rugby_union_team",
+                "American_poetry",
+                "United_States_men's_national_junior_ice_hockey_team",
+                "United_States_Soccer_Federation",
+                "Secondary_education_in_the_United_States",
+                "Recording_Industry_Association_of_America",
+                "United_States_men's_national_basketball_team",
+                "United_States_Davis_Cup_team",
+                "United_States_national_cricket_team",
+                "Cinema_of_the_United_States",
+                "Education_in_the_United_States",
+                "Same-sex_marriage_in_the_United_States"
+            ],
+            "scores": [
+                0.9430586507957316,
+                0.007734458981148895,
+                0.003602422589863926,
+                0.0027739178312052646,
+                0.0022075981227550404,
+                0.0020607744946383156,
+                0.0019978500825882906,
+                0.0014367740751422354,
+                0.0012532445399963295,
+                0.0012112949319629796,
+                0.0011273957158962795,
+                0.0009595972837628798,
+                0.0009333787787420361,
+                0.0008652106656878425,
+                0.0007288744395794552,
+                0.0006554626255210928
+            ]
+        },
+        {
+            "begin": 3345,
+            "end": 3350,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 3406,
+            "end": 3419,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 3422,
+            "end": 3429,
+            "text": "Muallem",
+            "concept": 9,
+            "candidates": [],
+            "scores": []
+        },
+        {
+            "begin": 3530,
+            "end": 3537,
+            "text": "Tuesday",
+            "concept": 30
+        },
+        {
+            "begin": 3543,
+            "end": 3545,
+            "text": "US",
+            "concept": 0,
+            "candidates": [
+                "United_States",
+                "Billboard_200",
+                "Billboard_Hot_100",
+                "Recording_Industry_Association_of_America",
+                "United_States_dollar",
+                "Nielsen_SoundScan",
+                "Billboard_charts",
+                "Hot_Country_Songs",
+                "Unincorporated_territories_of_the_United_States",
+                "Billboard_(magazine)",
+                "Dance_Club_Songs",
+                "Federal_government_of_the_United_States",
+                "American_English",
+                "RIAA_Certification",
+                ".us",
+                "Us_(Peter_Gabriel_album)"
+            ],
+            "scores": [
+                0.4957150655021834,
+                0.22153384279475982,
+                0.18400655021834061,
+                0.03116812227074236,
+                0.012308951965065502,
+                0.005676855895196507,
+                0.005240174672489083,
+                0.0024563318777292577,
+                0.0013919213973799126,
+                0.0013100436681222707,
+                0.0012827510917030568,
+                0.0012827510917030568,
+                0.001173580786026201,
+                0.0011462882096069868,
+                0.0011462882096069868,
+                0.0011189956331877728
+            ]
+        },
+        {
+            "begin": 3587,
+            "end": 3592,
+            "text": "Syria",
+            "concept": 6,
+            "candidates": [
+                "Syria",
+                "Roman_Syria",
+                "Syria_national_football_team",
+                "Bilad_al-Sham",
+                "Syria_(region)",
+                "Ottoman_Syria",
+                "Syrian_Arab_Federation_for_Football",
+                "Syrian_Civil_War",
+                "French_Mandate_for_Syria_and_the_Lebanon",
+                "Syrian_Republic_(1946\u20131963)",
+                "Mandatory_Syrian_Republic",
+                "Syria\u2013Lebanon_Campaign",
+                "History_of_Syria",
+                "Greater_Syria",
+                "Arab_Kingdom_of_Syria",
+                "Seleucid_Empire"
+            ],
+            "scores": [
+                0.868086951136434,
+                0.03195640056976528,
+                0.01901281971883322,
+                0.013315166904068866,
+                0.010775995540967363,
+                0.004520963646497802,
+                0.003715860531368056,
+                0.0034062054870873846,
+                0.003096550442806713,
+                0.0029726884250944447,
+                0.002477240354245371,
+                0.0024153093453892363,
+                0.002291447327676968,
+                0.0013624821948349539,
+                0.0011766891682665512,
+                0.0010528271505542825
+            ]
+        },
+        {
+            "begin": 3634,
+            "end": 3642,
+            "text": "American",
+            "concept": 31
+        },
+        {
+            "begin": 3643,
+            "end": 3654,
+            "text": "broadcaster",
+            "concept": 32
+        },
+        {
+            "begin": 3655,
+            "end": 3658,
+            "text": "NBC",
+            "concept": 33,
+            "candidates": [
+                "NBC",
+                "NFL_on_NBC",
+                "Major_League_Baseball_on_NBC",
+                "NBC_Sports",
+                "NASCAR_on_NBC",
+                "NBC_Sunday_Night_Football",
+                "NBA_on_NBC",
+                "NHL_on_NBC",
+                "Golf_Channel_on_NBC",
+                "Thoroughbred_Racing_on_NBC",
+                "NBC_Radio_Network",
+                "Major_League_Baseball_on_NBC_Radio",
+                "NBC_Olympic_broadcasts",
+                "NBC_News",
+                "Weapon_of_mass_destruction",
+                "College_Basketball_on_NBC"
+            ],
+            "scores": [
+                0.9171571225349363,
+                0.01333296142367019,
+                0.010710998298513292,
+                0.010264706702741905,
+                0.008423753870184932,
+                0.00675016038604223,
+                0.0063596552397422665,
+                0.005383392373992357,
+                0.002315137653064071,
+                0.002175671529385512,
+                0.002091991855178377,
+                0.001924632506764107,
+                0.0017851663830855484,
+                0.0015341273604641433,
+                0.0013109815625784497,
+                0.000920476416278486
+            ]
+        },
+        {
+            "begin": 3758,
+            "end": 3764,
+            "text": "Syrian",
+            "concept": 10
+        },
+        {
+            "begin": 3797,
+            "end": 3807,
+            "text": "Washington",
+            "concept": 34,
+            "candidates": [
+                "Washington_(state)",
+                "Washington,_D.C.",
+                "Washington_Wizards",
+                "Washington_Huskies_football",
+                "Washington_Mystics",
+                "Washington_County,_New_York",
+                "University_of_Washington",
+                "Washington_Huskies_men's_basketball",
+                "George_Washington",
+                "Washington_County,_Maine",
+                "Washington_Capitals",
+                "Washington_County,_Pennsylvania",
+                "Washington_Huskies",
+                "Washington,_Pennsylvania",
+                "Washington,_Tyne_and_Wear",
+                "Washington_County,_Oregon"
+            ],
+            "scores": [
+                0.4483422754161508,
+                0.09475856376392901,
+                0.02313935892144724,
+                0.01791167973586463,
+                0.015820608061631585,
+                0.013702022286421792,
+                0.012573944146375016,
+                0.011005640390700233,
+                0.007731462374466915,
+                0.007428807263722658,
+                0.007153666253955152,
+                0.006603384234420141,
+                0.006575870133443389,
+                0.005090108680698858,
+                0.004759939468977851,
+                0.0047324253680011
+            ]
+        },
+        {
+            "begin": 3856,
+            "end": 3864,
+            "text": "Damascus",
+            "concept": 7,
+            "candidates": [
+                "Damascus",
+                "Damascus_(horse)",
+                "Damascus,_Maryland",
+                "Damascus_Eyalet",
+                "Damascus_Governorate",
+                "Capture_of_Damascus",
+                "Damascus,_Arkansas",
+                "Damascus,_Virginia",
+                "Damascus,_Oregon",
+                "Damascus_steel",
+                "State_of_Damascus",
+                "Jund_Dimashq",
+                "Damascus,_Georgia",
+                "Aram-Damascus",
+                "Damascus_International_Airport",
+                "Damascus,_Ohio"
+            ],
+            "scores": [
+                0.9169622702354079,
+                0.023218316672041276,
+                0.008706868752015479,
+                0.007416962270235408,
+                0.004998387616897775,
+                0.003708481135117704,
+                0.003386004514672686,
+                0.003386004514672686,
+                0.0032247662044501773,
+                0.0019348597226701064,
+                0.0019348597226701064,
+                0.0017736214124475975,
+                0.0017736214124475975,
+                0.0014511447920025798,
+                0.001128668171557562,
+                0.001128668171557562
+            ]
+        },
+        {
+            "begin": 3981,
+            "end": 3994,
+            "text": "Islamic State",
+            "concept": 4,
+            "candidates": [
+                "Islamic_State_of_Iraq_and_the_Levant",
+                "Islamic_state",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Sinai_Province",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Khorasan_Province",
+                "Islamic_republic",
+                "Islamic_State_of_Iraq_and_the_Levant_in_Libya",
+                "Islamic_State_of_Afghanistan",
+                "Islamic_State_of_Iraq",
+                "Caliphate",
+                "Islamic_State_of_Iraq_and_the_Levant_\u2013_Caucasus_Province",
+                "Islamism",
+                "Islamic_state_(disambiguation)",
+                "Al-Shabaab_(militant_group)",
+                "South_Thailand_insurgency",
+                "Azawad",
+                "Salman_Ramadan_Abedi"
+            ],
+            "scores": [
+                0.8963174830175188,
+                0.07901322845906328,
+                0.007508044333214158,
+                0.005362888809438684,
+                0.002860207365033965,
+                0.001787629603146228,
+                0.0014301036825169824,
+                0.0010725777618877368,
+                0.0010725777618877368,
+                0.0007150518412584912,
+                0.0007150518412584912,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456,
+                0.0003575259206292456
+            ]
+        },
+        {
+            "begin": 3997,
+            "end": 4002,
+            "text": "Assad",
+            "concept": 1,
+            "candidates": [
+                "Bashar_al-Assad",
+                "Asad",
+                "Salah_Assad",
+                "Al-Assad_family",
+                "Hafez_al-Assad",
+                "Assad_Abdul_Ghanee",
+                "Clarice_Assad",
+                "Hamri_Al-Assad"
+            ],
+            "scores": [
+                0.7083333333333334,
+                0.125,
+                0.052083333333333336,
+                0.041666666666666664,
+                0.041666666666666664,
+                0.010416666666666666,
+                0.010416666666666666,
+                0.010416666666666666
+            ]
+        },
+        {
+            "begin": 4062,
+            "end": 4066,
+            "text": "West",
+            "concept": 2,
+            "candidates": [
+                "Western_United_States",
+                "Western_world",
+                "West",
+                "Western_Conference_(WNBA)",
+                "West_Africa",
+                "Western_Ukraine",
+                "West_Province_(Western_Australia)",
+                "West_(cigarette)",
+                "West_Germany",
+                "American_League_West",
+                "Longitude",
+                "Scottish_Junior_Football_Association,_West_Region",
+                "Enoch_West",
+                "Senior_League_World_Series_(West_Region)",
+                "Western_European_Summer_Time",
+                "David_West_(basketball)"
+            ],
+            "scores": [
+                0.12419788863589319,
+                0.09563237424963776,
+                0.08818050093148416,
+                0.047609190643759056,
+                0.03974332436348582,
+                0.03022148623473401,
+                0.027944524943075966,
+                0.020078658662802732,
+                0.01904367625750362,
+                0.017387704409025047,
+                0.015110743117367004,
+                0.01345477126888843,
+                0.012833781825708964,
+                0.012005795901469675,
+                0.010970813496170566,
+                0.010556820534050921
+            ]
+        }
+    ],
+    "concepts": [
+        {
+            "concept": 0,
+            "text": "United States",
+            "keyword": false,
+            "count": 3,
+            "link": "United_States",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 1,
+            "text": "Bashir al-Assad",
+            "keyword": true,
+            "count": 10,
+            "link": "Bashar_al-Assad",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "slot::keyword",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 2,
+            "text": "Western",
+            "keyword": false,
+            "count": 4,
+            "link": "Western_world",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 3,
+            "text": "Islamists",
+            "keyword": false,
+            "count": 1,
+            "link": "Islamism",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 4,
+            "text": "Islamic State",
+            "keyword": true,
+            "count": 7,
+            "link": "Islamic_State_of_Iraq_and_the_Levant",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::armed_movement",
+                "type::entity",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 5,
+            "text": "Arab Spring",
+            "keyword": true,
+            "count": 1,
+            "link": "Arab_Spring",
+            "tags": [
+                "iptc::16000000",
+                "slot::keyword",
+                "topic::conflict",
+                "type::entity",
+                "type::event",
+                "type::protest"
+            ]
+        },
+        {
+            "concept": 6,
+            "text": "Syria",
+            "keyword": true,
+            "count": 8,
+            "link": "Syria",
+            "tags": [
+                "slot::in",
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 7,
+            "text": "Damascus",
+            "keyword": true,
+            "count": 4,
+            "link": "Damascus",
+            "tags": [
+                "slot::keyword",
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 8,
+            "text": "Petra Becker",
+            "keyword": false,
+            "count": 4,
+            "link": null,
+            "tags": [
+                "gender::female",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::person",
+                "type::politics_per"
+            ]
+        },
+        {
+            "concept": 9,
+            "text": "Walid Muallem",
+            "keyword": false,
+            "count": 2,
+            "link": "Walid_Muallem",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "policy::exterior",
+                "topic::politics",
+                "type::entity",
+                "type::minister",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 10,
+            "text": "Syrian",
+            "keyword": false,
+            "count": 7,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 11,
+            "text": "President",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 12,
+            "text": "Arab",
+            "keyword": false,
+            "count": 3,
+            "link": "Arabs",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::ethnicity"
+            ]
+        },
+        {
+            "concept": 13,
+            "text": "Ben Ali",
+            "keyword": false,
+            "count": 1,
+            "link": "Zine_El_Abidine_Ben_Ali",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 14,
+            "text": "Mubarak",
+            "keyword": false,
+            "count": 1,
+            "link": "Hosni_Mubarak",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 15,
+            "text": "Gadhafi",
+            "keyword": false,
+            "count": 1,
+            "link": "Muammar_Gaddafi",
+            "tags": [
+                "gender::male",
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::head_of_state",
+                "type::person",
+                "type::politician"
+            ]
+        },
+        {
+            "concept": 16,
+            "text": "2011",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 17,
+            "text": "Syrians",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 18,
+            "text": "Islamist",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 19,
+            "text": "Islamic",
+            "keyword": false,
+            "count": 1,
+            "link": "Islam",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 20,
+            "text": "Europe",
+            "keyword": false,
+            "count": 1,
+            "link": "Europe",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::location",
+                "type::regio"
+            ]
+        },
+        {
+            "concept": 21,
+            "text": "Iraq",
+            "keyword": false,
+            "count": 1,
+            "link": "Iraq",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe0",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 22,
+            "text": "European",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::loc-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 23,
+            "text": "expert",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 24,
+            "text": "German Institute for International and Security Affairs",
+            "keyword": false,
+            "count": 1,
+            "link": "German_Institute_for_International_and_Security_Affairs",
+            "tags": [
+                "iptc::11000000",
+                "topic::politics",
+                "type::entity",
+                "type::organization",
+                "type::policy_institute"
+            ]
+        },
+        {
+            "concept": 25,
+            "text": "Berlin",
+            "keyword": false,
+            "count": 1,
+            "link": "Berlin",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 26,
+            "text": "Salafist",
+            "keyword": false,
+            "count": 1,
+            "link": "Salafi_movement",
+            "tags": [
+                "iptc::12000000",
+                "topic::none",
+                "topic::religion",
+                "type::other",
+                "type::religion-x"
+            ]
+        },
+        {
+            "concept": 27,
+            "text": "Tabqa",
+            "keyword": false,
+            "count": 1,
+            "link": "Al-Thawrah",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 28,
+            "text": "Raqqa",
+            "keyword": false,
+            "count": 1,
+            "link": "Raqqa",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 29,
+            "text": "Foreign Minister",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 30,
+            "text": "Tuesday",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::time",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 31,
+            "text": "American",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::gpe0-x",
+                "type::other"
+            ]
+        },
+        {
+            "concept": 32,
+            "text": "broadcaster",
+            "keyword": false,
+            "count": 1,
+            "tags": [
+                "topic::none",
+                "type::role",
+                "type::value"
+            ]
+        },
+        {
+            "concept": 33,
+            "text": "NBC",
+            "keyword": false,
+            "count": 1,
+            "link": "NBC",
+            "tags": [
+                "topic::media",
+                "type::entity",
+                "type::media",
+                "type::organization"
+            ]
+        },
+        {
+            "concept": 34,
+            "text": "Washington",
+            "keyword": false,
+            "count": 1,
+            "link": "Washington,_D.C.",
+            "tags": [
+                "topic::none",
+                "type::entity",
+                "type::gpe",
+                "type::gpe2",
+                "type::location"
+            ]
+        },
+        {
+            "concept": 35,
+            "keyword": false,
+            "count": 0,
+            "link": "Germany",
+            "tags": []
+        },
+        {
+            "concept": 36,
+            "keyword": false,
+            "count": 0,
+            "link": "Egypt",
+            "tags": []
+        },
+        {
+            "concept": 37,
+            "keyword": false,
+            "count": 0,
+            "link": "Tunisia",
+            "tags": []
+        },
+        {
+            "concept": 38,
+            "keyword": false,
+            "count": 0,
+            "link": "Libya",
+            "tags": []
+        }
+    ],
+    "relations": [
+        {
+            "s": 1,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 1,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 1,
+            "p": "head_of_state",
+            "o": 6
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 10
+        },
+        {
+            "s": 1,
+            "p": "head_of_state-x",
+            "o": 17
+        },
+        {
+            "s": 4,
+            "p": "based_in0",
+            "o": 6
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 10
+        },
+        {
+            "s": 4,
+            "p": "based_in0-x",
+            "o": 17
+        },
+        {
+            "s": 5,
+            "p": "event_in0",
+            "o": 6
+        },
+        {
+            "s": 7,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 7,
+            "p": "in0-x",
+            "o": 17
+        },
+        {
+            "s": 8,
+            "p": "citizen_of",
+            "o": 35
+        },
+        {
+            "s": 8,
+            "p": "member_of",
+            "o": 24
+        },
+        {
+            "s": 9,
+            "p": "agent_of",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "citizen_of",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 10
+        },
+        {
+            "s": 9,
+            "p": "citizen_of-x",
+            "o": 17
+        },
+        {
+            "s": 9,
+            "p": "minister_of",
+            "o": 6
+        },
+        {
+            "s": 9,
+            "p": "minister_of-x",
+            "o": 10
+        },
+        {
+            "s": 9,
+            "p": "minister_of-x",
+            "o": 17
+        },
+        {
+            "s": 10,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 13,
+            "p": "citizen_of",
+            "o": 37
+        },
+        {
+            "s": 14,
+            "p": "citizen_of",
+            "o": 36
+        },
+        {
+            "s": 15,
+            "p": "citizen_of",
+            "o": 38
+        },
+        {
+            "s": 17,
+            "p": "gpe0",
+            "o": 6
+        },
+        {
+            "s": 24,
+            "p": "based_in0",
+            "o": 35
+        },
+        {
+            "s": 24,
+            "p": "based_in2",
+            "o": 25
+        },
+        {
+            "s": 25,
+            "p": "in0",
+            "o": 35
+        },
+        {
+            "s": 27,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 27,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 27,
+            "p": "in0-x",
+            "o": 17
+        },
+        {
+            "s": 28,
+            "p": "in0",
+            "o": 6
+        },
+        {
+            "s": 28,
+            "p": "in0-x",
+            "o": 10
+        },
+        {
+            "s": 28,
+            "p": "in0-x",
+            "o": 17
+        },
+        {
+            "s": 31,
+            "p": "gpe0",
+            "o": 0
+        },
+        {
+            "s": 33,
+            "p": "based_in0",
+            "o": 0
+        },
+        {
+            "s": 33,
+            "p": "based_in0-x",
+            "o": 31
+        },
+        {
+            "s": 34,
+            "p": "in0",
+            "o": 0
+        },
+        {
+            "s": 34,
+            "p": "in0-x",
+            "o": 31
+        }
+    ],
+    "frames": [],
+    "iptc": [
+        "16000000",
+        "20000065"
+    ]
+}
