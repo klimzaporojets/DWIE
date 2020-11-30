@@ -208,6 +208,33 @@ class DWIEEvalTest(unittest.TestCase):
 
         print('====END TESTING NER SCENARIO 3====')
 
+    def test_ner_pred_c_scen1(self):
+        print('====TESTING NER PRED C SCENARIO 1====')
+        ner_gold_path = 'tests/data/tests_ner_gold_c.json'
+        ner_pred_scenario3_path = 'tests/data/tests_ner_pred_c_scen1.json'
+        gold = load_data(ner_gold_path)
+        pred_scenario3 = load_data(ner_pred_scenario3_path)
+        dwie_eval = EvaluatorDWIE()
+        for identifier in gold.keys():
+            dwie_eval.add(pred_scenario3[identifier], gold[identifier])
+        dwie_eval.printInfo()
+
+        ner_soft_pred_c_scen1_tps_p = (4 / 4)
+        ner_soft_pred_c_scen1_tps_g = (3 / 3 + 1 / 1)
+        ner_soft_pred_c_scen1_fps = 0.0
+        ner_soft_pred_c_scen1_fns = (0.0 + 0.0)
+        #
+        ner_soft_scenario3_pr = ner_soft_pred_c_scen1_tps_p / (ner_soft_pred_c_scen1_tps_p + ner_soft_pred_c_scen1_fps)
+        ner_soft_scenario3_re = ner_soft_pred_c_scen1_tps_g / (ner_soft_pred_c_scen1_tps_g + ner_soft_pred_c_scen1_fns)
+        ner_soft_scenario3_f1 = (2 * ner_soft_scenario3_pr * ner_soft_scenario3_re) / \
+                                (ner_soft_scenario3_pr + ner_soft_scenario3_re)
+
+        assert_approx_equal(dwie_eval.tags_soft.get_pr(), ner_soft_scenario3_pr)
+        assert_approx_equal(dwie_eval.tags_soft.get_re(), ner_soft_scenario3_re)
+        assert_approx_equal(dwie_eval.tags_soft.get_f1(), ner_soft_scenario3_f1)
+
+        print('====END TESTING NER SCENARIO 3====')
+
     def test_relations_scenario1(self):
         print('====TESTING RELATIONS SCENARIO 1====')
         rel_gold_path = 'tests/data/tests_rel_gold.json'
