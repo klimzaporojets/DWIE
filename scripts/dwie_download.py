@@ -110,20 +110,19 @@ if __name__ == '__main__':
                             curr_mention['begin'] = curr_mention_begin - offset
                             curr_mention['end'] = curr_mention_end - offset
 
-            # annos_only_json['content'] = article_content
-            if 'train' in annos_only_json['tags']:
-                annos_json = OrderedDict({'id': annos_only_json['id'],
-                                          'content': article_content,
-                                          'tags': annos_only_json['tags'],
-                                          'mentions': annos_only_json['mentions'],
-                                          'concepts': annos_only_json['concepts'],
-                                          'relations': annos_only_json['relations'],
-                                          'frames': annos_only_json['frames'],
-                                          'iptc': annos_only_json['iptc']})
-            else:
-                annos_json = OrderedDict({'id': annos_only_json['id'],
-                                          'content': article_content,
-                                          'tags': annos_only_json['tags']})
+            # if 'train' in annos_only_json['tags']:
+            annos_json = OrderedDict({'id': annos_only_json['id'],
+                                      'content': article_content,
+                                      'tags': annos_only_json['tags'],
+                                      'mentions': annos_only_json['mentions'],
+                                      'concepts': annos_only_json['concepts'],
+                                      'relations': annos_only_json['relations'],
+                                      'frames': annos_only_json['frames'],
+                                      'iptc': annos_only_json['iptc']})
+            # else:
+            #     annos_json = OrderedDict({'id': annos_only_json['id'],
+            #                               'content': article_content,
+            #                               'tags': annos_only_json['tags']})
 
             hash_content = hashlib.sha1(article_content.encode("UTF-8")).hexdigest()
 
