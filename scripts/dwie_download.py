@@ -8,9 +8,17 @@ from time import sleep
 
 import requests
 
+from utils.tokenizer import TokenizerCPN
+
+
+def str2bool(v):
+    return v.lower() in ('yes', 'true', 't', '1', 'y')
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
+    parser.register('type', 'bool', str2bool)
 
     parser.add_argument('--article_to_url_path',
                         default='data/article_id_to_url.json',
@@ -25,11 +33,20 @@ if __name__ == '__main__':
                         default='data/annos_with_content',
                         help='The path to where the annotations without the content are located')
 
+    parser.add_argument('--tokenize',
+                        default=False,
+                        type='bool',
+                        help='Whether to tokenize the content using the default tokenizer (the one used in the paper)')
+
     args = parser.parse_args()
 
     article_id_to_url_path = args.article_to_url_path
     annos_path = args.annos_path
     output_path = args.output_path
+    should_tokenize = args.tokenize
+    if should_tokenize:
+        tokenizer = TokenizerCPN()
+
     os.makedirs(output_path, exist_ok=True)
 
     ids_to_new_ids = dict()
@@ -110,19 +127,33 @@ if __name__ == '__main__':
                             curr_mention['begin'] = curr_mention_begin - offset
                             curr_mention['end'] = curr_mention_end - offset
 
-            # if 'train' in annos_only_json['tags']:
-            annos_json = OrderedDict({'id': annos_only_json['id'],
-                                      'content': article_content,
-                                      'tags': annos_only_json['tags'],
-                                      'mentions': annos_only_json['mentions'],
-                                      'concepts': annos_only_json['concepts'],
-                                      'relations': annos_only_json['relations'],
-                                      'frames': annos_only_json['frames'],
-                                      'iptc': annos_only_json['iptc']})
-            # else:
-            #     annos_json = OrderedDict({'id': annos_only_json['id'],
-            #                               'content': article_content,
-            #                               'tags': annos_only_json['tags']})
+            if not should_tokenize:
+                annos_json = OrderedDict({'id': annos_only_json['id'],
+                                          'content': article_content,
+                                          'tags': annos_only_json['tags'],
+                                          'mentions': annos_only_json['mentions'],
+                                          'concepts': annos_only_json['concepts'],
+                                          'relations': annos_only_json['relations'],
+                                          'frames': annos_only_json['frames'],
+                                          'iptc': annos_only_json['iptc']})
+            else:
+                tokenized = tokenizer.tokenize(article_content)
+                tokens = list()
+                begin = list()
+                end = list()
+                for curr_token in tokenized:
+                    tokens.append(curr_token['token'])
+                    begin.append(curr_token['offset'])
+                    end.append(curr_token['offset'] + curr_token['length'])
+                annos_json = OrderedDict({'id': annos_only_json['id'],
+                                          'content': article_content,
+                                          'tokenization': OrderedDict({'tokens': tokens, 'begin': begin, 'end': end}),
+                                          'tags': annos_only_json['tags'],
+                                          'mentions': annos_only_json['mentions'],
+                                          'concepts': annos_only_json['concepts'],
+                                          'relations': annos_only_json['relations'],
+                                          'frames': annos_only_json['frames'],
+                                          'iptc': annos_only_json['iptc']})
 
             hash_content = hashlib.sha1(article_content.encode("UTF-8")).hexdigest()
 
