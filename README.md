@@ -88,7 +88,7 @@ TODO -->
 
 ### Evaluation Script
 We provide the evaluation script `scripts/dwie_evaluation.py` in order to obtain all the metrics defined in 
-[our paper](todo:link in arxiv). The unit test cases are located in `scripts/tests/` directory. 
+[our paper](https://arxiv.org/abs/2009.12626). The unit test cases are located in `scripts/tests/` directory. 
 The following is an illustrative example of how to use the evaluation script
 on one predicted (`predicted.json`) and the respective 
 ground truth (`ground_truth.json`) annotation files: 
