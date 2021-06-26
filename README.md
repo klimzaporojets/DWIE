@@ -122,7 +122,7 @@ print('RE Soft Entity-Level F1:', dwie_eval.rels_soft.get_f1())
 
 ```
 
-### Citations and Acknowledgments
+### Citations
 Should you use this code/dataset for your own research, please cite: 
 ```
 @article{ZAPOROJETS2021102563,
