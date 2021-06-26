@@ -121,6 +121,22 @@ print('RE Hard Entity-Level F1:', dwie_eval.rels_hard.get_f1())
 print('RE Soft Entity-Level F1:', dwie_eval.rels_soft.get_f1())
 
 ```
+###Citations and Acknowledgments
+Should you use this code/dataset for your own research, please cite: 
+```
+@article{ZAPOROJETS2021102563,
+title = {{DWIE}: An entity-centric dataset for multi-task document-level information extraction},
+journal = {Information Processing & Management},
+volume = {58},
+number = {4},
+pages = {102563},
+year = {2021},
+issn = {0306-4573},
+doi = {https://doi.org/10.1016/j.ipm.2021.102563},
+url = {https://www.sciencedirect.com/science/article/pii/S0306457321000662},
+author = {Klim Zaporojets and Johannes Deleu and Chris Develder and Thomas Demeester}
+}
+```
 
 ### Contact
 If you have questions using DWIE, please e-mail us at <klim.zaporojets@ugent.be>
