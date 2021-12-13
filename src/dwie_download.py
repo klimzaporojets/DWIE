@@ -8,7 +8,7 @@ from time import sleep
 
 import requests
 
-from utils.tokenizer import TokenizerCPN
+from dataset.utils.tokenizer import TokenizerCPN
 
 
 def str2bool(v):

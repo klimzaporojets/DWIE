@@ -18,6 +18,7 @@ def load_jsonl(filename, tag):
 def load_json(filename, tag):
     with open(filename, 'r') as file:
         doc = json.load(file)
+        # print('doc is: ', doc)
         return {doc['id']: doc} if tag is None or tag in doc['tags'] else {}
 
 
@@ -93,7 +94,6 @@ def decode_relations_expanded(instance):
     relations = set([(relation['s'], relation['p'], relation['o']) for relation in instance['relations']])
 
     if len(relations) != len(instance['relations']):
-        # print("WARNING: duplicate relations")
         pass
 
     # (kzaporoj) - the tuple would allow to do hard concept level comparisons, the lists can not be hashed in order to
@@ -113,7 +113,6 @@ def decode_relations(instance):
 
     if len(relations) != len(instance['mention_relations']):
         pass
-        # print("WARNING: duplicate relations in mention relations")
 
     return relations
 
@@ -435,7 +434,7 @@ class MetricCoref:
     def print(self):
         f1 = self.get_f1()
 
-        print("coref\t{}\t{}".format(self.name, f1))
+        print('coref\t{}\t{}'.format(self.name, f1))
 
     @staticmethod
     def b_cubed(clusters, mention_to_gold):
@@ -940,10 +939,10 @@ class EvaluatorDWIE:
         if self.debug:
             print(pred['id'])
             content = pred['content']
-            print("P:", P)
-            print("G:", G)
-            print("P:", [[content[begin:end] for begin, end in cluster] for cluster in P])
-            print("G:", [[content[begin:end] for begin, end in cluster] for cluster in G])
+            print('P:', P)
+            print('G:', G)
+            print('P:', [[content[begin:end] for begin, end in cluster] for cluster in P])
+            print('G:', [[content[begin:end] for begin, end in cluster] for cluster in G])
 
         self.tags_mention.add([P], [G])
 
@@ -967,9 +966,8 @@ class EvaluatorDWIE:
         self.rels_mention.add_mention_relations(P, G)
 
     def printInfo(self):
-        print("## Coreference")
+        print('## Coreference')
         print('\t{:.<30} {}'.format('muc-f1:', self.coref_muc.get_f1()))
-        print()
         avg = sum([self.coref_muc.get_f1(), self.coref_bcubed.get_f1(), self.coref_ceafe.get_f1()]) / 3
         print('\t{:.<30} {}'.format('b-cubed-f1:', self.coref_bcubed.get_f1()))
 
@@ -979,13 +977,12 @@ class EvaluatorDWIE:
 
         print('## NER')
         print('\t{:.<30} {}'.format('mention-ner-f1:', self.tags_mention.get_f1()))
-        # print('\t{:.<30} {}'.format('mention-ner-f1 (expanded):', self.tags_mention_expanded.get_f1()))
         print('\t{:.<30} {}'.format('soft-ner-f1:', self.tags_soft.get_f1()))
         print('\t{:.<30} {}'.format('hard-ner-f1:', self.tags_hard.get_f1()))
+        print()
 
         print('## Relations')
         print('\t{:.<30} {}'.format('mention-rel-f1:', self.rels_mention.get_f1()))
-        # print('\t{:.<30} {}'.format('mention-rel-f1 (expanded):', self.rels_mention_expanded.get_f1()))
         print('\t{:.<30} {}'.format('hard-rel-f1:', self.rels_hard.get_f1()))
         print('\t{:.<30} {}'.format('soft-rel-f1:', self.rels_soft.get_f1()))
 
@@ -1007,19 +1004,19 @@ class EvaluatorDWIE:
         print()
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--pred", dest="pred", type=str, default=None, required=True)
-    parser.add_argument("--gold", dest="gold", type=str, default=None, required=True)
-    parser.add_argument("--pred-filter", dest="pred_filter", type=str, default=None, required=False)
-    parser.add_argument("--gold-filter", dest="gold_filter", type=str, default=None, required=False)
+    parser.add_argument('--pred', dest='pred', type=str, default=None, required=True)
+    parser.add_argument('--gold', dest='gold', type=str, default=None, required=True)
+    parser.add_argument('--pred-filter', dest='pred_filter', type=str, default=None, required=False)
+    parser.add_argument('--gold-filter', dest='gold_filter', type=str, default=None, required=False)
     args = parser.parse_args()
 
     pred = load_data(args.pred, args.pred_filter)
     gold = load_data(args.gold, args.gold_filter)
 
-    print("pred instances:", len(pred))
-    print("gold instances:", len(gold))
+    print('pred instances:', len(pred))
+    print('gold instances:', len(gold))
 
     evaluator = EvaluatorDWIE()
     for identifier in gold.keys():

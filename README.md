@@ -1,8 +1,5 @@
 ## DWIE: an entity-centric dataset for multi-task document-level information extraction
 
-<!--### Requirements
-The scripts were tested with Python version 3.7. -->
-
 ### Introduction
 DWIE (Deutsche Welle corpus for Information Extraction) is a new dataset for document-level multi-task Information Extraction (IE). 
 It combines four main IE sub-tasks: 
@@ -23,26 +20,13 @@ and non-uniform sampling of content to obtain balanced annotations.
 We hope DWIE will help in promoting research in multi-task information extraction. 
 We will be happy to discuss our work, and are open for collaboration in the future.
 
-<!--### Paper
-For more details on DWIE, please refer to [our paper's preprint](TODO), currently under review for Information Processing and Management.
-If you use the dataset or our implementations, please cite our paper as 
-```
-@article{todo,
-  title={DWIE: An entity-centric dataset for multi-task document-level information extraction.},
-  author={todo},
-  journal={todo},
-  year={todo},
-  url={todo arxiv url}
-}
-``` -->
-
 ### Dataset Download and Preprocessing
 Publicly available DWIE annotations are located in the `data/annos` directory. 
 In order to get the content of each of the annotated articles, it is necessary
 to run the following script:  
 
 ```
-python scripts/dwie_download.py
+python src/dwie_download.py
 ```
 This script will retrieve the content of the articles using Deutsche Welle web service, 
 add it to the annotation files, and save it in `data/annos_with_content` directory. 
@@ -55,7 +39,7 @@ the hash representations of the articles we use in our experiments
 Each of the annotated articles in `data/annos_with_content` is located in a different .json file 
 with the following keys: 
 - `id`: unique identifier of the article. 
-- `content`: textual content of the article downloaded with `scripts/dwie_download.py` script.
+- `content`: textual content of the article downloaded with `src/dwie_download.py` script.
 - `tags`: used to differentiate between `train` and `test` sets of documents. 
 - `mentions`: a list of entity mentions in the article each with the following keys:
   - `begin`: offset of the first character of the mention (inside `content` field).       
@@ -83,12 +67,68 @@ Each of the relations is annotated with the following keys:
   - `o`: the object entity id involved in the relation.  
 - `iptc`: multi-label article IPTC classification codes. For detailed 
 meaning of each of the codes, please refer to the official [IPTC](https://iptc.org/) code list.
-<!-- ### Dataset Statistics? 
-TODO -->
+
+
+### Models
+To train and run the models from our paper, we recommend creating a separate environment. 
+For example:
+```
+conda create -n dwie-paper python=3.8
+conda activate dwie-paper
+pip install -r requirements.txt
+``` 
+Next, initial files (e.g., embeddings) and configurations have to be set up by running
+the following script: 
+```
+./setup_models.sh
+```
+Make sure that the directory structure is as follows:
+```
+├── experiments
+├── data
+│   ├── annos
+│   ├── annos_with_content
+│   └── embeddings
+├── src
+```
+ 
+
+#### Training
+The training script is located in ```src/model_train.py```, it takes two arguments:
+ 
+1- ```--config_file```: the configuration file to run one of the experiments in ```experiments``` directory
+ (the names of experiment config files are self explanatory and correspond to Table 9 of the
+ paper).  
+2- ```--path```: the directory where the output model, results and tensorboard logs are going to be 
+saved. For each experiment, a separate subdirectory with the name of experiment is automatically 
+created. 
+
+Example: 
+
+```python src/model_train.py --config_file experiments/01_single_coref.json --path results``` 
+
+#### Evaluating
+After the _training_ (see above) is finished, the prediction files are saved as ```test.json``` inside the results
+directory. In order to obtain the F1 scores execute:  
+
+```python -u src/dwie_evaluation.py --pred [path to prediction file] --gold data/annos/ --gold-filter test```
+
+Example: 
+
+```python -u src/dwie_evaluation.py --pred results/01_single_coref/test.json --gold data/annos/ --gold-filter test```
+
+The ```test.json``` can be also obtained by explicitly loading and evaluating the model in the results directory: 
+
+```python -u src/model_predict.py --path [path to the results directory with serialized model savemodel.pth]```
+
+Example:  
+
+```python -u src/model_predict.py --path results/01_single_coref/```
+ 
 
 ### Evaluation Script
-We provide the evaluation script `scripts/dwie_evaluation.py` in order to obtain all the metrics defined in 
-[our paper](https://arxiv.org/abs/2009.12626). The unit test cases are located in `scripts/tests/` directory. 
+We provide the evaluation script `src/dwie_evaluation.py` in order to obtain all the metrics defined in 
+[our paper](https://arxiv.org/abs/2009.12626). The unit test cases are located in `src/tests/` directory. 
 The following is an illustrative example of how to use the evaluation script
 on one predicted (`predicted.json`) and the respective 
 ground truth (`ground_truth.json`) annotation files: 
