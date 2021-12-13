@@ -1,0 +1,211 @@
+{
+  "dictionaries": {
+    "characters": {
+      "type": "json",
+      "filename": "characters.json",
+      "append": [
+        "UNKNOWN",
+        "PADDING"
+      ],
+      "unknown": "UNKNOWN",
+      "update": true
+    },
+    "words": {
+      "type": "json",
+      "filename": "words.json",
+      "rewriter": "none",
+      "append": [
+        "UNKNOWN"
+      ],
+      "unknown": "UNKNOWN",
+      "update": true
+    },
+    "tags": {
+      "type": "json",
+      "filename": "tags.json",
+      "update": true
+    },
+    "tags-x": {
+      "type": "json",
+      "filename": "tags-x.json",
+      "update": true
+    },
+    "tags-y": {
+      "type": "json",
+      "filename": "tags-y.json",
+      "update": true
+    },
+    "auto": {
+      "type": "json",
+      "filename": "auto.json",
+      "update": true
+    },
+    "relations": {
+      "type": "json",
+      "filename": "relations.json",
+      "update": true
+    }
+  },
+  "model": {
+    "name": "main_model",
+    "debug": false,
+    "lexical_dropout": 0.5,
+    "hidden_dim": 150,
+    "hidden_dropout": 0.4,
+    "random_embed_dim": 0,
+    "rel_after_coref": true,
+    "pruner": {
+      "hidden_dim": 150,
+      "hidden_dropout": 0.4,
+      "sort_after_pruning": true,
+      "prune_ratio": 0.2,
+      "add_pruner_loss": true,
+      "weight": 1.0
+    },
+    "text_embedder": {
+      "char_embedder": {
+        "embedder": {
+          "dict": "characters",
+          "dim": 16,
+          "dropout": 0.0
+        },
+        "encoder": {
+          "dim": 50,
+          "kernels": [
+            5
+          ]
+        },
+        "dropout": 0.0
+      },
+      "text_field_embedder": {
+        "dict": "words",
+        "dim": 300,
+        "embed_file": "data/embeddings/text/filt_dwie_glove.840B.300d.txt.gz",
+        "dropout": 0.0,
+        "freeze": true,
+        "init_unknown": false,
+        "init_random": true,
+        "backoff_to_lowercase": false
+      }
+    },
+    "seq2seq": {
+      "type": "lstm",
+      "layers": 1,
+      "dim": 200,
+      "dropout": 0.0,
+      "concat_input_output": false
+    },
+    "max_span_length": 5,
+    "span-extractor": {
+      "type": "endpoint",
+      "span_embed": 20,
+      "average": false
+    },
+    "span-pairs": {
+      "span_product": true,
+      "num_distance_buckets": 10,
+      "dim_distance_embedding": 20,
+      "distance_function": "ordering"
+    },
+    "spanprop-x": {
+      "type": "attprop",
+      "att_prop": 0,
+      "hidden_dim": 150,
+      "hidden_dropout": 0.4
+    },
+    "corefprop": {
+      "type": "default",
+      "coref_prop": 3,
+      "hidden_dim": 150,
+      "hidden_dropout": 0.4,
+      "update_coref_scores": true
+    },
+    "relprop": {
+      "type": "none"
+    },
+    "ner": {
+      "type": "span-1",
+      "weight": 0.1601097896,
+      "enabled": false,
+      "dictionary": "tags-y",
+      "network": {
+        "type": "ffnn",
+        "dims": [
+          150,
+          150
+        ],
+        "dp_in": 0.0,
+        "dp_h": 0.4,
+        "actfnc": "relu"
+      },
+      "divide_by_number_of_labels": false,
+      "add_pruner_scores": false,
+      "add_pruner_loss": false
+    },
+    "coref": {
+      "enabled": true,
+      "weight": 0.8398902104,
+      "bidirectional": false,
+      "singletons": true,
+      "filter_singletons_with_pruner": true,
+      "filter_singletons_with_ner": false
+    },
+    "relations": {
+      "type": "span-binary",
+      "weight": 1.0,
+      "normalize": false,
+      "enabled": false,
+      "debug": false
+    }
+  },
+  "optimizer": {
+    "optimizer": "adam",
+    "iters": 100,
+    "batch_size": 1,
+    "write-last-model": true,
+    "write-iter-model": false,
+    "regularization": {
+    },
+    "initializer": {
+      "word_embedder.embed": "none",
+      "weight_hh": "orthogonal",
+      "weight_ih": "xavier_normal",
+      "weight": "xavier_normal"
+    },
+    "clip-norm": 10.0,
+    "model": "9.model"
+  },
+  "lr-scheduler": {
+    "type": "linear-decay",
+    "t0": 15,
+    "t1": 100,
+    "lrate0": 1e-3,
+    "gamma": 0.1
+  },
+  "dataloader": {
+    "type": "cpn",
+    "transformers-x": []
+  },
+  "datasets": {
+    "train": {
+      "filename": "data/annos_with_content/",
+      "tokenize": true,
+      "shuffle_candidates": true,
+      "tag": "train"
+    },
+    "test": {
+      "filename": "data/annos_with_content/",
+      "tokenize": true,
+      "shuffle_candidates": true,
+      "tag": "test"
+    }
+  },
+  "trainer": {
+    "train": "train",
+    "evaluate": [
+      "test"
+    ],
+    "write-predictions": true
+  }
+}
+
