@@ -1,0 +1,32 @@
+# slots
+slot_death			instance_of	slot.
+slot_death			tag		"slot::death".
+slot_death			tag		"CPN::death".
+
+slot_head			instance_of	slot.
+slot_head			tag		"CPN::head".
+slot_head			tag		"slot::head".
+
+slot_expert			instance_of	slot.
+slot_expert			implies		no_topic.
+slot_expert			tag		"CPN::expert".
+slot_expert			tag		"slot::expert".
+
+slot_interviewee		instance_of	slot.
+slot_interviewee		tag		"CPN::interviewee".
+slot_interviewee		tag		"slot::interviewee".
+
+slot_interviewer		instance_of	slot.
+slot_interviewer		tag		"slot::interviewer".
+
+slot_alias			instance_of	slot.
+slot_alias			tag		"type::alias".
+slot_alias			tag		"CPN::alias".
+
+slot_in				instance_of	slot.
+slot_in				tag		"CPN::in".
+slot_in				tag		"slot::in".
+
+slot_keyword			instance_of	slot.
+slot_keyword			tag		"CPN::keyword".
+slot_keyword			tag		"slot::keyword".

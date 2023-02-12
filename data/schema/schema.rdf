@@ -1,0 +1,65 @@
+cpn:concept			attribute	c_type.
+cpn:concept			attribute	topic.
+cpn:concept			attribute	gender.
+cpn:concept			attribute	policy.
+cpn:concept			attribute	sector.
+cpn:concept			attribute	sport.
+cpn:concept			attribute	sport_event.
+cpn:concept			attribute	slot.
+cpn:concept			attribute	iptc.
+cpn:concept			attribute	meta.
+
+root_auto		tag_prefix	"auto::".
+root_fp			tag_prefix	"fp::".
+root_fn			tag_prefix	"fn::".
+
+c_type			parent		CONCEPT.
+c_type			label_en	"type::".
+topic			property	"topic".
+topic			parent		CONCEPT.
+topic			label_en	"topic::".
+gender			property	"gender".
+gender			parent		CONCEPT.
+gender			label_en	"gender::".
+iptc			parent		CONCEPT.
+iptc			label_en	"iptc::".
+iptc			property	"iptc".
+slot			parent		CONCEPT.
+slot			label_en	"slot::".
+sector			parent		CONCEPT.
+sector			label_en	"sector::".
+sector			property	"sector".
+meta			parent		CONCEPT.
+meta			label_en	"meta::".
+policy			parent		CONCEPT.
+policy			label_en	"policy::".
+policy			property	"policy".
+sport			parent		CONCEPT.
+sport			label_en	"sport::".
+sport			property	"sport".
+sport_event		parent		CONCEPT.
+sport_event		label_en	"sport_event::".
+sport_event		property	"sport_event".
+
+sector			iptc-attribute	iptc.
+sport			iptc-attribute	iptc.
+sport_event		iptc-attribute	iptc.
+
+## constraints
+c0						constraint		"head_of_state -> head_of_state".
+c1						constraint		"head_of_gov -> head_of_gov".
+c2						constraint		"minister -> minister_of".
+c3						constraint		"agency -> agency_of".
+c4						constraint		"politics_institution -> institution_of".
+c6						constraint		"sport_player -> member_of".
+c7						constraint		"sport_coach -> coach_of".
+c8						constraint		"sport_head -> head_of".
+c9						constraint		"book_title -> created_by".
+c10						constraint		"film_title -> directed_by".
+c11						constraint		"music_title -> created_by".
+c12						constraint		"musical_title -> created_by".
+c13						constraint		"manager -> head_of".
+c14						constraint		"union_rep -> member_of".
+c15						constraint		"union_member -> member_of".
+c16						constraint		"journalist -> member_of,head_of".
+c17						constraint		"military_personnel -> member_of,head_of".

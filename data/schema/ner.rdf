@@ -1,0 +1,987 @@
+mountain		tag		"CPN::mountain".
+mountain		tag		"type::mountain".
+mountain		subclass_of	location.
+island			tag		"CPN::island".
+island			tag		"type::island".
+island			subclass_of	location.
+religion_deity		tag		"CPN::religion_deity".
+religion_deity		tag		"type::deity".
+religion_deity		subclass_of	per.
+religion_deity		implies		topic_religion.
+religion_clergy		tag		"CPN::religion_clergy".
+religion_clergy		tag		"type::clergy".
+religion_clergy		subclass_of	per.
+religion_clergy		implies		topic_religion.
+weather_storm		tag		"CPN::weather_storm".
+weather_storm		tag		"type::storm".
+weather_storm		subclass_of	event.
+weather_storm		implies		topic_weather.
+art_title		tag		"CPN::art_title".
+art_title		subclass_of	work_of_art.
+education_teacher	subclass_of	per.
+education_teacher	tag		"CPN::education_teacher".
+education_teacher	tag		"type::teacher".
+education_teacher	implies		topic_education.
+
+entity			instance_of	c_type.
+value			instance_of	c_type.
+other			instance_of	c_type.
+
+none			subclass_of	other.
+trigger			subclass_of	other.
+
+has_gender		instance_of	meta.
+has_policy		instance_of	meta.
+has_sport		instance_of	meta.
+
+per			subclass_of	entity.
+location		subclass_of	entity.
+org			subclass_of	entity.
+misc			subclass_of	entity.
+event			subclass_of	entity.
+todo			subclass_of	entity.
+
+value			implies		no_topic.
+money			subclass_of	value.
+time			subclass_of	value.
+role			subclass_of	value.
+
+loc0-x			subclass_of	other.
+loc1-x			subclass_of	other.
+loc2-x			subclass_of	other.
+loc-x			subclass_of	other.
+footer			subclass_of	other.
+language		subclass_of	entity.
+ethnicity		subclass_of	entity.
+loc0-x			required_predicate	gpe0.
+loc1-x			required_predicate	gpe1.
+loc2-x			required_predicate	gpe2.
+
+language		iptc		20000042.
+
+gpe			subclass_of	location.
+gpe0			subclass_of	gpe.
+gpe1			subclass_of	gpe.
+gpe2			subclass_of	gpe.
+loc			subclass_of	location.
+street			subclass_of	location.
+district		subclass_of	location.
+regio			subclass_of	location.
+facility		subclass_of	location.
+waterbody		subclass_of	location.
+celestial_loc		subclass_of	location.
+gpe1			required_predicate	in0.
+gpe2			required_predicate	in0.
+
+# politics
+head_of_gov		subclass_of	politician.
+head_of_state		subclass_of	politician.
+minister		subclass_of	politician.
+politician_regional	subclass_of	politician.
+politician_local	subclass_of	politician.
+politician_national	subclass_of	politician.
+politics_candidate	subclass_of	politician.
+politician		subclass_of	per.
+politics_per		subclass_of	per.
+politics_institution	subclass_of	org.
+politics_org		subclass_of	org.
+politics_misc		subclass_of	misc.
+politics_ideology	subclass_of	todo.
+politics_project	subclass_of	misc.
+party			subclass_of	org.
+ngo			subclass_of	org.
+igo			subclass_of	org.
+so			subclass_of	igo.
+activist		subclass_of	per.
+treaty			subclass_of	misc.
+policy_institute	subclass_of	org.
+movement		subclass_of	org.
+summit_meeting		subclass_of	event.
+report			subclass_of	misc.
+scandal			subclass_of	event.
+gov_org			subclass_of	org.
+agency			subclass_of	gov_org.
+ministry		subclass_of	gov_org.
+
+# culture
+character		subclass_of	per.
+culture_per		subclass_of	per.
+culture_facility	subclass_of	facility.
+culture_title		subclass_of	misc.
+music_band		subclass_of	org.
+exhibition_title	subclass_of	misc.
+culture_misc		subclass_of	misc.
+festival		subclass_of	event.
+filmfestival		subclass_of	event.
+culture_org		subclass_of	org.
+work_of_art		subclass_of	misc.
+book_title		subclass_of	work_of_art.
+film_title		subclass_of	work_of_art.
+tv_title		subclass_of	work_of_art.
+music_title		subclass_of	work_of_art.
+theatre_title		subclass_of	work_of_art.
+musical_title		subclass_of	work_of_art.
+artist			subclass_of	per.
+writer			subclass_of	artist.
+actor			subclass_of	artist.
+filmmaker		subclass_of	artist.
+musician		subclass_of	artist.
+
+filmmaker		implies		20000005.
+film_title		implies		20000005.
+film_award		implies		20000005.
+filmfestival		implies		20000006.
+music_band		implies		20000018.
+musician		implies		20000018.
+music_title		implies		20000018.
+writer			implies		20000013.
+book_title		implies		20000013.
+book_award		implies		20000013.
+exhibition_title	implies		20001135.
+festive_event		implies		20000041.
+
+# sport
+sport_player		subclass_of	per.
+sport_player		required_predicate	gender.
+sport_player		implies		has_gender.
+sport_coach		subclass_of	per.
+sport_team		subclass_of	org.
+sport_competition	subclass_of	competition.
+sport_org		subclass_of	org.
+sport_head		subclass_of	per.
+sport_referee		subclass_of	per.
+sport_facility		subclass_of	facility.
+
+# business
+company			subclass_of	org.
+company			required_predicate	sector.
+manager			subclass_of	per.
+product			subclass_of	misc.
+employee		subclass_of	per.
+business_per		subclass_of	per.
+business_org		subclass_of	org.
+brand			subclass_of	org.
+trade_fair		subclass_of	org.
+market_index		subclass_of	misc.
+business_misc		subclass_of	misc.
+market_exchange		subclass_of	org.
+business_facility	subclass_of	facility.
+
+# unions
+union			subclass_of	org.
+union_head		subclass_of	per.
+union_member		subclass_of	per.
+union_rep		subclass_of	per.
+
+# justice
+offender		subclass_of	per.
+court			subclass_of	org.
+advisor			subclass_of	per.
+victim			subclass_of	per.
+judge			subclass_of	per.
+police_per		subclass_of	per.
+criminal_org		subclass_of	org.
+justice_per		subclass_of	per.
+police			subclass_of	todo.
+police_org		subclass_of	org.
+justice_org		subclass_of	org.
+justice_misc		subclass_of	misc.
+case			subclass_of	misc.
+prison			subclass_of	facility.
+
+# conflict
+army			subclass_of	gov_org.
+war			subclass_of	event.
+military_alliance	subclass_of	igo.
+military_personnel	subclass_of	per.
+military_rebel		subclass_of	per.
+military_equipment	subclass_of	misc.
+military_mission	subclass_of	misc.
+protest			subclass_of	event.
+military_facility	subclass_of	facility.
+armed_movement		subclass_of	org.
+
+# health
+health_disease		subclass_of	misc.
+health_facility		subclass_of	facility.
+health_per		subclass_of	per.
+health_drug		subclass_of	misc.
+health_org		subclass_of	org.
+
+# education, research and science
+education_per		subclass_of	per.
+education_org		subclass_of	org.
+research_center		subclass_of	org.
+researcher		subclass_of	per.
+science_per		subclass_of	per.
+species			subclass_of	misc.
+research_journal	subclass_of	misc.
+education_student	subclass_of	per.
+education_study		subclass_of	misc.
+education_todo		subclass_of	todo.
+education_facility	subclass_of	facility.
+
+research_journal	implies		20000740.
+
+# religion
+religion		subclass_of	misc.
+religion_org		subclass_of	org.
+religion_misc		subclass_of	misc.
+religion_facility	subclass_of	facility.
+
+# event
+history			subclass_of	event.
+holiday			subclass_of	event.
+incident		subclass_of	event.
+festive_event		subclass_of	event.
+
+# media
+media			subclass_of	org.
+journalist		subclass_of	per.
+
+# awards
+award			subclass_of	misc.
+film_award		subclass_of	award.
+book_award		subclass_of	award.
+music_award		subclass_of	award.
+tv_award		subclass_of	award.
+sport_award		subclass_of	award.
+award			implies		20000498.
+
+# misc
+object			subclass_of	misc.
+technology		subclass_of	misc.
+concept			subclass_of	misc.
+royalty			subclass_of	per.
+
+# todo
+politics_block		subclass_of	todo.
+TODO			subclass_of	todo.
+INVALID			subclass_of	none.
+derived			subclass_of	none.
+skip			subclass_of	none.
+
+# trigger
+crime			subclass_of	trigger.
+judgement		subclass_of	trigger.
+sport_trigger		subclass_of	trigger.
+science			subclass_of	trigger.
+
+
+# meta attributes
+#per			implies		has_gender.
+minister		implies		has_policy.
+ministry		implies		has_policy.
+sport_player		implies		has_sport.
+sport_coach		implies		has_sport.
+sport_team		implies		has_sport.
+sport_competition	implies		has_sport.
+sport_org		implies		has_sport.
+has_gender		required_predicate	gender.
+has_sport		required_predicate	sport.
+has_policy		required_predicate	policy.
+sport_competition	required_predicate	sport_event.
+
+## topics
+no_topic		instance_of		topic.
+topic_business		instance_of		topic.
+topic_conflict		instance_of		topic.
+topic_culture		instance_of		topic.
+topic_education		instance_of		topic.
+topic_health		instance_of		topic.
+topic_human		instance_of		topic.
+topic_justice		instance_of		topic.
+topic_labour		instance_of		topic.
+topic_media		instance_of		topic.
+topic_politics		instance_of		topic.
+topic_religion		instance_of		topic.
+topic_science		instance_of		topic.
+topic_sport		instance_of		topic.
+topic_weather		instance_of		topic.
+
+topic_business		implies			20000170.
+topic_conflict		implies			16000000.
+topic_culture		implies			01000000.
+topic_education		implies			05000000.
+topic_health		implies			07000000.
+topic_human		implies			08000000.
+topic_justice		implies			02000000.
+topic_politics		implies			11000000.
+topic_religion		implies			12000000.
+topic_science		implies			13000000.
+topic_sport		implies			15000000.
+
+company			implies			topic_business.
+manager			implies			topic_business.
+product			implies			topic_business.
+employee		implies			topic_business.
+business_per		implies			topic_business.
+business_org		implies			topic_business.
+brand			implies			topic_business.
+trade_fair		implies			topic_business.
+market_index		implies			topic_business.
+business_misc		implies			topic_business.
+market_exchange		implies			topic_business.
+business_facility	implies			topic_business.
+
+army			implies			topic_conflict.
+war			implies			topic_conflict.
+military_alliance	implies			topic_conflict.
+military_personnel	implies			topic_conflict.
+military_equipment	implies			topic_conflict.
+military_mission	implies			topic_conflict.
+military_facility	implies			topic_conflict.
+protest			implies			topic_conflict.
+armed_movement		implies			topic_conflict.
+military_rebel		implies			topic_conflict.
+
+artist			implies			topic_culture.
+work_of_art		implies			topic_culture.
+music_band		implies			topic_culture.
+culture_title		implies			topic_culture.
+exhibition_title	implies			topic_culture.
+character		implies			topic_culture.
+culture_per		implies			topic_culture.
+culture_org		implies			topic_culture.
+culture_facility	implies			topic_culture.
+culture_misc		implies			topic_culture.
+filmfestival		implies			topic_culture.
+festival		implies			topic_culture.
+music_award		implies			topic_culture.
+film_award		implies			topic_culture.
+tv_award		implies			topic_culture.
+book_award		implies			topic_culture.
+
+education_per		implies			topic_education.
+education_org		implies			topic_education.
+education_student	implies			topic_education.
+education_study		implies			topic_education.
+education_todo		implies			topic_education.
+education_facility	implies			topic_education.
+
+health_disease		implies			topic_health.
+health_facility		implies			topic_health.
+health_per		implies			topic_health.
+health_drug		implies			topic_health.
+health_org		implies			topic_health.
+
+award			implies			topic_human.
+royalty			implies			topic_human.
+
+offender		implies			topic_justice.
+court			implies			topic_justice.
+advisor			implies			topic_justice.
+victim			implies			topic_justice.
+judge			implies			topic_justice.
+police_per		implies			topic_justice.
+criminal_org		implies			topic_justice.
+justice_per		implies			topic_justice.
+police			implies			topic_justice.
+police_org		implies			topic_justice.
+crime			implies			topic_justice.
+justice_org		implies			topic_justice.
+judgement		implies			topic_justice.
+justice_misc		implies			topic_justice.
+case			implies			topic_justice.
+prison			implies			topic_justice.
+
+union			implies			topic_labour.
+union_head		implies			topic_labour.
+union_member		implies			topic_labour.
+union_rep		implies			topic_labour.
+
+media			implies			topic_media.
+journalist		implies			topic_media.
+
+politician		implies			topic_politics.
+politics_per		implies			topic_politics.
+politics_institution	implies			topic_politics.
+politics_org		implies			topic_politics.
+politics_misc		implies			topic_politics.
+politics_ideology	implies			topic_politics.
+politics_project	implies			topic_politics.
+party			implies			topic_politics.
+ngo			implies			topic_politics.
+so			implies			topic_politics.
+igo			implies			topic_politics.
+agency			implies			topic_politics.
+activist		implies			topic_politics.
+treaty			implies			topic_politics.
+ministry		implies			topic_politics.
+policy_institute	implies			topic_politics.
+movement		implies			topic_politics.
+summit_meeting		implies			topic_politics.
+report			implies			topic_politics.
+scandal			implies			topic_politics.
+politics_block		implies			topic_politics.
+
+religion		implies			topic_religion.
+religion_org		implies			topic_religion.
+religion_misc		implies			topic_religion.
+religion_facility	implies			topic_religion.
+
+science			implies			topic_science.
+research_center		implies			topic_science.
+researcher		implies			topic_science.
+science_per		implies			topic_science.
+species			implies			topic_science.
+research_journal	implies			topic_science.
+technology		implies			topic_science.
+
+sport_trigger		implies			topic_sport.
+sport_player		implies			topic_sport.
+sport_coach		implies			topic_sport.
+sport_team		implies			topic_sport.
+sport_competition	implies			topic_sport.
+sport_org		implies			topic_sport.
+sport_head		implies			topic_sport.
+sport_referee		implies			topic_sport.
+sport_facility		implies			topic_sport.
+sport_award		implies			topic_sport.
+
+other			implies			no_topic.
+none			implies			no_topic.
+ethnicity		implies			no_topic.
+language		implies			no_topic.
+gpe			implies			no_topic.
+waterbody		implies			no_topic.
+district		implies			no_topic.
+street			implies			no_topic.
+regio			implies			no_topic.
+loc			implies			no_topic.
+celestial_loc		implies			no_topic.
+object			implies			no_topic.
+
+no_topic		tag		"topic::none".
+topic_business		tag		"topic::business".
+topic_conflict		tag		"topic::conflict".
+topic_culture		tag		"topic::culture".
+topic_education		tag		"topic::education".
+topic_health		tag		"topic::health".
+topic_human		tag		"topic::human_interest".
+topic_justice		tag		"topic::justice".
+topic_labour		tag		"topic::labour".
+topic_media		tag		"topic::media".
+topic_politics		tag		"topic::politics".
+topic_religion		tag		"topic::religion".
+topic_science		tag		"topic::science".
+topic_sport		tag		"topic::sport".
+topic_weather		tag		"topic::weather".
+
+#basic concepts
+entity			tag	"type::entity".
+other			tag	"type::other".
+per			tag	"type::person".
+location		tag	"type::location".
+org			tag	"type::organization".
+gpe			tag	"type::gpe".
+misc			tag	"type::misc".
+skip			tag	"type::skip".
+none			tag	"type::none".
+work_of_art		tag	"type::work_of_art".
+
+value			tag	"type::value".
+loc			tag	"type::loc".
+head_of_state		tag	"type::head_of_state".
+head_of_gov		tag	"type::head_of_gov".
+politics_per		tag	"CPN::politics_per".
+politics_org		tag	"CPN::politics_org".
+politics_block		tag	"CPN::politics_block".
+politics_project	tag	"type::project".
+politics_ideology	tag	"type::ideology".
+politics_candidate	tag	"type::candidate".
+party			tag	"type::party".
+igo			tag	"type::igo".
+so			tag	"type::so".
+agency			tag	"type::agency".
+minister		tag	"type::minister".
+politics_institution	tag	"type::politics_institution".
+treaty			tag	"type::treaty".
+movement		tag	"type::movement".
+ministry		tag	"type::ministry".
+policy_institute	tag	"type::policy_institute".
+politician		tag	"type::politician".
+politician_national	tag	"type::politician_national".
+politician_regional	tag	"type::politician_regional".
+politician_local	tag	"type::politician_local".
+report			tag	"type::report".
+protest			tag	"type::protest".
+summit_meeting		tag	"type::summit_meeting".
+scandal			tag	"type::scandal".
+gpe0			tag	"type::gpe0".
+gpe1			tag	"type::gpe1".
+gpe2			tag	"type::gpe2".
+regio			tag	"type::regio".
+district		tag	"type::district".
+street			tag	"type::street".
+loc0-x			tag	"type::gpe0-x".
+loc1-x			tag	"type::gpe1-x".
+loc2-x			tag	"type::gpe2-x".
+loc-x			tag	"type::loc-x".
+waterbody		tag	"type::waterbody".
+celestial_loc		tag	"type::celestial_loc".
+facility		tag	"type::facility".
+culture_facility	tag	"type::culture_facility".
+sport_competition	tag	"type::sport_competition".
+sport_team		tag	"type::sport_team".
+sport_player		tag	"type::sport_player".
+sport_coach		tag	"type::sport_coach".
+sport_facility		tag	"type::sport_facility".
+sport_award		tag	"type::sport_award".
+sport_org		tag	"type::sport_org".
+sport_head		tag	"type::sport_head".
+sport_referee		tag	"type::sport_referee".
+sport_trigger		tag	"type::sport_trigger".
+time			tag	"type::time".
+journalist		tag	"type::journalist".
+media			tag	"type::media".
+role			tag	"type::role".
+footer			tag	"type::footer".
+money			tag	"type::money".
+religion		tag	"type::religion".
+manager			tag	"type::manager".
+company			tag	"type::company".
+business_facility	tag	"type::business_facility".
+business_misc		tag	"type::business_misc".
+product			tag	"type::product".
+employee		tag	"type::employee".
+brand			tag	"type::brand".
+business_per		tag	"type::business_per".
+business_org		tag	"type::business_org".
+trade_fair		tag	"type::trade_fair".
+market_index		tag	"type::market_index".
+market_exchange		tag	"type::market_exchange".
+union			tag	"type::union".
+union_head		tag	"type::union_head".
+union_member		tag	"type::union_member".
+union_rep		tag	"type::union_rep".
+judge			tag	"type::judge".
+court			tag	"type::court".
+offender		tag	"type::offender".
+victim			tag	"type::victim".
+advisor			tag	"type::advisor".
+police			tag	"type::police".
+police_per		tag	"type::police_per".
+police_org		tag	"type::police_org".
+prison			tag	"type::prison".
+justice_per		tag	"type::justice_per".
+justice_org		tag	"type::justice_org".
+justice_misc		tag	"type::justice_misc".
+criminal_org		tag	"type::criminal_org".
+case			tag	"type::case".
+crime			tag	"type::crime".
+judgement		tag	"type::judgement".
+ethnicity		tag	"type::ethnicity".
+education_per		tag	"type::education_per".
+education_org		tag	"type::education_org".
+education_student	tag	"type::education_student".
+education_study		tag	"type::education_study".
+education_facility	tag	"type::education_facility".
+education_todo		tag	"type::education_todo".
+science			tag	"type::science".
+science_per		tag	"type::science_per".
+religion_org		tag	"type::religion_org".
+religion_misc		tag	"type::religion_misc".
+religion_facility	tag	"type::religion_facility".
+activist		tag	"type::activist".
+ngo			tag	"type::ngo".
+language		tag	"type::language".
+military_alliance	tag	"type::military_alliance".
+military_personnel	tag	"type::military_personnel".
+military_rebel		tag	"type::military_rebel".
+military_equipment	tag	"type::military_equipment".
+military_mission	tag	"type::military_mission".
+military_facility	tag	"type::military_facility".
+armed_movement		tag	"type::armed_movement".
+army			tag	"type::army".
+war			tag	"type::war".
+award			tag	"type::award".
+film_award		tag	"type::film_award".
+tv_award		tag	"type::tv_award".
+book_award		tag	"type::book_award".
+film_title		tag	"type::film_title".
+book_title		tag	"type::book_title".
+actor			tag	"type::actor".
+artist			tag	"type::artist".
+character		tag	"type::character".
+filmmaker		tag	"type::filmmaker".
+musician		tag	"type::musician".
+culture_per		tag	"type::culture_per".
+culture_title		tag	"type::culture_title".
+tv_title		tag	"type::tv_title".
+music_title		tag	"type::music_title".
+culture_misc		tag	"type::culture_misc".
+culture_org		tag	"type::culture_org".
+exhibition_title	tag	"type::exhibition_title".
+music_band		tag	"type::music_band".
+festive_event		tag	"type::festive_event".
+writer			tag	"type::writer".
+musical_title		tag	"type::musical_title".
+filmfestival		tag	"type::filmfestival".
+theatre_title		tag	"type::theatre_title".
+festival		tag	"type::festival".
+researcher		tag	"type::researcher".
+research_journal	tag	"type::research_journal".
+research_center		tag	"type::research_center".
+object			tag	"type::object".
+technology		tag	"type::technology".
+species			tag	"type::species".
+royalty			tag	"type::royalty".
+holiday			tag	"type::holiday".
+history			tag	"type::history".
+health_per		tag	"type::health_per".
+health_disease		tag	"type::health_disease".
+health_facility		tag	"type::health_facility".
+health_org		tag	"type::health_org".
+health_drug		tag	"type::health_drug".
+skip			tag	"type::skip".
+concept			tag	"type::concept".
+incident		tag	"type::incident".
+trigger			tag	"type::trigger".
+derived			tag	"type::derived".
+gov_org			tag	"type::governmental_organisation".
+
+
+
+head_of_state		tag	"CPN::head_of_state".
+head_of_gov		tag	"CPN::head_of_gov".
+politics_per		tag	"CPN::politics_per".
+politics_org		tag	"CPN::politics_org".
+politics_misc		tag	"CPN::politics_misc".
+politics_block		tag	"CPN::politics_block".
+politics_project	tag	"CPN::politics_project".
+politics_ideology	tag	"CPN::politics_ideology".
+politics_candidate	tag	"CPN::politics_candidate".
+party			tag	"CPN::party".
+igo			tag	"CPN::igo".
+so			tag	"CPN::so".
+agency			tag	"CPN::agency".
+minister		tag	"CPN::minister".
+politics_institution	tag	"CPN::politics_institution".
+treaty			tag	"CPN::treaty".
+movement		tag	"CPN::movement".
+ministry		tag	"CPN::ministry".
+policy_institute	tag	"CPN::policy_institute".
+politician		tag	"CPN::politician".
+politician_national	tag	"CPN::politician_national".
+politician_regional	tag	"CPN::politician_regional".
+politician_local	tag	"CPN::politician_local".
+report			tag	"CPN::report".
+protest			tag	"CPN::protest".
+summit_meeting		tag	"CPN::summit_meeting".
+scandal			tag	"CPN::scandal".
+loc			tag	"CPN::loc".
+gpe0			tag	"CPN::gpe0".
+gpe1			tag	"CPN::gpe1".
+gpe2			tag	"CPN::gpe2".
+regio			tag	"CPN::regio".
+district		tag	"CPN::district".
+street			tag	"CPN::street".
+loc0-x			tag	"CPN::loc0-adj".
+loc0-x			tag	"CPN::gpe0-x".
+loc1-x			tag	"CPN::loc1-adj".
+loc1-x			tag	"CPN::gpe1-x".
+loc2-x			tag	"CPN::loc2-adj".
+loc2-x			tag	"CPN::gpe2-x".
+loc-x			tag	"CPN::loc-adj".
+loc-x			tag	"CPN::loc-x".
+waterbody		tag	"CPN::waterbody".
+celestial_loc		tag	"CPN::celestial_loc".
+facility		tag	"CPN::venue".
+culture_facility	tag	"CPN::culture_venue".
+sport_competition	tag	"CPN::sport_competition".
+sport_team		tag	"CPN::sport_team".
+sport_player		tag	"CPN::sport_player".
+sport_coach		tag	"CPN::sport_coach".
+sport_facility		tag	"CPN::sport_venue".
+sport_award		tag	"CPN::sport_award".
+sport_org		tag	"CPN::sport_org".
+sport_head		tag	"CPN::sport_head".
+sport_referee		tag	"CPN::sport_referee".
+sport_trigger		tag	"CPN::sport_trigger".
+time			tag	"CPN::time".
+journalist		tag	"CPN::journalist".
+media			tag	"CPN::media".
+role			tag	"CPN::role".
+footer			tag	"CPN::footer".
+money			tag	"CPN::money".
+religion		tag	"CPN::religion".
+manager			tag	"CPN::manager".
+company			tag	"CPN::company".
+business_facility	tag	"CPN::business_facility".
+business_misc		tag	"CPN::business_misc".
+product			tag	"CPN::product".
+employee		tag	"CPN::employee".
+brand			tag	"CPN::brand".
+business_per		tag	"CPN::business_per".
+business_org		tag	"CPN::business_org".
+trade_fair		tag	"CPN::trade_fair".
+market_index		tag	"CPN::market_index".
+market_exchange		tag	"CPN::market_exchange".
+union			tag	"CPN::union".
+union_head		tag	"CPN::union_head".
+union_member		tag	"CPN::union_member".
+union_rep		tag	"CPN::union_rep".
+judge			tag	"CPN::judge".
+court			tag	"CPN::court".
+offender		tag	"CPN::offender".
+victim			tag	"CPN::victim".
+advisor			tag	"CPN::advisor".
+police			tag	"CPN::police".
+police_per		tag	"CPN::police_per".
+police_org		tag	"CPN::police_org".
+prison			tag	"CPN::prison".
+justice_per		tag	"CPN::justice_per".
+justice_org		tag	"CPN::justice_org".
+justice_misc		tag	"CPN::justice_misc".
+criminal_org		tag	"CPN::criminal_org".
+case			tag	"CPN::case".
+crime			tag	"CPN::crime".
+judgement		tag	"CPN::judgement".
+ethnicity		tag	"CPN::ethnicity".
+education_per		tag	"CPN::education_per".
+education_org		tag	"CPN::education_org".
+education_student	tag	"CPN::education_student".
+education_study		tag	"CPN::education_study".
+education_facility	tag	"CPN::education_venue".
+education_todo		tag	"CPN::education_todo".
+science			tag	"CPN::science".
+science_per		tag	"CPN::science_per".
+religion_org		tag	"CPN::religion_org".
+religion_misc		tag	"CPN::religion_misc".
+religion_facility	tag	"CPN::religion_facility".
+activist		tag	"CPN::activist".
+ngo			tag	"CPN::ngo".
+language		tag	"CPN::language".
+military_alliance	tag	"CPN::military_alliance".
+military_personnel	tag	"CPN::military_personnel".
+military_equipment	tag	"CPN::military_equipment".
+military_mission	tag	"CPN::military_mission".
+military_facility	tag	"CPN::military_facility".
+military_rebel		tag	"CPN::military_rebel".
+army			tag	"CPN::army".
+armed_movement		tag	"CPN::armed_movement".
+war			tag	"CPN::war".
+award			tag	"CPN::award".
+film_award		tag	"CPN::film_award".
+tv_award		tag	"CPN::tv_award".
+book_award		tag	"CPN::book_award".
+film_title		tag	"CPN::film_title".
+book_title		tag	"CPN::book_title".
+actor			tag	"CPN::actor".
+artist			tag	"CPN::artist".
+character		tag	"CPN::character".
+filmmaker		tag	"CPN::filmmaker".
+musician		tag	"CPN::musician".
+culture_per		tag	"CPN::culture_per".
+culture_title		tag	"CPN::culture_title".
+tv_title		tag	"CPN::tv_title".
+music_title		tag	"CPN::music_title".
+culture_misc		tag	"CPN::culture_misc".
+culture_org		tag	"CPN::culture_org".
+exhibition_title	tag	"CPN::exhibition_title".
+music_band		tag	"CPN::music_band".
+festive_event		tag	"CPN::festive_event".
+writer			tag	"CPN::writer".
+musical_title		tag	"CPN::musical_title".
+filmfestival		tag	"CPN::filmfestival".
+theatre_title		tag	"CPN::theatre_title".
+festival		tag	"CPN::festival".
+researcher		tag	"CPN::researcher".
+research_journal	tag	"CPN::research_journal".
+research_center		tag	"CPN::research_center".
+object			tag	"CPN::object".
+technology		tag	"CPN::technology".
+species			tag	"CPN::species".
+royalty			tag	"CPN::royalty".
+holiday			tag	"CPN::holiday".
+history			tag	"CPN::history".
+health_per		tag	"CPN::health_per".
+health_disease		tag	"CPN::health_disease".
+health_facility		tag	"CPN::health_facility".
+health_org		tag	"CPN::health_org".
+health_drug		tag	"CPN::health_drug".
+skip			tag	"CPN::skip".
+concept			tag	"CPN::concept".
+incident		tag	"CPN::incident".
+trigger			tag	"CPN::trigger".
+derived			tag	"CPN::derived".
+
+
+# things intentionally disabled
+politics_per		tag	"type::politics_per".
+politics_org		tag	"type::politics_org".
+politics_misc		tag	"type::politics_misc".
+politics_block		tag	"type::politics_block".
+
+
+## new stuff (added during klim's annotations)
+politics_facility	subclass_of	facility.
+politics_facility	tag		"CPN::politics_facility".
+politics_facility	tag		"type::politics_facility".
+politics_facility	implies		topic_politics.
+
+religion_x		subclass_of	other.
+religion_x		tag		"CPN::religion-x".
+religion_x		tag		"type::religion-x".
+religion_x		implies		topic_religion.
+
+relative		subclass_of	per.
+relative		tag		"CPN::relative".
+relative		tag		"type::relative".
+
+gov_per			subclass_of	per.
+gov_per			tag		"CPN::gov_per".
+gov_per			tag		"type::gov_per".
+gov_per			implies		topic_politics.
+
+business_advocacy	subclass_of	org.
+business_advocacy	tag		"CPN::advocacy".
+business_advocacy	tag		"type::advocacy".
+business_advocacy	implies		topic_business.
+
+religion_event		subclass_of	event.
+religion_event		tag		"CPN::religion_event".
+religion_event		tag		"type::religious_event".
+religion_event		implies		topic_religion.
+
+politics_event		subclass_of	event.
+politics_event		tag		"CPN::politics_event".
+politics_event		tag		"type::politics_event".
+politics_event		implies		topic_politics.
+
+sport_per		subclass_of	per.
+sport_per		tag		"CPN::sport_per".
+sport_per		tag		"type::sport_person".
+sport_per		implies		topic_sport.
+
+column_title		subclass_of	art_title.
+column_title		tag		"CPN::column_title".
+column_title		tag		"type::column_title".
+
+party_x			subclass_of	other.
+party_x			tag		"CPN::party-x".
+party_x			tag		"type::party-x".
+party_x			implies		topic_politics.
+
+event			tag		"CPN::event".
+event			tag		"type::event".
+
+game_title		subclass_of	work_of_art.
+game_title		tag		"CPN::game_title".
+game_title		tag		"type::game".
+
+per_x			subclass_of	derived.
+per_x			tag		"CPN::per-x".
+per_x			tag		"type::per-x".
+
+reader			subclass_of	per.
+reader			tag		"type::reader".
+reader			tag		"CPN::reader".
+
+photographer		subclass_of	artist.
+photographer		tag		"CPN::photographer".
+photographer		tag		"type::photographer".
+photographer		implies		topic_culture.
+
+comic_title		subclass_of	work_of_art.
+comic_title		tag		"CPN::comic_title".
+comic_title		tag		"type::comic".
+
+theatre_org		subclass_of	org.
+theatre_org		tag		"CPN::theatre_org".
+theatre_org		implies		topic_culture.
+
+radio_title		subclass_of	work_of_art.
+radio_title		tag		"CPN::radio_title".
+
+dance_title		subclass_of	work_of_art.
+dance_title		tag		"CPN::dance_title".
+
+club			subclass_of	org.
+club			tag		"CPN::club".
+club			tag		"type::leisure_club".
+
+lecture_title		subclass_of	misc.
+lecture_title		tag		"CPN::lecture_title".
+lecture_title		tag		"type::lecture".
+
+music_label		subclass_of	org.
+music_label		tag		"CPN::music_label".
+
+opera_title		subclass_of	work_of_art.
+opera_title		tag		"CPN::opera".
+opera_title		tag		"type::opera".
+
+dance_org		subclass_of	org.
+dance_org		tag		"CPN::dance_org".
+dance_org		implies		topic_culture.
+
+union_per		subclass_of	per.
+union_per		tag		"CPN::union_per".
+union_per		implies		topic_labour.
+
+accident_victim		subclass_of	per.
+accident_victim		tag		"CPN::accident_victim".
+accident_victim		tag		"type::victim".
+
+ranking			subclass_of	value.
+ranking			tag		"type::ranking".
+
+per			tag		"CPN::per".
+
+
+
+# META (META:: -> ner annotations, should not be exported)
+meta_todo		instance_of		meta.
+meta_todo		tag			"META::TODO".
+meta_todo		tag			"meta::todo".
+
+meta_redo		instance_of		meta.
+meta_redo		tag			"META::REDO".
+meta_redo		tag			"meta::redo".
+
+meta_invalid		instance_of		meta.
+meta_invalid		tag			"META::INVALID".
+meta_invalid		tag			"meta::invalid".
+
+
+# TODO
+todo_per		subclass_of		per.
+todo_per		implies			no_topic.
+todo_per		implies			meta_todo.
+todo_per		tag			"CPN::todo_per".
+
+todo_loc		subclass_of		location.
+todo_loc		implies			no_topic.
+todo_loc		implies			meta_todo.
+todo_loc		tag			"CPN::todo_loc".
+
+todo_org		subclass_of		org.
+todo_org		implies			no_topic.
+todo_org		implies			meta_todo.
+todo_org		tag			"CPN::todo_org".
+
+todo_misc		subclass_of		misc.
+todo_misc		implies			no_topic.
+todo_misc		implies			meta_todo.
+todo_misc		tag			"CPN::todo_misc".
+
+culture_todo		subclass_of		todo.
+culture_todo		implies			topic_culture.
+culture_todo		implies			meta_todo.
+culture_todo		tag			"CPN::culture_todo".
+
+politics_todo		subclass_of		todo.
+politics_todo		implies			topic_politics.
+politics_todo		implies			meta_todo.
+politics_todo		tag			"CPN::politics_todo".
+
+business_todo		subclass_of		todo.
+business_todo		implies			topic_business.
+politics_todo		implies			meta_todo.
+business_todo		tag			"CPN::business_todo".
+
+competition		subclass_of		event.
+competition		tag			"CPN::competition".
+competition		tag			"type::competition".
