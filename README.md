@@ -26,6 +26,7 @@ In order to get the content of each of the annotated articles, it is necessary
 to run the following script:  
 
 ```
+pip install -r requirements_download_dataset.txt
 python src/dwie_download.py
 ```
 This script will retrieve the content of the articles using Deutsche Welle web service, 
